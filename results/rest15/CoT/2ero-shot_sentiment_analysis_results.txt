@@ -1,0 +1,1200 @@
+example01 :
+Aspect: Al Di La
+@Sentence: Love Al Di La
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn this analysis, the sentiment towards "Al Di La" is predicted to be positive based on the strong positive expression "Love" associated with it. This indicates a favorable view towards the restaurant or the experience associated with it.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: place
+@Sentence: I recommend this place to everyone.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: I recommend this place to everyone.\n\nAspect: place\n\nReasoning: Let\'s analyze the sentiment polarity step by step to determine how the speaker feels about the "place".\n\n1. **Sentence Structure Analysis**:\n   - The sentence "I recommend this place to everyone" is assertive and positive in its structure. It directly expresses a recommendation, indicating a positive sentiment towards the "place".\n\n2. **Sentiment Analysis**:\n   - The phrase "recommend this place" inherently carries a positive sentiment. The word "recommend" suggests approval or satisfaction with the place being recommended.\n   - The addition of "to everyone" further emphasizes a positive sentiment. It implies that the speaker believes the place is universally suitable and enjoyable.\n\n3. **Aspect Analysis - "place"**:\n   - The aspect here is "place," referring to the specific location or establishment being recommended.\n   - The sentiment towards this aspect is positive because the recommendation itself implies that the speaker has had a positive experience or holds a favorable opinion of this place.\n\n4. **Overall Sentiment Polarity**:\n   - Based on the analysis above, the sentiment polarity of the sentence "I recommend this place to everyone" towards the aspect "place" is **positive**.\n\nTherefore, summarizing the sentiment analysis:\n\n**Sentiment: Positive**\n\nThis conclusion is drawn from the positive nature of the recommendation ("recommend") and the inclusive endorsement implied by "to everyone," indicating a favorable view of the place being discussed.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: food
+@Sentence: Great food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore, the analysis of the sentiment polarity of the sentence "Great food" with respect to the aspect "food" indicates a positive sentiment. The adjective "great" directly influences the positive sentiment as it expresses satisfaction or approval towards the quality of the food.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: pastas
+@Sentence: The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive\n\nTherefore, the predicted sentiment polarity towards the aspect "pastas" is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: food
+@Sentence: The food here was mediocre at best. 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: fish and chips
+@Sentence: It was totally overpriced- fish and chips was about $15.... 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThe predicted sentiment polarity towards "fish and chips" is negative because the sentence expresses dissatisfaction with the price, implying that the cost of fish and chips is perceived as too high.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: Dog
+@Sentence: Tasty Dog!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral. The exclamation "Tasty Dog!" doesn\'t clearly express a positive or negative sentiment towards the dog itself; instead, it seems to emphasize the surprise or enjoyment of the situation, which could be positive in nature but doesn\'t directly evaluate the dog\'s characteristics.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: dog
+@Sentence: An awesome organic dog, and a conscious eco friendly establishment.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: Cypriot restaurant
+@Sentence: The Cypriot restaurant has a lot going for it.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore,\n\n---\n\nSentence: The Cypriot restaurant has a lot going for it.\n\nAspect: Cypriot restaurant\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We interpret "has a lot going for it" as a positive expression, implying that there are many positive aspects or qualities about the restaurant.\n\nSentiment: Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: pork souvlaki
+@Sentence: But the best pork souvlaki I ever had is the main thing.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis conclusion is drawn from the enthusiastic description of the pork souvlaki as the best ever had, indicating a strong positive sentiment towards this aspect of the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: Pizza
+@Sentence: Super YUMMY Pizza!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: restaurant
+@Sentence: I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: eggplant pizza
+@Sentence: I LOOOVE their eggplant pizza, as well as their pastas!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: half/half pizza
+@Sentence: We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!\n\nAspect: half/half pizza\n\nReasoning: Let\'s think step by step in order to determine the sentiment. The sentence describes the experience of having a half/half pizza, where one half was eggplant and the other half was buffalo. The additional comment about the size ("sooo huge for a small size pizza!") suggests an evaluation of portion size and possibly satisfaction with the meal.\n\n1. **Content Analysis**: The sentence provides details about the type of pizza ordered (half eggplant, half buffalo) and includes a remark on the size of the pizza.\n\n2. **Sentiment Identification**: The sentiment can be inferred from the descriptors used:\n   - "Eggplant" and "buffalo" are specific toppings, which may influence taste preference.\n   - "sooo huge" indicates surprise or satisfaction with the size of the pizza.\n\n3. **Sentiment: Positive** - The use of "sooo huge" suggests a positive sentiment regarding the size of the pizza. It implies that the pizza exceeded expectations in terms of size, which typically correlates with satisfaction.\n\nTherefore, the predicted sentiment polarity for the aspect "half/half pizza" in this context is **positive**. The overall sentiment towards the half/half pizza is positive due to the satisfaction expressed about its size.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: food
+@Sentence: Excellent food, although the interior could use some help.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The overall sentiment towards the food aspect is still positive, despite the comment on the interior. The positive sentiment is primarily driven by the phrase "Excellent food," which outweighs the neutral to slightly negative comment about the interior. Therefore, the predicted sentiment polarity for the food aspect is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: space
+@Sentence: The space kind of feels like an Alice in Wonderland setting, without it trying to be that.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nReasoning: The use of "Alice in Wonderland" as a comparison typically evokes feelings of wonder, curiosity, and imagination. Therefore, likening a space to such a setting suggests that the speaker finds the space enchanting, intriguing, and possibly magical. The sentiment is positive because the association with a whimsical setting like Alice in Wonderland tends to evoke positive emotions and connotations.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: meal
+@Sentence: I paid just about $60 for a good meal, though :)
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nReasoning: The emoticon ":)" at the end of the sentence indicates a positive emotion. The phrase "a good meal" suggests satisfaction with the quality of the meal, which outweighs any concern about the cost ($60). The word "though" implies a slight contrast or concession, but in this context, it doesn\'t significantly diminish the overall positive sentiment towards the meal. Therefore, the sentiment polarity of the sentence towards the aspect "meal" is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: sake
+@Sentence: Great sake!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: Sushi
+@Sentence: Reliable, Fresh Sushi
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis analysis concludes that the overall sentiment towards the sushi described in the sentence "Reliable, Fresh Sushi" is positive. The descriptors "reliable" and "fresh" both contribute positively to the perception of the sushi\'s quality and reliability, hence leading to a positive sentiment.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: sashimi
+@Sentence: The sashimi is always fresh and the rolls are innovative and delicious.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example21 :
+Aspect: service
+@Sentence: Have never had a problem with service save a missing rice once.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example22 :
+Aspect: Delivery
+@Sentence: Delivery can be spot on or lacking depending on the weather and the day of the week.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\nReasoning: The sentence describes a situation where delivery quality can vary ("spot on" or "lacking") depending on external factors (weather and day of the week). This variability suggests that the overall sentiment towards delivery is not consistently positive or negative but rather dependent on circumstances. Therefore, the sentiment polarity is neutral as it neither strongly praises nor criticizes delivery services but acknowledges the variability based on external conditions.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example23 :
+Aspect: Delivery guy
+@Sentence: Delivery guy sometimes get upset if you don't tip more than 10%.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nReasoning: The sentiment expressed towards the delivery guy in this sentence is negative. The phrase "get upset" indicates a negative emotional response. The delivery guy\'s potential reaction to not receiving a tip higher than 10% implies an expectation that exceeds what might be customary or reasonable. This could lead to dissatisfaction or frustration on the part of the delivery person, which is typically perceived as negative in sentiment analysis. Therefore, based on the context provided, the sentiment polarity towards the delivery guy is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example24 :
+Aspect: Sushi
+@Sentence: Best. Sushi. Ever.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sure, let\'s analyze the sentiment polarity of the given sentence:\n\n**Sentence:** Best. Sushi. Ever.\n\n**Aspect:** Sushi\n\n**Reasoning:** Let\'s think step by step in order to determine the sentiment. The sentence "Best. Sushi. Ever." consists of three words, each emphasizing a positive sentiment towards sushi. \n\n- **Best:** This word suggests superlative quality or excellence. When used in this context, it indicates that the speaker considers the sushi to be of the highest standard.\n  \n- **Sushi:** This word identifies the specific aspect being discussed, which is the type of food.\n\n- **Ever:** Adding "Ever" at the end of the sentence intensifies the sentiment by suggesting that this sushi experience stands out as the best among all previous experiences.\n\nThe use of periods between each word ("Best. Sushi. Ever.") adds emphasis and rhythm, which often conveys a strong positive sentiment.\n\n**Sentiment:** Positive\n\nIn summary, the sentiment of the sentence "Best. Sushi. Ever." towards the aspect of sushi is clearly positive. It expresses a highly favorable opinion about the quality of sushi experienced by the speaker, suggesting it\'s the best they have ever had.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example25 :
+Aspect: sushi
+@Sentence: This place has ruined me for neighborhood sushi.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nTherefore,\n\n---\n\nSentence: This place has ruined me for neighborhood sushi.\n\nAspect: sushi\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We can interpret from the phrase "ruined me for" that the speaker\'s experience with sushi at this particular place has set a high standard or spoiled their preference for sushi in their neighborhood. This suggests dissatisfaction or disappointment with the quality or experience of neighborhood sushi in contrast to the sushi from "this place."\n\nSentiment: Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example26 :
+Aspect: sashimi
+@Sentence: Excellent sashimi, and the millennium roll is beyond delicious.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example27 :
+Aspect: place
+@Sentence: The place is a bit hidden away, but once you get there, it's all worth it.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity for the aspect "place" in this sentence is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example28 :
+Aspect: food
+@Sentence: not only is the food
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely positive.\n\nThis analysis is based on the phrase "not only," which typically introduces something additional or better than expected. In contexts related to food, this often implies that the food is not just good, but possibly excellent or impressive in some way. Therefore, the sentiment is likely positive towards the food.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example29 :
+Aspect: waiter
+@Sentence: The waiter was attentive, the food was delicious and the views of the city were great.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The waiter was attentive, the food was delicious and the views of the city were great.\n\nAspect: waiter\n\nReasoning: Let\'s analyze the sentiment polarity towards the aspect "waiter" in the given sentence. The sentence explicitly mentions the waiter being attentive, which is a positive trait associated with service. The other aspects of the sentence (food delicious, views great) do not directly influence the sentiment towards the waiter, as they pertain to different aspects of the dining experience.\n\nTo determine the sentiment towards the waiter:\n1. Identify the sentiment expressed towards the aspect "waiter" based on the adjective used ("attentive").\n2. "Attentive" is generally considered a positive trait in service industries, indicating a favorable customer experience.\n\nSentiment: Positive\n\nTherefore, the sentiment polarity towards the aspect "waiter" in the sentence is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example30 :
+Aspect: place
+@Sentence: Great place to relax and enjoy your dinner
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nNow, breaking down the reasoning:\n1. **Overall Context**: The sentence expresses a positive sentiment towards a particular place.\n2. **Aspect "place"**: The aspect here refers to the location or venue where one can dine and relax.\n3. **Evaluation**: The word "Great" indicates a positive evaluation or opinion about the place.\n4. **Sentiment Polarity**: Given the positive language used ("Great"), the sentiment towards the place is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example31 :
+Aspect: atmosphere
+@Sentence: There is something about their atmosphere that makes me come back nearly every week.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the aspect "atmosphere" is **positive**. This conclusion is drawn from the recurring visits ("come back nearly every week"), indicating a strong positive association with the atmosphere of the place.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example32 :
+Aspect: Place
+@Sentence: Place is open till late, no dress code.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore, the predicted sentiment polarity towards the aspect of "Place" in the sentence "Place is open till late, no dress code" is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example33 :
+Aspect: food
+@Sentence: Good food: my favorite is the seafood spaghetti.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. \n\nThis analysis is based on the positive adjective "Good" describing the food, and the indication of personal preference ("my favorite") towards the seafood spaghetti dish. These elements collectively suggest a positive sentiment towards the aspect of food in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example34 :
+Aspect: food
+@Sentence: Excellent food for great prices
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example35 :
+Aspect: wait staff
+@Sentence: The wait staff is very courteous and accomodating.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example36 :
+Aspect: space
+@Sentence: The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nExplanation: The sentiment towards the aspect of "space" in this sentence is neutral. While the limited space could be seen as a drawback, the promise of delicious food compensates for this inconvenience, resulting in a balanced sentiment overall.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example37 :
+Aspect: place
+@Sentence: my favorite place lol
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. \n\nTherefore:\n\nSentence: my favorite place lol\n\nAspect: place\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We identified that the expression "my favorite place" is usually a sign'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example38 :
+Aspect: chicken pasta
+@Sentence: i love their chicken pasta cant remember the name but is sooo good
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example39 :
+Aspect: place
+@Sentence: im not necessarily fanatical about this place, but it was a fun time for low pirces.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **mixed**. The overall sentiment towards the aspect "place" is a blend of neutral to slightly negative, tempered by a positive sentiment towards affordability and the experience offered at low prices.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example40 :
+Aspect: lobster
+@Sentence: lobster was good, nothing spectacular.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **neutral**. Although the phrase starts positively with "good," the subsequent qualification "nothing spectacular" balances out the sentiment, resulting in a neutral overall assessment of the lobster.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example41 :
+Aspect: restaraunt
+@Sentence: its just a fun place to go, not a five star restaraunt.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Its just a fun place to go, not a five star restaurant.\n\nAspect: restaurant\n\nReasoning: Let\'s think step by step in order to analyze the sentiment. We start by identifying the key aspects and sentiments expressed in the sentence. The phrase "its just a fun place to go" conveys a positive sentiment, suggesting that the place is enjoyable and entertaining. On the other hand, the statement "not a five star restaurant" introduces a comparison that implies the restaurant lacks the high-end quality or formal ambiance typically associated with top-tier dining establishments. This comparison sets up a contrast between a casual, fun environment and a more upscale dining experience.\n\nSentiment: The predicted sentiment polarity is **neutral**. The sentence balances between a positive sentiment towards the restaurant as a fun and enjoyable place to visit, and a slightly negative sentiment implied by the comparison with a high-end restaurant. The overall tone is not strongly positive or negative but rather neutral, reflecting a nuanced view that acknowledges both the positive aspects of enjoyment and the limitations in terms of fine dining expectations.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example42 :
+Aspect: pizza
+@Sentence: I think the pizza is so overrated and was under cooked.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example43 :
+Aspect: staff
+@Sentence: Had no flavor and the staff is rude and not attentive.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the staff is **negative**. The descriptors "rude" and "not attentive" clearly indicate dissatisfaction with the behavior and service quality of the staff, leading to a negative sentiment towards them.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example44 :
+Aspect: place
+@Sentence: I love this place
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore, the sentiment analysis for the sentence "I love this place" with respect to the aspect "place" is positive. The expression "love" clearly indicates a strong positive sentiment towards the mentioned place.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example45 :
+Aspect: service
+@Sentence: The service was quick and friendly.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis conclusion is drawn from the positive connotations of the adjectives used ("quick" and "friendly") to describe the service, which typically contribute to a favorable customer experience.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example46 :
+Aspect: restaurant
+@Sentence: I thought the restaurant was nice and clean.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\n---\n\nIf you have any more questions or need further analysis, feel free to ask!'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example47 :
+Aspect: vitello alla marsala
+@Sentence: I ordered the vitello alla marsala and I was pretty impressed.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Positive\n\nTherefore,\n\nSentence: I ordered the vitello alla marsala and I was pretty impressed.\n\nAspect: vitello alla marsala\n\nReasoning: Let's think"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example48 :
+Aspect: veal
+@Sentence: The veal and the mushrooms were cooked perfectly.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example49 :
+Aspect: potato balls
+@Sentence: The potato balls were not dry at all... in fact it was buttery.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nThis analysis shows that the sentiment towards the potato balls in the sentence is positive, as indicated by the description of them being "buttery" despite the initial negation of dryness.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example50 :
+Aspect: PLACE
+@Sentence: WORST PLACE ON SMITH STREET IN BROOKLYN
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **negative**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example01 :
+Aspect: Al Di La
+@Sentence: Love Al Di La
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn this analysis, the sentiment towards "Al Di La" is predicted to be positive based on the strong positive expression "Love" associated with it. This indicates a favorable view towards the restaurant or the experience associated with it.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: place
+@Sentence: I recommend this place to everyone.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: I recommend this place to everyone.\n\nAspect: place\n\nReasoning: Let\'s analyze the sentiment polarity step by step to determine how the speaker feels about the "place".\n\n1. **Sentence Structure Analysis**:\n   - The sentence "I recommend this place to everyone" is assertive and positive in its structure. It directly expresses a recommendation, indicating a positive sentiment towards the "place".\n\n2. **Sentiment Analysis**:\n   - The phrase "recommend this place" inherently carries a positive sentiment. The word "recommend" suggests approval or satisfaction with the place being recommended.\n   - The addition of "to everyone" further emphasizes a positive sentiment. It implies that the speaker believes the place is universally suitable and enjoyable.\n\n3. **Aspect Analysis - "place"**:\n   - The aspect here is "place," referring to the specific location or establishment being recommended.\n   - The sentiment towards this aspect is positive because the recommendation itself implies that the speaker has had a positive experience or holds a favorable opinion of this place.\n\n4. **Overall Sentiment Polarity**:\n   - Based on the analysis above, the sentiment polarity of the sentence "I recommend this place to everyone" towards the aspect "place" is **positive**.\n\nTherefore, summarizing the sentiment analysis:\n\n**Sentiment: Positive**\n\nThis conclusion is drawn from the positive nature of the recommendation ("recommend") and the inclusive endorsement implied by "to everyone," indicating a favorable view of the place being discussed.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: food
+@Sentence: Great food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore, the analysis of the sentiment polarity of the sentence "Great food" with respect to the aspect "food" indicates a positive sentiment. The adjective "great" directly influences the positive sentiment as it expresses satisfaction or approval towards the quality of the food.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: pastas
+@Sentence: The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive\n\nTherefore, the predicted sentiment polarity towards the aspect "pastas" is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: food
+@Sentence: The food here was mediocre at best. 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: fish and chips
+@Sentence: It was totally overpriced- fish and chips was about $15.... 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThe predicted sentiment polarity towards "fish and chips" is negative because the sentence expresses dissatisfaction with the price, implying that the cost of fish and chips is perceived as too high.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: Dog
+@Sentence: Tasty Dog!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral. The exclamation "Tasty Dog!" doesn\'t clearly express a positive or negative sentiment towards the dog itself; instead, it seems to emphasize the surprise or enjoyment of the situation, which could be positive in nature but doesn\'t directly evaluate the dog\'s characteristics.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: dog
+@Sentence: An awesome organic dog, and a conscious eco friendly establishment.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: Cypriot restaurant
+@Sentence: The Cypriot restaurant has a lot going for it.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore,\n\n---\n\nSentence: The Cypriot restaurant has a lot going for it.\n\nAspect: Cypriot restaurant\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We interpret "has a lot going for it" as a positive expression, implying that there are many positive aspects or qualities about the restaurant.\n\nSentiment: Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: pork souvlaki
+@Sentence: But the best pork souvlaki I ever had is the main thing.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis conclusion is drawn from the enthusiastic description of the pork souvlaki as the best ever had, indicating a strong positive sentiment towards this aspect of the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: Pizza
+@Sentence: Super YUMMY Pizza!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: restaurant
+@Sentence: I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: eggplant pizza
+@Sentence: I LOOOVE their eggplant pizza, as well as their pastas!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: half/half pizza
+@Sentence: We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!\n\nAspect: half/half pizza\n\nReasoning: Let\'s think step by step in order to determine the sentiment. The sentence describes the experience of having a half/half pizza, where one half was eggplant and the other half was buffalo. The additional comment about the size ("sooo huge for a small size pizza!") suggests an evaluation of portion size and possibly satisfaction with the meal.\n\n1. **Content Analysis**: The sentence provides details about the type of pizza ordered (half eggplant, half buffalo) and includes a remark on the size of the pizza.\n\n2. **Sentiment Identification**: The sentiment can be inferred from the descriptors used:\n   - "Eggplant" and "buffalo" are specific toppings, which may influence taste preference.\n   - "sooo huge" indicates surprise or satisfaction with the size of the pizza.\n\n3. **Sentiment: Positive** - The use of "sooo huge" suggests a positive sentiment regarding the size of the pizza. It implies that the pizza exceeded expectations in terms of size, which typically correlates with satisfaction.\n\nTherefore, the predicted sentiment polarity for the aspect "half/half pizza" in this context is **positive**. The overall sentiment towards the half/half pizza is positive due to the satisfaction expressed about its size.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: food
+@Sentence: Excellent food, although the interior could use some help.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The overall sentiment towards the food aspect is still positive, despite the comment on the interior. The positive sentiment is primarily driven by the phrase "Excellent food," which outweighs the neutral to slightly negative comment about the interior. Therefore, the predicted sentiment polarity for the food aspect is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: space
+@Sentence: The space kind of feels like an Alice in Wonderland setting, without it trying to be that.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nReasoning: The use of "Alice in Wonderland" as a comparison typically evokes feelings of wonder, curiosity, and imagination. Therefore, likening a space to such a setting suggests that the speaker finds the space enchanting, intriguing, and possibly magical. The sentiment is positive because the association with a whimsical setting like Alice in Wonderland tends to evoke positive emotions and connotations.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: meal
+@Sentence: I paid just about $60 for a good meal, though :)
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nReasoning: The emoticon ":)" at the end of the sentence indicates a positive emotion. The phrase "a good meal" suggests satisfaction with the quality of the meal, which outweighs any concern about the cost ($60). The word "though" implies a slight contrast or concession, but in this context, it doesn\'t significantly diminish the overall positive sentiment towards the meal. Therefore, the sentiment polarity of the sentence towards the aspect "meal" is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: sake
+@Sentence: Great sake!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: Sushi
+@Sentence: Reliable, Fresh Sushi
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis analysis concludes that the overall sentiment towards the sushi described in the sentence "Reliable, Fresh Sushi" is positive. The descriptors "reliable" and "fresh" both contribute positively to the perception of the sushi\'s quality and reliability, hence leading to a positive sentiment.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: sashimi
+@Sentence: The sashimi is always fresh and the rolls are innovative and delicious.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example21 :
+Aspect: service
+@Sentence: Have never had a problem with service save a missing rice once.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example22 :
+Aspect: Delivery
+@Sentence: Delivery can be spot on or lacking depending on the weather and the day of the week.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\nReasoning: The sentence describes a situation where delivery quality can vary ("spot on" or "lacking") depending on external factors (weather and day of the week). This variability suggests that the overall sentiment towards delivery is not consistently positive or negative but rather dependent on circumstances. Therefore, the sentiment polarity is neutral as it neither strongly praises nor criticizes delivery services but acknowledges the variability based on external conditions.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example23 :
+Aspect: Delivery guy
+@Sentence: Delivery guy sometimes get upset if you don't tip more than 10%.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nReasoning: The sentiment expressed towards the delivery guy in this sentence is negative. The phrase "get upset" indicates a negative emotional response. The delivery guy\'s potential reaction to not receiving a tip higher than 10% implies an expectation that exceeds what might be customary or reasonable. This could lead to dissatisfaction or frustration on the part of the delivery person, which is typically perceived as negative in sentiment analysis. Therefore, based on the context provided, the sentiment polarity towards the delivery guy is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example24 :
+Aspect: Sushi
+@Sentence: Best. Sushi. Ever.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sure, let\'s analyze the sentiment polarity of the given sentence:\n\n**Sentence:** Best. Sushi. Ever.\n\n**Aspect:** Sushi\n\n**Reasoning:** Let\'s think step by step in order to determine the sentiment. The sentence "Best. Sushi. Ever." consists of three words, each emphasizing a positive sentiment towards sushi. \n\n- **Best:** This word suggests superlative quality or excellence. When used in this context, it indicates that the speaker considers the sushi to be of the highest standard.\n  \n- **Sushi:** This word identifies the specific aspect being discussed, which is the type of food.\n\n- **Ever:** Adding "Ever" at the end of the sentence intensifies the sentiment by suggesting that this sushi experience stands out as the best among all previous experiences.\n\nThe use of periods between each word ("Best. Sushi. Ever.") adds emphasis and rhythm, which often conveys a strong positive sentiment.\n\n**Sentiment:** Positive\n\nIn summary, the sentiment of the sentence "Best. Sushi. Ever." towards the aspect of sushi is clearly positive. It expresses a highly favorable opinion about the quality of sushi experienced by the speaker, suggesting it\'s the best they have ever had.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example25 :
+Aspect: sushi
+@Sentence: This place has ruined me for neighborhood sushi.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nTherefore,\n\n---\n\nSentence: This place has ruined me for neighborhood sushi.\n\nAspect: sushi\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We can interpret from the phrase "ruined me for" that the speaker\'s experience with sushi at this particular place has set a high standard or spoiled their preference for sushi in their neighborhood. This suggests dissatisfaction or disappointment with the quality or experience of neighborhood sushi in contrast to the sushi from "this place."\n\nSentiment: Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example26 :
+Aspect: sashimi
+@Sentence: Excellent sashimi, and the millennium roll is beyond delicious.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example27 :
+Aspect: place
+@Sentence: The place is a bit hidden away, but once you get there, it's all worth it.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity for the aspect "place" in this sentence is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example28 :
+Aspect: food
+@Sentence: not only is the food
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely positive.\n\nThis analysis is based on the phrase "not only," which typically introduces something additional or better than expected. In contexts related to food, this often implies that the food is not just good, but possibly excellent or impressive in some way. Therefore, the sentiment is likely positive towards the food.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example29 :
+Aspect: waiter
+@Sentence: The waiter was attentive, the food was delicious and the views of the city were great.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The waiter was attentive, the food was delicious and the views of the city were great.\n\nAspect: waiter\n\nReasoning: Let\'s analyze the sentiment polarity towards the aspect "waiter" in the given sentence. The sentence explicitly mentions the waiter being attentive, which is a positive trait associated with service. The other aspects of the sentence (food delicious, views great) do not directly influence the sentiment towards the waiter, as they pertain to different aspects of the dining experience.\n\nTo determine the sentiment towards the waiter:\n1. Identify the sentiment expressed towards the aspect "waiter" based on the adjective used ("attentive").\n2. "Attentive" is generally considered a positive trait in service industries, indicating a favorable customer experience.\n\nSentiment: Positive\n\nTherefore, the sentiment polarity towards the aspect "waiter" in the sentence is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example30 :
+Aspect: place
+@Sentence: Great place to relax and enjoy your dinner
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nNow, breaking down the reasoning:\n1. **Overall Context**: The sentence expresses a positive sentiment towards a particular place.\n2. **Aspect "place"**: The aspect here refers to the location or venue where one can dine and relax.\n3. **Evaluation**: The word "Great" indicates a positive evaluation or opinion about the place.\n4. **Sentiment Polarity**: Given the positive language used ("Great"), the sentiment towards the place is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example31 :
+Aspect: atmosphere
+@Sentence: There is something about their atmosphere that makes me come back nearly every week.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the aspect "atmosphere" is **positive**. This conclusion is drawn from the recurring visits ("come back nearly every week"), indicating a strong positive association with the atmosphere of the place.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example32 :
+Aspect: Place
+@Sentence: Place is open till late, no dress code.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore, the predicted sentiment polarity towards the aspect of "Place" in the sentence "Place is open till late, no dress code" is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example33 :
+Aspect: food
+@Sentence: Good food: my favorite is the seafood spaghetti.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. \n\nThis analysis is based on the positive adjective "Good" describing the food, and the indication of personal preference ("my favorite") towards the seafood spaghetti dish. These elements collectively suggest a positive sentiment towards the aspect of food in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example34 :
+Aspect: food
+@Sentence: Excellent food for great prices
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example35 :
+Aspect: wait staff
+@Sentence: The wait staff is very courteous and accomodating.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example36 :
+Aspect: space
+@Sentence: The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nExplanation: The sentiment towards the aspect of "space" in this sentence is neutral. While the limited space could be seen as a drawback, the promise of delicious food compensates for this inconvenience, resulting in a balanced sentiment overall.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example37 :
+Aspect: place
+@Sentence: my favorite place lol
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. \n\nTherefore:\n\nSentence: my favorite place lol\n\nAspect: place\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We identified that the expression "my favorite place" is usually a sign'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example38 :
+Aspect: chicken pasta
+@Sentence: i love their chicken pasta cant remember the name but is sooo good
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example39 :
+Aspect: place
+@Sentence: im not necessarily fanatical about this place, but it was a fun time for low pirces.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **mixed**. The overall sentiment towards the aspect "place" is a blend of neutral to slightly negative, tempered by a positive sentiment towards affordability and the experience offered at low prices.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example40 :
+Aspect: lobster
+@Sentence: lobster was good, nothing spectacular.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **neutral**. Although the phrase starts positively with "good," the subsequent qualification "nothing spectacular" balances out the sentiment, resulting in a neutral overall assessment of the lobster.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example41 :
+Aspect: restaraunt
+@Sentence: its just a fun place to go, not a five star restaraunt.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Its just a fun place to go, not a five star restaurant.\n\nAspect: restaurant\n\nReasoning: Let\'s think step by step in order to analyze the sentiment. We start by identifying the key aspects and sentiments expressed in the sentence. The phrase "its just a fun place to go" conveys a positive sentiment, suggesting that the place is enjoyable and entertaining. On the other hand, the statement "not a five star restaurant" introduces a comparison that implies the restaurant lacks the high-end quality or formal ambiance typically associated with top-tier dining establishments. This comparison sets up a contrast between a casual, fun environment and a more upscale dining experience.\n\nSentiment: The predicted sentiment polarity is **neutral**. The sentence balances between a positive sentiment towards the restaurant as a fun and enjoyable place to visit, and a slightly negative sentiment implied by the comparison with a high-end restaurant. The overall tone is not strongly positive or negative but rather neutral, reflecting a nuanced view that acknowledges both the positive aspects of enjoyment and the limitations in terms of fine dining expectations.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example42 :
+Aspect: pizza
+@Sentence: I think the pizza is so overrated and was under cooked.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example43 :
+Aspect: staff
+@Sentence: Had no flavor and the staff is rude and not attentive.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the staff is **negative**. The descriptors "rude" and "not attentive" clearly indicate dissatisfaction with the behavior and service quality of the staff, leading to a negative sentiment towards them.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example44 :
+Aspect: place
+@Sentence: I love this place
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore, the sentiment analysis for the sentence "I love this place" with respect to the aspect "place" is positive. The expression "love" clearly indicates a strong positive sentiment towards the mentioned place.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example45 :
+Aspect: service
+@Sentence: The service was quick and friendly.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis conclusion is drawn from the positive connotations of the adjectives used ("quick" and "friendly") to describe the service, which typically contribute to a favorable customer experience.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example46 :
+Aspect: restaurant
+@Sentence: I thought the restaurant was nice and clean.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\n---\n\nIf you have any more questions or need further analysis, feel free to ask!'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example47 :
+Aspect: vitello alla marsala
+@Sentence: I ordered the vitello alla marsala and I was pretty impressed.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Positive\n\nTherefore,\n\nSentence: I ordered the vitello alla marsala and I was pretty impressed.\n\nAspect: vitello alla marsala\n\nReasoning: Let's think"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example48 :
+Aspect: veal
+@Sentence: The veal and the mushrooms were cooked perfectly.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example49 :
+Aspect: potato balls
+@Sentence: The potato balls were not dry at all... in fact it was buttery.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nThis analysis shows that the sentiment towards the potato balls in the sentence is positive, as indicated by the description of them being "buttery" despite the initial negation of dryness.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example50 :
+Aspect: PLACE
+@Sentence: WORST PLACE ON SMITH STREET IN BROOKLYN
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **negative**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example01 :
+Aspect: Al Di La
+@Sentence: Love Al Di La
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn this analysis, the sentiment towards "Al Di La" is predicted to be positive based on the strong positive expression "Love" associated with it. This indicates a favorable view towards the restaurant or the experience associated with it.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: place
+@Sentence: I recommend this place to everyone.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: I recommend this place to everyone.\n\nAspect: place\n\nReasoning: Let\'s analyze the sentiment polarity step by step to determine how the speaker feels about the "place".\n\n1. **Sentence Structure Analysis**:\n   - The sentence "I recommend this place to everyone" is assertive and positive in its structure. It directly expresses a recommendation, indicating a positive sentiment towards the "place".\n\n2. **Sentiment Analysis**:\n   - The phrase "recommend this place" inherently carries a positive sentiment. The word "recommend" suggests approval or satisfaction with the place being recommended.\n   - The addition of "to everyone" further emphasizes a positive sentiment. It implies that the speaker believes the place is universally suitable and enjoyable.\n\n3. **Aspect Analysis - "place"**:\n   - The aspect here is "place," referring to the specific location or establishment being recommended.\n   - The sentiment towards this aspect is positive because the recommendation itself implies that the speaker has had a positive experience or holds a favorable opinion of this place.\n\n4. **Overall Sentiment Polarity**:\n   - Based on the analysis above, the sentiment polarity of the sentence "I recommend this place to everyone" towards the aspect "place" is **positive**.\n\nTherefore, summarizing the sentiment analysis:\n\n**Sentiment: Positive**\n\nThis conclusion is drawn from the positive nature of the recommendation ("recommend") and the inclusive endorsement implied by "to everyone," indicating a favorable view of the place being discussed.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: food
+@Sentence: Great food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore, the analysis of the sentiment polarity of the sentence "Great food" with respect to the aspect "food" indicates a positive sentiment. The adjective "great" directly influences the positive sentiment as it expresses satisfaction or approval towards the quality of the food.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: pastas
+@Sentence: The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive\n\nTherefore, the predicted sentiment polarity towards the aspect "pastas" is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: food
+@Sentence: The food here was mediocre at best. 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: fish and chips
+@Sentence: It was totally overpriced- fish and chips was about $15.... 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThe predicted sentiment polarity towards "fish and chips" is negative because the sentence expresses dissatisfaction with the price, implying that the cost of fish and chips is perceived as too high.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: Dog
+@Sentence: Tasty Dog!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral. The exclamation "Tasty Dog!" doesn\'t clearly express a positive or negative sentiment towards the dog itself; instead, it seems to emphasize the surprise or enjoyment of the situation, which could be positive in nature but doesn\'t directly evaluate the dog\'s characteristics.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: dog
+@Sentence: An awesome organic dog, and a conscious eco friendly establishment.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: Cypriot restaurant
+@Sentence: The Cypriot restaurant has a lot going for it.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore,\n\n---\n\nSentence: The Cypriot restaurant has a lot going for it.\n\nAspect: Cypriot restaurant\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We interpret "has a lot going for it" as a positive expression, implying that there are many positive aspects or qualities about the restaurant.\n\nSentiment: Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: pork souvlaki
+@Sentence: But the best pork souvlaki I ever had is the main thing.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis conclusion is drawn from the enthusiastic description of the pork souvlaki as the best ever had, indicating a strong positive sentiment towards this aspect of the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: Pizza
+@Sentence: Super YUMMY Pizza!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: restaurant
+@Sentence: I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: eggplant pizza
+@Sentence: I LOOOVE their eggplant pizza, as well as their pastas!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: half/half pizza
+@Sentence: We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!\n\nAspect: half/half pizza\n\nReasoning: Let\'s think step by step in order to determine the sentiment. The sentence describes the experience of having a half/half pizza, where one half was eggplant and the other half was buffalo. The additional comment about the size ("sooo huge for a small size pizza!") suggests an evaluation of portion size and possibly satisfaction with the meal.\n\n1. **Content Analysis**: The sentence provides details about the type of pizza ordered (half eggplant, half buffalo) and includes a remark on the size of the pizza.\n\n2. **Sentiment Identification**: The sentiment can be inferred from the descriptors used:\n   - "Eggplant" and "buffalo" are specific toppings, which may influence taste preference.\n   - "sooo huge" indicates surprise or satisfaction with the size of the pizza.\n\n3. **Sentiment: Positive** - The use of "sooo huge" suggests a positive sentiment regarding the size of the pizza. It implies that the pizza exceeded expectations in terms of size, which typically correlates with satisfaction.\n\nTherefore, the predicted sentiment polarity for the aspect "half/half pizza" in this context is **positive**. The overall sentiment towards the half/half pizza is positive due to the satisfaction expressed about its size.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: food
+@Sentence: Excellent food, although the interior could use some help.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The overall sentiment towards the food aspect is still positive, despite the comment on the interior. The positive sentiment is primarily driven by the phrase "Excellent food," which outweighs the neutral to slightly negative comment about the interior. Therefore, the predicted sentiment polarity for the food aspect is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: space
+@Sentence: The space kind of feels like an Alice in Wonderland setting, without it trying to be that.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nReasoning: The use of "Alice in Wonderland" as a comparison typically evokes feelings of wonder, curiosity, and imagination. Therefore, likening a space to such a setting suggests that the speaker finds the space enchanting, intriguing, and possibly magical. The sentiment is positive because the association with a whimsical setting like Alice in Wonderland tends to evoke positive emotions and connotations.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: meal
+@Sentence: I paid just about $60 for a good meal, though :)
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nReasoning: The emoticon ":)" at the end of the sentence indicates a positive emotion. The phrase "a good meal" suggests satisfaction with the quality of the meal, which outweighs any concern about the cost ($60). The word "though" implies a slight contrast or concession, but in this context, it doesn\'t significantly diminish the overall positive sentiment towards the meal. Therefore, the sentiment polarity of the sentence towards the aspect "meal" is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: sake
+@Sentence: Great sake!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: Sushi
+@Sentence: Reliable, Fresh Sushi
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis analysis concludes that the overall sentiment towards the sushi described in the sentence "Reliable, Fresh Sushi" is positive. The descriptors "reliable" and "fresh" both contribute positively to the perception of the sushi\'s quality and reliability, hence leading to a positive sentiment.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: sashimi
+@Sentence: The sashimi is always fresh and the rolls are innovative and delicious.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example21 :
+Aspect: service
+@Sentence: Have never had a problem with service save a missing rice once.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example22 :
+Aspect: Delivery
+@Sentence: Delivery can be spot on or lacking depending on the weather and the day of the week.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\nReasoning: The sentence describes a situation where delivery quality can vary ("spot on" or "lacking") depending on external factors (weather and day of the week). This variability suggests that the overall sentiment towards delivery is not consistently positive or negative but rather dependent on circumstances. Therefore, the sentiment polarity is neutral as it neither strongly praises nor criticizes delivery services but acknowledges the variability based on external conditions.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example23 :
+Aspect: Delivery guy
+@Sentence: Delivery guy sometimes get upset if you don't tip more than 10%.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nReasoning: The sentiment expressed towards the delivery guy in this sentence is negative. The phrase "get upset" indicates a negative emotional response. The delivery guy\'s potential reaction to not receiving a tip higher than 10% implies an expectation that exceeds what might be customary or reasonable. This could lead to dissatisfaction or frustration on the part of the delivery person, which is typically perceived as negative in sentiment analysis. Therefore, based on the context provided, the sentiment polarity towards the delivery guy is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example24 :
+Aspect: Sushi
+@Sentence: Best. Sushi. Ever.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sure, let\'s analyze the sentiment polarity of the given sentence:\n\n**Sentence:** Best. Sushi. Ever.\n\n**Aspect:** Sushi\n\n**Reasoning:** Let\'s think step by step in order to determine the sentiment. The sentence "Best. Sushi. Ever." consists of three words, each emphasizing a positive sentiment towards sushi. \n\n- **Best:** This word suggests superlative quality or excellence. When used in this context, it indicates that the speaker considers the sushi to be of the highest standard.\n  \n- **Sushi:** This word identifies the specific aspect being discussed, which is the type of food.\n\n- **Ever:** Adding "Ever" at the end of the sentence intensifies the sentiment by suggesting that this sushi experience stands out as the best among all previous experiences.\n\nThe use of periods between each word ("Best. Sushi. Ever.") adds emphasis and rhythm, which often conveys a strong positive sentiment.\n\n**Sentiment:** Positive\n\nIn summary, the sentiment of the sentence "Best. Sushi. Ever." towards the aspect of sushi is clearly positive. It expresses a highly favorable opinion about the quality of sushi experienced by the speaker, suggesting it\'s the best they have ever had.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example25 :
+Aspect: sushi
+@Sentence: This place has ruined me for neighborhood sushi.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nTherefore,\n\n---\n\nSentence: This place has ruined me for neighborhood sushi.\n\nAspect: sushi\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We can interpret from the phrase "ruined me for" that the speaker\'s experience with sushi at this particular place has set a high standard or spoiled their preference for sushi in their neighborhood. This suggests dissatisfaction or disappointment with the quality or experience of neighborhood sushi in contrast to the sushi from "this place."\n\nSentiment: Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example26 :
+Aspect: sashimi
+@Sentence: Excellent sashimi, and the millennium roll is beyond delicious.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example27 :
+Aspect: place
+@Sentence: The place is a bit hidden away, but once you get there, it's all worth it.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity for the aspect "place" in this sentence is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example28 :
+Aspect: food
+@Sentence: not only is the food
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely positive.\n\nThis analysis is based on the phrase "not only," which typically introduces something additional or better than expected. In contexts related to food, this often implies that the food is not just good, but possibly excellent or impressive in some way. Therefore, the sentiment is likely positive towards the food.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example29 :
+Aspect: waiter
+@Sentence: The waiter was attentive, the food was delicious and the views of the city were great.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The waiter was attentive, the food was delicious and the views of the city were great.\n\nAspect: waiter\n\nReasoning: Let\'s analyze the sentiment polarity towards the aspect "waiter" in the given sentence. The sentence explicitly mentions the waiter being attentive, which is a positive trait associated with service. The other aspects of the sentence (food delicious, views great) do not directly influence the sentiment towards the waiter, as they pertain to different aspects of the dining experience.\n\nTo determine the sentiment towards the waiter:\n1. Identify the sentiment expressed towards the aspect "waiter" based on the adjective used ("attentive").\n2. "Attentive" is generally considered a positive trait in service industries, indicating a favorable customer experience.\n\nSentiment: Positive\n\nTherefore, the sentiment polarity towards the aspect "waiter" in the sentence is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example30 :
+Aspect: place
+@Sentence: Great place to relax and enjoy your dinner
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nNow, breaking down the reasoning:\n1. **Overall Context**: The sentence expresses a positive sentiment towards a particular place.\n2. **Aspect "place"**: The aspect here refers to the location or venue where one can dine and relax.\n3. **Evaluation**: The word "Great" indicates a positive evaluation or opinion about the place.\n4. **Sentiment Polarity**: Given the positive language used ("Great"), the sentiment towards the place is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example31 :
+Aspect: atmosphere
+@Sentence: There is something about their atmosphere that makes me come back nearly every week.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the aspect "atmosphere" is **positive**. This conclusion is drawn from the recurring visits ("come back nearly every week"), indicating a strong positive association with the atmosphere of the place.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example32 :
+Aspect: Place
+@Sentence: Place is open till late, no dress code.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore, the predicted sentiment polarity towards the aspect of "Place" in the sentence "Place is open till late, no dress code" is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example33 :
+Aspect: food
+@Sentence: Good food: my favorite is the seafood spaghetti.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. \n\nThis analysis is based on the positive adjective "Good" describing the food, and the indication of personal preference ("my favorite") towards the seafood spaghetti dish. These elements collectively suggest a positive sentiment towards the aspect of food in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example34 :
+Aspect: food
+@Sentence: Excellent food for great prices
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example35 :
+Aspect: wait staff
+@Sentence: The wait staff is very courteous and accomodating.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example36 :
+Aspect: space
+@Sentence: The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nExplanation: The sentiment towards the aspect of "space" in this sentence is neutral. While the limited space could be seen as a drawback, the promise of delicious food compensates for this inconvenience, resulting in a balanced sentiment overall.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example37 :
+Aspect: place
+@Sentence: my favorite place lol
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. \n\nTherefore:\n\nSentence: my favorite place lol\n\nAspect: place\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We identified that the expression "my favorite place" is usually a sign'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example38 :
+Aspect: chicken pasta
+@Sentence: i love their chicken pasta cant remember the name but is sooo good
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example39 :
+Aspect: place
+@Sentence: im not necessarily fanatical about this place, but it was a fun time for low pirces.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **mixed**. The overall sentiment towards the aspect "place" is a blend of neutral to slightly negative, tempered by a positive sentiment towards affordability and the experience offered at low prices.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example40 :
+Aspect: lobster
+@Sentence: lobster was good, nothing spectacular.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **neutral**. Although the phrase starts positively with "good," the subsequent qualification "nothing spectacular" balances out the sentiment, resulting in a neutral overall assessment of the lobster.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example41 :
+Aspect: restaraunt
+@Sentence: its just a fun place to go, not a five star restaraunt.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Its just a fun place to go, not a five star restaurant.\n\nAspect: restaurant\n\nReasoning: Let\'s think step by step in order to analyze the sentiment. We start by identifying the key aspects and sentiments expressed in the sentence. The phrase "its just a fun place to go" conveys a positive sentiment, suggesting that the place is enjoyable and entertaining. On the other hand, the statement "not a five star restaurant" introduces a comparison that implies the restaurant lacks the high-end quality or formal ambiance typically associated with top-tier dining establishments. This comparison sets up a contrast between a casual, fun environment and a more upscale dining experience.\n\nSentiment: The predicted sentiment polarity is **neutral**. The sentence balances between a positive sentiment towards the restaurant as a fun and enjoyable place to visit, and a slightly negative sentiment implied by the comparison with a high-end restaurant. The overall tone is not strongly positive or negative but rather neutral, reflecting a nuanced view that acknowledges both the positive aspects of enjoyment and the limitations in terms of fine dining expectations.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example42 :
+Aspect: pizza
+@Sentence: I think the pizza is so overrated and was under cooked.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example43 :
+Aspect: staff
+@Sentence: Had no flavor and the staff is rude and not attentive.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the staff is **negative**. The descriptors "rude" and "not attentive" clearly indicate dissatisfaction with the behavior and service quality of the staff, leading to a negative sentiment towards them.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example44 :
+Aspect: place
+@Sentence: I love this place
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore, the sentiment analysis for the sentence "I love this place" with respect to the aspect "place" is positive. The expression "love" clearly indicates a strong positive sentiment towards the mentioned place.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example45 :
+Aspect: service
+@Sentence: The service was quick and friendly.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis conclusion is drawn from the positive connotations of the adjectives used ("quick" and "friendly") to describe the service, which typically contribute to a favorable customer experience.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example46 :
+Aspect: restaurant
+@Sentence: I thought the restaurant was nice and clean.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\n---\n\nIf you have any more questions or need further analysis, feel free to ask!'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example47 :
+Aspect: vitello alla marsala
+@Sentence: I ordered the vitello alla marsala and I was pretty impressed.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Positive\n\nTherefore,\n\nSentence: I ordered the vitello alla marsala and I was pretty impressed.\n\nAspect: vitello alla marsala\n\nReasoning: Let's think"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example48 :
+Aspect: veal
+@Sentence: The veal and the mushrooms were cooked perfectly.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example49 :
+Aspect: potato balls
+@Sentence: The potato balls were not dry at all... in fact it was buttery.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nThis analysis shows that the sentiment towards the potato balls in the sentence is positive, as indicated by the description of them being "buttery" despite the initial negation of dryness.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example50 :
+Aspect: PLACE
+@Sentence: WORST PLACE ON SMITH STREET IN BROOKLYN
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **negative**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++

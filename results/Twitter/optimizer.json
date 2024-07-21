@@ -1,0 +1,45 @@
+{
+  "analyze_sentiment": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "sentence": "sarah palin is awesome. | yes she is",
+        "aspect": "sarah palin",
+        "context": "# Constrain context:From 'sarah palin is awesome. | yes she is', can we infer that the sarah palin is positive? Yes\nFrom 'sarah palin is awesome. | yes she is', can we infer that the sarah palin is negative? No\nFrom 'sarah palin is awesome. | yes she is', can we infer that the sarah palin is neutral? No\n\n# Background context:Sarah Palin is a prominent American politician, author, and commentator. Born on February 11, 1964, in Sandpoint, Idaho, she is best known for her involvement in the Republican Party and her historic nomination as the vice-presidential candidate\n\n# Analogies context:Certainly, here are three Aspect-Based Sentiment Analysis examples with the aspect 'Sarah Palin' included in the sentence along with the predicted sentiment polarity:\n\n1. Sentence: \"Sarah Palin's passionate speech won over many conservative voters.\"\n   Predicted sentiment polarity: Positive\n\n2. Sentence: \"The controversy surrounding Sarah Palin's political career has sparked intense debates.\"\n   Predicted sentiment polarity: Neutral\n\n3. Sentence: \"Critics argue that Sarah Palin's statements during the campaign were often misleading.\"\n   Predicted sentiment polarity: Negative",
+        "rationale": "produce the sentiment. The sentence \"Sarah Palin is awesome\" expresses a positive opinion towards her, indicating admiration or approval of her. The use of the word \"awesome\" suggests a strong positive sentiment.",
+        "sentiment": "positive"
+      },
+      {
+        "augmented": true,
+        "sentence": "i love google ! as a whole with all its services",
+        "aspect": "google",
+        "context": "# Constrain context:From 'i love google ! as a whole with all its services', can we infer that the google is positive? Yes\nFrom 'i love google ! as a whole with all its services', can we infer that the google is negative? No\nFrom 'i love google ! as a whole with all its services', can we infer that the google is neutral? No\n\n# Background context:Google is a multinational technology company known for its search engine, which has become a dominant force in the online world. Founded in 1998 by Larry Page and Sergey Brin while they were doctoral students at Stanford University, Google has since grown into a\n\n# Analogies context:Sure! Here are three aspect-based sentiment analysis examples with the aspect \"google\" included in the sentence:\n\nExample 1:\nSentence: \"I love using Google's search engine, it always provides me with relevant results.\"\nPredicted sentiment polarity: positive\n\nExample 2:\nSentence: \"The new Google Pixel phone has a great camera, but the battery life is disappointing.\"\nPredicted sentiment polarity: mixed (positive for the camera, negative for the battery life)\n\nExample 3:\nSentence: \"I find Google Maps very useful for navigating through the city, but the traffic updates can sometimes be inaccurate",
+        "rationale": "produce the sentiment. The sentence explicitly expresses love towards Google as a whole with all its services, indicating a positive sentiment.",
+        "sentiment": "positive"
+      },
+      {
+        "augmented": true,
+        "sentence": "ff markieai likes animals . hates spiders . hates charlie sheen . likes cookies .",
+        "aspect": "charlie sheen",
+        "context": "# Constrain context:From the given information, we can infer that the attitude towards Charlie Sheen is negative.\n\n# Background context:Charlie Sheen is an American actor known for his roles in movies such as \"Platoon,\" \"Wall Street,\" and \"Major League,\" as well as his lead role on the sitcom \"Two and a Half Men.\" He comes from a family of\n\n# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect 'charlie sheen' included in the sentence:\n\n1. \"I've always enjoyed watching Charlie Sheen's acting, especially in Two and a Half Men.\" \n   Predicted sentiment polarity: 'positive'\n\n2. \"I used to be a fan of Charlie Sheen, but his behavior in recent years has been disappointing.\"\n   Predicted sentiment polarity: 'negative'\n\n3. \"Some people may find Charlie Sheen's off-screen antics entertaining, but I think it's just sad.\"\n   Predicted sentiment polarity",
+        "rationale": "produce the sentiment. We can see that the sentiment towards Charlie Sheen in this sentence is negative, as the speaker explicitly states that they hate Charlie Sheen.",
+        "sentiment": "negative"
+      },
+      {
+        "augmented": true,
+        "sentence": "espn soccer net news ardiles backs maradona for world cup glory",
+        "aspect": "maradona",
+        "context": "# Constrain context:I'm sorry, but I cannot analyze the sentiment of the text \"espn soccer net news ardiles backs maradona for world cup glory\" without further context.\n\n# Background context:Diego Maradona was an iconic Argentine professional soccer player, widely regarded as one of the greatest footballers of all time. Born on October 30, 1960, in Buenos Aires, Maradona began his football career at a young\n\n# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'maradona' included in the sentence:\n\n1. Sentence: \"Maradona was a legendary football player.\"\n   Predicted sentiment polarity: Positive\n\n2. Sentence: \"Some people criticize Maradona for his off-field behavior.\"\n   Predicted sentiment polarity: Negative\n\n3. Sentence: \"Maradona's impact on the sport is undeniable.\"\n   Predicted sentiment polarity: Positive",
+        "rationale": "produce the sentiment. We see that the sentence mentions \"ardiles backs maradona for world cup glory,\" indicating support for Maradona. This suggests a positive sentiment towards Maradona.",
+        "sentiment": "positive"
+      }
+    ],
+    "signature_instructions": "Analyze the sentiment polarity of a given sentence and its aspect.",
+    "signature_prefix": "Sentiment:",
+    "extended_signature_instructions": "Analyze the sentiment polarity of a given sentence and its aspect.",
+    "extended_signature_prefix": "Sentiment:"
+  }
+}

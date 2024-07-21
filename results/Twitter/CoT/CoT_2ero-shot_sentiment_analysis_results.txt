@@ -1,0 +1,1864 @@
+example01 :
+Aspect: Bourne & O â Neil Treasure
+@Sentence: Bourne & O â Neil Treasure Oak Humidor : Many have a humidor , some also own a polished oak piece , but no one has a ... http://t.co/GWEBkRbG
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely positive.\n\nReasoning: The mention of a specialized humidor made from oak and associated with a brand name ("Bourne & O\'Neil Treasure") typically suggests a product of quality and exclusivity. The use of terms like "Treasure" and the implication of uniqueness ("no one has a ...") tends to evoke positive sentiment among consumers, as it highlights rarity and desirability. Therefore, the overall sentiment conveyed in this sentence is likely positive, as it emphasizes a distinctive and possibly high-value product.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: Alfred Adler
+@Sentence: It is from among such individuals that all human failures spring"// Alfred Adler
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity of the statement can be interpreted as negative. Adler\'s assertion that "all human failures spring" from specific individuals suggests a critical view of those individuals or their characteristics. This implies a negative sentiment towards these individuals, as they are seen as the source of human failures according to Adler. Therefore, the sentiment polarity of the sentence is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: ITP
+@Sentence: Tommorrow is my final day at ITP . i'm just so happy this demanding course will end
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: Seth Godin
+@Sentence: In defense of RSS via Seth Godin http://is.gd/k9Wvy
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence provided is actually a link to a webpage, not a direct text sentence. To accurately analyze sentiment polarity, I would need the actual sentence or text you want analyzed. Could you please provide the specific sentence from the article or webpage that you'd like me to analyze? This will allow me to provide a detailed analysis of the sentiment polarity and its aspect."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: twitter
+@Sentence: is still half clueless about twitter haha
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral to slightly negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: iZigg
+@Sentence: New Blog Post : iZigg Agent Jennifer Varenka on CRUSH IT ! and winning a coaching session with â¦ http://t.co/SO8VXPc9
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence provided might be a Twitter post or a truncated URL that doesn't contain meaningful text for sentiment analysis. Sentiment analysis typically requires clear and complete sentences that convey emotions or opinions.\n\nTo accurately analyze sentiment, could you please provide another example or a more complete sentence? This will enable me to assess the sentiment polarity effectively."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: Whitney Houston
+@Sentence: Whitney Houston is not yet buried and the money vultures are already out http://t.co/fuvM5TWo
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThis sentiment analysis indicates that the sentence conveys a negative sentiment towards Whitney Houston, focusing on the exploitation surrounding her death rather than respectful mourning.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: Stevens'
+@Sentence: More period work for Downton star : Based on a true story , Stevens' character is Gilbert Evans , a land agent for ... http://t.co/2FgMaGJX
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence provided is actually a link to a tweet or a URL, which I can't access directly for sentiment analysis. However, I can guide you on how to analyze sentiment polarity based on a readable sentence once you provide it. Could you please share a readable sentence or phrase from the content you'd like to analyze? This way, I can help you analyze the sentiment polarity and its aspect effectively."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: My daughter
+@Sentence: My daughter upon turning 8 said , "Hey , Dad , now I'm a Tween" , to which I responded , "Sorry , honey , you're still a Twirp" .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nReasoning: The sentiment here is positive because the interaction appears to be light-hearted and playful. The daughter\'s declaration of reaching a new age milestone (turning 8 and calling herself a Tween) is met with humor from the father, who affectionately calls her a "Twirp." Despite the teasing, there is a sense of familial warmth and camaraderie in their exchange, indicating a positive emotional connection between them. The use of playful language suggests a loving and supportive relationship, where both parties engage in good-natured banter. Therefore, the overall sentiment in this context is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: Awazu kanto's
+@Sentence: It was nice taking the time off and being with fellow animators from other places . Awazu kanto's texturing skills are frikken amazing
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nExplanation:\n\n1. **Contextual Analysis**: The sentence begins with a positive statement ("It was nice taking the time off and being with fellow animators from other places"), which sets a generally positive tone.\n\n2. **Specific Aspect**: The focus then shifts to Awazu kanto\'s texturing skills, described as "frikken amazing". This descriptor is highly positive and enthusiastic, indicating strong admiration or approval.\n\n3. **Sentiment Polarity**: Considering the overall context and the specific praise ("frikken amazing"), the sentiment towards Awazu kanto\'s texturing skills is clearly positive. The use of such a strong positive adjective suggests a high level of appreciation for Awazu kanto\'s abilities in this aspect of animation.\n\nTherefore, the sentiment polarity towards Awazu kanto\'s texturing skills in the given sentence is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: Harvey Zorbaugh
+@Sentence: An ideal city is not likely to be the mold of a real city . Harvey Zorbaugh
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nThe predicted sentiment polarity is neutral because the sentence itself does not express a positive or negative opinion or emotion. It is a statement about the nature of an ideal city compared to a real city, without conveying any strong feelings or evaluations. The mention of Harvey Zorbaugh as the source of the quote does not alter the neutral sentiment of the sentence itself.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: FEMA
+@Sentence: I imagine that the pain from the explosion of instant mashed potatoes is what hot lava feels like . Send FEMA mobile burn unit now please !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: I imagine that the pain from the explosion of instant mashed potatoes is what hot lava feels like. Send FEMA mobile burn unit now please!\n\nAspect: FEMA\n\nReasoning: Let\'s think step by step in order to produce the sentiment. The sentence describes a scenario where the speaker is experiencing intense pain comparable to the sensation of hot lava, caused by an unexpected event (explosion of instant mashed potatoes). The plea "Send FEMA mobile burn unit now please!" indicates a sense of urgency and a request for immediate assistance from FEMA, specifically their mobile burn units, which are typically dispatched for serious burns and emergencies. The comparison to hot lava underscores the severity of the pain and the perceived need for specialized emergency medical response.\n\nSentiment: Negative\n\nThe sentiment towards FEMA in this sentence is negative. The urgency and desperation in the plea suggest that the speaker feels FEMA\'s intervention is critically necessary but perhaps not readily available or easily accessible. The use of "now please!" conveys impatience and frustration, implying a lack of confidence in FEMA\'s responsiveness or effectiveness in addressing urgent situations like the one described. Overall, the sentiment is negative due to the perceived inadequacy or delay in FEMA\'s ability to provide timely assistance in a medical emergency involving severe burns.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: Flo Rida
+@Sentence: #NowPlaying 'Dance With Me' by @AARONCARTER7 featuring Flo Rida - Download it on iTunes ! http://bit.ly/8cFidZ #AaronCarter #AC2010
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is likely positive. The tweet is promoting a song by Aaron Carter featuring Flo Rida, which typically suggests endorsement or appreciation of their collaboration. The use of hashtags like #AaronCarter and #AC2010 further indicates a promotional and positive context surrounding the music. Therefore, people sharing or commenting on this tweet are likely expressing positive sentiments towards Flo Rida's involvement in the song."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: BarackObama
+@Sentence: Ã¢ÂÂ @ BarackObama : International community soft words MUST end . Assad is not a reformer he is a Dictator and your silence makes it worst . #Syria
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is likely negative. The tweet suggests frustration or disappointment with the perceived inaction or insufficient action by Barack Obama and the international community towards Assad's regime in Syria. The tone is critical and urgent, indicating a negative sentiment towards the perceived lack of effective leadership or intervention."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: Michael Anderson
+@Sentence: Michael Anderson , Co-founder Aboriginal Tent Embassy says they dont want to be part of the Aust Constitution coz Aust is racist & liars #RA
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThis sentiment analysis is based on the negative connotations associated with terms like "racist" and "liars," which are directly attributed to Australia in Michael Anderson\'s statement. The use of such strong language suggests a negative sentiment towards the subject matter discussed.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: Google
+@Sentence: Google Triples the speed of +1 button http://ow.ly/5ODxE
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore:\n\nSentence: Google Triples the speed of +1 button http://ow.ly/5ODxE\n\nAspect: Google\n\nReasoning: Let'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: @CNN
+@Sentence: The whole media is corrupt , follow ppl you trust !! @laurenflax @CNN #londonroits
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The whole media is corrupt, follow ppl you trust!! @laurenflax @CNN #londonroits\n\nAspect: @CNN\n\nReasoning: Let\'s think step by step in order to analyze the sentiment polarity of the aspect "@CNN."\n\n1. **Context Identification:** The sentence expresses a broadly negative sentiment towards the media, stating "The whole media is corrupt," which clearly conveys a negative view of media organizations in general.\n\n2. **Aspect Isolation:** The specific aspect to analyze is "@CNN," which is mentioned alongside other handles in the context of criticizing the media.\n\n3. **Sentiment Association:** @CNN is directly mentioned in the sentence where the speaker criticizes the media for being corrupt. This implies that CNN is included in the negative evaluation of the media\'s trustworthiness.\n\n4. **Implication:** Given that the statement "The whole media is corrupt" is applied broadly and includes CNN, a major media outlet, the sentiment towards @CNN in this context is negative. There are no indications of positive or neutral sentiments towards CNN within the sentence.\n\n**Sentiment:** Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: Victor Hugo
+@Sentence: He who opens a school door closes a prison . Victor Hugo
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity is positive, reflecting hope, optimism, and the belief in the positive impact of education on society.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: Sun Softwares
+@Sentence: Sun Softwares is one of the leading outsourcing companies in India . Here we provide you the exact results as you want in Web designing .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn analyzing the given sentence, the aspects related to "Sun Softwares" indicate positive sentiment due to the descriptors of leadership in outsourcing and reliability in web designing services.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: Facebook
+@Sentence: I posted 21 photos on Facebook in the album "Success with Technology" http://t.co/eHX7wite
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example21 :
+Aspect: Lindsey
+@Sentence: Lindsey , I look forward to your October 17 show in Anaheim !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example22 :
+Aspect: Reuters
+@Sentence: Missing energy exec found dead in New Orlean s: HOUSTON ( Reuters ) - A senior executive with an Atlanta-based energy ... http://bit.ly/cZ3gDe
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='**Sentence:** Missing energy exec found dead in New Orleans: HOUSTON (Reuters) - A senior executive with an Atlanta-based energy ... http://bit.ly/cZ3gDe\n\n**Aspect:** Reuters\n\n**Reasoning:** Let\'s think step by step in order to determine the sentiment:\n\n1. **Understanding the Sentence Content:** The sentence reports on a tragic event—the discovery of a missing energy executive who was found dead. It mentions that the information is being reported by Reuters, which is a respected news organization. The content itself is neutral and factual, describing a news event without expressing any emotional bias.\n\n2. **Identifying the Aspect:** The aspect to analyze is "Reuters," the news organization cited as the source of the information. \n\n3. **Sentiment Analysis of the Aspect:** Reuters, as a news organization, is expected to provide factual and unbiased reporting. The sentiment associated with Reuters itself is typically neutral because the organization\'s role is to report information objectively rather than to convey emotional tone.\n\n4. **Sentiment Context:** The sentiment in the sentence primarily concerns the tragic nature of the news event reported (the death of an executive). However, the aspect "Reuters" specifically refers to the source of this information, which maintains neutrality and does not convey any particular emotional stance. \n\n**Sentiment:** Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example23 :
+Aspect: Mint
+@Sentence: Mint Announces Third Quarterly Results and Market Guidance ... http : //p.gs/1vvo6
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity for the sentence "Mint Announces Third Quarterly Results and Market Guidance ..." is **neutral**. This is because such announcements are primarily informative and factual, lacking strong emotional cues typical of positive or negative sentiments unless specific details are provided about performance exceeding or missing expectations.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example24 :
+Aspect: The Economist
+@Sentence: Oil and the economy : The 2011 oil shock | The Economist - http://econ.st/edJDel via @TheEconomist
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nBased on the reasoning above, the sentiment towards "The Economist" in this sentence is likely positive. The mention of The Economist in a tweet about a significant economic event suggests that the publication is seen as a reliable source of information and analysis, which typically garners positive sentiment among readers interested in economics and global events.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example25 :
+Aspect: G Kristen
+@Sentence: SA made G Kristen as coach . They actually misread Ind WC victory . Can some one pls tell them they need MSD to win ? #MSD #kristen
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity towards G Kristen in this sentence is **negative**. This is inferred from the dissatisfaction expressed towards the decision to make G Kristen the coach and the implied skepticism about their coaching capabilities.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example26 :
+Aspect: AACN
+@Sentence: @shafiqhamdam - I thought I wrote to AACN a month ago , no reply man ? You involved ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: @shafiqhamdam - I thought I wrote to AACN a month ago, no reply man ? You involved ?\n\nAspect: AACN\n\nReasoning: Let\'s think step by step in order to analyze the sentiment. The sentence expresses frustration and dissatisfaction with AACN\'s lack of response. The speaker expected a reply but did not receive one, as indicated by the phrase "no reply man." The informal tone and the use of a questioning format suggest impatience and disappointment.\n\nSentiment: Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example27 :
+Aspect: Abraham Lincoln's
+@Sentence: Abraham Lincoln's mother died when she drank the milk of a cow that grazed on poisonous snakeroot .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Abraham Lincoln\'s mother died when she drank the milk of a cow that grazed on poisonous snakeroot.\n\nAspect: Abraham Lincoln\'s\n\nReasoning: Let\'s think step by step in order to produce the sentiment:\n\n1. **Identify the Event:** The sentence describes a historical event where Abraham Lincoln\'s mother tragically died. The cause of death was consuming milk from a cow that had eaten poisonous snakeroot.\n\n2. **Determine Emotional Tone:** The event described is deeply tragic and unfortunate. It involves the death of a family member due to poisoning, which evokes sadness and sympathy.\n\n3. **Aspect Analysis:** The aspect here is "Abraham Lincoln\'s," focusing on the impact on Abraham Lincoln and his family. The death of his mother under such circumstances would have been a significant and distressing event in his life.\n\n4. **Overall Sentiment:** Considering the tragic nature of the event and its impact on Abraham Lincoln\'s family, the sentiment conveyed is overwhelmingly negative. It involves loss, tragedy, and sorrow.\n\n**Sentiment:** Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example28 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://t.co/1ZuCr6cb
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Sentence: I posted a new photo to Facebook http://t.co/1ZuCr6cb\n\nAspect: Facebook\n\nReasoning: Sorry, but I can't analyze the sentiment polarity of a sentence that contains a URL because sentiment analysis typically focuses on the text content rather than URLs. If you have another sentence without a URL that you'd like analyzed, feel free to provide it!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example29 :
+Aspect: Steve Jobs's
+@Sentence: felling vaery sad bcz of Steve Jobs's death ...........
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nTherefore,\n\nSentiment: Negative\n\nThis analysis concludes that the sentiment polarity of the sentence "feeling very sad bcz of Steve Jobs\'s death ..........." is negative, primarily due to the sadness expressed over the death of Steve Jobs.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example30 :
+Aspect: The Independent
+@Sentence: Prince offers $ 1m to seize Israelis - The Independent http://t.co/LbhiTBAQ
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Prince offers $1m to seize Israelis - The Independent http://t.co/LbhiTBAQ\n\nAspect: The Independent\n\nReasoning: Let\'s analyze the sentiment polarity of the given sentence and its aspect.\n\n1. **Identify the Sentence Structure and Content:** The sentence reports on an action where Prince is offering a monetary reward of $1 million to seize Israelis. It attributes this information to "The Independent," indicating that the news outlet is the source of this report.\n\n2. **Consider the Aspect - The Independent:** In this context, "The Independent" refers to the news organization that published or reported this piece of information.\n\n3. **Evaluate the Context of the Aspect:** The sentence itself does not pass any subjective judgment or opinion about "The Independent." It simply states that the information comes from this news source.\n\n4. **Analyze Implications:** Since the sentence does not provide any positive or negative commentary about "The Independent," the sentiment towards this aspect remains neutral. The focus of the sentence is on the action (Prince offering money) rather than on evaluating the credibility or stance of the news outlet.\n\n**Sentiment:** Neutral\n\nIn summary, the sentence does not express any sentiment towards "The Independent." It neutrally attributes the information without any positive or negative connotations towards the news source itself.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example31 :
+Aspect: THAKSIN
+@Sentence: THAKSIN do not want 2B come PM . But he wants 2B the PRESIDENT of the REPUBLIC of THAILAND .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\nThis conclusion is drawn because while there is indication of ambition ("wants 2B the PRESIDENT"), the sentence overall does not strongly convey either a positive or negative sentiment towards THAKSIN himself. The mixed messages in the sentence make it challenging to infer a clear positive or negative attitude towards him. Thus, a neutral sentiment is the most appropriate prediction based on the provided sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example32 :
+Aspect: Anna's
+@Sentence: they are not worried on Anna's health
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: they are not worried on Anna\'s health\n\nAspect: Anna\'s health\n\nReasoning: Let\'s think step by step in order to analyze the sentiment towards Anna\'s health in the given sentence.\n\n1. **Understanding the Sentence**: The sentence "they are not worried on Anna\'s health" indicates that there is an absence of concern or anxiety regarding Anna\'s health.\n\n2. **Aspect Identification**: The aspect we are focusing on is "Anna\'s health", specifically the sentiment towards it.\n\n3. **Sentiment Analysis**: \n   - The phrase "not worried" directly implies that there is no worry or concern. This absence of worry could suggest a neutral or potentially positive sentiment towards Anna\'s health.\n   - It\'s important to note that while "not worried" excludes negative sentiment (such as worry or concern), it doesn\'t necessarily imply positive sentiment either. It simply means the absence of a specific negative emotion.\n\n4. **Sentiment Polarity**: \n   - Given that "not worried" indicates the absence of negative sentiment, the sentiment polarity towards "Anna\'s health" can be categorized as **neutral**.\n   - This neutrality arises because the statement doesn\'t express positive feelings or endorsement towards Anna\'s health explicitly; rather, it states the absence of concern.\n\n5. **Conclusion**: \n   - The sentiment polarity towards "Anna\'s health" in the sentence "they are not worried on Anna\'s health" is **neutral**. This conclusion is drawn from the absence of negative sentiment (worry), which does not inherently imply positive sentiment but rather a lack of concern.\n\nSentiment: Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example33 :
+Aspect: -Mike
+@Sentence: Today's Mantra : Yes , I'm realistic ... My dreams are huge , bold and imaginative . -Mike
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Positive\n\nTherefore, based on the optimistic and ambitious nature of Mike's statement about his dreams, the sentiment polarity towards -Mike is predicted to be positive. His acknowledgment of realism alongside his bold aspirations contributes to an overall positive sentiment associated with his outlook."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example34 :
+Aspect: Sergio Aguero
+@Sentence: Sergio Aguero greets Man City fans at the Etihad Stadium http://t.co/XqQUro4
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='It seems like the provided input is a URL rather than a textual sentence, so I can\'t directly analyze sentiment from it. However, I can guide you on how sentiment analysis would typically be approached for a sentence involving Sergio Aguero.\n\nLet\'s consider a hypothetical sentence related to Sergio Aguero:\n\n---\n\nSentence: "Sergio Aguero scores a stunning goal in his final match for Manchester City."\n\nAspect: Sergio Aguero\n\nReasoning: Let\'s think step by step in order to determine the sentiment. Sergio Aguero\'s performance and actions are typically viewed positively by fans and pundits alike, especially considering his skill and contributions to Manchester City over the years. The phrase "scores a stunning goal" indicates a positive event associated with Aguero, which generally elicits positive sentiments from fans.\n\nSentiment: Positive\n\n---\n\nIn this example, the sentiment analysis concludes that the sentiment polarity towards Sergio Aguero in the given sentence is positive. The reasoning is based on the positive connotations of his action (scoring a stunning goal) and the generally positive regard fans have for his performance. If you have a specific sentence or text you\'d like to analyze, please provide it, and I can perform a sentiment analysis based on that.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example35 :
+Aspect: Mark Zuckerberg
+@Sentence: When it comes to presentation , Mark Zuckerberg is no Steve Jobs ;P http://t.co/3ORETf2 facebook announcement
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: When it comes to presentation, Mark Zuckerberg is no Steve Jobs ;P http://t.co/3ORETf2 facebook announcement\n\nAspect: Mark Zuckerberg\n\nReasoning: Let\'s think step by step in order to produce the sentiment. \n\n1. **Identify the Subject and Comparison**: The sentence evaluates Mark Zuckerberg\'s presentation skills in comparison to Steve Jobs. Steve Jobs is often highly regarded for his exceptional presentation abilities, setting a high standard in this aspect.\n\n2. **Analyze the Tone**: The phrase "is no Steve Jobs" directly contrasts Zuckerberg with Jobs, implying that Zuckerberg falls short in terms of presentation skills. The semicolon and the winking emoticon ";P" suggest a playful or sarcastic tone, possibly softening the direct criticism.\n\n3. **Evaluate the Overall Sentiment**: Despite the playful tone introduced by the emoticon, the primary sentiment conveyed is negative towards Zuckerberg’s presentation abilities. The comparison with Steve Jobs, known for his charisma and effective presentations, underscores that Zuckerberg does not meet the same standard.\n\nSentiment: Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example36 :
+Aspect: Barbara Novak
+@Sentence: feminist author Barbara Novak ( Renee Zellweger ) finds herself head-over-heels.....http://www.acmemoviereviews.bravehost.com/downwithlove.htm
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely positive. The use of "head-over-heels" suggests enthusiasm or being deeply involved in something, possibly indicating a positive emotional state or excitement in the context of the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example37 :
+Aspect: One Direction
+@Sentence: I liked a @YouTube video http://t.co/TTDr9TNr One Direction - What Makes You Beautiful
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity towards One Direction in this context is **positive**. \n\nThis conclusion is drawn based on the use of the word "liked" which typically denotes a favorable opinion or enjoyment. The presence of the specific song title also indicates a targeted appreciation towards One Direction\'s music. Therefore, the overall sentiment expressed towards One Direction in this tweet is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example38 :
+Aspect: Whole Foods Market
+@Sentence: american Whole Foods Market is like a temple of food
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example39 :
+Aspect: ASCE ( American Society of Civil Engineers
+@Sentence: @Douglaslas are you familiar with ASCE ( American Society of Civil Engineers ) ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Neutral\n\nThis analysis concludes that the sentence does not express a positive or negative sentiment towards ASCE; rather, it neutrally seeks information about the recipient's familiarity with the organization."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example40 :
+Aspect: CERN
+@Sentence: CERN turns up power to answer Higgs riddle in 2012 | Sci-tech | http://t.co/E1HhGAeO http://t.co/jRlF2mIm
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn this analysis, the sentiment towards CERN is inferred as positive due to the context of advancing scientific research and potentially solving a significant scientific mystery (the Higgs boson). This reflects a sentiment of progress, discovery, and importance in the field of particle physics.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example41 :
+Aspect: Karunanidhi
+@Sentence: ppl : abot Onion price hike ? ' - CM Karunanidhi : ''Go and ask PERIYAR'' MK : abot our alliance ? '' -- - Sonia : ''ASK RAJIV GANDHI''- ha ha : - )
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Neutral\n\nReasoning: The sentiment towards Karunanidhi appears neutral based on the context provided. The sentence doesn't express overt positivity or negativity towards him. Instead, it mentions him in a context where he deflects a question, which doesn't inherently carry positive or negative sentiment towards him personally. Therefore, the predicted sentiment polarity is neutral."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example42 :
+Aspect: Shania Twain
+@Sentence: Shania Twain - Dance With The One That Brought You http://t.co/uVWcAtJN
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment towards Shania Twain in this context is likely positive. People sharing links to her music or mentioning her name typically do so because they appreciate her music or are interested in her latest releases. Therefore, the sentiment polarity here would be **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example43 :
+Aspect: Cineworks
+@Sentence: Next Cineworks and Raindance "Booze and Schmooze" is March 5th http://t.co/WIr5hLqd
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nReasoning: The sentiment towards Cineworks in this context appears neutral. The sentence simply states the date of an upcoming event ("Booze and Schmooze" on March 5th) organized by Cineworks and Raindance. There is no overt positive or negative sentiment expressed towards Cineworks itself; rather, the sentence serves more as an informative announcement about the event. Therefore, the sentiment polarity is neutral.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example44 :
+Aspect: OneBode Blend
+@Sentence: OneBode Blend obtains a complete blend of antioxidants including grape seed , grape skin , pine bark and SOD precursors
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: OneBode Blend obtains a complete blend of antioxidants including grape seed, grape skin, pine bark, and SOD precursors.\n\nAspect: OneBode Blend\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We\'ll analyze the sentence "OneBode Blend obtains a complete blend of antioxidants including grape seed, grape skin, pine bark, and SOD precursors" to determine the sentiment polarity towards the aspect "OneBode Blend".\n\n1. **Identifying Aspects**: The sentence primarily discusses "OneBode Blend," which refers to a specific product or blend of antioxidants.\n\n2. **Extracting Information**: The sentence provides information about the contents of OneBode Blend, highlighting it as a "complete blend of antioxidants" that includes specific types such as grape seed, grape skin, pine bark, and SOD precursors.\n\n3. **Sentiment Analysis**: To determine the sentiment towards "OneBode Blend," we consider the descriptive words and context:\n   - **Positive Aspects**: The blend is described as "complete," indicating it contains a comprehensive variety of antioxidants. This suggests it could be beneficial for health.\n   - **Neutral Aspects**: The sentence presents factual information without conveying strong positive or negative emotions.\n   - **Negative Aspects**: There are no negative words or sentiments expressed about OneBode Blend in the sentence.\n\n**Sentiment:** Given the factual and descriptive nature of the sentence, the sentiment polarity towards "OneBode Blend" is **positive**. This positivity is inferred from the use of the term "complete blend of antioxidants," which implies a beneficial and well-rounded product.\n\nTherefore:\n**Sentiment: Positive** \n\nThis sentiment analysis takes into account the context provided by the sentence and interprets the implications of the descriptive language used to characterize "OneBode Blend."'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example45 :
+Aspect: Mr . Bhusan Dahal
+@Sentence: Now Mr . Bhusan Dahal iz in the fire ........ and Kumar phudung at side ..... great conversationn iz still on air ......
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely neutral. The sentence lacks clear emotional indicators that would strongly suggest either a positive or negative sentiment towards Mr. Bhusan Dahal. The phrase "great conversation" could slightly lean towards positivity, but overall, the sentiment appears neutral based on the limited context provided.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example46 :
+Aspect: LinkedIn
+@Sentence: 5 Tips for Using the New LinkedIn Company Pages http://t.co/8LpLeEsF
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='It seems like the sentence provided is actually a link rather than a readable sentence. In order to analyze the sentiment polarity effectively, I would need a readable sentence that expresses an opinion or sentiment about LinkedIn or a related aspect. Please provide a specific sentence or phrase for analysis.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example47 :
+Aspect: ABE
+@Sentence: ABE staff won 3rd place in the Poly50 staff catergory ! Congratulations !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nExplanation: The sentence clearly indicates an achievement by the "ABE staff" winning 3rd place in the "Poly50 staff category." The use of exclamation marks and the word "Congratulations!" at the end suggests a celebratory and positive sentiment. Winning a place in a competition or category typically evokes positive emotions such as pride, joy, and accomplishment. Therefore, the sentiment polarity of the sentence is positive, reflecting the success and recognition achieved by the ABE staff.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example48 :
+Aspect: Dr Suess
+@Sentence: Sometimes the questions are complicated and the answers are simple- Dr Suess
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is positive. This quote reflects a hopeful and optimistic outlook, emphasizing the potential for finding simplicity and clarity in complex situations, which aligns with Dr. Seuss's overall positive and encouraging tone in his works."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example49 :
+Aspect: Tony Romo
+@Sentence: Tony Romo among DFW celebrity golfers at AT & T Pro-Am : When Dallas Cowboys quarterback Tony Romo tees off today w ... http://t.co/sCgb3nwJ
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='I see that the sentence provided is actually a truncated link or excerpt related to Tony Romo participating in a celebrity golf event. To effectively analyze sentiment polarity and the aspect related to Tony Romo, we need a clearer and complete sentence that directly mentions him. This will allow for a more accurate assessment of sentiment.\n\nCould you please provide a specific sentence or excerpt that mentions Tony Romo clearly? This will help in conducting a thorough analysis of sentiment polarity and the relevant aspect.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example50 :
+Aspect: Kim Jong Kook
+@Sentence: Lol lol RT @allkpop : [ Spoiler : Running Man ] Kim Jong Kook is betrayed by Haha http://t.co/U1FHxYLw
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity (positive, neutral, or negative).'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example51 :
+Aspect: Forbes
+@Sentence: Houston billionaires make Forbes Richest People in America list http://t.co/yM8tvfID
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis conclusion is drawn based on the implied success and recognition associated with being listed among the richest individuals in America by Forbes, a renowned authority in business and finance rankings.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example52 :
+Aspect: @Moyade1
+@Sentence: @Moyade1 cause i was outside . Sorry dude .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity is likely **neutral**. The apology implies a recognition of potential inconvenience, but the overall tone of the sentence is casual and apologetic rather than strongly positive or negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example53 :
+Aspect: Karzai
+@Sentence: Afghans Unconvinced by Karzai Presidency : http://bit.ly/fQFXOD
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you provided is actually a link to an article rather than the text itself. To accurately analyze the sentiment polarity and aspect, I would need the actual sentence from the article that you want to analyze. Please provide the specific sentence or excerpt you're interested in, and I'll be able to help you analyze it in detail."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example54 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://t.co/DPKRnlx3
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example55 :
+Aspect: HHS
+@Sentence: Key Dems criticize HHS reshuffling of public health fund ( 6/17/10 â¦ http://bit.ly/9urynn
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence provided is actually a link and not a coherent sentence. To accurately analyze the sentiment polarity and its aspect, I'll need a specific sentence from the content you're referring to. Could you please provide a direct sentence from the article or text? This will help me provide a detailed analysis of the sentiment and its aspect."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example56 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://fb.me/tlyRE78d
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **neutral**.\n\nReasoning: While the act of posting a new photo can be seen as positive or neutral in most contexts (indicating engagement or sharing of experiences), the sentiment towards Facebook itself is often neutral. Facebook as a platform can evoke various feelings depending on personal experiences with it—some may find it useful for connecting with friends and sharing updates, while others may have concerns about privacy or find it overwhelming with content. However, the sentence itself does not indicate any strong positive or negative emotion towards Facebook specifically, hence the sentiment is deemed neutral in this context.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example57 :
+Aspect: Twitter
+@Sentence: Twitter Help Center | It looks like I â m not following someone I know I â ve followed ! http://t.co/Onk1xSQ7 via @support
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Twitter Help Center | It looks like I’m not following someone I know I’ve followed! http://t.co/Onk1xSQ7 via @support\n\nAspect: Twitter\n\nReasoning: Let\'s think step by step in order to determine the sentiment. We need to consider the context and the words used in the sentence. The sentence indicates a user interaction issue with following someone on Twitter. The expression "looks like I’m not following someone I know I’ve followed" suggests frustration or confusion because the user believes they should be following someone but Twitter indicates otherwise. This could imply a negative sentiment due to the perceived inconvenience or error.\n\nSentiment: Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example58 :
+Aspect: Jesse
+@Sentence: Are you guys as stoked as we are to see Jesse in a Tu-tu ? http://t.co/Fi0blpSb http://t.co/TKaOzpj9
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you've provided is actually a tweet with a link, and the actual text for analysis isn't directly visible. To accurately analyze sentiment polarity and its aspect, I would need the specific sentence from the tweet that you want me to analyze. Please provide the exact text you'd like me to evaluate."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example59 :
+Aspect: Facebook
+@Sentence: Trading Facebook Option s: In light of the upcoming Facebook IPO we add this discussion of trading Facebook optio ... http://t.co/Gx6NbP7R
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is likely **positive**.\n\nReasoning for sentiment prediction:\n- **Context of IPO**: An upcoming Initial Public Offering (IPO) generally generates positive sentiment, as it reflects optimism about the company's growth prospects and market interest.\n- **Discussion of Trading Options**: This indicates an active engagement in financial markets, suggesting the involvement of traders or investors who are optimistic or interested in potential profit opportunities.\n- **Link Sharing**: The fact that the content is being shared (indicated by the shortened URL) suggests relevance and potentially positive interest among those sharing it.\n\nOverall, the sentence conveys a positive sentiment towards Facebook, focusing on the opportunity to trade options in relation to its upcoming IPO, which is typically seen as a positive event in financial markets."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example60 :
+Aspect: David's
+@Sentence: David's Hybrid Spinach Spargo 385 Treated Seeds per Packet by David's Garden Seeds http://t.co/x9xOjLQB via @amazon
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely neutral.\n\nReasoning: Since the sentence is a product listing or description without explicit opinion words or context, the sentiment polarity is likely neutral. Neutral sentiment indicates that there is neither a positive nor negative emotional leaning expressed in the sentence. The sentence simply provides factual information about the product and where to find it (via Amazon).\n\nIn summary, the aspect "David\'s" refers to a brand name or seller, and the sentiment analysis of the sentence suggests a neutral sentiment because it lacks emotional language or opinions.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example61 :
+Aspect: Stefan Collini
+@Sentence: What Are Universities For ? By Stefan Collini http://t.co/QpqnNmi0
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you provided is actually a link to an article by Stefan Collini rather than a specific sentence for sentiment analysis. To conduct sentiment analysis, I'll need a specific sentence or excerpt from the article. Please provide a sentence or a short passage from Stefan Collini's article that you would like analyzed for sentiment. This will help me give you a more accurate analysis."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example62 :
+Aspect: Justine Gerardy The Neighbourgoods Market
+@Sentence: Forget the supermarket , go artisanal : By Justine Gerardy The Neighbourgoods Market in Saltriver , where people co ... http://t.co/xDUUJwUK
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='It appears that the sentence you provided is actually a link to a tweet or a webpage rather than a readable sentence. To accurately analyze sentiment polarity and its aspect, I need a clear and readable sentence from the content you want analyzed. Please provide a specific sentence or text that you would like me to analyze.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example63 :
+Aspect: Uma Thurman
+@Sentence: Will Uma Thurman Be Shopping For Pink Or Blue ? : PINK , according to Life & Style ! Uma Thurman is expecting a baby ... http://t.co/Tr6XNRzs
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example64 :
+Aspect: Budco
+@Sentence: Budco Supports Innovative Direct Marketing Media Through New DiscMail Direct Coalition http://tinyurl.com/37z5ntd
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence provided is actually a URL and not a readable sentence. Sentiment analysis typically requires a coherent sentence or phrase that expresses an opinion or sentiment about something. Could you please provide a different sentence or phrase that I can analyze for sentiment polarity and aspect? This will allow me to accurately perform the sentiment analysis you're looking for."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example65 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://fb.me/TFq96YOd
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards Facebook in this context is **neutral**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example66 :
+Aspect: YouTube
+@Sentence: I liked a YouTube video -- Social commercial http://youtu.be/4XbiVFME5d4?a
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. The use of "liked" indicates a positive sentiment towards the YouTube video, and there are no indicators suggesting a negative sentiment towards the platform itself. Therefore, the overall sentiment is positive towards YouTube in this context.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example67 :
+Aspect: God's
+@Sentence: I am like a little pencil in God's hand . That is all . - Mother Teresa #RT via @Dr Wayne W Dyer
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis sentiment analysis is based on the context of the sentence where the aspect "God\'s" is central to understanding the relationship described between the speaker and God. It reflects a deeply spiritual and positive sentiment associated with trust in divine guidance and purpose.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example68 :
+Aspect: Christina Sweetland
+@Sentence: News Update Recovering From Eating Disorders Focus Events - The presenter will be Christina Sweetland , a licensed cl ... http://ow.ly/1bjdfL
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nBased on the context provided, the sentiment towards Christina Sweetland can be inferred as positive. As a licensed professional presenting at an event focused on recovering from eating disorders, she is likely viewed positively for her expertise and contribution to this sensitive and important topic. The mention of her as the presenter indicates she is trusted to provide valuable insights and guidance, thus evoking a positive sentiment.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example69 :
+Aspect: Mostafa
+@Sentence: @Mo0stafa Yes , I should do that , Mostafa . It is my pleasure following you , man :)
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example70 :
+Aspect: Facebook
+@Sentence: Ahhhh gosh why did I have to go check Facebook . Ended up wasting so much time ... ):
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example71 :
+Aspect: De Briefcase Arsenal's Cesc Fabregas
+@Sentence: De Briefcase Arsenal's Cesc Fabregas fears he may have a broken leg : http://debriefcase.com/1511
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely negative.\n\nReasoning: This conclusion is drawn because the phrase "fears he may have a broken leg" indicates worry and potential distress, typically associated with negative news or events. In the context of sports news, especially injuries to key players, such sentiments are often perceived negatively by fans and stakeholders alike. Therefore, the sentiment of the sentence towards Cesc Fabregas and his team is likely negative due to the unfortunate news of a potential injury.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example72 :
+Aspect: Obama
+@Sentence: Senior Obama Campaign Staffer Tweets Subtle Attack on Romney : President Obama's senior campaign strategist took ... http://t.co/DzilfcyU
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely to be **negative**. This inference arises because the phrase "subtle attack on Romney" suggests a critical or adversarial tone towards Romney. As this action is attributed to a senior campaign staffer of Obama, it could be seen as reflecting unfavorably on Obama\'s campaign strategy or ethos, particularly from the perspective of those who support Romney or are critical of Obama\'s approach. Therefore, the sentiment conveyed towards Obama in this context is likely negative, given the implied criticism towards his opponent.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example73 :
+Aspect: Kiran
+@Sentence: Cute Females to have sex in Bangalore 8722971642 : Call Kiran 8722971642 Charming and sexy girls to be your tem ... http://twurl.nl/4zt676
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='It appears that the sentence you provided is spam or an inappropriate advertisement, likely for adult services, which includes a phone number and mentions someone named "Kiran" as a point of contact. Given the nature of the content, let\'s analyze it in detail:\n\nSentence: Cute Females to have sex in Bangalore 8722971642 : Call Kiran 8722971642 Charming and sexy girls to be your tem ... http://twurl.nl/4zt676\n\nAspect: Kiran\n\nReasoning: Let\'s analyze step by step to determine the sentiment towards the aspect "Kiran":\n\n1. **Identify the Aspect:** The aspect in focus is "Kiran," who is mentioned as a contact person in the advertisement.\n\n2. **Context Analysis:** The sentence is clearly part of a spam or inappropriate advertisement promoting sexual services. It uses suggestive language ("Cute Females to have sex") and includes a phone number for contacting "Kiran." The context is explicit and aimed at soliciting a particular service.\n\n3. **Sentiment Towards the Aspect (Kiran):** \n   - Kiran is mentioned as a contact person in an advertisement that promotes services related to sexual activities.\n   - The advertisement itself can be considered offensive, inappropriate, or potentially illegal depending on local laws and regulations.\n\n4. **Sentiment Analysis:** Considering the context of the sentence, the sentiment towards "Kiran" is likely negative. While the name "Kiran" itself is neutral, it is associated with an advertisement that promotes explicit and potentially illegal activities, which generally evokes a negative sentiment.\n\nSentiment: Negative\n\nIn summary, the sentiment towards "Kiran" in this sentence is negative due to the association with an explicit and inappropriate advertisement promoting adult services.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example74 :
+Aspect: Quasimidi Sirius
+@Sentence: Quasimidi Sirius Demoed by Polish Master on I Have Synth http://tinyurl.com/y9rcfsf
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely to be positive.\n\n---\n\nIn this analysis:\n\n- The sentence describes a demonstration of the Quasimidi Sirius synthesizer by someone described as a "Polish Master" on a platform related to synthesizers.\n- The aspect focused on is "Quasimidi Sirius," indicating the synthesizer itself.\n- The reasoning behind predicting a positive sentiment is based on the context of the sentence, which suggests a showcase or demonstration of the synthesizer. Such demonstrations typically highlight the positive aspects of the product, showcasing its features and capabilities to potential users or enthusiasts.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example75 :
+Aspect: Twitter
+@Sentence: Twitter Help Center | How To Change Language Settings http://t.co/61USVOr via @support
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is neutral.\n\nThis conclusion is drawn because the sentence is informative and instructional rather than expressing any clear positive or negative sentiment towards Twitter itself. It doesn't convey personal opinions or emotions but rather serves as a practical announcement or guide, thus resulting in a neutral sentiment analysis."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example76 :
+Aspect: Wiz Khalifa
+@Sentence: Wiz Khalifa Announces Engagement on Twitter [ VIDEO ] http://t.co/ryu1SLUz
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely positive. Engagement announcements, especially from celebrities, are generally perceived positively by their fans and followers as they celebrate personal happiness and milestones in their lives.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example77 :
+Aspect: Freemasons
+@Sentence: The Supranatural Secrets of the Freemasons http://ow.ly/5kf81
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is likely neutral. The sentence itself doesn't explicitly convey a positive or negative opinion about Freemasons but rather suggests a mysterious or secretive aspect, which could intrigue some readers neutrally. Without additional context or explicit sentiment indicators, neutrality is the most reasonable prediction based on the provided sentence."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example78 :
+Aspect: Royal Pirates
+@Sentence: Royal Pirates officially announce their Korean ... http://t.co/MnOHUcy via @koreaboo
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nReasoning: The use of "officially announce" in conjunction with a social media source known for K-pop news suggests that the announcement by Royal Pirates is likely seen as exciting or positive news by their fans and the broader K-pop community. Therefore, the sentiment towards Royal Pirates in this context is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example79 :
+Aspect: William Walker
+@Sentence: William Walker Joins Aegis Health Group as Vice President of Information ... - MarketWatch ( press release ): Will ... http://t.co/wghuk2bg
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you've provided is actually a URL from MarketWatch, which isn't a typical sentence structure that can be analyzed for sentiment. To properly analyze sentiment polarity, we usually need a clear, coherent sentence that expresses an opinion or feeling about something. URLs typically contain titles or descriptions of articles, which are not suitable for sentiment analysis in their raw form.\n\nIf you have a different sentence you'd like to analyze for sentiment polarity and its aspect, please provide it in a text format, and I'll be happy to assist you with the analysis."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example80 :
+Aspect: Ford / Mazda Credit
+@Sentence: Ford / Mazda Credit "Total Loss" Dept SUCKS ! Allstate paid off the claim May 20th and they still have NOT paid me my balance due ! They SUCK !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example81 :
+Aspect: twitter
+@Sentence: I know how to get tons of twitter followers ! http://t.co/s9oC91Zf
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example82 :
+Aspect: FaceBook
+@Sentence: Free tutorial on how to earn money on FaceBook - http://grsnip.com/r/v5I1 - Couldn't be easier , read this out , free today !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\n---\n\nThis analysis concludes with a prediction of positive sentiment towards the aspect "Facebook" due to the apparent accessibility and potential value of the tutorial described in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example83 :
+Aspect: EU
+@Sentence: IBN : Iran vs EU : Iraq Plays Go-Between in Oil Export Crisis http://t.co/nOFOjW6I
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Given the nature of the headline and the context provided, the sentiment towards the EU could be interpreted as neutral to slightly negative. The use of "crisis" and the need for a mediator might imply challenges or tensions in the relationship, potentially influencing a negative sentiment perception.\n\nIt\'s important to note that the sentiment analysis here is based on the inference drawn from the context provided by the headline. Headlines often simplify complex situations and may not provide enough context for a definitive sentiment analysis without further details.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example84 :
+Aspect: Forex
+@Sentence: Do You Want To Make Money On AutoPilot Using Forex ? http://tinyurl.com/yeuc2oo
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\n---\n\nExplanation:\n\n1. **Context Analysis**: The sentence is a question asking if the reader wants to make money on autopilot using Forex. It implies an opportunity or a suggestion related to Forex trading.\n\n2. **Aspect Identification**: The aspect in focus is "Forex", which refers to foreign exchange trading.\n\n3. **Sentiment Analysis**:\n   - **Positive Sentiment**: There is an implied positive sentiment because making money on autopilot suggests ease and profitability, which are generally viewed positively.\n   - **Neutral Sentiment**: The neutrality comes from the fact that the sentence is an open-ended question rather than making a definitive statement. It does not express strong positive or negative emotions directly about Forex.\n   - **Negative Sentiment**: There is no explicit negative sentiment expressed in the sentence.\n\n4. **Conclusion**: Considering the question format and the absence of explicitly negative or strongly positive language, the sentiment towards Forex in this context is predicted to be neutral. The sentence merely presents an opportunity without leaning strongly towards either positive or negative sentiment.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example85 :
+Aspect: NYT Editorial
+@Sentence: #iranelection Iran's War on its People . NYT Editorial Dec 28 http://bit.ly/4XMNNU
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment conveyed towards the NYT Editorial in the tweet seems negative. The use of "War on its People" suggests a critical tone towards Iran\'s government, likely echoing the stance of the NYT Editorial which is often known for its critical perspective on global political issues. Therefore, the sentiment polarity is **negative** towards the NYT Editorial.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example86 :
+Aspect: MSF
+@Sentence: Do the right thing and give to Haiti now . MSF is the most needed NGO : https://donate.doctorswithoutborders.org/
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nIn this context, the mention of MSF as the most needed NGO in the sentence conveys a positive sentiment, reflecting trust and endorsement of their humanitarian efforts in Haiti.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example87 :
+Aspect: mazen
+@Sentence: @MazenFarah hi mazen i am going through the #Mowgli experience now and it is amazing !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity towards Mazen Farah is **positive**. The sentence expresses enthusiasm and satisfaction, suggesting a favorable opinion of Mazen Farah and the experience associated with him.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example88 :
+Aspect: V2 Cigs
+@Sentence: V2 Cigs is Fastest Growing E-Cigarette Brand , Expert Reports - Online PR News ( press release ) http://ow.ly/1bzBYf
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="I see that the sentence you provided seems to be a headline or a URL from a press release rather than a coherent sentence expressing an opinion or emotion about something. To accurately analyze sentiment polarity, we typically need a complete and meaningful sentence that contains clear subjectivity or expresses an opinion or emotion.\n\nIf you have another sentence or a different example that you'd like to analyze for sentiment polarity and aspect, please provide it, and I'll be glad to help analyze it in detail!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example89 :
+Aspect: Wilmington New Media
+@Sentence: Wilmington New Media Makes Your Site Confident http://p.ost.im/p/edQWkU
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the text you provided is a URL rather than a typical sentence with meaningful content. URLs usually contain technical information or are used for directing to specific web pages rather than conveying sentiment.\n\nTo accurately analyze sentiment, we typically need a sentence or text that expresses an opinion or emotion. If you have another sentence or piece of text you'd like to analyze for sentiment, please provide it, and I'll be happy to assist you!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example90 :
+Aspect: Twitter
+@Sentence: In the meantime , if you follow us on Twitter or like us on Facebook to show you're serious , maybe we'll let you in first in the queue ;-)
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis conclusion is drawn because the sentence portrays following on Twitter as a positive action that could lead to favorable outcomes, such as being allowed to enter the queue first. The overall tone is encouraging and suggests a benefit to engaging with the entity on Twitter.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example91 :
+Aspect: Ishant
+@Sentence: @khadijahafeji All r doing well .. But i like Ishant .. The way his bowl and he crossed 150 kmph ..
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example92 :
+Aspect: sharad pawar
+@Sentence: what a joke - the gom for the jan lok pal bill - sharad pawar , moily and kapil sibal.this govt thinks we the people are stupid and gullible .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity towards Sharad Pawar is likely negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example93 :
+Aspect: NASA
+@Sentence: NASA unveils sweeping new program s: A week before President Obama attends a "space summit" in Florida , NASA unveil ... http://bit.ly/cwA9DE
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='**Positive**\n\nBased on the context provided in the sentence, the sentiment polarity regarding the aspect "NASA" is likely to be positive. This conclusion is drawn from the indication of NASA\'s active engagement in new programs and the context of a significant upcoming event related to space exploration.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example94 :
+Aspect: twitter
+@Sentence: Hi friends !! We now have a new twitter account , follow us at @Dgbillboard
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis conclusion is drawn because the sentence expresses excitement ("Hi friends !!", "new twitter account") and invites others to follow, which typically indicates a positive outlook and anticipation of engagement. The use of exclamation marks and friendly language further reinforces a positive sentiment.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example95 :
+Aspect: Philip Kotler
+@Sentence: Today had the pleasure & honor to meet Philip Kotler , to attend the conference-forum "Marketing 3.0" by him !!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis sentiment is derived from the excitement and honor expressed in meeting Philip Kotler, coupled with the anticipation of participating in an event focused on modern marketing concepts led by him. The overall tone of the sentence is enthusiastic and appreciative, indicating a positive outlook towards the experience.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example96 :
+Aspect: UN
+@Sentence: UN agency calls for regional food body http://t.co/d0u7FVfJ #UAE #Follow
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you've provided is a link rather than a readable text. I can't analyze sentiment from a URL. Could you please provide a different sentence or text for analysis?"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example97 :
+Aspect: Street Style Blogs
+@Sentence: I love the Street Style Blogs , showing individuals styles in public . http://t.co/XdK6zD3C
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='**Sentence:** I love the Street Style Blogs, showing individuals styles in public. http://t.co/XdK6zD3C\n\n**Aspect:** Street Style Blogs\n\n**Reasoning:** Let\'s think step by step in order to produce the sentiment. We\'ll analyze the given sentence to determine the sentiment polarity towards "Street Style Blogs".\n\n1. **Context and Content:** The sentence expresses a positive sentiment towards "Street Style Blogs".\n   \n2. **Positive Language:** The use of "love" indicates a strong positive emotion towards the subject.\n\n3. **Purpose and Effectiveness:** The sentence suggests that Street Style Blogs effectively showcase individual styles in public, implying they fulfill their intended purpose well.\n\n4. **Emphasis on Public Display:** The mention of "showing individuals styles in public" highlights the aspect of visibility and accessibility, which enhances the positive sentiment due to the perceived authenticity and inclusivity.\n\n**Sentiment:** The predicted sentiment polarity towards "Street Style Blogs" in this sentence is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example98 :
+Aspect: MOE
+@Sentence: @VincentChenPH @teresakok I read the newspaper , why sel gov approve the land for the schools which have yet to get the approval from MOE ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\n---'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example99 :
+Aspect: Rackwise Inc.
+@Sentence: RACK's ( Rackwise Inc. ) recent partnership with Intel makes this company even more attractive in our eyes !!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards Rackwise Inc. in this sentence is **positive**. \n\n---\n\nThis analysis considers the context, the specific aspect (Rackwise Inc.), the reasoning behind the sentiment, and concludes with the predicted sentiment polarity based on the language and expressions used in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example100 :
+Aspect: Social security
+@Sentence: it's official ! Social security now pays out more than it brings in ! Word of advice : don't depend on social security in the future !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThis sentiment analysis is negative because the statements indicate a concern about the financial health and future reliability of Social Security. The phrase "pays out more than it brings in" typically conveys a situation of financial insufficiency or instability, which could evoke worry or pessimism about the system\'s ability to fulfill its intended purpose in the future. Additionally, the advice to not depend on Social Security further reinforces a negative sentiment, suggesting a lack of trust or confidence in its long-term viability as a reliable source of income or support.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example101 :
+Aspect: @GhadahAlghunaim
+@Sentence: @GhadahAlghunaim .. Offer is ready from now .. Good luck in your PHD challenge .. Please enjoy it as much as you can .. î
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example102 :
+Aspect: Helen
+@Sentence: Thank you to all who sponsored Helen at Wwhd for the charity cycle ride - we raised over Â£8 , 000
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example103 :
+Aspect: The US Mint
+@Sentence: coin mint 1 OZ Gold Coins From The US Mint ;P http://t.co/CGJEwxUo
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence provided is not clear and appears to contain some garbled text and a link. In order to analyze sentiment polarity and aspect accurately, I'll need a clearer and more complete sentence that clearly expresses a thought or opinion. Please provide a revised sentence for analysis."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example104 :
+Aspect: Google X
+@Sentence: Google X to launch essentially Android vision ( augmented reality glasses ) by the end of the year : http://t.co/DfHtQSGN
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Certainly! Let\'s analyze the sentiment polarity of the given sentence focusing on the aspect "Google X".\n\nSentence: Google X to launch essentially Android vision (augmented reality glasses) by the end of the year : http://t.co/DfHtQSGN\n\nAspect: Google X\n\nReasoning: Let\'s think step by step in order to analyze the sentiment polarity towards Google X in this sentence. Google X is a division of Google known for pioneering ambitious technological projects. The sentence mentions Google X launching augmented reality glasses, indicating innovation and forward-thinking.\n\n1. **Context**: Google X is associated with cutting-edge projects like Google Glass and driverless cars, suggesting a focus on innovation and technological advancement.\n   \n2. **Content of the Sentence**: The sentence announces a future launch of augmented reality glasses by Google X, indicating progress and development in this field.\n\n3. **Sentiment Analysis**:\n   - **Positive Sentiment**: The mention of Google X launching augmented reality glasses suggests a positive sentiment. It implies that Google X continues to innovate and lead in technology, which can be seen as exciting and forward-looking.\n   - **Neutral Sentiment**: There\'s no explicit positive or negative judgment in the sentence itself, but the context of Google X launching a new technology generally leans towards positivity.\n   - **Negative Sentiment**: There\'s no indication of negative sentiment towards Google X in this sentence. Negative sentiment could arise if there were doubts or criticisms about Google X\'s capabilities or the feasibility of the project, but such negativity isn\'t present here.\n\nTherefore,\n\nSentiment: The predicted sentiment polarity towards Google X in this sentence is **positive**. This is inferred from the context of Google X being associated with innovative projects and the announcement of a new technological endeavor (augmented reality glasses). This aligns with the perception that Google X is continuing to push boundaries and innovate in the tech industry.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example105 :
+Aspect: Subway
+@Sentence: Subway Franchise for Sale : How Much Does a Subway Franchise Cost ? http://budurl.com/wm4k
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Subway Franchise for Sale: How Much Does a Subway Franchise Cost? http://budurl.com/wm4k\n\nAspect: Subway\n\nReasoning: Let\'s analyze step by step in order to produce the sentiment.\n\n1. **Identify the Context:** The sentence is a query about the cost of purchasing a Subway franchise. It is informational and does not express any emotional tone or opinion towards Subway itself.\n\n2. **Aspect Analysis:** The aspect in focus is "Subway," specifically related to the financial aspect of acquiring a franchise from this chain. The question pertains to cost, not to the quality, reputation, or any other characteristic of Subway.\n\n3. **Determine Sentiment Impact:** Since the sentence is purely seeking factual information about the cost of a Subway franchise, without expressing any positive or negative sentiment towards Subway, the sentiment in relation to the Subway aspect is neutral. It is an inquiry devoid of emotional leaning or judgment.\n\n**Sentiment:** Neutral\n\nThis analysis concludes that the sentiment polarity towards the aspect "Subway" in the given sentence is neutral because the sentence is focused on factual inquiry about franchise costs without expressing any opinion or emotional tone.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example106 :
+Aspect: Meat Ball del Dawson's
+@Sentence: Meat Ball del Dawson's http://t.co/BEe4DcQO
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely **positive**. This assumption is based on the common positive associations with food-related terms like "Meat Ball" and the potential personal or unique aspect suggested by "del Dawson\'s". Without explicit negative context, the sentiment is likely positive, possibly implying satisfaction or curiosity about the place or dish mentioned.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example107 :
+Aspect: Ali Alraouf
+@Sentence: The Interior Design Department Presents a Lecture by Ali Alraouf â Pearls , Harrods and FIFA : ( De ) -Constructing ... http://t.co/KwoWbpOA
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you've provided is not in a readable format and might be truncated or improperly encoded. Could you please provide a different sentence that is clear and complete? I'll be able to help you analyze its sentiment polarity and aspect once I have a proper sentence to work with."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example108 :
+Aspect: Reuters
+@Sentence: Dollar rallies broadly , up over 1 pct vs . euro - Reuters http://t.co/ZCkVShoO
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example109 :
+Aspect: Marie Colvin
+@Sentence: Journalist Marie Colvin to be buried in Syria , mother says http://t.co/QfSubQ3X
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='It seems like the sentence provided is a URL, which cannot be directly analyzed for sentiment and aspect. Could you please provide a readable text sentence that we can use to analyze the sentiment? This will allow us to proceed with the analysis effectively.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example110 :
+Aspect: Twitter
+@Sentence: Twitter Setting Up to Dominate Local Search : This last week , at the Chirp Conference ( Official Twitter Developer C ... http://bit.ly/cnLboy
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example111 :
+Aspect: morehead state
+@Sentence: morehead state : O http://bit.ly/fv2kOm Where do I go from here with my Associates in Science degree ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you provided is incomplete or contains an incomplete URL, which makes it difficult to analyze sentiment and aspect effectively. To accurately analyze sentiment, I would need a clear and complete sentence that represents a coherent thought or statement. Please provide a revised sentence, and I'd be happy to help you analyze it."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example112 :
+Aspect: Egyptian interior ministry
+@Sentence: Israel seems to be relying on a strategy of being 'too powerful to oppose' .. Same strategy adopted by the former Egyptian interior ministry
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example113 :
+Aspect: Spezza
+@Sentence: Spezza anxious to shoulder load with teammate s: Senators centre Jason Spezza is pointing toward a return to the ... http://bit.ly/gUglMu
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis analysis takes into account the linguistic cues, contextual information, and overall tone of the sentence to infer the sentiment towards Jason Spezza, which appears to be positive due to his expressed eagerness and readiness to contribute.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example114 :
+Aspect: Saudi Prince Alwaleed
+@Sentence: Saudi Prince Alwaleed buys TWITTER STAKE $ 300 MILLION - DUBAI ( Reuters ) Prince Alwaleed bin Talal , the Saudi billio ... http://t.co/OZcaL2CO
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sure, let\'s analyze the sentiment polarity of the given sentence based on the provided aspect.\n\n---\n\n**Sentence:** Saudi Prince Alwaleed buys TWITTER STAKE $300 MILLION - DUBAI (Reuters) Prince Alwaleed bin Talal, the Saudi billionaire.\n\n**Aspect:** Saudi Prince Alwaleed\n\n**Reasoning:** Let\'s think step by step in order to determine the sentiment polarity related to the aspect "Saudi Prince Alwaleed." \n\n1. **Identify the Action and Context:** The sentence reports that "Saudi Prince Alwaleed buys TWITTER STAKE $300 MILLION." This implies that Prince Alwaleed is making a significant investment in Twitter, which is a substantial financial move.\n   \n2. **Understand the Financial Impact:** The fact that the prince is investing $300 million is a noteworthy and positive financial action, indicating confidence and interest in Twitter\'s value.\n\n3. **Consider the Broader Implications:** Investing such a large amount can be seen positively as it suggests the prince believes in Twitter\'s future potential. This kind of financial involvement typically signals a vote of confidence in the company\'s performance or future prospects.\n\n4. **Aspect-Specific Sentiment:** Focusing on the aspect "Saudi Prince Alwaleed," the sentiment is positive because the action reflects a high level of engagement and investment, which is generally perceived positively in financial and business contexts.\n\n**Sentiment:** Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example115 :
+Aspect: Google"
+@Sentence: 24 hours after launch of "Mass Traffic without Google" over 3 , 000 people jumped at the opportunity - view http://bit.ly/jamtraffic
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: 24 hours after launch of "Mass Traffic without Google" over 3,000 people jumped at the opportunity - view http://bit.ly/jamtraffic\n\nAspect: Google\n\nReasoning: Let\'s think step by step in order to determine the sentiment. The sentence describes the success of a campaign ("Mass Traffic without Google") by stating that over 3,000 people took action within 24 hours of its launch. The aspect "Google" is mentioned as the entity from which traffic is being diverted.\n\nSentiment: The sentiment expressed in the sentence is likely neutral. The sentence itself is factual and does not explicitly convey a positive or negative opinion about Google. It simply reports on the number of people who responded to the campaign, without any emotional or evaluative language towards Google. Therefore, the sentiment polarity is neutral.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example116 :
+Aspect: Murray
+@Sentence: Murray , Federer to Dubai semis in straight set s: Roger Federer and Andy Murray advanced to the semifinals of the ... http://t.co/bfT7rzmZ
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. \n\n---\n\nIn this analysis:\n\n- The sentence reports on Murray and Federer advancing to the semifinals, indicating a positive outcome in their respective matches.\n- The aspect considered is "Murray," focusing on his performance and achievement.\n- The reasoning emphasizes the context of sports reporting where advancing to the semifinals is seen as a positive result.\n- Therefore, the sentiment associated with Murray in this context is positive, reflecting his success in reaching the semifinals of the Dubai tournament.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example117 :
+Aspect: rahul gandhi'S
+@Sentence: who pays the cost of rahul gandhi'S security ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is likely to be neutral. The sentence itself is an interrogative asking about a factual matter (who pays for the security), without expressing a positive or negative opinion directly. It's more about seeking information rather than conveying a particular emotional stance."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example118 :
+Aspect: J . W . Schopf~
+@Sentence: J . W . Schopf~ For four-fifths of our history our planet was populated by pond scum .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity is likely **neutral**. The sentence seems to neutrally describe a historical fact or perspective without explicitly indicating a positive or negative sentiment towards J.W. Schopf or his work. The use of "pond scum" might be interpreted negatively in a colloquial sense, but in the context of discussing early life on Earth, it\'s a neutral scientific term.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example119 :
+Aspect: JFK
+@Sentence: Spend $ 25k to buy ugly rocker JFK sat in night B4 he died http://t.co/VdyScUNS, or $ 329 for the style he actually owned http://t.co/2opj9eMi
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely to be neutral.\n\nReasoning: The sentence does not express strong positive or negative emotions towards JFK himself. Instead, it discusses the pricing and desirability of items associated with him. The mention of the "ugly rocker" could imply some skepticism or humor about the extravagant price for a chair JFK sat in, but it doesn\'t directly criticize JFK. Similarly, the mention of the more affordable style he owned suggests a comparison more focused on the items\' values rather than JFK\'s legacy or personal qualities. Therefore, the overall sentiment is neutral as it doesn\'t convey strong positive or negative emotions towards JFK directly.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example120 :
+Aspect: Ian
+@Sentence: @iansomerhalder Ian , How do you feeling now ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The sentiment polarity here is likely neutral. The sentence doesn't express a strong positive or negative sentiment towards Ian but rather seeks information about his current feelings, which can be interpreted neutrally as a general inquiry."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example121 :
+Aspect: Anthony Robbins
+@Sentence: Your life changes the moment you make a new , congruent , and committed decision . Anthony Robbins
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example122 :
+Aspect: living.Arthur C . Clarke
+@Sentence: Behind every man now alive stand 30 ghosts , for that is the ratio by which the dead outnumber the living.Arthur C . Clarke
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity of this aspect can be categorized as **neutral**. While the statement evokes a sense of reflection and contemplation, it does not inherently express positivity or negativity towards the concept of life and death. Instead, it presents a factual observation about the numerical disparity between the living and the dead, leaving the interpretation and emotional response largely up to the reader.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example123 :
+Aspect: Twitter
+@Sentence: We started testing Twitter on the PG website .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example124 :
+Aspect: 'Jack
+@Sentence: Movie Review : 'Jack and Jill' - Conway Daily Sun : Patriot-NewsMovie Review : 'Jack and Jill'Conway Daily SunÃ¢ÂÂJa ... http://t.co/N7xEGdHb
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence provided is actually a snippet of a web link or a truncated text related to a movie review rather than a coherent sentence. This makes it difficult to analyze for sentiment polarity and aspect. To perform a meaningful analysis, I would need a complete and coherent sentence from the movie review or any other text you'd like to analyze. Please provide a different example or clarify the sentence you want analyzed. This way, I can assist you better in analyzing the sentiment polarity and aspect."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example125 :
+Aspect: Assad
+@Sentence: Time ticking for Assad in Syria - Turkey's Erdogan : http://t.co/PbgZydxk
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThis sentiment analysis is based on the understanding that the phrase "Time ticking for Assad" implies a challenging or precarious situation for Assad, reflecting a negative outlook towards his political future in Syria.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example126 :
+Aspect: uncle gan
+@Sentence: $ 150 for dye/highlight , cut plus treatment ... Cheap ! i like uncle gan and aunti robelle :) http://t.co/823mO26C
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn summary, the sentiment towards "uncle gan" in the sentence is positive, as indicated by the overall positive tone of the sentence and the specific mention of liking uncle gan.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example127 :
+Aspect: Facebook
+@Sentence: Look On Facebook @ Alpha Rain Roofing for pictures of 30 % energy Savings metal roof installation ! http://bit.ly/ahNraj
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis assessment is based on the promotional nature of the sentence and the assumption that the intent is to highlight the benefits and achievements (energy savings and quality installations) associated with the roofing services, which are likely viewed positively by the target audience interested in such topics. The absence of any negative language or criticism further supports this interpretation.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example128 :
+Aspect: Bowen Health
+@Sentence: Relaxing under all conditions | The Bowen Health Blog http://t.co/4oowAwF via @bowencollege
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example129 :
+Aspect: Shaklee
+@Sentence: Free Shaklee Membership when you buy the Earth Day Healthy Home Pack for $ 30 . http://tiny.ly/gjNT
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you've provided doesn't seem to make complete sense or is possibly a fragment from a tweet or promotional message. To accurately analyze sentiment and aspect, we typically need a grammatically complete sentence that expresses a clear idea. \n\nIf you have another sentence or text you'd like me to analyze, please provide it, and I'll be happy to assist you in analyzing the sentiment polarity and its associated aspect."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example130 :
+Aspect: Obama
+@Sentence: Boston Professor Hails Obama for Declaring War on Deficits . Wait , What ? http://bit.ly/hxymv4
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='It appears that the sentence provided is actually a headline with a link ("Boston Professor Hails Obama for Declaring War on Deficits. Wait, What? http://bit.ly/hxymv4"). Since I can\'t access the content of the link or the complete sentence, I\'m unable to analyze sentiment polarity and aspect accurately.\n\nTo perform sentiment analysis effectively, I would need the actual complete sentence or text to evaluate. If you can provide the full sentence or paraphrase its content here, I\'d be happy to assist you with the analysis.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example131 :
+Aspect: Mubarak
+@Sentence: EID Mubarak for every one , enjoy the vacation ....
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore:\n\n---\n\nSentence: EID Mubarak for every one , enjoy the vacation ....\n\nAspect: Mubarak\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We recognize that "Eid Mubarak" is a customary greeting used during Muslim holidays, conveying blessings and good wishes. Additionally, the phrase "enjoy the vacation" indicates a positive sentiment associated with the holiday period.\n\nSentiment: The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example132 :
+Aspect: Deutsche Welle
+@Sentence: I just voted for http://introutsugar.wordpress.com/ at Deutsche Welle Blog Awards http://thebobs.com #thebobs
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example133 :
+Aspect: FOREX
+@Sentence: News . Here I earn on FOREX , indexes and raw actives ... I stake on Bettings , I recommend , high profit\\\/// ... http : //t.co/4PuSDxw
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nReasoning: The sentiment towards FOREX in this context can be interpreted as neutral. While the mention of earning and high profit could imply positivity, the sentence also includes elements like "staking on Bettings," which could indicate a speculative or risky approach. The overall tone is somewhat ambiguous and lacks specific emotional indicators that would clearly lean towards either positive or negative sentiment. Therefore, the sentiment polarity for the aspect of FOREX in this sentence is categorized as neutral.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example134 :
+Aspect: cnn
+@Sentence: Fomny Watch cnn English News international live online world tv tv links , cnn breaking headline news http://t.co/fvifQwm via @AddThis
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It looks like the sentence you've provided appears to be a malformed or incomplete URL rather than a coherent sentence. Therefore, it's not possible to perform a sentiment analysis on it. \n\nIf you have another sentence or text you'd like analyzed, please provide it, and I'd be happy to help analyze the sentiment polarity and its aspects."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example135 :
+Aspect: Millennium Tutors
+@Sentence: Millennium Tutors Kansas City , MO Use promocode for an additi http://t.co/ArAIPukr KansasCity Test Preparation & Tutoring Services #coupon
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\n---\n\nExplanation:\n\n1. **Context Analysis**: The sentence primarily discusses Millennium Tutors located in Kansas City, MO, and mentions a promotional code for additional benefits related to tutoring services.\n\n2. **Sentiment Analysis**:\n   - **Positive Aspects**: The presence of a promotional code and the mention of tutoring services suggest potential benefits or discounts, which could be perceived positively by individuals interested in tutoring.\n   - **Negative Aspects**: The sentence does not explicitly convey any negative sentiment; however, some readers might find promotional content repetitive or intrusive.\n   - **Neutral Aspects**: The sentence appears to be factual and promotional in nature, lacking emotional language that would indicate a strongly positive or negative sentiment.\n\n3. **Conclusion**: Considering the promotional nature of the sentence and the lack of emotive language, the sentiment polarity is assessed as neutral. It provides information about a service and promotion without evoking strong positive or negative feelings.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example136 :
+Aspect: GCFF
+@Sentence: See you all tonight at 7 : 30 PM at Cinemagic for NOV 17 | GCFF 2011 Double Screening : Sun Come Up ( short film ) and ... http://t.co/Q3i3pIvb
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you've provided is a Twitter post or a similar social media status rather than a regular sentence. Sentiment analysis typically works best with coherent, complete sentences that express a clear opinion or emotion. If you have another sentence or a different type of text you'd like to analyze for sentiment polarity and aspect, please provide it, and I'll be glad to help analyze it in detail!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example137 :
+Aspect: Putin
+@Sentence: Disobey Putin anti-election protest in Moscow - @Demotix News http://t.co/M9OjYA5F
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThis analysis concludes that the sentiment towards Putin in the given sentence is negative, influenced by the indication of disobedience and anti-election sentiments associated with protests in Moscow.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example138 :
+Aspect: National News
+@Sentence: Mother of lost trawlerman died a few hours before he drowned - National News - Independent.ie http://t.co/QgSSSGx7
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nThe sentiment towards "National News" in this context would likely be neutral. National news typically reports on a wide range of events, including both positive and negative occurrences. In this case, while the events described (the death of the trawlerman and his mother) are undoubtedly tragic, the sentiment towards the aspect of "National News" itself remains neutral as it serves its function of reporting news, irrespective of the emotional content of the events being reported.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example139 :
+Aspect: Chelsea Summer s:
+@Sentence: Chelsea Summer s: Hot housewife Chelsey Summers can â t think of a single reason why being sexy is a bad thing . The ... http://t.co/scU1N5l7
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nBased on the statement provided, the sentiment towards Chelsey Summers is positive. She is depicted as someone who confidently embraces her sexuality and sees no downside to being sexy. The language used suggests empowerment and self-assuredness, indicating a positive sentiment associated with the aspect "Chelsey Summers".'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example140 :
+Aspect: Qualcomm
+@Sentence: Qualcomm ups dividend , approves up to $ 4B buyback : Mobile phone chip-maker Qualcomm Inc . sa ... http://t.co/fcPJDhhq http://t.co/FiSmxplN
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. \n\n---\n\nIn this analysis, the positive sentiment is derived from the news about Qualcomm increasing dividends and approving a substantial buyback program, which are actions generally perceived favorably in the financial and investor communities.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example141 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://t.co/2jaxcraY
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\nReasoning: The sentence itself does not express explicit positive or negative emotions towards Facebook. It simply states a factual action of posting a photo, which typically does not carry inherent positive or negative sentiment towards the platform. Therefore, the sentiment towards Facebook in this context is neutral.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example142 :
+Aspect: DJ Fernando
+@Sentence: DJ Fernando Vocal Deep , Tech , Grooving House Mix 2010 http://t.co/cvmI6Et
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you've provided is actually a link or a string of characters that doesn't contain readable text. Sentiment analysis typically requires a coherent sentence with meaningful content that can convey sentiment. If you have another sentence you'd like to analyze, please provide it, and I'll be happy to assist you with the sentiment analysis following the format you mentioned."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example143 :
+Aspect: Dr David Hill
+@Sentence: Only 1 sleep to go before Dr David Hill is here in Australia . If you know anyone that has any health challenges or ... http://t.co/XXaGtFri
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Only 1 sleep to go before Dr David Hill is here in Australia. If you know anyone that has any health challenges or ... http://t.co/XXaGtFri\n\nAspect: Dr David Hill\n\nReasoning: Let\'s analyze the sentiment polarity of the given sentence and its aspect.\n\n1. **Context of the Sentence:** The sentence expresses anticipation and excitement about Dr. David Hill\'s imminent visit to Australia. The phrase "Only 1 sleep to go" suggests that the speaker is eagerly looking forward to Dr. Hill\'s arrival.\n\n2. **Aspect Analysis:** The aspect we are focusing on is "Dr David Hill." The sentence revolves around his upcoming visit, indicating that he is the central figure of interest.\n\n3. **Sentiment Indicators:** \n   - The phrase "Only 1 sleep to go" typically indicates a positive sentiment, implying excitement or anticipation.\n   - There is no negative language in the sentence; instead, it conveys a sense of eagerness and expectation.\n   - The mention of "health challenges" suggests that Dr. David Hill might be associated with healthcare or addressing health issues, which could contribute positively to the sentiment if he is perceived as someone who can provide assistance or solutions.\n\n4. **Overall Sentiment:** Given the excited tone and anticipation surrounding Dr. David Hill\'s visit, as well as the implication of his involvement in addressing health challenges, the sentiment of the sentence is positive. It reflects optimism and eagerness about his imminent arrival.\n\n**Sentiment:** Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example144 :
+Aspect: Wilton
+@Sentence: Discount Wilton Holiday Red and White Sprinkles
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nIn summary, the sentence "Discount Wilton Holiday Red and White Sprinkles" is likely to evoke a positive sentiment towards Wilton due to the implication of a discount and association with festive products.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example145 :
+Aspect: Abraham
+@Sentence: http://t.co/kb9ZDVXQ - Biblical Patriarchs Abraham & Moses NEVER EXISTED As the Bible Portrays http://t.co/wbb8XVwr
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nReasoning: The sentiment expressed towards the aspect "Abraham" is negative because the sentence directly contradicts the traditional belief in Abraham\'s historical existence as depicted in religious texts. It challenges a fundamental aspect of religious and historical narratives, potentially causing discomfort or disagreement among those who hold these beliefs. Therefore, the sentiment polarity towards "Abraham" in this context would be negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example146 :
+Aspect: YouTube
+@Sentence: Call of Duty : Modern Warfare 3 - Piazza "Teddy Bear" Easter Egg - YouTube http://t.co/cW9SVwDw ( via @ultraryanrules )
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example147 :
+Aspect: Twitter
+@Sentence: I need to find a new way to interact with Twitter ; else I'll just drift farther and farther apart from it as my priorities shift .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nBased on the analysis, the sentiment towards Twitter in the sentence is negative. The speaker is expressing a need to change their interaction with Twitter and indicates a potential distancing from it, which suggests a negative sentiment towards the platform in its current form.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example148 :
+Aspect: Nickelback's
+@Sentence: @gigswigs yes bb . I'm listening Nickelback's Somebody and was just musing tt songs reminds us of different episodes- this one is of Canada
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example149 :
+Aspect: GM
+@Sentence: GM expects to repay $ 1 billion loan to Treasury : report ( Reuters ) : - http://u.nu/6q9w7
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn considering that repaying loans generally reflects well on a company's financial health and can be perceived positively by investors and stakeholders."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example150 :
+Aspect: @YouTube
+@Sentence: I uploaded a @YouTube video http://t.co/KPlIFhKi Show Gratitude To Allah's Favours
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Neutral\n\nThis analysis concludes that the sentiment towards @YouTube in the given sentence is neutral, as the sentence primarily focuses on the act of uploading a video and expressing gratitude towards something else (Allah's favors)."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example151 :
+Aspect: Harvard Business Review
+@Sentence: How Retailers Are Reinventing Shopping - Harvard Business Review : http://t.co/Dq5YRzKn @Said_Morales
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\nThis is because the sentence itself does not express a positive or negative opinion about Harvard Business Review. Instead, it simply mentions the publication in a factual context without indicating any emotional evaluation. Therefore, the sentiment towards Harvard Business Review in this context can be considered neutral.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example152 :
+Aspect: Allah
+@Sentence: @deepikapadukone happy birthday beautiful.may Allah gives you long life
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example153 :
+Aspect: Twitter
+@Sentence: The Twitter 100 : No 1 to 10 - News - People - The Independent http://t.co/yQL39tfk
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="---\n\nSentence: The Twitter 100 : No 1 to 10 - News - People - The Independent http:// Twitter 100 : No 1 to 10 - News - People - The Independent http://t.co/yQL39tfk\n\nAspect: Twittertter 100 : No 1 to 10 - News - People - The Independent http://t.co/yQL39tfk\n\nAspect: Twitter\n\nReasoning: Let's think step by step in order to determine the sentiment. The sentence provided is actually a URL and a headline reference to : No 1 to 10 - News - People - The Independent http://t.co/yQL39tfk\n\nAspect: Twitter\n\nReasoning: Let's think step by step in order to determine the sentiment. The sentence provided is actually a URL and a headline reference to a list on The Independent website. Since the input is not a complete sentence with clear context or sentiment: No 1 to 10 - News - People - The Independent http://t.co/yQL39tfk\n\nAspect: Twitter\n\nReasoning: Let's think step by step in order to determine the sentiment. The sentence provided is actually a URL and a headline reference to a list on The Independent website. Since the input is not a complete sentence with clear context or sentiment-bearing content, it's challenging to determine the sentimento 1 to 10 - News - People - The Independent http://t.co/yQL39tfk\n\nAspect: Twitter\n\nReasoning: Let's think step by step in order to determine the sentiment. The sentence provided is actually a URL and a headline reference to a list on The Independent website. Since the input is not a complete sentence with clear context or sentiment-bearing content, it's challenging to determine the sentiment polarity directly. Sentiment analysis typically requires a complete sentence or a clear textual input. Given this information, no explicit sentiment (positive1 to 10 - News - People - The Independent http://t.co/yQL39tfk\n\nAspect: Twitter\n\nReasoning: Let's think step by step in order to determine the sentiment. The sentence provided is actually a URL and a headline reference to a list on The Independent website. Since the input is not a complete sentence with clear context or sentiment-bearing content, it's challenging to determine the sentiment polarity directly. Sentiment analysis typically requires a complete sentence or a clear textual input. Given this information, no explicit sentiment (positive, neutral, or negative) can be derivedo 10 - News - People - The Independent http://t.co/yQL39tfk\n\nAspect: Twitter\n\nReasoning: Let's think step by step in order to determine the sentiment. The sentence provided is actually a URL and a headline reference to a list on The Independent website. Since the input is not a complete sentence with clear context or sentiment-bearing content, it's challenging to determine the sentiment polarity directly. Sentiment analysis typically requires a complete sentence or a clear textual input. Given this information, no explicit sentiment (positive, neutral, or negative) can be derived from the URL and the title alone.\n\nSentiment: Neutral"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example154 :
+Aspect: Greg Z
+@Sentence: Look further . It's inside you . Greg Z .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Without additional context, it\'s challenging to determine a specific sentiment towards "Greg Z." However, based on the preceding introspective tone, the sentiment could be interpreted as neutral or slightly positive, implying encouragement or a suggestion to explore deeper aspects of oneself or a metaphorical journey.\n\n---'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example155 :
+Aspect: Twitpic
+@Sentence: Twitpic - Share photos and videos on Twitter http://t.co/kqo4Yk8U via @twitpic
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example156 :
+Aspect: Amazon
+@Sentence: http://bit.ly/fJ8HCt Three Tips to Achieve High Earnings as an Amazon Affiliate
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems you've provided a shortened URL which I can't access directly. However, I can guide you on how to analyze sentiment polarity based on a given sentence and its aspect if you provide the actual text of the sentence. Please share the specific sentence you'd like to analyze, and I'll be able to assist you effectively!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example157 :
+Aspect: Twitter
+@Sentence: Valuable info by industry ! RT @hubspot Twitter or Facebook : Which Is Right for Your Business ? http://bit.ly/dmMUC9 via #in
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nThe predicted sentiment polarity towards Twitter in this sentence is neutral. The sentence primarily serves to inform about a comparison between Twitter and Facebook, without expressing a positive or negative opinion specifically towards Twitter itself.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example158 :
+Aspect: Ziggy Zag
+@Sentence: Lastly , a close-up of the Ziggy Zag Knit Skirt ! Love the flattering silhouette ! We'll be back with more previews ... http://t.co/WiaQQ73w
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example159 :
+Aspect: @Natura_Mexico
+@Sentence: @Natura_Mexico 33%
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nWithout more context or textual clues, the sentence "@Natura_Mexico 33%" appears neutral in sentiment as it primarily conveys factual or numerical information without explicit positive or negative evaluation.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example160 :
+Aspect: Taylor Lothner
+@Sentence: @asplinterofice what's wrong ? _r u ok now ? I'm hanging out with friends and few new guys ) ) _one of 'em looks exactly like Taylor Lothner ) )
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\n---\n\nThis analysis considers the overall context of the sentence and interprets the sentiment towards Taylor Lautner based on the tone and content of the conversation.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example161 :
+Aspect: facebook
+@Sentence: What do you think about facebook ? can you believe facebook is paying people to answer this question , check it out ! http://dld.bz/u4TX
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example162 :
+Aspect: President Hu Jintao
+@Sentence: Chinese President Hu Jintao warns of cultural warfare from West http://t.co/P4umjNqT
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example163 :
+Aspect: Discovery News
+@Sentence: Artificial Tree s: Capturing Energy from Sun and Wind : Discovery News http://t.co/nQ2Cm0KT
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Artificial Trees: Capturing Energy from Sun and Wind: Discovery News http://t.co/nQ2Cm0KT\n\nAspect: Discovery News\n\nReasoning: Since the provided sentence is a URL link to an article title rather than a coherent sentence expressing an opinion or sentiment, we cannot directly analyze sentiment polarity in the traditional sense. However, we can infer that the aspect "Discovery News" likely pertains to news or information related to discoveries and innovations.\n\nSentiment: Without a clear opinion or sentiment expressed in the sentence, it\'s not possible to predict a sentiment polarity (positive, neutral, or negative).'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example164 :
+Aspect: Obama
+@Sentence: Obama is a stupid . People of Egypt don't want from Moubarak reform , they want him to leave power and Egypt .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Obama is a stupid . People of Egypt don\'t want from Moubarak reform , they want him to leave power and Egypt .\n\nAspect: Obama\n\nReasoning: Let\'s think step by step in order to analyze the sentiment. The sentence is quite fragmented and contains grammatical errors, making it challenging to discern a coherent sentiment towards Obama. However, based on the context provided, it appears that the sentiment is negative. The use of "stupid" in proximity to "Obama" suggests a negative sentiment towards him.\n\nSentiment: Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example165 :
+Aspect: UN
+@Sentence: Palestinians under pressure to drop UN bid - Middle East - Al Jazeera English http://t.co/NXCD1Qtq via @ajenglish
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example166 :
+Aspect: Steve
+@Sentence: Steve â s Last Laugh : Adobe Killing Off Flash For Mobile Â Devices via @techcrunch http://t.co/NJH0bEKO
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='It appears that the sentence you provided is actually a Twitter post or a snippet of a headline rather than a complete sentence. However, I can still attempt to analyze the sentiment polarity based on the information available.\n\nSentence: Steve’s Last Laugh: Adobe Killing Off Flash For Mobile Devices via @techcrunch http://t.co/NJH0bEKO\n\nAspect: Steve\n\nReasoning: Let\'s think step by step in order to determine the sentiment towards "Steve" in this context. The phrase "Steve\'s Last Laugh" suggests a sense of finality or triumph associated with someone named Steve. However, without further context, it\'s challenging to ascertain the exact sentiment towards Steve. The mention of Adobe killing off Flash for mobile devices could imply a technological shift or the end of an era related to Flash technology, potentially linked to someone named Steve, possibly Steve Jobs or another significant figure associated with technology and innovation.\n\nSentiment: Positive\n\nGiven the phrase "Steve\'s Last Laugh," which typically implies a triumphant or successful outcome, the sentiment towards Steve in this context is likely positive. However, this interpretation is based on the common understanding of the phrase rather than specific details from the provided sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example167 :
+Aspect: YouTube
+@Sentence: I subscribed to RajshriKids's channel on YouTube . http://t.co/LI3rtAPZ
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Certainly! Let's analyze the sentiment polarity of the given sentence focusing on the aspect related to YouTube.\n\n---\n\nSentence: I subscribed to RajshriKids's channel on YouTube. http://t.co/LI3rtAPZ\n\nAspect: YouTube\n\nReasoning: Let's think step by step in order to determine the sentiment. We'll analyze the sentence considering the context and implications related to YouTube. The action of subscribing generally indicates a positive sentiment towards the content creator or the platform itself. Moreover, the inclusion of a URL suggests an active engagement with the channel, which likely implies satisfaction or interest.\n\nSentiment: Positive\n\nTherefore,\n\nSentiment: Positive\n\n---\n\nIn this case, the sentiment analysis suggests a positive polarity. The act of subscribing to a YouTube channel typically indicates a favorable attitude towards the content or the platform. The presence of a URL further supports the idea of active involvement or interest, reinforcing the positive sentiment associated with the sentence."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example168 :
+Aspect: Mark Twain
+@Sentence: "Humor is mankind's greatest blessing." - Mark Twain http://t.co/068z0s9W
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is positive.\n\n---\n\nIn this analysis, the focus is on Mark Twain's perspective and the sentiment conveyed through his statement about humor."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example169 :
+Aspect: Ray J
+@Sentence: Ray J Breaks His Silence On Whitney Houston â s Death #aolvideo http://t.co/kvclZaxZ via @AOL
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you provided is not clear due to encoding issues or formatting errors. However, I'll make an attempt to interpret and analyze the sentiment polarity based on the information available.\n\nSentence: Ray J Breaks His Silence On Whitney Houston's Death #aolvideo http://t.co/kvclZaxZ via @AOL\n\nAspect: Ray J\n\nReasoning: Let's think step by step in order to determine the sentiment. Ray J's reaction to Whitney Houston's death is a sensitive topic. If the article or tweet discusses his emotional response or his reflections on the event, it could evoke sympathy or sadness from readers. On the other hand, if the focus is on controversy or speculation, it might generate negative sentiments.\n\nSentiment: The sentiment polarity is likely to be mixed, potentially leaning towards negative or sympathetic, depending on how the information is presented in the article or tweet."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example170 :
+Aspect: Stephen Hawking
+@Sentence: Stephen Hawking : 'There is no heaven ; it's a fairy story' http://t.co/a35mbP2
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely to be negative for religious individuals who may find his statement offensive or controversial, and positive for those who appreciate his scientific perspective and logical reasoning.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example171 :
+Aspect: Michi Sushi
+@Sentence: Selling fast on @GoogleOffers : 50 % off at Michi Sushi http://t.co/RIQnjfcx
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore,\n\nSentiment: The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example172 :
+Aspect: Obama
+@Sentence: Obama Turns The Super Committee Failure Into A Weapon Of GOP Destruction http://t.co/blHsWF4H vÃ­a @politicususa
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely to be negative. This interpretation stems from the implication that Obama is using a failure of a governmental committee as a weapon against a political opponent, which could be seen as divisive or opportunistic.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example173 :
+Aspect: Al Jazzera
+@Sentence: Al Jazzera offices closed by government in Cairo . All the dictators do the same stupidities , donÂ´t they have any creativity ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example174 :
+Aspect: Petrobras
+@Sentence: Petrobras CFO On Becoming Bigger Than Exxon And Apple : I Buy Oil Every Day , iPads Every 2 Years http://t.co/Wh7xo9b via @forbes
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards Petrobras in this context is **positive**. This is inferred from the ambition expressed to surpass industry giants like Exxon and Apple, indicating confidence and growth prospects for Petrobras.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example175 :
+Aspect: Khilafah
+@Sentence: some #ThingsThatShouldSTOP without a doubt : muslims calling for anything except Khilafah , muslims grovelling and puppeting for the west .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is negative.\n\nThis sentiment analysis is based on the negative connotations associated with the phrases "without a doubt" and "calling for anything except Khilafah", implying disapproval or opposition to actions not in support of Khilafah. The term "groveling and puppeting for the west" further reinforces a negative sentiment by suggesting submission to Western interests, which is viewed unfavorably in this context.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example176 :
+Aspect: Pinterest
+@Sentence: Avoiding Copyright Pitfalls on Pinterest http://t.co/C5xnN2GR via @saving4someday
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards Pinterest in this context is **neutral**. The sentence does not explicitly convey positive or negative emotions towards Pinterest itself; rather, it focuses on cautionary advice regarding copyright issues associated with the platform.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example177 :
+Aspect: mubarak
+@Sentence: Eid mubarak to every muslim around da globe . Plz remember the Muslims who r suffering around the world . Pray for them all ..
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis sentiment analysis considers the overall context of the sentence, where the phrase "Eid mubarak" is used in a positive and empathetic manner towards Muslims worldwide, especially those facing hardship.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example178 :
+Aspect: justin bieber
+@Sentence: @jbieberkon IKR ! Let loose the talk of love as justin bieber said
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is neutral.\n\n---'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example179 :
+Aspect: Mideast Youth
+@Sentence: Currently reading Pirates in Iraqi waters on Mideast Youth : http://www.mideastyouth.com/2010/08/21/pirates-in-iraqi-waters/
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity towards Mideast Youth in this context is likely **neutral**. The use of "currently reading" indicates an active interest in the content without explicitly expressing positive or negative sentiment. The neutral sentiment suggests a factual statement about the current activity without indicating strong emotions or judgments either way.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example180 :
+Aspect: Jim Iyke
+@Sentence: Actor Jim Iyke Enrolls for Anger Management Class ... http://t.co/Cb2JupOI
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity could range from neutral to positive, depending on the context of the news and how it's framed in the article or tweet."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example181 :
+Aspect: Canada East
+@Sentence: Canada pulls fruit and candy flavoured cigarettes off ... - Canada East http://tinyurl.com/2aqcupj
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is likely to be positive among public health advocates and negative among those who criticize governmental interference in consumer preferences.\n\nIf you have a specific sentence you'd like me to analyze or further information on the context, feel free to share!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example182 :
+Aspect: Yahoo
+@Sentence: is now using Happy Manor on Yahoo ! http://y.ahoo.it/sgC6mabQ
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example183 :
+Aspect: @LenaMaher
+@Sentence: @LenaMaher yes It is a good day for me .. I feel better :)
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn based on the use of positive words like "good" and "better," and the presence of a smiley face emoticon indicating happiness. The overall tone of the sentence is upbeat and appreciative, suggesting a positive sentiment towards @LenaMaher.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example184 :
+Aspect: twitter
+@Sentence: Maximize your twitter account with this link . http://bit.ly/Twittank
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Certainly! Let's analyze the sentiment polarity of the given sentence and its aspect.\n\nSentence: Maximize your twitter account with this link . http://bit.ly/Twittank\n\nAspect: twitter\n\nReasoning: Let's think step by step in order to determine the sentiment. The sentence contains an instruction or suggestion related to maximizing one's Twitter account, implying some form of improvement or enhancement. However, it is important to note that the sentence also includes a URL shortener link, which typically raises caution due to potential security risks or spammy content associated with such links. Therefore, the sentiment analysis needs to consider both the implied positive intent of maximizing a Twitter account and the potential negative perception due to the inclusion of a shortened URL.\n\nSentiment: The sentiment polarity is likely **negative**. Despite the intention to suggest maximizing a Twitter account (which could be seen as positive), the inclusion of a shortened link in the sentence often triggers suspicion or caution among users, potentially leading to a negative perception overall. Therefore, the overall sentiment of the sentence, considering both aspects, leans towards negative due to the trust issues associated with shortened URLs."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example185 :
+Aspect: Ibn Qayyim Al-Jawziyyah
+@Sentence: "How # strange ! You lose a little from you and you # cry . And your whole life is #wasting and you're # laughing" Ibn Qayyim Al-Jawziyyah
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is neutral.\n\nThis sentiment analysis considers the philosophical and reflective nature of the sentence, which does not inherently convey a strongly positive or negative emotion. Instead, it presents contrasting emotions and experiences in a neutral, observational manner, typical of Ibn Qayyim Al-Jawziyyah's philosophical writings."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example186 :
+Aspect: Forbes
+@Sentence: Traffic has returned to DC . School is back . DC jumped to # 4 in worst traffic according to Forbes ... only beat by New York , LA , and Chicago .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Negative\n\n---\n\nExplanation:\n- The sentence provides information that DC has moved up in the ranking of cities with the worst traffic, according to Forbes.\n- This ranking typically reflects a negative aspect of city life, as worse traffic is generally seen as undesirable.\n- Therefore, the sentiment towards Forbes, in this context, is negative because it highlights DC's worsening traffic situation, placing it among the top cities with severe traffic issues."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example187 :
+Aspect: Moolala
+@Sentence: Check out Moolala , great daily deals and an amazing rewards program : http://t.co/EejxRsh
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example188 :
+Aspect: Steve Jobs'
+@Sentence: Fantastic article on how Steve Jobs' failures lead to his biggest successes http://ow.ly/6cBHz
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example189 :
+Aspect: Robert Tressell
+@Sentence: The Ragged Trousered Philanthropists by Robert Tressell http://onlywire.com/r/30549094
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence you provided isn't complete or understandable. Could you please clarify or provide a different sentence for analysis? The current text doesn't form a coherent sentence that can be analyzed for sentiment polarity and aspect. If you have another specific sentence in mind or more context, feel free to share it!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example190 :
+Aspect: facebook
+@Sentence: The facebook easy cash guide is working much better than any other way to make money and its so easy promo http://tinyurl.com/y8wynv3
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example191 :
+Aspect: eBay
+@Sentence: Indiana AG Halts eBay Auctions Due to Onerous Policies http://bit.ly/bqZ2QP
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is negative.\n\nThis analysis concludes that the sentiment towards eBay in the given sentence is negative, primarily due to the Attorney General\'s action citing "onerous policies" as the reason for halting eBay auctions.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example192 :
+Aspect: USAMA-NETWORK
+@Sentence: Just Follow USAMA-NETWORK Send to 9900 & usama_tweet send to 40404
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Just Follow USAMA-NETWORK Send to 9900 & usama_tweet send to 40404\n\nAspect: USAMA-NETWORK\n\nReasoning: Let\'s analyze the sentiment polarity of the given sentence and its aspect step by step.\n\n1. **Identification of Aspect:** The aspect in focus is "USAMA-NETWORK," which appears to be a service or platform name, possibly related to a network or communication service.\n\n2. **Contextual Understanding:** The sentence "Just Follow USAMA-NETWORK Send to 9900 & usama_tweet send to 40404" indicates a directive or call to action related to engaging with USAMA-NETWORK. It involves subscribing or following instructions by sending messages to specific numbers.\n\n3. **Sentiment Analysis:**\n   - The phrase "Just Follow" suggests a straightforward instruction or recommendation, which typically carries a neutral tone.\n   - "USAMA-NETWORK" itself is a neutral identifier without inherent positive or negative connotations.\n   - The action "Send to 9900 & usama_tweet send to 40404" implies a promotional or subscription-based activity, focusing on user engagement rather than conveying a sentiment about USAMA-NETWORK itself.\n\n4. **Overall Sentiment Prediction:** Considering the neutral tone of the instruction and the absence of emotional language or evaluative statements about "USAMA-NETWORK," the sentiment of the sentence is **neutral**.\n\n---\n\n**Sentiment:** Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example193 :
+Aspect: Shoura
+@Sentence: Company's internationalizing to Saudi Arabia should know that the Shoura lists its efforts to boost Saudization http://t.co/SPIdfzFw
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the aspect "Shoura" is likely to be **neutral**. The sentence itself does not explicitly convey positive or negative sentiment towards the Shoura; it merely states a fact about its involvement in Saudization efforts. Therefore, without additional context or emotional indicators, the sentiment is likely neutral, reflecting a factual statement rather than an opinionated view.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example194 :
+Aspect: Rihanna
+@Sentence: Omg ... New song to Rihanna is very cool ... Man down :D ( music )
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example195 :
+Aspect: John Polk
+@Sentence: Welcome to our New Member of the Day , John Polk from Texas who joined our Gold Level .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis sentiment analysis is based on the positive and welcoming tone conveyed by the phrase "Welcome to our New Member of the Day" and the indication that John Polk has joined at a prestigious level (Gold Level), which adds to the positivity of the context.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example196 :
+Aspect: Grand Ayatollah Sistani
+@Sentence: Grand Ayatollah Sistani declares that the people of Iran have a right to demonstrate against Government - #SoG #Iranelection
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity (positive, neutral, or negative).'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example197 :
+Aspect: Manny Pacquiao
+@Sentence: Manny Pacquiao vs Antonio Margarito [ Full Fight ] @vodpod http://t.co/RfJZcxz
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Sentence: Manny Pacquiao vs Antonio Margarito [ Full Fight ] @vodpod http://t.co/RfJZcxz\n\nAspect: Manny Pacquiao\n\nReasoning: Let's think step by step in order to determine the sentiment. The given sentence is a URL or link reference to a video of a fight between Manny Pacquiao and Antonio Margarito. It does not contain any textual commentary or opinion about Manny Pacquiao. Without textual content expressing an opinion or feeling, it's not possible to assess sentiment polarity based on the given information.\n\nSentiment: Neutral"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example198 :
+Aspect: Nokia
+@Sentence: @eldarmurtazin Nokia will open a research center at Russia high-technology hub Skolkovo , hopes will compete with California's Silicon Valley
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nReasoning: The mention of Nokia opening a research center at Skolkovo with hopes of competing with Silicon Valley generally suggests a positive sentiment. This decision reflects ambition, investment in innovation, and a strategic outlook towards establishing a foothold in a prominent global technology hub. The language used ("hopes will compete") implies optimism and forward-thinking, contributing to an overall positive sentiment towards Nokia\'s strategic move.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example199 :
+Aspect: Erra
+@Sentence: Cmon Erra ! You know you are strong . So please stay strong ! ðª :')
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example200 :
+Aspect: KFC
+@Sentence: It can be knowledge , it can be wealth . We all crave for something . I'm craving for a fat-less KFC 2 piece meal .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Certainly! Let\'s analyze the sentiment polarity of the given sentence and its aspect.\n\n---\n\n**Sentence:** It can be knowledge, it can be wealth. We all crave for something. I\'m craving for a fat-less KFC 2 piece meal.\n\n**Aspect:** KFC\n\n**Reasoning:** Let\'s think step by step in order to determine the sentiment polarity related to the aspect "KFC".\n\n1. **Identify the Mention of the Aspect:** The sentence mentions KFC in the phrase "I\'m craving for a fat-less KFC 2 piece meal." Here, KFC is the aspect we\'re analyzing.\n\n2. **Determine the Context of the Mention:** The phrase "I\'m craving for a fat-less KFC 2 piece meal" indicates that the speaker has a strong desire or craving for a specific type of KFC meal. The mention of "fat-less" suggests a preference for a healthier option or a specific dietary choice.\n\n3. **Analyze the Sentiment Towards the Aspect:** The term "craving" typically conveys a positive sentiment because it implies a strong and often pleasurable desire. The addition of "fat-less" modifies the type of meal being desired, suggesting a more health-conscious or specific preference rather than a general craving for any KFC meal. This specificity could slightly temper the overall positivity of the sentiment towards KFC in this instance.\n\n4. **Consider the Overall Sentiment:** Despite the qualifier "fat-less," which might imply a preference for healthier options, the primary sentiment is one of craving or desire for a KFC meal. The use of "craving" indicates a positive inclination towards the aspect (KFC), as the speaker is expressing a strong desire for it.\n\n**Sentiment:** Positive\n\n---\n\nThis analysis concludes that despite the specification of "fat-less," the overall sentiment towards KFC remains positive due to the strong craving expressed by the speaker. The mention of "fat-less" indicates a nuanced preference rather than a negative sentiment towards KFC itself.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example201 :
+Aspect: Alain Renaud
+@Sentence: Alain Renaud taking HSBC global M & A role-source s: LONDON ( Reuters ) - Alain Renaud is replacing Andrew Bell as gl ... http://t.co/8uzcV6Gs
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='It seems the provided sentence is actually a URL link without a coherent text for sentiment analysis. For accurate sentiment analysis, I would need a complete and clear sentence that expresses an opinion or emotion about a particular subject. Please provide a different sentence that can be analyzed for sentiment polarity.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example202 :
+Aspect: Mark
+@Sentence: So I tell you , whatever you ask for in prayer , believe that you have received it , and it will be yours . - Mark 11 : 24
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity (positive, neutral, or negative).'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example203 :
+Aspect: Colts
+@Sentence: Colts fans disappointed but respectful of Saint s: Colts fan Tony Joyner of Indianapolis couldn't believe Manning s ... http://bit.ly/a82fFc
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The sentiment polarity here appears to be negative overall, leaning towards disappointment, but with an element of respect. Colts fans might be disappointed about a certain event or outcome related to the Saints, possibly a game or a decision. The respect aspect could imply acknowledgment of the Saints' performance or conduct despite disappointment.\n\nIn summary, the sentiment polarity is negative with an undertone of respect towards the Saints."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example204 :
+Aspect: LN
+@Sentence: It's such joy to see my friends getting married one by one . Congrats LN and jacklyn .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example205 :
+Aspect: don Miguel Ruiz
+@Sentence: Forgiveness is an act of self-love . - don Miguel Ruiz http://ow.ly/3vHSe
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is **positive**. \n\nThis analysis takes into account the context of the statement, the implied message about forgiveness, and the overall philosophy associated with don Miguel Ruiz's teachings."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example206 :
+Aspect: -Albert Einstein
+@Sentence: Everything should be as simple as it is , but not simpler . -Albert Einstein
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The sentiment polarity is positive. This quote suggests admiration for Einstein's ability to distill complex ideas into understandable concepts, emphasizing the importance of simplicity without oversimplification. It conveys a thoughtful perspective that resonates positively with those who value clarity and depth in understanding complex matters."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example207 :
+Aspect: Warrior Fit Body Solution
+@Sentence: Warrior Fit Body Solution Boise , ID Half Off Regular Bootcamp http://t.co/ivu2uj8 Boise Health Clubs & Gyms #coupon
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sure, let’s analyze the sentiment polarity of the given sentence and its aspect.\n\n---\n\n**Sentence:** Warrior Fit Body Solution Boise , ID Half Off Regular Bootcamp http://t.co/ivu2uj8 Boise Health Clubs & Gyms #coupon\n\n**Aspect:** Warrior Fit Body Solution\n\n**Reasoning:** Let’s think step by step in order to determine the sentiment:\n\n1. **Content Analysis:** The sentence is promoting a discount offer for a bootcamp provided by "Warrior Fit Body Solution." It includes a URL and hashtags related to coupons and health clubs/gyms.\n   \n2. **Sentiment Indicators:**\n   - **Promotion:** The mention of "Half Off" indicates a promotional discount, which typically carries a positive connotation because it implies value for money.\n   - **Neutral Description:** The rest of the sentence contains factual information without explicit opinions or emotional language.\n   \n3. **Aspect Sentiment:** The aspect here is "Warrior Fit Body Solution." The sentiment about this aspect is positive as the promotional offer suggests a benefit for potential customers. The language used is promotional, which generally aims to attract positive attention and engagement.\n\n**Sentiment:** Positive\n\n---\n\nIn this context, the sentiment is positive because the sentence is promoting a discount, which is likely intended to be appealing and beneficial to potential customers.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example208 :
+Aspect: Moleskine
+@Sentence: Le Petit Prince limited-edition notebook collection by Moleskine
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis prediction is based on the assumption that the mention of Moleskine in connection with such a culturally significant and beloved literary work as "Le Petit Prince" is likely to generate positive emotions among consumers who appreciate both the quality of Moleskine products and the artistic value added by the thematic collection.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example209 :
+Aspect: Yang Mi
+@Sentence: China to Get Its Own 'Gossip Girl' Under Warner Deal : A 30-episode hour-long teen drama series , starring Yang Mi ... http://t.co/rDsiSGHn
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is likely positive.\n\nThis prediction is based on the following reasoning:\n1. **Positive Association**: Yang Mi's involvement in a high-profile project under Warner's deal suggests confidence in her acting abilities and appeal to the audience.\n  \n2. **Anticipation**: The announcement of a new drama series akin to 'Gossip Girl' could generate excitement among fans of similar genres, boosting positive sentiment towards Yang Mi's participation.\n\n3. **Cultural Impact**: In the context of Chinese entertainment, adaptations or similar-themed series often attract positive attention if well-received, benefiting key figures like Yang Mi.\n\nOverall, considering these points, the sentiment towards Yang Mi in this scenario is likely positive, driven by her established reputation and the promising nature of the project."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example210 :
+Aspect: ~Erica Jong
+@Sentence: Advice is what we ask for when we already know the answer but wish we didn't . ~Erica Jong ,
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Sure, let's analyze the sentiment polarity of the given sentence and its aspect:\n\n**Sentence:** Advice is what we ask for when we already know the answer but wish we didn't. ~Erica Jong\n\n**Aspect:** ~Erica Jong\n\n**Reasoning:** Let's think step by step in order to analyze the sentiment. The sentence itself conveys a cynical view towards seeking advice, suggesting that people often seek advice not because they lack knowledge but because they may prefer to avoid responsibility or decision-making consequences. This perspective implies a somewhat negative or cynical outlook on human behavior and decision-making processes.\n\n**Sentiment:** Negative\n\nThe sentiment is negative because the sentence portrays seeking advice as an act of reluctance rather than genuine curiosity or seeking guidance. It suggests a certain disillusionment or dissatisfaction with the motivations behind seeking advice."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example211 :
+Aspect: B & J
+@Sentence: @annashoutss cant beat my pint of B & J ! hahahaha s
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example212 :
+Aspect: YouTube
+@Sentence: That is cool and great . ( YouTube http://youtu.be/pIIdAuyFLhk?a)
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards YouTube in this sentence is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example213 :
+Aspect: the heat
+@Sentence: & another lose for the heat oh yeah' this completed my weekend & lt ; 4
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example214 :
+Aspect: @JenniferCirpici
+@Sentence: @JenniferCirpici happy birthday jennifer hope to you enjoy your day ... :D .. like your Work ..
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nIn summary, the sentence conveys a positive sentiment towards @JenniferCirpici, focusing on celebrating her birthday and expressing appreciation for her work.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example215 :
+Aspect: @Is_a_Belle_
+@Sentence: @Is_a_Belle_ i wonder what you were browsing huh jajajaja
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity is neutral.\n\nReasoning: The sentence itself does not inherently express a positive or negative opinion towards @Is_a_Belle_. It simply reflects curiosity in a light-hearted manner with the laughter indicating amusement rather than criticism or praise. Therefore, the sentiment towards @Is_a_Belle_ is neutral.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example216 :
+Aspect: Apple
+@Sentence: Apple planning iBooks and publishing NYC event for January ... http://t.co/AdFHutxq
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the provided input is a Twitter URL rather than a direct sentence. I can't access the content of a tweet directly from its URL. Could you please provide the actual text of the sentence you'd like me to analyze for sentiment? This way, I'll be able to assist you accurately."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example217 :
+Aspect: NFL
+@Sentence: 2010 NFL training cam ps: Carolina Panthers WR Steve Smith activated , catches passes http://mybrandz.com/2bA #NFL
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems like the sentence provided is actually a truncated or incorrectly formatted URL rather than a coherent sentence that can be analyzed for sentiment polarity and aspect. To perform a meaningful analysis, I'll need a complete and coherent sentence that expresses an opinion or sentiment about a specific topic or aspect. Please provide a different sentence, and I'll be happy to analyze it for you."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example218 :
+Aspect: La Roja
+@Sentence: Support La Roja , add a #twibbon to your avatar now ! - http://twb.ly/bToZOP
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis analysis is based on the supportive language ("Support La Roja") and the call to action that suggests engagement and enthusiasm, typical of fans supporting their national team in sports.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example219 :
+Aspect: President Zardari
+@Sentence: President Zardari May Return Pakistan Tonight http://t.co/hBki8ySL
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Without additional context, it's challenging to determine the exact sentiment polarity accurately. However, based on a neutral interpretation of the news headline itself, the sentiment could be seen as neutral or slightly positive (assuming the return is perceived as a normal or routine event)."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example220 :
+Aspect: Today's Sunbeam
+@Sentence: Free workshop on Internet marketing for artists being hosted by Salem County ... : By Today's Sunbeam SALEM â The ... http://t.co/k9NrZyGX
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Sentence: Free workshop on Internet marketing for artists being hosted by Salem County ... : By Today's Sunbeam SALEM â\x80\x94 The ... http://t.co/k9NrZyGX\n\nAspect: Today's Sunbeam\n\nReasoning: Let's think step by step in order to analyze the sentiment polarity accurately from the provided content. However, the sentence appears to be incomplete or garbled, possibly due to a formatting issue with a link or special characters. It seems to refer to an event or announcement related to a workshop on Internet marketing for artists being hosted by Salem County and mentioned in Today's Sunbeam publication. Without a clear and complete statement, it's challenging to ascertain the exact sentiment conveyed towards Today's Sunbeam. Typically, sentiment analysis requires a complete sentence to infer emotions or opinions accurately.\n\nSentiment: Unable to determine sentiment polarity without a complete and coherent sentence."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example221 :
+Aspect: Twitter
+@Sentence: Twitter Recommendation : Great guide to setting up Twitter Vending Machines http://ow.ly/1sl87
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive. The sentence overall expresses enthusiasm and approval towards the guide and the concept of setting up Twitter Vending Machines.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example222 :
+Aspect: Vera Wang
+@Sentence: New blog post Vera Wang S/S 2009 Fashion Show Part 2 http://tinyurl.com/23rbwpc
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity towards Vera Wang in this context is likely **positive**. The mention of a new blog post indicates ongoing interest and engagement with Vera Wang's fashion, which typically reflects positive attention and admiration within the fashion community."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example223 :
+Aspect: Joe
+@Sentence: @joeteh Hey Joe , the update for the android version should be out by 12th Feb . Hope it helps .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example224 :
+Aspect: twitter
+@Sentence: @nglizhu why are you answering your own question on twitter ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nExplanation: The sentence carries a negative sentiment towards the aspect "twitter" because it implies questioning or disapproval of the behavior mentioned (answering one\'s own question on Twitter). The tone suggests a sense of confusion or skepticism, which typically indicates a negative sentiment towards the specific context of Twitter in this sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example225 :
+Aspect: @BarackObama
+@Sentence: @BarackObama a November 20 , 1925 : Birth of Robert F . Kennedy , American politician .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\n--- \n\nIn this analysis, the sentence primarily focuses on the birth of Robert F. Kennedy and mentions @BarackObama in a historical context, without expressing a clear sentiment towards Barack Obama himself. Therefore, the sentiment is assessed as neutral.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example226 :
+Aspect: Birmingham
+@Sentence: if Birmingham can tie Chelsea at Stamford 1-1 , Sunderland beat Arsenal 2-0 at Lights , did the stars wrote Brighton will beat Liverpork 2nite ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Sentence: if Birmingham can: if Birmingham can tie if Birmingham can tie Chelseaf Birmingham can tie Chelsea atm can tie Chelsea at Stamfordn tie Chelsea at Stamford e Chelsea at Stamford 1a at Stamford 1-t Stamford 1-1d 1-1, 1-1, Sunderland1-1, Sunderland beat-1, Sunderland beat Arsenal1, Sunderland beat Arsenal , Sunderland beat Arsenal 2d beat Arsenal 2-t Arsenal 2-0l 2-0 at 2-0 at Lights2-0 at Lights,-0 at Lights, did0 at Lights, did thet Lights, did the starss, did the stars wrote, did the stars wrote Brightond the stars wrote Brighton wille stars wrote Brighton will beats wrote Brighton will beat Liverpoole Brighton will beat Liverpool n will beat Liverpool 2 beat Liverpool tonight?\n\nAspectght?\n\nAspect:Aspectect: Birmingham\n\nReason Birmingham\n\nm\n\nReasoningsoning: Leting: Let'sng: Let's thinkLet's think stept's think step byink step by steptep by step in by step in ordertep in order to in order to determineder to determine the sentiment to determine the sentiment.ine the sentiment. The sentimentent. The sentence sentence suggestsuggests aests a hopefula hopeful or or speculativeor speculative tonelative tone regardingative tone regarding Birminghamregarding Birmingham'sarding Birmingham's performancemingham's performance againstgham's performance against Chelsea context ofnce against Chelsea.\n\nSente against Chelsea.\n\nSentiment:lsea.\n\nSentiment: Neutralntiment: Neutral"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example227 :
+Aspect: MTV
+@Sentence: Ma Fi Metlo , soon on MTV ! http://t.co/VbSQrDkz
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Let\'s analyze the sentence provided:\n\n**Sentence:** Ma Fi Metlo, soon on MTV! http://t.co/VbSQrDkz\n\n**Aspect:** MTV\n\n**Reasoning:** Let\'s think step by step in order to determine the sentiment. The sentence is a short announcement about something related to "Ma Fi Metlo" appearing on MTV soon. The use of "soon" suggests an upcoming event or feature. The sentiment towards MTV, as expressed in this context, is positive, since it is associated with the excitement of a new appearance or feature. The overall tone is enthusiastic about the prospect of the content being showcased on MTV.\n\n**Sentiment:** Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example228 :
+Aspect: Captain America
+@Sentence: Captain America and Thor Battle In New The Avengers Image : Marvel recently released a new photo from their upcom ... http://t.co/xwkli87y
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nBased on the description of Captain America and Thor battling in a new Avengers image, the sentiment is likely positive. This is because it indicates action and excitement, which are typically viewed positively in entertainment contexts like superhero stories.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example229 :
+Aspect: @ParisHilton
+@Sentence: @ParisHilton finally found Paris Hilton shop in ibn battuta mall and found her signature On the this pic . Exciting http://t.co/iJEuKSWw
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn because the tweet indicates excitement and a positive tone about Paris Hilton\'s discovery of her own shop and seeing her signature. The use of "Exciting" further reinforces a positive sentiment. Therefore, the overall sentiment towards @ParisHilton in this tweet is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example230 :
+Aspect: Rick Haglund
+@Sentence: Health care helps job market heal ( Rick Haglund column ): Compare that to auto and parts manufacturing , which emp ... http://t.co/BWbvBTHC
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="It seems the sentence provided is not suitable for sentiment analysis as it appears to be a truncated or malformed text containing a URL. To perform a meaningful sentiment analysis, I would need a coherent and complete sentence that expresses an opinion or emotion.\n\nIf you have another sentence or text that you would like analyzed, please provide it, and I'll be happy to assist you in analyzing the sentiment polarity and identifying the aspect related to it."
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example231 :
+Aspect: Facebook
+@Sentence: Facebook Isn't Just For Looking Up Your Ex You Can Use It To Make Money Too Easy ! http://t.co/ve93AJY9
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nThe sentiment towards Facebook in this sentence is positive because it emphasizes a beneficial aspect of the platform (making money easily), which is portrayed enthusiastically with the exclamation "Too easy!" This indicates a positive perception of Facebook as a useful tool for financial gain.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example232 :
+Aspect: ABC News
+@Sentence: Ky . Tornado Death Toll Rises to 19 - ABC News http://t.co/SvLiWzoh
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity could range from neutral to positive, assuming ABC News is reporting the news accurately and responsibly. However, without the specific sentence or article content, this analysis remains speculative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example233 :
+Aspect: Wantickets
+@Sentence: Ky . Tornado Death Toll Rises to 19 - ABC News http://t.co/SvLiWzoh
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Mixed (Positive towards food quality, Negative towards service quality)\n\nIf you have a different sentence or context you'd like me to analyze, please provide it!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++

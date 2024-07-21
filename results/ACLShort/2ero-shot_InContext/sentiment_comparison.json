@@ -1,0 +1,4154 @@
+{
+    "example01": {
+        "sentence": " shaquille o'neal to miss 3rd straight playoff game | the ... : $t$ will miss his third straight play ... .",
+        "aspect": "shaquille o'neal",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example02": {
+        "sentence": "dear justin , gray hoodies turned into leather jackets , '' ay ! '' turned into '' swag '' , u grew up , and we 've been here all the way . rt i u love bieber \u2665",
+        "aspect": "justin",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example03": {
+        "sentence": "received my google wave account today ! sorry have no invites , but i will spread the love if i receive any , thanks twitter community !",
+        "aspect": "google wave",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example04": {
+        "sentence": "epascarello i know ! man i get pissed when i try to copy a link from google search results and paste it in a forum or whatever .",
+        "aspect": "google",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example05": {
+        "sentence": "is it just me , or does john boehner sound like a newsman ? sounds like he belongs on cbs nightly news .",
+        "aspect": "john boehner",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example06": {
+        "sentence": " al gore 's next invention : the future of books ? -lrb- cheap shot , but cool application -rrb- . - by lizgannes startup",
+        "aspect": "al gore",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example07": {
+        "sentence": " lindsay lohan looking gorgeous in nyc - 10/14 : here are new photos of $t$ helping launch the new velve . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example08": {
+        "sentence": "so my latebus still sucks , but my ipod is n't dead this time : -rrb-",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example09": {
+        "sentence": "new post on legality of the war -lrb- or lack thereof -rrb- . featuring a very scholarly exposition by biden in 1998 . -lrb- really ! -rrb-",
+        "aspect": "biden",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example10": {
+        "sentence": "i like britney spears new song ... i wan na hear it now = -lrb-",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example11": {
+        "sentence": "about to hack my nintendo wii so it can play dvds . i 'm a geek .",
+        "aspect": "wii",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example12": {
+        "sentence": "i know eh ? my interviewer pulled out a completely random dynamic programming problem google wave ' is been working on for months !",
+        "aspect": "google wave",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example13": {
+        "sentence": "mrice007 apple survey - what is your opinion of apple products ? ipad sucks ? apple .",
+        "aspect": "ipad",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example14": {
+        "sentence": "installed windows 7 . its real nice . its kust a shame no drivers for seven . had to install and go back to experience : -lrb-",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "unknown"
+    },
+    "example15": {
+        "sentence": "bloooood mother fuckaa kall me red alert feed that bitch penis until ha head burst !! - weezyneed an xbox controller",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "unknown"
+    },
+    "example16": {
+        "sentence": "fashion soulmates selena gomez and victoria justice : who 's hotter ? - gather celebs news channel .",
+        "aspect": "selena gomez",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example17": {
+        "sentence": "a static lullaby - toxic -lrb- britney spears -rrb-",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example18": {
+        "sentence": "god of war psp is very satisfying .",
+        "aspect": "psp",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example19": {
+        "sentence": "chessed . . like why tf is my mom sleeping in the living room ? = / like wtf , now i ca n't even blast ' e.t - katy perry ft . kanye west ' -lrb- and -rrb-",
+        "aspect": "katy perry",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example20": {
+        "sentence": "' green island ' - xbox live independent games showcase '' mtv multiple : the japanese went even crazier for & . .",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example21": {
+        "sentence": " lindsay lohan begins blame game : $t$ begins the blame game . lindsay started reeling off excuses for with . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example22": {
+        "sentence": "np party in the usa - miley cyrus udh lama ga dengerin ini lagu wwkwk : d",
+        "aspect": "miley cyrus",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example23": {
+        "sentence": "just saw stephen colbert and the roots covering friday on the jimmy fallon show . funny stuff .",
+        "aspect": "jimmy fallon",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example24": {
+        "sentence": "'' anyone who helps keep sarah palin from high office merits at least one nobel peace prize , if not more . '' - sd , ttlg forums",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example25": {
+        "sentence": "'' i 'm presidential when i flow , yo it aint hard to tell that i ba-rock the show obama self '' - tablo",
+        "aspect": "obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example26": {
+        "sentence": "just watched '' raising arizona '' again - forgot how much i love that movie . back when nicolas cage made good movies ...",
+        "aspect": "nicolas cage",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example27": {
+        "sentence": "rt jaimemorelli : i would love to see a nuanced comparison of google television vs . hooking up my television to a mac mini and buying a wireless keyboard ...",
+        "aspect": "google",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example28": {
+        "sentence": " psp 1.5 ~ ~ news / / japan roundup : virtual $t$ eleven fest console go ! best of gamesetwatch : fr",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example29": {
+        "sentence": "just started liking two songs i hated when they first came out : radar - britney spears , sexy bitch - david guetta feat . akon .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example30": {
+        "sentence": "\u2714 acting skills \u2714 great voice \u2714 nice hair \u2714 hilarious \u2714 adorable \u2714 talented \u2714 gorgeous = perfect and that must be miley cyrus ! < 3",
+        "aspect": "miley cyrus",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example31": {
+        "sentence": "waiting for jimmy fallon james franco is but that video of the chick on jay keno was funny the gardners face was priceless",
+        "aspect": "jimmy fallon",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example32": {
+        "sentence": "miley cyrus is another petulant girl like britney spears , i love dakota fanning is another type of person .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example33": {
+        "sentence": "twitter question : whose made more bad movies ... nicolas cage or jennifer aniston ?",
+        "aspect": "nicolas cage",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example34": {
+        "sentence": "i would kill for a 1 hour sit down interview with britney . ugh i wish she was allowed to speak .",
+        "aspect": "britney",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example35": {
+        "sentence": "iloveitwhen the lakers do they thang ... shoutout to all the laker haters",
+        "aspect": "lakers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example36": {
+        "sentence": "i love cascada new song it remind me of something madonna would do",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example37": {
+        "sentence": "in the s&m remix with britney spears , she sounds like a nasal , congested 5 year old talking about sex . .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example38": {
+        "sentence": "listening to '' blazing -lrb- feat . kanye west -rrb- '' by nicki minaj and loving it ! see the video & lyrics : .",
+        "aspect": "nicki minaj",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example39": {
+        "sentence": "we were just regaling a student worker with horror stories about doing repetitive boring work in the pre - ipod era .",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example40": {
+        "sentence": "i wish it was always the weekend . i look like ass today , you would 've thought i was partying it lindsay lohan style this wknd .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example41": {
+        "sentence": "ugh ! a girl in my form just made what i like to call and ' ashton kutcher face ' if you 're wondering . . its stupid . i hate his face . .",
+        "aspect": "ashton kutcher",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example42": {
+        "sentence": "i used to have all the records gaga 's broken & set memorized , but now there 's too many to remember . lady $t$ fuck you , you 're too awesome !",
+        "aspect": "gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example43": {
+        "sentence": "watch ' glee ' star darren criss and warblers sing for ellen degeneres : filed under : television news ' glee ' star darren criss led the warblers ...",
+        "aspect": "ellen degeneres",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example44": {
+        "sentence": " hillary clinton arrives to clinch northern ireland peace deal - telegraph",
+        "aspect": "hillary clinton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example45": {
+        "sentence": "kris jenner slams khloe kardashian for gaining weight : religion and the royals ! the archbishop of canterbury , wh ... .",
+        "aspect": "khloe kardashian",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example46": {
+        "sentence": "love selena gomez !!!! she rock !!!!!!!!!!!!!!!! and she 's cool she 's my idol",
+        "aspect": "selena gomez",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example47": {
+        "sentence": "thehils heard great things about the ipad for speech/communication . educational discounts are problem best bet . maybe thanksgiving ?",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example48": {
+        "sentence": "jamie fox , eddie murphy , and barack obama because they all are exciting , cute , and inspirational to lots of people including me !!!",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example49": {
+        "sentence": " britney spears new song is about a threesome . but its 2 guys one girl ? i believe that 's called a gangbang . dirty britney .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example50": {
+        "sentence": "bret easton ellis : how charlie sheen is giving us what we want - the daily beast . -lrb- via instapaper -rrb-",
+        "aspect": "charlie sheen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example51": {
+        "sentence": "justin love and if he 's happy , i think that we will be happy beliebers . whether or not with selena gomez .",
+        "aspect": "selena gomez",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example52": {
+        "sentence": "prince brings out alicia keys for '' how come you do n't call me '' duet : if you did n't get anything good in your e ... .",
+        "aspect": "alicia keys",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example53": {
+        "sentence": "labor pains is a complete trash , no wonder lindsay lohan had sunk nowhere .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example54": {
+        "sentence": "back in love with my psp ! thanks rockstar !!!",
+        "aspect": "psp",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example55": {
+        "sentence": "virile heavenly host nicolas cage ",
+        "aspect": "nicolas cage",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example56": {
+        "sentence": "mix barack obama furious at general stanley mcchrystal speech on afghanistan - telegraph : the relationship . .",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example57": {
+        "sentence": "you tube admits to censoring view count on biden impeachment video : steve watson | youtube has admitted to freeze ... .",
+        "aspect": "biden",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example58": {
+        "sentence": "whatever , ipad . look at this . charlie sheen quotes as new york cartoons . so genius i almost ca n't process it . .",
+        "aspect": "charlie sheen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example59": {
+        "sentence": "a naughty mickey mouse makes appearance on disney epicmickey for wii ",
+        "aspect": "wii",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example60": {
+        "sentence": "interesting alternative iphone interface -lsb- thenextweb.com -rsb- -lsb- shared by 12 people -rsb- -lrb- so . .",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example61": {
+        "sentence": " britney spears ' music has gotten progressively worse . she sings less and less and relies upon melodyne to make her boice sound like crap !",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example62": {
+        "sentence": "i want a psp damn it !",
+        "aspect": "psp",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example63": {
+        "sentence": "is obama trying to be just like jimmy carter ?? he 's doing a pretty good job so far ... icon | he has passed jimmy !!",
+        "aspect": "jimmy carter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example64": {
+        "sentence": "a . valentin played a song come on get it by lenny kravitz on myspace .",
+        "aspect": "lenny kravitz",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example65": {
+        "sentence": "click4 pictures & clips ! lindsay lohan sucks at fashion , employment : bad business decisions are . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example66": {
+        "sentence": "* faints * john legend , ufunani manje ? selimathunziauditions",
+        "aspect": "john legend",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example67": {
+        "sentence": "at eva 's house playing the wii resorts ha , i suck man . but i came first in wakeboarding ! : d",
+        "aspect": "wii",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example68": {
+        "sentence": "my ipod is not letting me go 2 myspace now !!! ugh love myspace !!! talk 2 me in facebook or twitter",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example69": {
+        "sentence": "yikes ! rt here 's that terrible sarah palin women ! omg ! sanctuary omg for sure sgu sanctuary",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example70": {
+        "sentence": "although i wish it was , i do n't think think jelena is a publicity stunt . i want him to get with taylor swift . omg . would make my life . : -rrb-",
+        "aspect": "taylor swift",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example71": {
+        "sentence": " ashton kutcher and demi moore on human trafficking : ' no young girl chooses to ... .",
+        "aspect": "ashton kutcher",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example72": {
+        "sentence": "milkuk | hollywood star supports baby unit : movie actor nicolas cage visits bath ruh to . .",
+        "aspect": "nicolas cage",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example73": {
+        "sentence": " nicki minaj : i look like yes and you look like no . < really ? do n't even get me vexed ! i will smash my laptop ! lol",
+        "aspect": "nicki minaj",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example74": {
+        "sentence": "im bored so im playing animal crossings city folk on the wii . i love this game lol .",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example75": {
+        "sentence": "bored to death with britney spears ",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example76": {
+        "sentence": "i love this ! steve jobs does n't know what the phone can do , says adobe | news | techradar uk",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example77": {
+        "sentence": "right hereeee !!!! * waka flock voice * rt bigjamaal : lakers where y' all at ?",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example78": {
+        "sentence": "`` badd_liqhtskin : harry potter was onn point ; loved it -lsb- : ''",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example79": {
+        "sentence": "ca n't get a motorola droid without paying full retail . will probably be much cheaper to cancel my verizon account and unlock an iphone .",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example80": {
+        "sentence": " maradona set for more misery in montevideo : diego $t$ takes his beleaguered troops to the estadio centenar . .",
+        "aspect": "maradona",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example81": {
+        "sentence": "msm has not once mentioned bill maher 's repulsive characterization of sarah palin . now has been very quiet as sarah is not a democrat .",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example82": {
+        "sentence": "checking out the new xbox features . like this .",
+        "aspect": "xbox",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example83": {
+        "sentence": "thank you ! wescky do you have the new kindle ? what do you think about it ?",
+        "aspect": "kindle",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example84": {
+        "sentence": "anyone have good advice on whether to purchase games for ps3 or xbox 360 when both are available ?",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example85": {
+        "sentence": "scottygkfan so deron williams says '' hate '' about the lakers . where is the fallout and uproar over that ?",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example86": {
+        "sentence": "i love britney spears . twitterfession",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example87": {
+        "sentence": "what is the best harry potter movie for you ?",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example88": {
+        "sentence": "3 : britney spears britney fantasy midnight edp perfume spray",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example89": {
+        "sentence": "rt enormego : how is there no '' do n't sync iphone-only apps '' option for ipad ? itunes insistence on syncing all of my phone apps is fuck ...",
+        "aspect": "ipad",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example90": {
+        "sentence": "hey google , thanks for all these great labs features on chromium , but how about '' create application shortcut '' ?! .",
+        "aspect": "google",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "unknown"
+    },
+    "example91": {
+        "sentence": " obama updates : cutting latin america trip short ; nobel peace prize under attack . nobel peace",
+        "aspect": "obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example92": {
+        "sentence": "help me a problem with windows 7 ultimate ? : i have an alfa wireless adepdter and its usb awush32h -lrb- something look . .",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example93": {
+        "sentence": "songs of britney spears nowadays are stupid ... non sense things ... it 's all about sex !! geeezzz ...",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example94": {
+        "sentence": " taylor swift was awesome ! : d",
+        "aspect": "taylor swift",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example95": {
+        "sentence": "one thing i hate about being a sports fan is that it hurts every time you realize your team is done ... being a lakers fan is a buffer lol",
+        "aspect": "lakers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example96": {
+        "sentence": "ardiles backs maradona for world cup glory",
+        "aspect": "maradona",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example97": {
+        "sentence": "im about 2 snap ; like wtf , why does britney spears sucking a penis keeps following me ; like grrrr its like 5 = /",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example98": {
+        "sentence": "littlemonsterx _ hey i 've had a lady gaga day listening to all her songs from my pod up full = amazing !",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example99": {
+        "sentence": "bus driver just beeped at incredible idiot skateboarding down mlk blvd on the road with ipod headphones on .",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example100": {
+        "sentence": ". . '' if you wan na make world a better place take a look at yourself then make that change '' - micheal jackson . -lrb- misses him , real prodigy , great human -rrb-",
+        "aspect": "micheal jackson",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example101": {
+        "sentence": "on cmo . com : compelling piece on why john mccain & wsj should not decide internet 's future . .",
+        "aspect": "john mccain",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example102": {
+        "sentence": "news update us senate panel to vote on healthcare - president barack obama ' is push for reform of the us healthcare is ...",
+        "aspect": "barack obama",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example103": {
+        "sentence": "ooc : that ipod touch stealer will come to justice thanks to the plated engraving on the back .",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example104": {
+        "sentence": "any fans of harry potter out there ? ginny ? bonnie ?! well , '' bonwrightx '' is the real one ! not '' bonniewrightx '' so do n't be fooled !",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example105": {
+        "sentence": "it 's official : george bush was such a bad president that you can win the nobel peace prize just by not being him . fb",
+        "aspect": "george bush",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example106": {
+        "sentence": "aww , it 's okay ... you have a psp . :d that 's good already . :-rrb- -rrb-",
+        "aspect": "psp",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example107": {
+        "sentence": "yes he does ! it paid for his liver ! - '' steve jobs does n't know what the phone can do ''",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example108": {
+        "sentence": "did barack obama deserve the nobel peace prize ? : this week it was announced that the american president had won . .",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example109": {
+        "sentence": "even more so than paris hilton being racist in her video - it chills me to the bone when she makes fun of people for being '' poor . '' she sucks .",
+        "aspect": "paris hilton",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example110": {
+        "sentence": "sorry but i had it with gaga , its old fashion what she does , come with a new are ... -lrb- youtube . -rrb-",
+        "aspect": "gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example111": {
+        "sentence": " lady gaga , michael jackson , akon : what happens when gigs go bad : $t$ 's earned a reputation for delivering ... .",
+        "aspect": "lady gaga",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example112": {
+        "sentence": "totally managed to kill the right side of the audio on my ipod :-lrb- killed the left one on the old $t$ ... yes im an apple product killer !",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example113": {
+        "sentence": "net zo bad als micheal jackson ' s bad .",
+        "aspect": "micheal jackson",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example114": {
+        "sentence": "i agree !!! super strenuous ... machiam like watching harry potter movie ... super loooong !",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example115": {
+        "sentence": "you 're trying to pee & britney spears is echoing off the cubicle walls ... but you do n't hate it like you know you should . y/n .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example116": {
+        "sentence": "losing my religion for equality , by jimmy carter -",
+        "aspect": "jimmy carter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example117": {
+        "sentence": " demi lovato fans act like she has cancer or something . dang people , staystrongdemilovato ... really ? poor depressed rich pop star : ' -lrb-",
+        "aspect": "demi lovato",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example118": {
+        "sentence": "merrier the more ! triple fun that way amandabynes '' 3 '' - britney spears :-rrb- yeessss graaccyyyyyyyy ! i miss you !!!",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example119": {
+        "sentence": "is the lindsay lohan : > bossy in good",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example120": {
+        "sentence": "second round of the windows 7 install . looks like x64 is not supporting our apps like i hoped . $t$ x86 here i come .",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example121": {
+        "sentence": "i hate george bush . there , i just qualified for a nobel peace prize ! woohoo ! morons . tcot",
+        "aspect": "george bush",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example122": {
+        "sentence": "surprised with this weeks wii game releases - rock band lego : -rrb-",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example123": {
+        "sentence": " justin bieber pranks willow smithcheck out this video on youtube : .",
+        "aspect": "justin bieber",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example124": {
+        "sentence": " lindsay lohan ' s genius lips !!! - sexy stepfather & gossip girl ... : please rate/comm . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example125": {
+        "sentence": " nick cannon face is annoying !!!!!!!! smh",
+        "aspect": "nick cannon",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example126": {
+        "sentence": "imagine me : i want you be '' cedric diggory '' on harry potter jailbait justin : lol . . you love $t$ right ? me : yes ! lol",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example127": {
+        "sentence": "this max records is adorable ! i 'll be so sad when he wears ed hardy shirts , goes to rehab and starts banging lindsay lohan .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example128": {
+        "sentence": "beginning the great kindle experiment ... wish me luck . although i 'm not sure if i want it to be good or not .",
+        "aspect": "kindle",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example129": {
+        "sentence": "lost everyone phone damn iphone updates ! please text me first n last names to 7076957463",
+        "aspect": "iphone",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example130": {
+        "sentence": "i love you britney spears but i do not like your new song : / * changes channel",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "unknown"
+    },
+    "example131": {
+        "sentence": "thank you , secretary of state hillary clinton , for helping us resolve the feud ! = -lrb- via buttercupd -rrb-",
+        "aspect": "hillary clinton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example132": {
+        "sentence": "rt is sarah palin really serious about politics . -lrb- and if she is , she needs some better advisers . -rrb- i blog :",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example133": {
+        "sentence": " xbox microsoft customer support is fucking garbage ! i will be buying playstation for my next console for sure .",
+        "aspect": "xbox",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example134": {
+        "sentence": "watching a madonna concert , they are really cool , and she sings awesome in live : -rrb-",
+        "aspect": "madonna",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example135": {
+        "sentence": "not done so well in the music round . n.b circus by britney spears is not x factor",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example136": {
+        "sentence": "excellent idea . i 'm gon na be like the steve jobs of socks .",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example137": {
+        "sentence": "jimgeraghty : inspired by edmorrissey : thank goodness we did n't elect john mccain . he might have actually closed gitmo .",
+        "aspect": "john mccain",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example138": {
+        "sentence": "daniel radcliffe is super adorable . he is great on jimmy fallon right now .",
+        "aspect": "jimmy fallon",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example139": {
+        "sentence": "simply_brianah _ hayley_g europe ... do n't ask how i know . . lol . rt lalalalove_jas : where 's lady gaga ??? .",
+        "aspect": "lady gaga",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example140": {
+        "sentence": "hillary has no desire to rule the white house : us secretary of state hillary clinton says that she would not co . .",
+        "aspect": "hillary clinton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example141": {
+        "sentence": "just saw those annoying twins do britney spears on the x factors ... so so painful , it 's like watching a car crash !",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example142": {
+        "sentence": "just discovered the google scholar search feature . a great tool & quick way to find scholarly articles for research papers $t$",
+        "aspect": "google",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example143": {
+        "sentence": "checking out the new psp minis that came out last week -- the mahjong game is n't bad . pretty slick .",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example144": {
+        "sentence": "at first glance i thought you said harry potter would sleep well tonight ! phils win ! harry reese will sleep sound tonight .",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example145": {
+        "sentence": " sarah palin is like a gitmo detainee : we do n't want to keep her , but we ca n't find anyone willing to take her .",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example146": {
+        "sentence": "i want miley cyrus 's hair , taylor swift 's voice , jasmine v 's smile , ariana grande 's eyes , but most of all i want selena gomez 's boyfriend .",
+        "aspect": "selena gomez",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example147": {
+        "sentence": " justin bieber , rihanna , nikki minaj to release japan aid album !! .",
+        "aspect": "justin bieber",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example148": {
+        "sentence": "forbes.com watch video that suggest how to present like good pal steve jobs :",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example149": {
+        "sentence": "last kiss by taylor swift is like the saddest song i 've ever heard : -lsb-",
+        "aspect": "taylor swift",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example150": {
+        "sentence": "thank you corwinhoover for coming through with a google wave invite ! ca n't wait for google to kick out the mail !",
+        "aspect": "google wave",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example151": {
+        "sentence": "happiness is amazing madonna remasters . next do n't stop moving is a madge special , 14 november , facebook event hurr :",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example152": {
+        "sentence": "my boyfriend does n't believe i married lindsay lohan stunning ! so , would you like to ?",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example153": {
+        "sentence": "she gone say if this bitch paris hilton do n't just sell perfume and sit down somewhere she silly man lol",
+        "aspect": "paris hilton",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example154": {
+        "sentence": "is there a song with ginuwine and mariah carey in it ? because if there was , it would probably sound really good ...",
+        "aspect": "mariah carey",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example155": {
+        "sentence": "heaven must be missing an angel ... and that angel happens to be lindsay lohan . we want the old lindsay , not that trainwreck one , back .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example156": {
+        "sentence": " britney spears - monster -lrb- new 2009 -rrb-",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example157": {
+        "sentence": "'' i got that good good , i ` m micheal jackson bad , he attracted to my attractive ass !! '' : -rrb-",
+        "aspect": "micheal jackson",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example158": {
+        "sentence": "simplysmilexo : i love your lady gaga tweet !!!!! : d",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example159": {
+        "sentence": " lindsay lohan tweets her heartbreak about girlfriend samantha ronson : new york daily news by joe dziemianowicz . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example160": {
+        "sentence": "* nods slowly * and i would not blame you . of course , i suppose it could be worse . he could be singing britney spears songs .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example161": {
+        "sentence": " russell brand is an annoying little fuck who should be deported and never allowed to return to america rustyrockets",
+        "aspect": "russell brand",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example162": {
+        "sentence": "watching oprah with goldie hawn regarding happiness should be interesting",
+        "aspect": "oprah",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example163": {
+        "sentence": "sorry to inform you mason but i just ate your windows 7 disk ... so it now going to take even longer !",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example164": {
+        "sentence": "you notice how gag and paris hilton deleted tweets not knowing what happened last night ? they do n't really care .",
+        "aspect": "paris hilton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example165": {
+        "sentence": "trscoop i search for snidely whiplash and get that . whatever new algorithm google is using certainly turns up weird results .",
+        "aspect": "google",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example166": {
+        "sentence": "i have just found this awesome application for my iphone which i am now totally addicted to !! seriously night tweeters :-rrb- :-rrb- : -rrb-",
+        "aspect": "iphone",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example167": {
+        "sentence": "riovegas anxious to begin setting up my new dell studio desktop pre-loaded with windows 7 .",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example168": {
+        "sentence": "coloquem oh ' making the video ' de britney spears - toxic , pra concorrer no ' minha mtv ' , por favor",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example169": {
+        "sentence": "n britney spears sucking penis i see her following you 2 ... so we got each other now bruuuh ! your approved your kinda funny aaaawww : - -rrb-",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example170": {
+        "sentence": "no school today . ha . now im just jamming to britney spears . ugh , i love her . her musics legitimate , better than madonna ! muhaha",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example171": {
+        "sentence": "i cant wait for harry potter and the half blood prince to come out on dvd december 7th !!!",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example172": {
+        "sentence": "better now . with in town watching that mjackson movie . i have wii bluray and television all to myself . oh . what to do first ?",
+        "aspect": "wii",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example173": {
+        "sentence": "all this moving , i 'll be dropping pounds like how britney spears drops babies ... : p",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example174": {
+        "sentence": "setting up internet on psp -lrb- : it better work lol",
+        "aspect": "psp",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example175": {
+        "sentence": "eliminate professional , a first person online shooter for the iphone is now out , and its free . on top of that it got great reviews !",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example176": {
+        "sentence": "np justin bieber - one less lonely girl",
+        "aspect": "justin bieber",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example177": {
+        "sentence": " lindsay lohan looks like she is 59 years old and has been rode hard and put away wet . meth face much ?",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example178": {
+        "sentence": "'' three '' is the new song by britney spears and i love it !",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example179": {
+        "sentence": "test out an apple ipad or amazon kindle & keep it for free at quick7dollars.com rt purplelover04 rt zaggdaily ...",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example180": {
+        "sentence": "who is this and what did she do with the cute lindsay lohan from ' the parent trap ' ?",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example181": {
+        "sentence": "ha yeh barack obama ? never thought of him like that but yeh i see where you 're coming from !",
+        "aspect": "barack obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example182": {
+        "sentence": "lawl i love how pc thinks that windows 7 is so revolutionary when mac has been doing the same thing for years",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example183": {
+        "sentence": "the homie trey is hustlin bacwards ... bill gates would never start an apple trending topic ... any pub is good pub",
+        "aspect": "bill gates",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example184": {
+        "sentence": "repair tool screwdriver computer pc laptop box psp gps please move mouse on a photo on the left to view full size .",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example185": {
+        "sentence": " barack obama and the wisdom of the ages have clashed , and god has won .",
+        "aspect": "barack obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example186": {
+        "sentence": "victoria secret show 2010 , a to the amazing . love that '' game on '' lady gaga remix music section .",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example187": {
+        "sentence": "yooooo ! listening 2 my damn ipod making me wan na go 2 a damn club . maybe this fri or sat !",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example188": {
+        "sentence": "wow im actually using all 3 usb ports on my xbox 360 . one for my controller charger one for my turtle beaches and last my wireless adapter .",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example189": {
+        "sentence": "seriously what the hell did lindsay lohan do to her lips ? she look like a freaking duck !",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example190": {
+        "sentence": "new moon is coming out in like a month or sooo !! aaaaaaaaaaaaaahhhhhhhhhhhhhhhhhh !! harry potter dvd out soon 22 !!! aaaaaaaaaaaaaahhhhhhhh",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example191": {
+        "sentence": "i had lost wifi when i updated to blacksn0w and 05.11 . i just reset my network settings and restarted my iphone . fixed problem",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example192": {
+        "sentence": " britney spears monster product by danjahandz just added at",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example193": {
+        "sentence": "noobus turns out snoop dogg is actually pretty funny .",
+        "aspect": "snoop dogg",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example194": {
+        "sentence": "has halloween all put away and fall decor up ! loving my new psp .",
+        "aspect": "psp",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example195": {
+        "sentence": "yeah ! then kaileyearly could be like britney spears , and we all know britney is her idol",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example196": {
+        "sentence": "for sale apple iphone 3gs 32gb , nokia n900 , nokia n97 , blackberry curve : welcome to nani mobiles limitedhello b . .",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example197": {
+        "sentence": "the modern warfare 2 special edition xbox comes with a 250 gb hard drive . holy shit .",
+        "aspect": "xbox",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example198": {
+        "sentence": "waiting for mike to break out his boots and spandex , rip his shirt off , and sing katy perry already .",
+        "aspect": "katy perry",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example199": {
+        "sentence": "the campaign to unseat sarah palin from her 1 best selling perch begins . dan brown fans sound off at huffingtonpost :",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "unknown"
+    },
+    "example200": {
+        "sentence": "resolved question : do the republican , candidiates john mccain and sarah palin support the $ 700 billi ...",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example201": {
+        "sentence": "all the toothpaste factories blow up ? making the air fresh , or did britney spears blow someone a kiss ? problem . $t$ .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example202": {
+        "sentence": " george bush was more worthy of a nobel peace prize . he did try to make the world a better place .",
+        "aspect": "george bush",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example203": {
+        "sentence": " tiger woods wins nobel prize for golf | cracked.com : yesterday morning , beloved nike shill $t$ was awarded . .",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example204": {
+        "sentence": " barack obama rallies doctors on healthcare reform ahead of senate vote ; arm twisting the chicago way -lrb- have your legs broke -rrb- hcr",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example205": {
+        "sentence": "sammy hagar claims an alien abducted him . but everybody knows joe biden never abducts anyone . joedoesntevenknowhesvicepresidentyet",
+        "aspect": "joe biden",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example206": {
+        "sentence": "notice that he cobbled together his a/v equipment on windows 7 ? it is a pretty nice os . -lrb- nr 's link :",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example207": {
+        "sentence": "' the wizarding world of harry potter ' theme park : fanbolt . com this park might just be the closest '' mug . .",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example208": {
+        "sentence": "getting to follow your celebrity life , i do n't even miss britney spears on twitter .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example209": {
+        "sentence": "kyle korver does not look like no damn ashton kutcher ... who told that lie",
+        "aspect": "ashton kutcher",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example210": {
+        "sentence": "i liked a youtube video -- ian carey ft . snoop dogg & bobby anthony - last night -lrb- office ... .",
+        "aspect": "snoop dogg",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example211": {
+        "sentence": " obama 's war on the middle class : $t$ acts like a political general in the class war -- the war of the government ... .",
+        "aspect": "obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example212": {
+        "sentence": "four year strong - love song -lrb- sara bareilles cover -rrb- np",
+        "aspect": "sara bareilles",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example213": {
+        "sentence": "if you want to arm yourself , try talking to an iranian about what jimmy carter and his dangerous lib view did to iran tcot",
+        "aspect": "jimmy carter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example214": {
+        "sentence": " lady gaga please follow me diva ? , you are amazing $t$ , i love you \u2665 follow me please * -- * 14",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example215": {
+        "sentence": "i call you an ironic britney spears fan von bourbon ! well ... i do hope it 's ironic at any rate .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example216": {
+        "sentence": "this is kinda awesome :-rrb- the ultimate ipad installation : kitchen cabinet integration - . via pcm73",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example217": {
+        "sentence": " hilary swank = i just do n't find her sexy . she made this movie less interesting . . . although i love '' ps i love you ''",
+        "aspect": "hilary swank",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example218": {
+        "sentence": "i don care what nebody says , i love harry potter ahah",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example219": {
+        "sentence": " steve jobs ' 2005 stanford commencement address ; very insightful -",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example220": {
+        "sentence": "so the dem fight terrorism do they ? -- barack obama : taliban can be involved in afghanistan future",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example221": {
+        "sentence": "it sounds like there may be a replacement for charlie sheen on '' two and a half men . '' what do you think ? .",
+        "aspect": "charlie sheen",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example222": {
+        "sentence": "lmfao i fucking love beliebers . i went on omegle and said ' swag ' and now i 'm jaden smith talking to justin bieber . lmfao",
+        "aspect": "justin bieber",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example223": {
+        "sentence": "still learning from pops . . who he is and what he 's done ! life is about relationships . madonna is still makin $ because of who she 's around !",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example224": {
+        "sentence": " bill gates ' cousin encouraged me to take a camel from microsoft . it 's cute and sitting on my table .",
+        "aspect": "bill gates",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example225": {
+        "sentence": "azteamsallday rt connerysteph rt if you are lakers ",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example226": {
+        "sentence": "i love britney spears , and from there ?",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example227": {
+        "sentence": "`` kevinrose : only brought my ipad on the trip , the lack of multitasking sucks at first but kinda forces you to be more mindful/zen . '' hmm . .",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example228": {
+        "sentence": "icon thursday - if you missed last week , enough said !!! get yeah ass there early arod atown_finesse -lrb- continued -rrb- .",
+        "aspect": "arod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example229": {
+        "sentence": "omg you suck , uh , f nicolas cage , marry jdepp , and kill clooney lmfao i am horrible",
+        "aspect": "nicolas cage",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example230": {
+        "sentence": " ms dhoni - the reservoir of self-contained confidence : mahendra singh dhoni speaks with a peculiar kind of hones ... .",
+        "aspect": "ms dhoni",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example231": {
+        "sentence": "just got hold of an ipod . . it will be fun learning how to use it on the bus trip to canberra this monday",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example232": {
+        "sentence": "them looks like a sorcecorress . okay harry potter , okay",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example233": {
+        "sentence": "fuck the lakers i 'm a teambrownskin fan all the way ; - -rrb-",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example234": {
+        "sentence": "no scientific evidence supports multiple sets being better at building muscle , yet the arnold schwarzenegger workout prevails . why ?",
+        "aspect": "arnold schwarzenegger",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example235": {
+        "sentence": "'' what did you say read like harry potter ? -- aristotle ? ''",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example236": {
+        "sentence": "my vista-laptop has entered a stage of total unresponsiveness . i hope windows 7 truly is faster and less likely to slow down in use .",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example237": {
+        "sentence": " lindsay lohan \u00e9 a bitch eterna .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example238": {
+        "sentence": "'' living in sin is the new thing . . '' ahahahhahhhhh i love britney spears !!!!! sorry ya 'll i had to",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example239": {
+        "sentence": " lady gaga : ' i do n't feel like a superstar ' : by kate goodacre , news subeditor $t$ has revealed that she sti ... .",
+        "aspect": "lady gaga",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example240": {
+        "sentence": "john ransom : tax congress ! : barack obama , nancy pelosi and harry reid want you to know that the rich are out of ... .",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example241": {
+        "sentence": "weird al gets the go-ahead from lady gag for parody : -lrb- rttnews -rrb- - it looks like weird al yankovic will be able t ... .",
+        "aspect": "weird al yankovic",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example242": {
+        "sentence": "thanks for the follow ! it 's nice to see others using google wave , it 's such a neat collaboration tool , what are you using it for ?",
+        "aspect": "google wave",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example243": {
+        "sentence": " charlie sheen secret third girlfriend megan levant ? : $t$ reportedly has a secret third girlfriend who ... .",
+        "aspect": "charlie sheen",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example244": {
+        "sentence": "star : lindsay lohan hits rock bottom , is `` obituary waiting to happen ''",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example245": {
+        "sentence": "got ta light skin friend look like micheal jackson got ta dark skin friend look like $t$ . . lmfao im crying off that rip mj though",
+        "aspect": "micheal jackson",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example246": {
+        "sentence": "fuck me katy perry was so good last night !!",
+        "aspect": "katy perry",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example247": {
+        "sentence": "love 4.2 on my ipad , but not sold on the silent switch . i preferred it as a orientation lock .",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example248": {
+        "sentence": "i don wan na dream about all the things that never work ... out from under - britney spears ",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example249": {
+        "sentence": " lady gaga is more gaga than she is a lady .",
+        "aspect": "lady gaga",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example250": {
+        "sentence": " martha stewart crafts peg stamp starter kit : $t$ crafts peg stamp starter kit create elegant wreaths ... .",
+        "aspect": "martha stewart",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example251": {
+        "sentence": "reminds me of the madonna with little felix video 1989 , you can sweep our chimneys for real authenticity",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example252": {
+        "sentence": "'' levi johnston , father of sarah palin ' s grandson , to pose nude for playgirl '' ... as if this farce ca n't get more crazy",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example253": {
+        "sentence": " charlie sheen your fucking annoying",
+        "aspect": "charlie sheen",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example254": {
+        "sentence": "robkardashian since you live in la you must be lakers fan ... love the $t$ ... go $t$ . . please do n't say the kings or clippers",
+        "aspect": "lakers",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example255": {
+        "sentence": "top rated today : lindsay lohan ' s genius lips !!! - sexy stepfather & gossip girl threesome xoxo : . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example256": {
+        "sentence": "lol do you like beautiful life of lindsay lohan ???",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example257": {
+        "sentence": " george bush '' the war president '' barack obama '' the peace president '' \u263a .",
+        "aspect": "george bush",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example258": {
+        "sentence": "her smile , her laugh , her hair , her chin , her personality , her voice , everything about her ! yeah ! i love her ! demi lovato \u2665",
+        "aspect": "demi lovato",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example259": {
+        "sentence": "interesting ! how to present like steve jobs ",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example260": {
+        "sentence": " britney spears is meandering on a beach : the blemish by the blemish , 8:46 am on oct 19 , 2009 , 0 comments here & 3 . .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example261": {
+        "sentence": "ooc : * gags * no offense . . but i hate britney spears . . so i would rather gargle battery acid then do a music video to that . .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example262": {
+        "sentence": "wow ! i love it ! < 3 my britney spears 2010 calendar has arrived ! look >> >",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example263": {
+        "sentence": "on sarah palin ' s book '' going rogue '' is that like going commando ? nounderwear",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example264": {
+        "sentence": " windows 7 news $t$ upgrade workaround a ' hack ' ? - redmond channel partner : new zealand hera . .",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example265": {
+        "sentence": "he said '' she got that good good ` , she micheal jackson bad ` , & & i ` m attracted to her , with her attractive ass ! '' = d",
+        "aspect": "micheal jackson",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example266": {
+        "sentence": " lindsay lohan is the best yeah !! < 3",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example267": {
+        "sentence": "watching harry potter 1 ! omg , he looks so young and adorable compared to now . now hes just old and grody :p getting dressed to do something , ily ! < 3",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example268": {
+        "sentence": "rt make sure your inthe loop read about , kanye , lady gag , britney spears , swine flu , obama , fashion , food , twi . .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example269": {
+        "sentence": "dudley moore as arthur is on . i wonder how russell brand will do with his version . the former did not interest me much , i wonder ...",
+        "aspect": "russell brand",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example270": {
+        "sentence": "i ca n't get my charlie sheen on if y' all not voting duh i 'm talking about winning so help me start winning by y' all voting show support",
+        "aspect": "charlie sheen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example271": {
+        "sentence": "pretty good demo of how google wave is likely to change the way we communicate and work ...",
+        "aspect": "google wave",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example272": {
+        "sentence": "had no idea , what a brave lady ! maggie smith continues to film harry potter , fighting breast cancer",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example273": {
+        "sentence": "fuck you micheal jackson , madonna is the best performance ever ...",
+        "aspect": "micheal jackson",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example274": {
+        "sentence": "freaky friday on television reminding me to think wtf happened to lindsay lohan , she was such a terrific actress , + my huge crush on haley hudson .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example275": {
+        "sentence": "the singles collection : edition details - britney spears : learn all about the track listings and bonus features . .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example276": {
+        "sentence": "musicmonday best britney spears cover ... ever . oops i did it again .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example277": {
+        "sentence": " harry potter time suckah !!",
+        "aspect": "harry potter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example278": {
+        "sentence": "rocking out on the bus . i love my ipod .",
+        "aspect": "ipod",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example279": {
+        "sentence": ": obama winning the nobel peace prize is like sarah palin winning the nobel prize for literature .",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example280": {
+        "sentence": "did microsoft steal code for a windows 7 utility ?",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example281": {
+        "sentence": "i 'm sick of these fake britney spears giving head video icons and pornstars following me . . they need 2 get me in the porn industry asap lol",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example282": {
+        "sentence": " charlie sheen 47 , is all over the news because he 's a celebrity drug addict . while andrew wilfahrt 31 , brian -lrb- continued -rrb- .",
+        "aspect": "charlie sheen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example283": {
+        "sentence": "freshening up the ipod . . who 's got suggestions for some good beats ? music",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example284": {
+        "sentence": "i like winamp , but since getting my ipod touch i use itunes . and it 's growing on me .",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example285": {
+        "sentence": "elizabeth taylor \\ 's last tweets : dameelizabeth on love , death and kim kardashian . via forbes",
+        "aspect": "kim kardashian",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example286": {
+        "sentence": "watching harry potter and relaxing trying to ignore my bed calling xx",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example287": {
+        "sentence": "kai reply harry potter cha itka fan aahes . . gmail war pan hyach id ni yetos",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example288": {
+        "sentence": "kinesio tape , worn by other top sports stars like david beckham , ashley cole and serena williams , closely supports ... .",
+        "aspect": "serena williams",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example289": {
+        "sentence": "simon cowell goes george bush on our asses - misunderestimated ? and how the hell does he look that good at 50 ? xfactor",
+        "aspect": "george bush",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example290": {
+        "sentence": "i hope the songs of britney spears will be good just like right now the next 20 years ! delayedtweets",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example291": {
+        "sentence": "best britney spears jazz cover ever ? you decide",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example292": {
+        "sentence": "you have been invited to google wave . hopefully it will get there in the next few days .",
+        "aspect": "google wave",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example293": {
+        "sentence": "rachelmtwat apple survey - are apple products any good ? ipad sucks ? mac .",
+        "aspect": "ipad",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "unknown"
+    },
+    "example294": {
+        "sentence": "been playing with windows 7 a bit , i must say i 'm not disappointed yet . though i 've seen some nifty os x like ui design along the way . .",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example295": {
+        "sentence": "love your job just like dan : . come to palantirtech 's talk tonight , 6p in 2405 . ipad and del 's in addition to job-love .",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example296": {
+        "sentence": "- come on , don even pretend the guy in the middle doesnt look like tiger woods . and look at his last name ! wha ...",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example297": {
+        "sentence": "everytime we think lindsay lohan hits rock bottom , she goes lower . . bitch ca n't ever bounce back ...",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example298": {
+        "sentence": "if justin bieber , demi lovato or cody simpson do n't follow you . do n't worry , i help us -lrb- must following >> thebieberbear !!!",
+        "aspect": "demi lovato",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example299": {
+        "sentence": "a judge has extended lindsay lohan ' s probation on drunken driving and other criminal charges for one more year , . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example300": {
+        "sentence": "taking debating advice from dan quayle ? or sarah palin ? also . tcot sgp",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example301": {
+        "sentence": " britney spears is not essay music . her album has made me unbelievably unproductive .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example302": {
+        "sentence": "i just took '' 15 and pregnant - a justin bieber love story -lcb- all ... '' and got : part :-rrb- what did we do last night ?! try it : .",
+        "aspect": "justin bieber",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example303": {
+        "sentence": "woods , stricker prove a perfect pairing : will tiger woods or steve stricker make it three in 2009 ? below is tiger & . .",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example304": {
+        "sentence": "devinebanks3 you played great tonight keep it up devin get that ring lakers ",
+        "aspect": "lakers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example305": {
+        "sentence": "i wish my black ass would thought up writing those damn harry potter books . that chick mega rich of that bullshit .",
+        "aspect": "harry potter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example306": {
+        "sentence": "i love justin because he is perfect and is my inspiration believer forever ! i have a fever bieber ! \u00a1 ! \u00a1 ! \u00a1",
+        "aspect": "justin",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example307": {
+        "sentence": "page 12 of comedy videos . will ferrell as george bush , trunk monkey , and some hilarious pranks",
+        "aspect": "george bush",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example308": {
+        "sentence": "nowplaying \u266a '' you do n't have to say you love '' by dusty springfield \u266a oldies iphone4 or ipad itwines followmejp .",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example309": {
+        "sentence": "i hate harry potter . dobby died and if fred and george die i will have no reason to watch those stupid movies and e more .",
+        "aspect": "harry potter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example310": {
+        "sentence": "q - what is the first reaction if you mention justin bieber ? a - i would smile , and hug him < 3 - kylie .",
+        "aspect": "justin bieber",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example311": {
+        "sentence": "downloading britney spears discography for ang , i think it 's funny enough to tweet : -rrb-",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example312": {
+        "sentence": "' hes like what ? 15 and shes like 72 ' zippy earlier today on the topic of jesus luz and madonna while filming the jess and zippy show ...",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example313": {
+        "sentence": "fun ! thinking i should have waited for one , i 'm having a lot of problems with my iphone : -lrb-",
+        "aspect": "iphone",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example314": {
+        "sentence": " lady gaga please follow me diva ? , you are amazing $t$ , i love you \u2665 follow me please * -- * 7",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example315": {
+        "sentence": "hp udh 100persen . psp udh siap . kipas sate jg udh siap . lets turn off the light pak pln ! ayem redi !",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example316": {
+        "sentence": "verizon positioning their ads to respect the iphone but throw daggers at at & t . this has steve jobs all over it",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example317": {
+        "sentence": " britney spears debuts no . 1 on the billboard hot 100 with her worst song ever . ugh .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example318": {
+        "sentence": ": ha , no sorry mal . my loves right now are . rain , harry potter , and the holiday reason",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example319": {
+        "sentence": "gon na either play team slayer , or lone wolf , left 4 dead 2 releases for the xbox 360 on november 17 , 2009 .",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example320": {
+        "sentence": "obama rules out ' land invasion ' in libya : president barack obama wednesday categorically ruled out a land invasi ... .",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example321": {
+        "sentence": "just scribbled 27 sides of pure bullshit in a two and a half hour exam . my right arm looks like one of madonna ' is .",
+        "aspect": "madonna",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example322": {
+        "sentence": "first song i listened to on my 15th birthday was ' fifteen ' by taylor swift < 3 taylorswift13",
+        "aspect": "taylor swift",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example323": {
+        "sentence": "if you have n't heard micheal jackson ' s new song '' this is it '' , its amazing ! go gold with retrorewind , it 's on demand .",
+        "aspect": "micheal jackson",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example324": {
+        "sentence": " lady gaga - never fucking fails :-rrb- .",
+        "aspect": "lady gaga",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example325": {
+        "sentence": " ipod touch has no freaking space left . wtf . 16gb . full . fuck . and i just wanted to add one new song : new fang by them crooked vultures .",
+        "aspect": "ipod",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example326": {
+        "sentence": "new wii zelda game on the horizon . good times !",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example327": {
+        "sentence": "healthcare reform bill approved by us senate panel : there has been a major boost to us president barack obama ' is . .",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example328": {
+        "sentence": "i favorited a youtube video -- f1 rocks ! part 3 lindsay lohan introduces no doubt - do n't speak",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example329": {
+        "sentence": "tryna get a wawa not a lady gaga .",
+        "aspect": "lady gaga",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example330": {
+        "sentence": "i fixed my kindle because i 'm feckin awesome like that !",
+        "aspect": "kindle",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example331": {
+        "sentence": "'' sarah palin , in her own odd vernacular , is incredibly sort of quotable and eloquent , in her own palinesque way . '' :",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example332": {
+        "sentence": "hello , is anybody there , any brains left , guess jimmy carter is obamas adviser in his watch he lost nicaragua and iran now honduras y mexico",
+        "aspect": "jimmy carter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example333": {
+        "sentence": "who told taylor swift it was okay to dance like that in those covergirl commercials ? because that 's a pretty funny joke ... notafan",
+        "aspect": "taylor swift",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example334": {
+        "sentence": "okay i have 2 admit that '' 3 '' by britney spears - is kinda hot - catchy - after listening 2 it on repeat - it sticks in your head - go britney",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example335": {
+        "sentence": "yarby i do n't use it much . i default to google . but i 'm definitely going to play around with it . i 'd love to know how many people use bing",
+        "aspect": "google",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example336": {
+        "sentence": "living in sin is the new thing yeaaaaaaaah ! -lrb- britney spears - 3 -rrb- musicmonday",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example337": {
+        "sentence": "breaking : no fly zone expanded to all of mid-east . this is in effort to keep sarah palin from returning to the united states .",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example338": {
+        "sentence": " katy perry sings what girls wan na do , taylor swift sings what a girl wants to say , and bruno mars sings what a girl wants to hear ... insane",
+        "aspect": "katy perry",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example339": {
+        "sentence": "rt cantbtamed : dear world , justin bieber and lady gaga are not the only fucking people on this planet that deserve awards .",
+        "aspect": "lady gaga",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example340": {
+        "sentence": "musicmonday britney spears - and then we kiss -lsb- junkie xl remix -rsb- from the album '' b in the mix : the mixes ''",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example341": {
+        "sentence": "are you trynaa die on twitter > __ < rt dmulababyy fuck the lakers ! just thought i should add that !",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example342": {
+        "sentence": " britney spears performs this sunday at bill graham civic ' - sfhaps : fuck yeah i will . .",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example343": {
+        "sentence": " nicolas cage is selling another castle ! | celebrity rumors : : feed ... : maybe he should be a real e . .",
+        "aspect": "nicolas cage",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example344": {
+        "sentence": "seriously , the only two girls i would turn lesbian for are . . megan fox & britney spears ; -rsb-",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example345": {
+        "sentence": " britney spears when she went crazy and attacked the paparrazzi 's car : -rrb-",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example346": {
+        "sentence": "lately we 've been playing easports fifa soccer and tennis rockonmommies what game do you guys play ? love the wii ",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example347": {
+        "sentence": "isayhello english -- german : the talking travel dictionary for phone or ipod touch brings in the real fun . .",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example348": {
+        "sentence": " psp as a torrent downloads",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example349": {
+        "sentence": "18 -rrb- taylor swift , miley cyrus , kristen stewart , justin bieber and demi lovato annoy me . 100factsaboutme",
+        "aspect": "miley cyrus",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example350": {
+        "sentence": "my love for hilary swank due to movies like iron jawed angels & freedom writers makes me really want to see it . plus , i hear its amazing .",
+        "aspect": "hilary swank",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example351": {
+        "sentence": "coldsteps . soldier boy ca n't cook like m , micheal jackson ca n't cook like me !",
+        "aspect": "micheal jackson",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example352": {
+        "sentence": "freaky friday is worth it if not for anything but jamie lee curtis ' impression of lindsay lohan ' s facial expressions . perfect .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example353": {
+        "sentence": "spring break impression check-list . tom delonge : check ! rivers cuomo : not that bad . gerard way : could be worse . lady gaga : not even close .",
+        "aspect": "lady gaga",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example354": {
+        "sentence": "finally managed to get safari working properly on windows 7 - yipee !!! : - -rrb-",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example355": {
+        "sentence": "black republicans say 2010 will be their year : -- quote -- when former president jimmy carter said racism was . .",
+        "aspect": "jimmy carter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example356": {
+        "sentence": "i know , but it plays so much i 'm sick of it . and there 's like 4500 + songs on my ipod , so i make lots of playlists",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example357": {
+        "sentence": "globegarydzen i guess they 're acceptable . i just hate when teams are setting up on offense and lady gaga is playing .",
+        "aspect": "lady gaga",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example358": {
+        "sentence": "listening to the new britney album . she 's back !",
+        "aspect": "britney",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example359": {
+        "sentence": "can you tell steve jobs from bill gates ? -- -lrb- i could have done better than 60 % -- fun quiz ! -rrb-",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example360": {
+        "sentence": "lady gag was awesome on snl - madonna was stiff as usual - love them both though",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "unknown"
+    },
+    "example361": {
+        "sentence": "sexual tension between martha stewart & cookie monster really should not exist .",
+        "aspect": "martha stewart",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example362": {
+        "sentence": "ah , i love john mayer < 3",
+        "aspect": "john mayer",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example363": {
+        "sentence": "thanks 4 haven me ; -rcb- ... ! itz always love when i come through . . i love your profile picture ! . is that on madonna ' is booklet ?",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example364": {
+        "sentence": "i hate that i have n't had time for zbrush in the past two days ... we need zspheres on the iphone so i can still sculpt on the go .",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example365": {
+        "sentence": "please , no al gore jokes . that one is too tired . it 's the lie that wo n't lie . heneversaidit gop p2",
+        "aspect": "al gore",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example366": {
+        "sentence": "miley cyrus , i want your hair . taylor swift , i want your smile . demi lovato , i want your voice .",
+        "aspect": "taylor swift",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example367": {
+        "sentence": "if you are from argentina do you considering it a good or bad thing that diego maradona is threatening to quit ?",
+        "aspect": "maradona",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example368": {
+        "sentence": "pain ? i thought they were supposed to fix you . i 'm suing harry potter .",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example369": {
+        "sentence": "why is britney spears blowjob following me on twitter ? sometimes its best to not ask questions",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example370": {
+        "sentence": "< 3 the new single of britney spears is , 3 , and is excellent very hottie",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example371": {
+        "sentence": "the classic mixtape !!!!!! mashup , bmore and 80 's feat mj , prince , lionel richie , madonna usw ! ...",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example372": {
+        "sentence": "wow it 's clear that the colors on droid phones are horrible in comparison to the iphone 3gs",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example373": {
+        "sentence": "ew , disgusting - i found a harry potter suck big balls book in my room !",
+        "aspect": "harry potter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example374": {
+        "sentence": "watching parent trap ... quite possibly lindsay lohan ' s best work '' yeah i thought mean girls was good too !",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example375": {
+        "sentence": "secretary of state hillary clinton stats she will not run for president . i really do n't blame her , it 's very stressful . -lcb- we 'll c",
+        "aspect": "hillary clinton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example376": {
+        "sentence": "it was a skit and madonna missed her cue so that threw off gag ... it was very awkward",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example377": {
+        "sentence": "i 'm begging . if anyone has a google wave invite , please stick it deep in your own ass while i destroy everything you live for ... thanks .",
+        "aspect": "google wave",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example378": {
+        "sentence": "late night i got so charlie sheen 'd i triedtelling a story some bitch kayne west me so chris brown her . .",
+        "aspect": "charlie sheen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example379": {
+        "sentence": "honestly you like a combination between martha stewart and oprah , i think im going to call you '' moprah ''",
+        "aspect": "martha stewart",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example380": {
+        "sentence": "woods ensures victory for americans : tiger woods delivered the clinching point on sunday as the united states w . .",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example381": {
+        "sentence": " nicki minaj just like basketball wives . . would n't be shit w/o the people she fucking ! fact",
+        "aspect": "nicki minaj",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example382": {
+        "sentence": "for like your ipod ",
+        "aspect": "ipod",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example383": {
+        "sentence": "oh my fucking gosh are you fucking kidding me ?! lakers game while i have practice . fuck my life .",
+        "aspect": "lakers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example384": {
+        "sentence": "my kitten is allergic to britney spears , well her fantasy perfume anyways",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example385": {
+        "sentence": "xgotmileyvirus yeah ... ... . okay now i hate lady gaga lol",
+        "aspect": "lady gaga",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example386": {
+        "sentence": " gaga 's tune born this way is growing on me in a big way . i must say",
+        "aspect": "gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example387": {
+        "sentence": "wow miss britney spears has 3.5 am followers . now that 's big ! britneyspears beatcancer",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example388": {
+        "sentence": "i 've got the great arpeggio steppolyarp for ipad .",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example389": {
+        "sentence": "okay , wtf !!! how many times can britney spears sucking penis follow me ? now my followers are up to 84 , tomorrow i will have 7 ... dumb shit !!!",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example390": {
+        "sentence": "okay i have an confession ... i love britney spears new song three ! she 's freaking awesome !",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example391": {
+        "sentence": "obama , obama again ! republicans may not like it ; tough luck george bush wondering why they did not give one for hanging saddam !",
+        "aspect": "george bush",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example392": {
+        "sentence": " britney spears - ghalib lands plea deal over assault charge",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example393": {
+        "sentence": "fuck lakers :-rrb- rt daisyjuice4476 : rt gisyblvd : rt amazing __ doll - fuck all laker haters = -rrb-",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example394": {
+        "sentence": " johnmayer is amazing & i love him !",
+        "aspect": "johnmayer",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example395": {
+        "sentence": "okay soooo ... . ummmmm ... ... what is going on with lindsay lohan ' s face ? boring day at the office = perez and tomorrow overload . not good ... . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example396": {
+        "sentence": " charlie sheen : ' connecticut was best show yet ' : $t$ recovers from his disastrous new york show , praisi ... .",
+        "aspect": "charlie sheen",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example397": {
+        "sentence": " barack obama wins the nobel peace prize ? so supposedly '' peace '' now means '' bombing the shit out of people overseas '' . who ` da thought ?",
+        "aspect": "barack obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example398": {
+        "sentence": "retweet if you love taylor swift . -lsb- seriously , just retweet . i know you all love her . i mean , who would n't ? -rsb-",
+        "aspect": "taylor swift",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example399": {
+        "sentence": "install has gone okay , a few bubbles . edges are quite difficult on psp go but got there in the end",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example400": {
+        "sentence": "that 's an epic bargain considering i got a 1gb psp memory card for # 80 when they first came out . : |",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example401": {
+        "sentence": " google takes so fucking long to load . = = gon na sleep now .",
+        "aspect": "google",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example402": {
+        "sentence": "at the sprint store fixing my phone . trying out the palm pre awesome phone but iphone is better",
+        "aspect": "iphone",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example403": {
+        "sentence": "playstation 3 focus hurt the psp : so we need to be focused and gear a lot of our resources back to the $t$ , and . .",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example404": {
+        "sentence": "'' i 'm a christian and i pray before every show and am thankful for every blessing . '' - justin bieber ",
+        "aspect": "justin bieber",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example405": {
+        "sentence": "i hate my ipod look at my last tweet before the argh one that 's for you",
+        "aspect": "ipod",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example406": {
+        "sentence": "today i met leonardo dicaprio , arnold schwarzenegger , lady gag ... i hugged robert pattinson and i chilled with robie williams . . awesome day !",
+        "aspect": "arnold schwarzenegger",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example407": {
+        "sentence": "lady gag - christmas tree , britney spears - my only wish , mcfly - rocking robin and the maine 's christmas album :-rrb- i < 3 christmas music",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example408": {
+        "sentence": "got 3 new music cds : matchbox twenty more than you think you are , britney spears blackout , and last but not least u2 no line on the horizon !",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example409": {
+        "sentence": "shit ... another bitch with britney spears sucking penis picture ... stop fallowin me ... i want real people to fallow me",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example410": {
+        "sentence": "who love the jonas brothers , demi lovato , miley cyrus and selena gomez all four of them ??? me !!",
+        "aspect": "demi lovato",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example411": {
+        "sentence": "i do n't even like spelling my name . made wii profiles for our pets last night . now they all jog with us in '' $t$ world ! '' fun !",
+        "aspect": "wii",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example412": {
+        "sentence": "in nyc area ? i 'm back at tekserve tomorrow with great demo of indesign to pdf , swf , and ipad . .",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example413": {
+        "sentence": "jaden crys when he hears nicki minaj and drake sing experience but dances when better and snoop d ... : .",
+        "aspect": "nicki minaj",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "unknown"
+    },
+    "example414": {
+        "sentence": "'' and accepting jon stewart 's award is jon stewart . . and stephen colbert apparently . '' comedyawards",
+        "aspect": "stephen colbert",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example415": {
+        "sentence": " madonna ' is fashion critic : $t$ ' is daughter lourdes has vowed never to wear skimpy outfits like her mother .",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example416": {
+        "sentence": "increase troops in afghanistan the real challenge to barack obama ",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example417": {
+        "sentence": "hollywood prefers miss goody two shoes to bad girls : now bad girls like tara reid , paris hilton , britney spears ... .",
+        "aspect": "paris hilton",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example418": {
+        "sentence": " google wave me please : -rrb-",
+        "aspect": "google wave",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example419": {
+        "sentence": "> rcnradiochatnet m\u00eas d niver rcn c / sorteios d v\u00e1rios cds : lady gag david guettamichaeljackson , backstreet , britney spears , chris b . e mto +",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example420": {
+        "sentence": "delightful paris hilton you can makeup for her award show .",
+        "aspect": "paris hilton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example421": {
+        "sentence": "'' tojufoyeh : ashton kutcher to replace charlie sheen ? they are better off cancelling the show and preserving the shows status ! '' lol",
+        "aspect": "ashton kutcher",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example422": {
+        "sentence": "see , the advantage of a wii fit over the gym is that you can exercise in your underwear without being thrown out .",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example423": {
+        "sentence": "2011myfoxla : obama to lay out his case on libya : president barack obama is offering congress and an anxious publ ... .",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example424": {
+        "sentence": "the power hungry women who egged their husbands on . i mean obama or hillary clinton , who are you gon na pick ?",
+        "aspect": "hillary clinton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example425": {
+        "sentence": "can someone explain to me how the hell barack obama won a nobel peace prize ? and for what exactly ? maybe i 'll win one next year then ... . .",
+        "aspect": "barack obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example426": {
+        "sentence": "looks like chris brown is jealous of all the attention charlie sheen has been getting ...",
+        "aspect": "charlie sheen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example427": {
+        "sentence": "kris allen covers britney spears . . `` warmud : the american idol winner kris allen went for a special concert and . .",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example428": {
+        "sentence": "have to work extra hard to not dance , while working and listening to the ipod , but it helps defeat the procrastination",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example429": {
+        "sentence": " lindsay lohan ' s anguish of lesbian love affairs",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example430": {
+        "sentence": "i just took '' you and justin bieber have been best friends ever since you were babies . why ... '' and got : part 5 < 3 ! try it : .",
+        "aspect": "justin bieber",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example431": {
+        "sentence": "exc !! willie nelson names neil young and dave matthews in farm aid 2011 line-up .",
+        "aspect": "dave matthews",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example432": {
+        "sentence": "homecoming was the shit thank god for britney spears gimmie more because god i gave more on the dance floor lolalexander slone",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example433": {
+        "sentence": "that 's nasty lol it 's suppose to be britney spears lmao",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example434": {
+        "sentence": "quality night , amazing costumes but got ta say lady gaga was the best though . . poor gaga left shoes and phone in my car ha",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example435": {
+        "sentence": " charlie sheen charity helping injured san fran giants fan - by radar staff $t$ is starting to use his vati ... .",
+        "aspect": "charlie sheen",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example436": {
+        "sentence": "well since you can walk through them like harry potter it would feel like anything ... and adrian258 showed me the storms co ...",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example437": {
+        "sentence": "and now fucking google wants my phone number ! you wo n't get it ,",
+        "aspect": "google",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example438": {
+        "sentence": "i 'm not really sure why , but tonight just flew by & seemed a lot quieter . . partly because the boys were all engrossed in the wii ",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example439": {
+        "sentence": "us sports news : day three thrills : day three thrills led by tiger woods ' heroics on the final tw . .",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example440": {
+        "sentence": "i just took '' 15 and pregnant - a justin bieber love story -lcb- all par ... '' and got : part11 :-rrb- school again ... oh joy ! try it : .",
+        "aspect": "justin bieber",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example441": {
+        "sentence": "i just finished watching the karate kid and it was ruined by the sound of justin bieber . damn",
+        "aspect": "justin bieber",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example442": {
+        "sentence": "wetinconcern taylor swift with your taylor being swift",
+        "aspect": "taylor swift",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example443": {
+        "sentence": "digging the old good boy super into his psp game rocking velcro sneakers !",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example444": {
+        "sentence": " lindsay lohan goes on yet another emotional rant on her twitter .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example445": {
+        "sentence": "i blame chewbacca ... with regard to this lost ... ... ... . . i mean khloe kardashian as well as her damn present",
+        "aspect": "khloe kardashian",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example446": {
+        "sentence": " jimmy carter is a saint compared to barack obama .",
+        "aspect": "jimmy carter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example447": {
+        "sentence": "how to look like a victoria 's secret supermodel with lindsay lohan : these slumber party guests , including al . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example448": {
+        "sentence": " biden flashback : launching an attack without congressional approval is an impeachable offense : in 200 ... . tcot pmg",
+        "aspect": "biden",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example449": {
+        "sentence": " jimmy fallon , the roots and stephen colbert are all fools . lol",
+        "aspect": "jimmy fallon",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example450": {
+        "sentence": "good thing there 's no assignments . . gon na play my psp the whole night !",
+        "aspect": "psp",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example451": {
+        "sentence": "keep those suggestions coming . we 're on our way to the theater and i 'll be checking the results on my iphone while en route . thanks !",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example452": {
+        "sentence": "no drama but tiger woods and some good golf in us presidents cup win - metro canada - halifax",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example453": {
+        "sentence": " lakers they got lucky tonight ,",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example454": {
+        "sentence": "'' being elmo '' & '' conan o'brien '' to bookend boston independent film ... : two high-profile documentaries will booke ... .",
+        "aspect": "conan o'brien",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example455": {
+        "sentence": "well , they already try to kill themselves - with their emotional shit '' i 'm so miserable , i aint got the new iphone - i must cut my arms ''",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example456": {
+        "sentence": "i 'm with my best friend now ... we 're listening to britney spears :-rrb- i love you rose : **",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example457": {
+        "sentence": " obama fiddles while fukushima burns - .",
+        "aspect": "obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example458": {
+        "sentence": "holy crap - britney spears ' new song '' 3 '' is catchy . ear candy . the chorus is one big hook . wow !",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example459": {
+        "sentence": " google ha , you fucking with yeah prep rally today ??",
+        "aspect": "google",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example460": {
+        "sentence": "lady gag no way / britney spears three ... qual que \u00e9 melhor ?",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "unknown"
+    },
+    "example461": {
+        "sentence": "bloody hell , my xbox 360 suddenly got a e74 error . fffffffuuuuuuuuuuuuu",
+        "aspect": "xbox",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example462": {
+        "sentence": "i think if aaliyah was alive , she 'd be as good/famous as alicia keys . they 're kinda on the same level . although aaliyah was bigger -lrb- majaahh -rrb-",
+        "aspect": "alicia keys",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example463": {
+        "sentence": " lindsay lohan was involved ? so i 'm guessing the serial killer won .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example464": {
+        "sentence": "world : engaged in global conflicts & running short of military resources , obama plays final card & deploys the salvation army",
+        "aspect": "obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example465": {
+        "sentence": "nancykdunn - something 2 b mindful of with kindle is graphs , charts & small print are n't always easy to read ...",
+        "aspect": "kindle",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example466": {
+        "sentence": "i ca n't wait for friends with benefits !! mila kunis and justin timberlake yeayerrss",
+        "aspect": "justin timberlake",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example467": {
+        "sentence": " mariah carey welcomes twins : prince william asked kate middleton if their first public kiss as a married couple was ' . . .",
+        "aspect": "mariah carey",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example468": {
+        "sentence": "stupid quotes - '' i get to go to lots of overseas places , like canada . '' - britney spears , pop singer -lrb- lmao ca n't be serious -rrb-",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example469": {
+        "sentence": " kim kardashian makeup tutorial | famous fart : -lrb- flattering -rrb- pleasing rican lady here doing nasty camera shows , go ... .",
+        "aspect": "kim kardashian",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example470": {
+        "sentence": "google 's interview with lady gaga is a must-see : . . like her music or not , the woman is amazing .",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example471": {
+        "sentence": "why is writing in vim easier then word ? maybe it 's because vim makes me happy and microsoft makes me mad , except for the xbox that was cool",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example472": {
+        "sentence": "bill clinton , al gore , hundreds more celebrate life of ned mcwherter : '' he was able to find solutions that worked ... .",
+        "aspect": "al gore",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example473": {
+        "sentence": "'' you look like a cat . '' '' you look like a dog . '' '' you look like an alligator . '' '' you look like an elephant . '' '' you look like a nicolas cage . ''",
+        "aspect": "nicolas cage",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example474": {
+        "sentence": "he is my hero . my inspiration . he is amazing . he makes amazing music . he is super sweet . he is a ninja . his name ? justin drew bieber \u2665",
+        "aspect": "justin drew bieber",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example475": {
+        "sentence": "rt seanmcconn : myhomelesssignwouldsay fuck a home !!!!!!! i need money for lakers tickets !!!!!!! : rt seanmcconn : ... .",
+        "aspect": "lakers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example476": {
+        "sentence": " john legend - rolling in the deep -lrb- cover -rrb- . via mostlyjunkfood",
+        "aspect": "john legend",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example477": {
+        "sentence": " windows 7 gaming and support sucks . no shock here .",
+        "aspect": "windows 7",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example478": {
+        "sentence": " google wave looks interesting for educational uses !",
+        "aspect": "google wave",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example479": {
+        "sentence": " britney spears lucky 2009",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example480": {
+        "sentence": "visualguidanceltd bizarre fashion headline of the day : lindsay lohan ruins ung . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example481": {
+        "sentence": "i mean i am not a prude but i 'm not interested in britney spears fucking and i block those people . they spoil twitter .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example482": {
+        "sentence": "i miss ipod touch , it 's gone to a new home now that my phone has taken over",
+        "aspect": "ipod",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example483": {
+        "sentence": "yeah , home brew . non-sony programs that makes the psp do awesome stuff . check out this link for $t$ - hacks .",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example484": {
+        "sentence": "finally put that michael jackson this is it on my ipod love that song",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example485": {
+        "sentence": "im micheal jackson bad and he attracted to me with / my attractive ass .",
+        "aspect": "micheal jackson",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example486": {
+        "sentence": "stoprightthere if you think nicki minaj is betta den lauryn hill .",
+        "aspect": "nicki minaj",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example487": {
+        "sentence": " nicolas cage broke ... what the hell happened to all of that treasure ?!!",
+        "aspect": "nicolas cage",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example488": {
+        "sentence": "you know you 've made it when ... steve jobs is more popular than oprah",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example489": {
+        "sentence": "the timing of the libyan attack & obama leaving 4 brazil should b investigatd . never heard of a potus calling 4 an attack & leavg country . tcot",
+        "aspect": "obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example490": {
+        "sentence": "new song : britney spears - monster . i < 3 it . patrickcavill do you like it ?",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example491": {
+        "sentence": "someone explain to me why this dude has mario playing on his ipod dumb loud swayin side 2 side like a gayboy . -lrb- big pun voice -rrb- go that wayyyyy",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example492": {
+        "sentence": "giannis1 ajhaha shes a genius . love madonna quotes . just google i t.t cheers millions of it . lol madonna is genius",
+        "aspect": "google",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example493": {
+        "sentence": "'' rogue : a deceitful and unreliable scoundrel '' , sarah palin is rogue indeed ! gopfail gop palin palinfail teapartyfail",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example494": {
+        "sentence": "but the wii fit is awesome ! oh we should play against each other !!",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example495": {
+        "sentence": "sky player on the xbox is now there and looking fantastic . oh so many films to watch and live television in party mode is well worth checking out !!",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example496": {
+        "sentence": "obama condemns afghanistan deaths : president barack obama describes as '' outrageous '' the killings ... . www.stgf.co.uk",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example497": {
+        "sentence": " hilary swank is not attractive . ugly infact .",
+        "aspect": "hilary swank",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example498": {
+        "sentence": "merry christmas ! i keep seeing that a christmas carol commercial . now i feel like britney spears , randomly wishing people a merry christmas .",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example499": {
+        "sentence": "best $ 15 i ever spent ? serenity on umd for my psp . '' forget this , i 'm gon na live ! ''",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example500": {
+        "sentence": "downloading music for my ipod !! damn yous a sexy bitch xoxo",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example501": {
+        "sentence": "i hate the britney spears once . they 're so disgusting .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example502": {
+        "sentence": "new background it 's not ready yet , but it shows my love to madonna so im glad ... ill try to do something else but later ...",
+        "aspect": "madonna",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example503": {
+        "sentence": "i know i sound like stephenfry with techie talk , but windows 7 is irritating and pernickity and wont fold my socks like ive ordered it to !",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example504": {
+        "sentence": "oh and the ps3 thing is bullshit really . the xbox has a million more known and recognized problems",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example505": {
+        "sentence": "icupcakequotes apple survey - what do you think of apple products ? ipad sucks ? mac .",
+        "aspect": "ipad",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example506": {
+        "sentence": "am being challenged on my wii bowling skills . silly bitch does n't know what he 's getting into . -lsb- 36hrs46mins -rsb-",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example507": {
+        "sentence": " harry potter ' is big vibrating broomstick ? - looks like the perverts from mattel need to conduct better product ...",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example508": {
+        "sentence": "you as a follower is better than those sexbot britney spears followers ... much better",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example509": {
+        "sentence": "comment on nicolas cage owned a fucking castle of the day by its me : ha ha -- for once , i totally agree with you !",
+        "aspect": "nicolas cage",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example510": {
+        "sentence": "loving the harry potter movie marathon on 25 days of christmas",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example511": {
+        "sentence": "emma watson is like a better lindsay lohan .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example512": {
+        "sentence": "which is better for small kids -lrb- 5 and under -rrb- wii , psp , box , ds or none of these ??",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example513": {
+        "sentence": "i cant cope with all these fucking stupid windows 7 ads before videos on youtube - im not going to buy your shit os !!",
+        "aspect": "windows 7",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example514": {
+        "sentence": "follow us if you like the following celebrities : bruno mars , miley cyrus , taylor swift , jordin sparks , keke palmer and ashley tisdale .",
+        "aspect": "ashley tisdale",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example515": {
+        "sentence": "celebrity videonews lindsay lohan in court : probation for dui arrest extended : $t$ . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example516": {
+        "sentence": "'' why white house did not issue barack obama ' is gay rights policy speech at human rights campaign dinner '' . don ask don tell ?",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example517": {
+        "sentence": " sarah palin is a bitch who hates '' gay '' people , why should anyone apologize to her ? david letterman is not that bad of a guy .",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example518": {
+        "sentence": "i love britney spears as well , just not as much as i love christina aguilera",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example519": {
+        "sentence": "mortified to learn that guardian 's eyewitness application is only for ipad . makes sense for size etc but would have been great time-killer on phone",
+        "aspect": "ipad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example520": {
+        "sentence": "i heard shannonbrown did his thing in the lakers game !! got ta love him",
+        "aspect": "lakers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example521": {
+        "sentence": "do fucking rednecks have nothing better to do than bitch because kids are singing about fucking barack obama ?",
+        "aspect": "barack obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example522": {
+        "sentence": "omfg . john and edward . britney spears . i ca n't stop laughing . the fucking locket . oh my god . hahahahaha . i love them xdd",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example523": {
+        "sentence": "the performance of aero on windows 7 in vmware fusion 3 is less than impressive on my 2007 2.2 ghz macbook professional .",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example524": {
+        "sentence": "i was intensely moved by madonna ' is ' you must love me ' video where the prez carried a terminally-ill evita up the stairs . painfully sweet .",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example525": {
+        "sentence": "rt connerysteph : rt phxsuns6thman : rt zodogg34 : rt bwilliams210 : rt connerysteph : rt if you are lakers ",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example526": {
+        "sentence": "rebecca black looks like demi lovato .",
+        "aspect": "demi lovato",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example527": {
+        "sentence": " pete wentz brings black cards to sxsw .",
+        "aspect": "pete wentz",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example528": {
+        "sentence": "rules for nobel peace prize also say a former winner can nominate someone . perhaps jimmy carter ?",
+        "aspect": "jimmy carter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example529": {
+        "sentence": "hey ! your avatar is a britney spears sucking a penis ! this indicates that you are a real human and original . beatcancer",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example530": {
+        "sentence": "greatest wedding speech thanks to mariah carey .",
+        "aspect": "mariah carey",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example531": {
+        "sentence": "i still do n't see what the whole fuss with kim kardashian is !!! not hating , just confused !",
+        "aspect": "kim kardashian",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example532": {
+        "sentence": " sarah palin can spell afghanistan ? i think that 's the real shocker .",
+        "aspect": "sarah palin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example533": {
+        "sentence": "random i still cant believe nick cannon and mariah carey got married ... i still think its fake though",
+        "aspect": "nick cannon",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example534": {
+        "sentence": "starstruck , lady gaga , love it",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example535": {
+        "sentence": " paris hilton interviews little wayne in interview 's april issue . other than their mutual love of marijuana , i did n't know they were friends .",
+        "aspect": "paris hilton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example536": {
+        "sentence": "i 'm hate when i miss a madonna party !! ... ... omg it 's today ... who 's going with me ?",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example537": {
+        "sentence": "ed schultz calls john boehner and paul ryan liars moments before lying about medicare | newsbusters.org : . via addthis",
+        "aspect": "john boehner",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example538": {
+        "sentence": "two and a half men is moving forward without charlie sheen . ummm , no thanks , not watching it !!!",
+        "aspect": "charlie sheen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example539": {
+        "sentence": "rt : us take control of presidents cup : tiger woods and steve stricker produced a spectacular late com . .",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example540": {
+        "sentence": "so is my kindle defective or are buttons supposed to be so unresponsive ? sometimes have to press 3 or 4 times before it reacts , typing too . .",
+        "aspect": "kindle",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example541": {
+        "sentence": "hey guess what haters you can kill yo self * nicki minaj voice * lol",
+        "aspect": "nicki minaj",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example542": {
+        "sentence": "i am a big fan of madonna . hope you enjoy this song song as much as i do",
+        "aspect": "madonna",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example543": {
+        "sentence": "okay , harry potter is much much more i know . but the hunger games is awesome in it 's own way . : d",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example544": {
+        "sentence": "lol aye i remember i sent shakira a candy gram an it said shake that ass fo a rich nigga that nigga titus was mad as hell",
+        "aspect": "shakira",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example545": {
+        "sentence": "iwasthinkin why people like artists like lady gaga and other mainstrem , their music has no good messages to them and they just suck",
+        "aspect": "lady gaga",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example546": {
+        "sentence": "soooo ... the ' homegroup ' feature in windows 7 is pretty stink ' cool !",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example547": {
+        "sentence": "got that lady gaga love for you that different shit",
+        "aspect": "lady gaga",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example548": {
+        "sentence": " martha stewart pets spring collection at petsmart .",
+        "aspect": "martha stewart",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example549": {
+        "sentence": "i hate my ipod ! its dead ! dead dead dead !!! fml ! someone wan na fix it for me ?",
+        "aspect": "ipod",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example550": {
+        "sentence": "how old is mandy moore ' golden globe ' girls love old hollywood curls . $t$ rocked old hollywood waves at the 2011 golden gl",
+        "aspect": "mandy moore",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example551": {
+        "sentence": "mymusic collaboration featuring beyonce , luther vandross , nelly , ciara , justin timberlake and more !!!!! = -rrb-",
+        "aspect": "justin timberlake",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example552": {
+        "sentence": "is going to get madonna ' is new album celebration this weekend some time , i always thought her song holiday was sung by kylie minogue . - . -",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example553": {
+        "sentence": "so you dissed britney spears but you are watching ashlee simpson . you fail as a human being .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example554": {
+        "sentence": "ha i love that movie where lindsay lohan does the twins ... what was the name of that movie ?!?",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example555": {
+        "sentence": "dear madonna : love that your 2-cd set includes 1 that 's safe for kids & 1 that 's clearly not . planned move or accidental genius ?",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example556": {
+        "sentence": "i think its pretty cool . went with a friend of mine who jumped at the chance to trade in his iphone for the droid . very cool",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example557": {
+        "sentence": "going out to lunch with my mom . but at least once again i have music ! the sony has way better sound than an ipod !",
+        "aspect": "ipod",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example558": {
+        "sentence": "is it weird that weird al is the only celebrity i follow on twitter ?",
+        "aspect": "weird al",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example559": {
+        "sentence": "'' i prefer to mourn alone . pride ? no . i just want to avoid a trial of people do not know the reason for my tears . '' - demi lovato welovedemi",
+        "aspect": "demi lovato",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example560": {
+        "sentence": "actor nicolas cage sues former business manager : actor $t$ has filed a lawsuit against his former busin . .",
+        "aspect": "nicolas cage",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example561": {
+        "sentence": "mxkid912 no i did n't lol , i meant the kobe v 5 rings since he won his fifth , i hate the lakers ",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example562": {
+        "sentence": " katy perry is so awesome . katyet .",
+        "aspect": "katy perry",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example563": {
+        "sentence": " windows 7 can get 8 out of 10 viruses . merry christmas",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example564": {
+        "sentence": "thanks for following ... if only you were the real lindsay lohan !!!",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example565": {
+        "sentence": "slap the taste out sarah palin ' s mouth . realbucketlist",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example566": {
+        "sentence": "just heard micheal jackson ' s single '' this is it '' . i like it ; classic micheal really .",
+        "aspect": "micheal jackson",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example567": {
+        "sentence": "himeryam i 'm hip and im awesome all the girls know my name , ha - ha - ha - harry potter that is my name $t$",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example568": {
+        "sentence": "chess titans , windows 7 . . miss this game !!",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example569": {
+        "sentence": "i really dislike perez hilton . he 's just a bitch . and not even in a funny way . .",
+        "aspect": "perez hilton",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example570": {
+        "sentence": "i 'm feeling a good wii bowling game coming ... you ready ?!",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example571": {
+        "sentence": "guess i 'll use me $ 40 credit from amazon on new super mario brothers wii which 'll turn to like 7 bucks + tax so final price is like 10 bucks .",
+        "aspect": "wii",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example572": {
+        "sentence": "oh , shucks ! i 've got a stupid air bubble behind my ipod screen .",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example573": {
+        "sentence": "that awkward moment when nick jonas cuts his hair and does n't lose 80 000 followers .",
+        "aspect": "nick jonas",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example574": {
+        "sentence": "this guy looks like charlie sheen lol .",
+        "aspect": "charlie sheen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example575": {
+        "sentence": " john boehner cancelled the traditional cinco de mayo party on capitol hill . apparently the deportation trap he was planning is n't ready yet .",
+        "aspect": "john boehner",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example576": {
+        "sentence": "persona 3 portable for the psp . basically the same i told you , but there 's an alternative story line if you make the mc a female .",
+        "aspect": "psp",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example577": {
+        "sentence": "i hate barack obama !! anybody else agree that my girl hillary clinton should 've been our president ? i voted 4 hillary & was sadden her loss",
+        "aspect": "barack obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example578": {
+        "sentence": "radar - britney spears , love this song ! \u2665",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example579": {
+        "sentence": "if you 're sitting around today whining that your job sucks , i 'd suggest you google chilean miner . then please stop whining .",
+        "aspect": "google",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example580": {
+        "sentence": "i feel like i look like nas and john legend mixed together sometimes",
+        "aspect": "john legend",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example581": {
+        "sentence": "rt lildicktracy : fuck harry potter ... . fuck myers park ... . wetheboyz -- gtfoh",
+        "aspect": "harry potter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example582": {
+        "sentence": "honestly honestly , gim me more is one of my favorite britney spears video ... i just love the whole concept of it ... as well as the coloring .",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example583": {
+        "sentence": " xbox live : fgomn is currently online . playing bioshock . building a bomb to smash the doors of the evil andrew ryan . . -lrb- $t$ live nation -rrb-",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example584": {
+        "sentence": "joining the vgp team again tonight . got a lot to talk about including red steel 2 , heavy rain , new super mario brothers wii and more .",
+        "aspect": "wii",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example585": {
+        "sentence": "i really wished peru had knocked off argentina today . . i would love to see maradona get fired .",
+        "aspect": "maradona",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example586": {
+        "sentence": "sitting in the library studying some gi tract and fun stuff ... it literally is shit ha . cant wait to play some wii in like an hour though ...",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example587": {
+        "sentence": "dear barack obama , i would like to come and have a joint with you , to talk about the legalization of marijuana . tlot",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example588": {
+        "sentence": "does your kindle need a snack ? murder takes the cake",
+        "aspect": "kindle",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example589": {
+        "sentence": "the new britney spears song is proving that she knows how to count to 3 . . well done britney ?",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example590": {
+        "sentence": "news flash : my kindle works in kuwait . just downloaded a few books . its like f % ^ & * ing magic dudes : -rrb-",
+        "aspect": "kindle",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example591": {
+        "sentence": "ufl referees are dressed like tiger woods and the final day of a major . except with stripes on their hats . leave it on the golf course fellas",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example592": {
+        "sentence": " barack obama renews vow to lift ban on openly gay military personnel",
+        "aspect": "barack obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example593": {
+        "sentence": "i just took '' what would happen if you , justin bieber , dylan sprouse , and cole sprouse with ... '' and got : fight !!!!! try it : .",
+        "aspect": "justin bieber",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example594": {
+        "sentence": "listening to '' ' 3 '' by britney spears :-rrb- got ta love it < 3",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example595": {
+        "sentence": "omg . i love my mom . she got me tickets to the heat lakers game in miami : -rrb-",
+        "aspect": "lakers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example596": {
+        "sentence": "biden says ' great concern ' over darfur security -lrb- afp -rrb- : afp - us vice president joe biden has expressed '' great see ... .",
+        "aspect": "joe biden",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example597": {
+        "sentence": "i hope hilary swank ' s career mysteriously disappears after her movie '' amelia '' so lame ...",
+        "aspect": "hilary swank",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example598": {
+        "sentence": " harry potter is great ! i would be excited too ! she 's only worth a few billion dollars-that sounds pretty good to me !",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example599": {
+        "sentence": "just got on to google wave . seems pretty cool but i do n't know anyone on it . anyone have advice ?",
+        "aspect": "google wave",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example600": {
+        "sentence": "excuse me music director for the cal marching band : lady gag and britney spears ! what the hell were thinking ?",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example601": {
+        "sentence": "where is britney suck doggy . edited for spam prevention .",
+        "aspect": "britney",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example602": {
+        "sentence": "i 'm one of the 10 people who likes law & order : la , but the khloe kardashian cameo was awful . i miss boomtown . that was a great la cop show .",
+        "aspect": "khloe kardashian",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example603": {
+        "sentence": "disappointment as orange iphone tariffs fail to beat o2",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example604": {
+        "sentence": "wished nobel prize winners get in scandals -lrb- ie . sex tapes , smoking pot , partying with lindsay lohan , etc . -rrb- - so media will cover the story .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example605": {
+        "sentence": "sup , porn bots ? cool fake britney spears porn , brother . no way i could tell all 3 + of you are bots if i did n't have this cylon detector .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example606": {
+        "sentence": "i think i 'd get most of the way through the fire but burn , losing it forever . then i 'd settle for going back for the wii .",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example607": {
+        "sentence": "lindsay allegedly flunking alcohol ed - filed under : celebrity justice , lindsay lohan sources tell tomorrow the alcohol ...",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example608": {
+        "sentence": "this would be a bad orientation for a kindle binding ; -rrb-",
+        "aspect": "kindle",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example609": {
+        "sentence": "and bill gates and suck my cock ... or lack thereof",
+        "aspect": "bill gates",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example610": {
+        "sentence": "is amazed by the advanced speech recognition capabilities of windows 7 !!",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example611": {
+        "sentence": "'' very rarely has a person captured the world 's attention and given its people hope for a better future . '' how about steve jobs ?",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example612": {
+        "sentence": "why did god create man , and later was sorry he did ? the reason is in the book : diary of god by tonya murray-amazon kindle store . read now !",
+        "aspect": "kindle",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example613": {
+        "sentence": "hey , spambot ! i know that 's not britney spears in that photo . britney is n't anywhere near that good looking .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example614": {
+        "sentence": "playing on the wii fit with my mum , its hilarious : p",
+        "aspect": "wii",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example615": {
+        "sentence": "lmfao ! its more like lindsay lohan ! do n't worry since hween falls on a sat i can actually celebrate it with you !! let 's party ?",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example616": {
+        "sentence": "lekker relaxed harry potter and the half blood prince aan ' t kijken !",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example617": {
+        "sentence": "if you 're that fragile i 'd prefer you do rt mrgambinii : is no longer following lilian_c33 : rt playwitmymonkey : fuck the lakers yeahisaidit",
+        "aspect": "lakers",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example618": {
+        "sentence": "veteran va goper frank wolfe gives speaker props budget deal : '' easy to condemn , complain '' '' i think john boehner has done an incredible job ''",
+        "aspect": "john boehner",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example619": {
+        "sentence": " britney spears trouble ...",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example620": {
+        "sentence": "-lsb- gizmodo -rsb- why ibm is in trouble with the antitrust police the secret diary of fake steve jobs - of course ...",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example621": {
+        "sentence": " jimmy carter , a traitor ? yes . yes and baleh .",
+        "aspect": "jimmy carter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example622": {
+        "sentence": "a ashlezzle hmm , i was 10 in 1990 . we all thought mc hammer and vanilla ice were so cool . we were so fucking white .",
+        "aspect": "mc hammer",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example623": {
+        "sentence": "yeah , i 'd love to compete with my faculty advisor for a chance to win a kindle ... for her . and i 'd win ... an ipod shuffle ? seriously ?",
+        "aspect": "ipod",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example624": {
+        "sentence": "i just created a quiz : '' how well do you know micheal jackson ? '' ! you should take it ! : p",
+        "aspect": "micheal jackson",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example625": {
+        "sentence": " google wave - gwt is probably a wrong technology choice -",
+        "aspect": "google wave",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example626": {
+        "sentence": " iphone / pod touch people . excellent new radar application .",
+        "aspect": "iphone",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example627": {
+        "sentence": "justin bieber ellen degeneres meets fan grammy awards never say ... : justin bieber saturday night live snl skit 3d ... .",
+        "aspect": "ellen degeneres",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example628": {
+        "sentence": "are your feathers ruffled mr rajeevmasand at the thought of katrina playing hilary swank ' s role in ps i love you ??",
+        "aspect": "hilary swank",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example629": {
+        "sentence": "and mrjpatt - guess what - i hateeeee britney spears even if you 're doing the remix ha",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example630": {
+        "sentence": "make a killing using google maps ? : thought this was awesome - never thought about using it for anything but a retail ... .",
+        "aspect": "google",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example631": {
+        "sentence": "you know i 'm anti-apple but i cant wait rt guardian steve jobs to help disney turn stores into mini theme parks",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example632": {
+        "sentence": "new blog post : lindsay lohan in trouble again .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example633": {
+        "sentence": "q . why did jimmy carter vote for barack obama ? a . because jimmy did n't want to be the worst president in history .",
+        "aspect": "jimmy carter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example634": {
+        "sentence": "if you need that lady gaga pop sound , that jay z sound , or something thats fresh bestbeatstore got you ! .",
+        "aspect": "lady gaga",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example635": {
+        "sentence": " justin bieber and rebecca black were actually doing this = = > . - ad",
+        "aspect": "justin bieber",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example636": {
+        "sentence": "esp : tiger 's desire is burning brighter : tiger woods wore his familiar , stoic game face for much of tuesday 's practice",
+        "aspect": "tiger woods",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example637": {
+        "sentence": "ap : '' levi johnston is going for ultimate exposure -- the father of sarah palin ' s grandchild will pose nude for playgirl . '' -lrb- yikes . -rrb-",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example638": {
+        "sentence": "listening ' ' in the zone ' album by britney spears . i love you brit . : -rrb-",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example639": {
+        "sentence": "the only madonna song i like is ' like a prayer ' it came on my pod today and i wanted to mouth the words to it , i was on the bus , so i didnt",
+        "aspect": "madonna",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example640": {
+        "sentence": "me and dillion sound like the girl from rush hour . np mariah carey ; fantasy !",
+        "aspect": "mariah carey",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example641": {
+        "sentence": "firm says britney spears ' perfume dealings stink : los angles -lrb- reuters -rrb- - $t$ is being sued for more ... .",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example642": {
+        "sentence": "chelsealove95 read the harry potter books silly =] lol",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example643": {
+        "sentence": " xbox live : haphazard1323 is currently online . playing lego batman . playing villain chapter 3 - the lure of the night . . -lrb- $t$ live nation -rrb-",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example644": {
+        "sentence": "nowplaying '' ai n't no fun -lrb- if the homies ca n't have none -rrb- '' - snoop dogg ' cause iiiiii never met a girl that i love in this whole wide world .",
+        "aspect": "snoop dogg",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example645": {
+        "sentence": "'' obama has opened the first new military action of his presidency in libya . '' . / wrong . he killed 41 civilians in yemen",
+        "aspect": "obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example646": {
+        "sentence": "i hate when people think its weird that i listen to taylor swift , paramore , or anything pop & rock ... am i not a pop & rock type a chick ?",
+        "aspect": "taylor swift",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example647": {
+        "sentence": "we need louis ? yes because making to twinks get their inner puffs on to britney spears deservers a reward . . wheres my wine !!",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example648": {
+        "sentence": "kissingjonas dress like lady gaga for a whole month . that would be awesome !!",
+        "aspect": "lady gaga",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example649": {
+        "sentence": "nobody said shit when the al gore election votes got all fucked up , and no other president had 2 worry about something stupid after they",
+        "aspect": "al gore",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example650": {
+        "sentence": "i love britney spears whatcha gon na do now dominick",
+        "aspect": "britney spears",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example651": {
+        "sentence": "meth addict lady who makes clothes for other meth addicts -lrb- lindsay lohan and such -rrb-",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example652": {
+        "sentence": "rt lakers : gasol is playing great for la tonight , as usual . already in the books with a dbl/dlb . la leads 62-54 .",
+        "aspect": "lakers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example653": {
+        "sentence": "poor reggie bush . i remember his tweet when he broke up with kim kardashian : '' it 's been fun kim , you 're sisters are insane . ''",
+        "aspect": "kim kardashian",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example654": {
+        "sentence": "liking google wave . great tool .",
+        "aspect": "google wave",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example655": {
+        "sentence": "has cleaned his iphone and its all free of smudges and greece , when did you last give yours a good clean ?",
+        "aspect": "iphone",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example656": {
+        "sentence": " lindsay lohan to get restraining order against her dad : michael lohan has been in the press a lot in the last fe . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example657": {
+        "sentence": "president obama is not a liberal . barack obama may be a liberal , but potus is not ... .",
+        "aspect": "barack obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example658": {
+        "sentence": "i love the new google earth , $t$ sky is amazing .",
+        "aspect": "google",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example659": {
+        "sentence": "at least i can say that i 'm not a twilighter . gim me harry potter anyday .",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example660": {
+        "sentence": "why the hell do i follow britney spears on twitter ?",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example661": {
+        "sentence": "meganphelps is not a nice person , all she does is go against people beliefs . saying god hates lady gaga is horrible . he hates you megan , you .",
+        "aspect": "lady gaga",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example662": {
+        "sentence": " miley cyrus was the revelation of millions of teenagers , being hannah montana . it ` s not about how she is ' cause in the end she needs respect",
+        "aspect": "miley cyrus",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example663": {
+        "sentence": "geweldig intro : lady gaga answers questions from little monsters .",
+        "aspect": "lady gaga",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example664": {
+        "sentence": "ca n't someone cut a deal with kris , format it into a book , crunch it to kindle + send it to lulu ? is '' book deal '' crucial anymore ?",
+        "aspect": "kindle",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example665": {
+        "sentence": "fuckouttahere 2 all the women with colorful wigs and whoeva make them dumb ass faces when they take pictures like nicki minaj ",
+        "aspect": "nicki minaj",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example666": {
+        "sentence": "works great here . i am impressed by windows 7 , have n't said that since . . well ever .",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example667": {
+        "sentence": "behind the scenes of the naked truth : celebrity trends : allure.com . -lrb- keri hilson , ashley tisdale -rrb-",
+        "aspect": "ashley tisdale",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example668": {
+        "sentence": "need another excuse to wear your harry potter costume ? break it out again at cm 's silver scream halloween party",
+        "aspect": "harry potter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example669": {
+        "sentence": "actually , hilary swank as a guy looks how i imagine matt damon might look as a woman ... bizarre .",
+        "aspect": "hilary swank",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example670": {
+        "sentence": "just got back from watching harry potter , i 'm actually pretty impressed ! ca n't wait for part 2 lol . i love you megan brown",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example671": {
+        "sentence": "lindsay manages her passion for fashion in paris : photo 5 of 5 | lindsay lohan | popsugar - cele . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example672": {
+        "sentence": "now playing on afternoonbreeze : vanessa williams & chayene-you are my home . later : madonna , alicia keys , and paula cole . enjoy , v listeners ; -rrb-",
+        "aspect": "alicia keys",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example673": {
+        "sentence": "rt : linuxgal jimmy carter is no longer the country 's worst president ! tcot",
+        "aspect": "jimmy carter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example674": {
+        "sentence": "i voted moldova for '' justin bieber birthday kiss '' vote ! .",
+        "aspect": "justin bieber",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example675": {
+        "sentence": "rttrudyvan wyk xbox 360 microsoft superior aftersales service ,",
+        "aspect": "xbox",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example676": {
+        "sentence": " windows 7 gets true software base station before mac os x : i dislike turning comparisons between windows and ma . .",
+        "aspect": "windows 7",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example677": {
+        "sentence": "flex im disappointed in photos you have laid out not enough sexy and you put up serena williams and teyana taylor as sexy ?",
+        "aspect": "serena williams",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example678": {
+        "sentence": " harry potter is my absolute favorite . if i lived in $t$ land , i think i 'd be ron , -lrb- though secretly , sometimes , i 'd like to be hermoine -rrb-",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example679": {
+        "sentence": "went to meet johnnmack for lunch in my pajamas . special thanks to lindsay lohan for leggings-as-pants 2009 .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example680": {
+        "sentence": "zacefron lindsay lohan makes mock dating service ad : tori spelling celebrates the release of her new b . .",
+        "aspect": "lindsay lohan",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example681": {
+        "sentence": "listening ' 3 by britney spears i don like still at all \u00e7",
+        "aspect": "britney spears",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example682": {
+        "sentence": " harry potter was so epic/funny/awesome ~",
+        "aspect": "harry potter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example683": {
+        "sentence": "robot who can sing better than britney spears ",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example684": {
+        "sentence": " britney spears wins best celeb mom ... in other news : michael jackson wins most healthy and active pop singer ...",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example685": {
+        "sentence": "what moron is going to vote that fucktard sarah palin as president . . ? if you do your just as much of an idiot as she is",
+        "aspect": "sarah palin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example686": {
+        "sentence": "faq : buying and installing the right windows 7 upgrade",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example687": {
+        "sentence": "i 'm just waiting for jimmy carter to say that all those who think obama does n't deserve the nobel are racists .",
+        "aspect": "jimmy carter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example688": {
+        "sentence": "not a goddamn thing . you got me listening to nsync and britney spears now though",
+        "aspect": "britney spears",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example689": {
+        "sentence": " barack obama made the bullies stop picking on me .",
+        "aspect": "barack obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example690": {
+        "sentence": "apple has better windows 7 support than sony does . and sony 's website lies about having $t$ drivers . be warned .",
+        "aspect": "windows 7",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "unknown"
+    },
+    "example691": {
+        "sentence": "2 hours later , no longer seeing confused russian steve jobs .",
+        "aspect": "steve jobs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example692": {
+        "sentence": "'' technically if a girl wants to sparkle she can put on glitter , but i think the correct answer would be a smile . '' - demi lovato .",
+        "aspect": "demi lovato",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    }
+}

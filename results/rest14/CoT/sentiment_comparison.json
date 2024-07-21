@@ -1,0 +1,602 @@
+{
+    "example01": {
+        "sentence": "The bread is top notch as well.",
+        "aspect": "bread",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example02": {
+        "sentence": "I have to say they have one of the fastest delivery times in the city.",
+        "aspect": "delivery times",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example03": {
+        "sentence": "Food is always fresh and hot- ready to eat!",
+        "aspect": "Food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example04": {
+        "sentence": "Did I mention that the coffee is OUTSTANDING?",
+        "aspect": "coffee",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example05": {
+        "sentence": "Certainly not the best sushi in New York, however, it is always fresh, and the place is very clean, sterile.",
+        "aspect": "place",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example06": {
+        "sentence": "I trust the people at Go Sushi, it never disappoints.",
+        "aspect": "people",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example07": {
+        "sentence": "Straight-forward, no surprises, very decent Japanese food.",
+        "aspect": "Japanese food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example08": {
+        "sentence": "BEST spicy tuna roll, great asian salad.",
+        "aspect": "spicy tuna roll",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example09": {
+        "sentence": "Try the rose roll (not on menu).",
+        "aspect": "rose roll",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example10": {
+        "sentence": "I love the drinks, esp lychee martini, and the food is also VERY good.",
+        "aspect": "drinks",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example11": {
+        "sentence": "In fact, this was not a Nicoise salad and was barely eatable.",
+        "aspect": "Nicoise salad",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example12": {
+        "sentence": "While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.",
+        "aspect": "menu",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example13": {
+        "sentence": "Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example14": {
+        "sentence": "Our waiter was horrible; so rude and disinterested.",
+        "aspect": "waiter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example15": {
+        "sentence": "The sangria's - watered down.",
+        "aspect": "sangria",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example16": {
+        "sentence": "menu - uneventful, small.",
+        "aspect": "menu",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example17": {
+        "sentence": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.",
+        "aspect": "sushi",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example18": {
+        "sentence": "Great food but the service was dreadful!",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example19": {
+        "sentence": "The portions of the food that came out were mediocre.",
+        "aspect": "portions of the food",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example20": {
+        "sentence": "the two waitress's looked like they had been sucking on lemons.",
+        "aspect": "waitress's",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example21": {
+        "sentence": "From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.",
+        "aspect": "staff memebers",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example22": {
+        "sentence": "We enjoyed ourselves thoroughly and will be going back for the desserts ....",
+        "aspect": "desserts",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example23": {
+        "sentence": "Desserts are almost incredible: my personal favorite is their Tart of the Day.",
+        "aspect": "Desserts",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example24": {
+        "sentence": "The food was extremely tasty, creatively presented and the wine excellent.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example25": {
+        "sentence": "THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED.",
+        "aspect": "LASAGNA",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example26": {
+        "sentence": "Harumi Sushi has the freshest and most delicious array of sushi in NYC.",
+        "aspect": "array of sushi",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example27": {
+        "sentence": "I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.",
+        "aspect": "cuisine",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example28": {
+        "sentence": "If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.",
+        "aspect": "indian food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example29": {
+        "sentence": "I definitely enjoyed the food as well.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example30": {
+        "sentence": "It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.",
+        "aspect": "service",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example31": {
+        "sentence": "The food is surprisingly good, and the decor is nice.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example32": {
+        "sentence": "How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!",
+        "aspect": "lunch",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example33": {
+        "sentence": "Two wasted steaks -- what a crime!",
+        "aspect": "steaks",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example34": {
+        "sentence": "The staff should be a bit more friendly.",
+        "aspect": "staff",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example35": {
+        "sentence": "I think the meatball parm is good.",
+        "aspect": "meatball parm",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example36": {
+        "sentence": "If you want good tasting, well seasoned latin food eat at Cabana and you can't go wrong.",
+        "aspect": "latin food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example37": {
+        "sentence": "Definitely try the taglierini with truffles - it was incredible.",
+        "aspect": "taglierini with truffles",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example38": {
+        "sentence": "Also, the staff is very attentive and really personable.",
+        "aspect": "staff",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example39": {
+        "sentence": "The gnocchi literally melts in your mouth!",
+        "aspect": "gnocchi",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example40": {
+        "sentence": "Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.",
+        "aspect": "staff",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example41": {
+        "sentence": "Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.",
+        "aspect": "Entrees",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example42": {
+        "sentence": "The food is good, the teriyaki I recommend.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example43": {
+        "sentence": "Meal was very expensive for what you get.",
+        "aspect": "Meal",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example44": {
+        "sentence": "Try the Peanut Butter Sorbet and the pizza with soy cheese!",
+        "aspect": "Peanut Butter Sorbet",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example45": {
+        "sentence": "Good food at the right price, what more can you ask for.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example46": {
+        "sentence": "The food is top notch, the service is attentive, and the atmosphere is great.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example47": {
+        "sentence": "Great food, great waitstaff, great atmosphere, and best of all GREAT beer!",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example48": {
+        "sentence": "this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example49": {
+        "sentence": "The menu is interesting and quite reasonably priced.",
+        "aspect": "menu",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example50": {
+        "sentence": "The food was delicious and clearly fresh ingredients were used.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example51": {
+        "sentence": "This made it obvious that the food wasn't cooked fresh; it was obviously made before hand and then reheated.",
+        "aspect": "food",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example52": {
+        "sentence": "Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.",
+        "aspect": "Appetizer",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example53": {
+        "sentence": "The spicy mussels are a highlight.",
+        "aspect": "spicy mussels",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example54": {
+        "sentence": "Also get the Onion Rings -- best we've ever had.",
+        "aspect": "Onion Rings",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example55": {
+        "sentence": "However, being foodies, we were utterly disappointed with the food.",
+        "aspect": "food",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example56": {
+        "sentence": "Huge portions, great and attentive service, and pretty good prices.",
+        "aspect": "portions",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example57": {
+        "sentence": "I was highly disappointed by their service and food.",
+        "aspect": "service",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example58": {
+        "sentence": "I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up.",
+        "aspect": "waiter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example59": {
+        "sentence": "The food is great and the milkshakes are even better!",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example60": {
+        "sentence": "the mushroom barley soup is amazing.",
+        "aspect": "mushroom barley soup",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example61": {
+        "sentence": "I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example62": {
+        "sentence": "Their duck here is also absolutely delicious.",
+        "aspect": "duck",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example63": {
+        "sentence": "While it was large and a bit noisy, the drinks were fantastic, and the food was superb.",
+        "aspect": "drinks",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example64": {
+        "sentence": "One caveat: Some of the curried casseroles can be a trifle harsh.",
+        "aspect": "curried casseroles",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example65": {
+        "sentence": "The food was almost always EXCELLENT.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example66": {
+        "sentence": "I was pleasently surprised at the taste.",
+        "aspect": "taste",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example67": {
+        "sentence": "A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.",
+        "aspect": "cuisine",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example68": {
+        "sentence": "I never had an orange donut before so I gave it a shot.",
+        "aspect": "orange donut",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example69": {
+        "sentence": "they really provide a relaxing, laid-back atmosphere.",
+        "aspect": "atmosphere",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example70": {
+        "sentence": "This particular location certainly uses substandard meats.",
+        "aspect": "meats",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example71": {
+        "sentence": "The Management was less than accomodating.",
+        "aspect": "Management",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example72": {
+        "sentence": "The ambience is also more laid-back and relaxed.",
+        "aspect": "ambience",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example73": {
+        "sentence": "the teas are great and all the sweets are homemade.",
+        "aspect": "teas",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example74": {
+        "sentence": "mojitos and the service are the best part in there",
+        "aspect": "mojitos",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example75": {
+        "sentence": "Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.",
+        "aspect": "Sandwiches",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example76": {
+        "sentence": "The design is very intimate and romantic.",
+        "aspect": "design",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example77": {
+        "sentence": "The food was wonderful and imaginative.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example78": {
+        "sentence": "The staff is very sharp and they look good too.",
+        "aspect": "staff",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example79": {
+        "sentence": "The worst though was the taste.",
+        "aspect": "taste",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example80": {
+        "sentence": "The fajita we tried was tasteless and burned and the mole sauce was way too sweet.",
+        "aspect": "fajita",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example81": {
+        "sentence": "Stay with the roasted chickens and you'll be fine.",
+        "aspect": "roasted chickens",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example82": {
+        "sentence": "The atmosphere is warm, comfortable, artsy and sexy.",
+        "aspect": "atmosphere",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example83": {
+        "sentence": "The food is great (big selection, reasonable prices) and the drinks are really good.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example84": {
+        "sentence": "The steak melted in my mouth.",
+        "aspect": "steak",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example85": {
+        "sentence": "The food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example86": {
+        "sentence": "Most importantly, it is reasonably priced.",
+        "aspect": "priced",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example87": {
+        "sentence": "The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.",
+        "aspect": "selection of food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example88": {
+        "sentence": "Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.",
+        "aspect": "dessert",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example89": {
+        "sentence": "Food was decent, but not great.",
+        "aspect": "Food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example90": {
+        "sentence": "i dont know what some people who rave about this hot dog are talking about.",
+        "aspect": "hot dog",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example91": {
+        "sentence": "it is a hidden delight complete with a quaint bar and good food.",
+        "aspect": "bar",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example92": {
+        "sentence": "The waiters ALWAYS look angry and even ignore their high-tipping regulars.",
+        "aspect": "waiters",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example93": {
+        "sentence": "the atmosphere is very nice, and a welcome escape from the rest of the SI mall.",
+        "aspect": "atmosphere",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example94": {
+        "sentence": "Yes, they're a bit more expensive then typical, but then again, so is their food.",
+        "aspect": "food",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example95": {
+        "sentence": "I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.",
+        "aspect": "wraps",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example96": {
+        "sentence": "Anywhere else, the prices would be 3x as high!",
+        "aspect": "prices",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example97": {
+        "sentence": "The service we experienced was friendly and good.",
+        "aspect": "service",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example98": {
+        "sentence": "Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.",
+        "aspect": "waiter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "unknown"
+    },
+    "example99": {
+        "sentence": "The folding chair I was seated at was uncomfortable.",
+        "aspect": "folding chair",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example100": {
+        "sentence": "Service was among the best I have ever had in NYC.",
+        "aspect": "Service",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    }
+}

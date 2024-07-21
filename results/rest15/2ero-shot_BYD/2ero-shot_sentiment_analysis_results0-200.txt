@@ -1,0 +1,3103 @@
+example01 :
+Aspect: Al Di La
+@Sentence: Love Al Di La
+Context: # Constrain context:From 'Love Al Di La', can we infer that the Al Di La is positive? Yes
+From 'Love Al Di La', can we infer that the Al Di La is negative? No
+From 'Love Al Di La', can we infer that the Al Di La is neutral? No
+
+# Background context:Al Di La is an Italian phrase that translates to "beyond" or "over there," and it is also the name of a popular Italian restaurant located in Park Slope, Brooklyn. The restaurant has been a neighborhood staple for over 20 years
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect "Al Di La" included in the sentence:
+
+1. Sentence: "The ambiance at Al Di La is charming, and the food is exquisite."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The service at Al Di La was slow and disappointing, but the atmosphere was delightful."
+   Predicted sentiment polarity: 'mixed' (negative for service, positive for atmosphere)
+
+3. Sentence: "I had high expectations for Al Di La, but the food fell short, and the prices were too high
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: place
+@Sentence: I recommend this place to everyone.
+Context: # Constrain context:From 'I recommend this place to everyone.', can we infer that the place is positive? Yes
+
+From 'I recommend this place to everyone.', can we infer that the place is negative? No
+
+From 'I recommend this place to everyone.', can we infer that the place is neutral? No
+
+# Background context:A place is a specific location, area, or space that has unique characteristics and significance. It can be a physical area, such as a city, town, park, or building, or it can be a more abstract concept, such as a place
+
+# Analogies context:Example 1:
+Sentence: "The place was beautiful and well-kept, with a stunning view of the mountains."
+Predicted sentiment polarity of the aspect 'place': positive
+
+Example 2:
+Sentence: "The place was dirty and run-down, with no natural light coming in."
+Predicted sentiment polarity of the aspect 'place': negative
+
+Example 3:
+Sentence: "The place was average in terms of decor and ambiance, but the convenient location made up for it."
+Predicted sentiment polarity of the aspect 'place': neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: food
+@Sentence: Great food.
+Context: # Constrain context:# From 'Great food.', can we infer that the food is positive? Yes
+# From 'Great food.', can we infer that the food is negative? No
+# From 'Great food.', can we infer that the food is neutral? No
+
+# Background context:Food is essential for nourishing the body and providing the energy and nutrients necessary for growth, maintenance, and overall well-being. It comes in a wide variety of forms, including fruits, vegetables, grains, meats, and dairy products, each offering unique
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food':
+
+1. Sentence: "The food at the restaurant was delicious, especially the dessert."
+   Predicted sentiment polarity of the aspect 'food': Positive
+
+2. Sentence: "I found the food a bit bland, but the service was excellent."
+   Predicted sentiment polarity of the aspect 'food': Negative
+
+3. Sentence: "The food truck offered a wide variety of tasty options for lunch."
+   Predicted sentiment polarity of the aspect 'food': Positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: pastas
+@Sentence: The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.
+Context: # Constrain context:$PRED$  
+1. Yes  
+2. No  
+3. No
+
+# Background context:Pastas are a staple in Italian cuisine, known for their versatility, delicious flavor, and satisfying texture. They come in a wide variety of shapes and sizes, with each type offering a unique culinary experience. From long, thin strands of spaghetti to intricate
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'pastas' included in the sentence:
+
+1. Sentence: "The pastas at that restaurant are absolutely delicious."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "I found the pastas to be quite bland and tasteless."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "The variety of pastas offered at the new Italian place is impressive."
+   Predicted sentiment polarity: 'positive'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: food
+@Sentence: The food here was mediocre at best. 
+Context: # Constrain context:From the statement "The food here was mediocre at best.," we can infer that the food is not positive.
+
+# Background context:Food refers to any substance consumed to provide nutritional support for the body. It is essential for life and provides the energy and nutrients needed for growth, repair, and maintenance of bodily functions. Food comes in various forms such as fruits, vegetables, grains,
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+1. Sentence: "The food at the new restaurant was absolutely delicious."
+   Predicted sentiment polarity of 'food': 'positive'
+
+2. Sentence: "I found the food at the event to be mediocre, nothing special."
+   Predicted sentiment polarity of 'food': 'neutral'
+
+3. Sentence: "I was disappointed with the quality of food served at the banquet."
+   Predicted sentiment polarity of 'food': 'negative'
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: fish and chips
+@Sentence: It was totally overpriced- fish and chips was about $15.... 
+Context: # Constrain context:From the statement 'It was totally overpriced- fish and chips was about $15.... ', it is likely that the fish and chips are perceived negatively.
+
+# Background context:Fish and chips is a classic British dish consisting of deep-fried fish fillets and thick-cut potatoes that are fried to a golden crisp. The fish is typically cod or haddock, and the batter is made from flour, water, and sometimes beer
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis related to "fish and chips":
+
+Example 1:
+1. Sentence: "The fish and chips at that restaurant were absolutely delicious."
+2. Predicted sentiment polarity: positive
+
+Example 2:
+1. Sentence: "I was a bit disappointed with the fish and chips I had last night."
+2. Predicted sentiment polarity: negative
+
+Example 3:
+1. Sentence: "The new food truck serves amazing fish and chips."
+2. Predicted sentiment polarity: positive
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: Dog
+@Sentence: Tasty Dog!
+Context: # Constrain context:From 'Tasty Dog!', can we infer that the Dog is positive? Yes
+From 'Tasty Dog!', can we infer that the Dog is negative? No
+From 'Tasty Dog!', can we infer that the Dog is neutral? No
+
+# Background context:Dogs are loyal and friendly animals that have been domesticated by humans for thousands of years. They are known for their strong bond with humans and their ability to provide companionship, security, and assistance in various tasks. Dogs come in a wide range
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Dog' included in the sentence:
+
+1. Sentence: "The dog is adorable and friendly."
+   Predicted sentiment polarity of the aspect: 'positive'
+
+2. Sentence: "I found a stray dog on the street."
+   Predicted sentiment polarity of the aspect: 'neutral'
+
+3. Sentence: "I'm scared of that aggressive dog next door."
+   Predicted sentiment polarity of the aspect: 'negative'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: dog
+@Sentence: An awesome organic dog, and a conscious eco friendly establishment.
+Context: # Constrain context:From the phrase 'An awesome organic dog, and a conscious eco friendly establishment.', we can infer that the dog is positive.
+
+# Background context:Dogs are beloved companions and one of the most popular domestic animals worldwide. As a member of the Canidae family, they are a diverse group of species, encompassing a wide range of sizes, shapes, coat types, and temperaments.
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "dog" included in the sentence:
+
+1. Sentence: "The dog is adorable and affectionate."
+   Predicted sentiment polarity: Positive
+
+2. Sentence: "I don't like that the dog barks all night."
+   Predicted sentiment polarity: Negative
+
+3. Sentence: "My sister got a new dog, and we're all excited to meet it."
+   Predicted sentiment polarity: Positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: Cypriot restaurant
+@Sentence: The Cypriot restaurant has a lot going for it.
+Context: # Constrain context:From 'The Cypriot restaurant has a lot going for it.', we can infer that the Cypriot restaurant is positive.
+
+# Background context:A Cypriot restaurant is an establishment that offers traditional cuisine from the Mediterranean island of Cyprus. Cypriot food is influenced by Greek, Turkish, and Middle Eastern flavors, making for a varied and flavorful dining experience. Typical dishes include souvlaki
+
+# Analogies context:I'm sorry, but I'm not able to recall specific Aspect-Based Sentiment Analysis examples without any prior knowledge or context. If you have specific examples or data related to Aspect-Based Sentiment Analysis that you'd like me to provide sentiment analysis for, feel free to share them and I can assist you with the sentiment analysis.
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: pork souvlaki
+@Sentence: But the best pork souvlaki I ever had is the main thing.
+Context: # Constrain context:# From 'But the best pork souvlaki I ever had is the main thing.', can we infer that the pork souvlaki is positive? Yes
+# From 'But the best pork souvlaki I ever had is the main thing.', can we infer that the pork souvlaki is negative? No
+# From 'But the best pork souvlaki I ever had is the main thing.', can we infer that the pork souvlaki is neutral? No
+
+# Background context:Pork souvlaki is a popular Greek dish consisting of tender pieces of marinated pork skewered and grilled to perfection. The pork is typically seasoned with a blend of Mediterranean spices such as oregano, garlic, and lemon juice, which inf
+
+# Analogies context:Sure, here are three examples:
+
+1. Sentence: "The pork souvlaki was delicious, tender, and flavorful."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "I found the pork souvlaki to be undercooked and tough."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "The restaurant's pork souvlaki was just okay, nothing special."
+   Predicted sentiment polarity: neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: Pizza
+@Sentence: Super YUMMY Pizza!
+Context: # Constrain context:# From 'Super YUMMY Pizza!', can we infer that the Pizza is positive? Yes
+# From 'Super YUMMY Pizza!', can we infer that the Pizza is negative? No
+# From 'Super YUMMY Pizza!', can we infer that the Pizza is neutral? No
+
+# Background context:Pizza is a popular and versatile dish that originated in Italy but has since become a beloved staple of international cuisine. Typically made with a thin, yeasted dough, pizza is topped with tomato sauce, cheese, and a variety of other ingredients such as meats
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Pizza' included in the sentence:
+
+1. "The pizza was delicious, with a perfect crispy crust and flavorful toppings." 
+   Predicted sentiment polarity: positive
+
+2. "The pizza was okay, but the crust was a bit soggy and the toppings were bland." 
+   Predicted sentiment polarity: negative
+
+3. "The pizza had a good variety of toppings and the crust was just right, making it an enjoyable dining experience." 
+   Predicted sentiment polarity: positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: restaurant
+@Sentence: I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.
+Context: # Constrain context:From the statement "I was visiting New York City with a friend and we discovered this really warm and inviting restaurant," we can infer that the restaurant is positive. Therefore, the answer to the question "From 'I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.', can we infer that the restaurant is positive?" is 'Yes.'
+
+We cannot infer that the restaurant is negative or neutral based on the given statement. Therefore, the answers to the questions "From 'I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.', can
+
+# Background context:A restaurant is a commercial establishment where cooked food and drinks are served to customers. Restaurants are typically open to the public and offer a variety of dishes, often organized into a menu for patrons to choose from. The ambiance and decor of a restaurant can vary
+
+# Analogies context:Example 1:
+Sentence: "The restaurant had a cozy atmosphere, but the food was disappointing."
+Predicted sentiment polarity: 'negative'
+
+Example 2:
+Sentence: "The restaurant had excellent service and a diverse menu."
+Predicted sentiment polarity: 'positive'
+
+Example 3:
+Sentence: "I found the restaurant to be average in terms of ambiance and food quality."
+Predicted sentiment polarity: 'neutral'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: eggplant pizza
+@Sentence: I LOOOVE their eggplant pizza, as well as their pastas!
+Context: # Constrain context:From 'I LOOOVE their eggplant pizza, as well as their pastas!', can we infer that the eggplant pizza is positive? Yes
+From 'I LOOOVE their eggplant pizza, as well as their pastas!', can we infer that the eggplant pizza is negative? No
+From 'I LOOOVE their eggplant pizza, as well as their pastas!', can we infer that the eggplant pizza is neutral? No
+
+# Background context:Eggplant pizza is a delicious and healthy alternative to traditional pizza that features thinly sliced eggplant as the crust, topped with your favorite pizza toppings. This unique dish offers a satisfying way to enjoy the flavors of pizza while incorporating the nutritional benefits of egg
+
+# Analogies context:Sure, here are three examples of aspect-based sentiment analysis with the aspect "eggplant pizza" included in the sentence:
+
+Example 1:
+Sentence: "I absolutely love the eggplant pizza at that restaurant. It's my favorite dish there."
+Predicted sentiment polarity: positive
+
+Example 2:
+Sentence: "I thought the eggplant pizza was just okay, nothing special."
+Predicted sentiment polarity: neutral
+
+Example 3:
+Sentence: "I really disliked the eggplant pizza. It was undercooked and the flavors didn't mesh well together."
+Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: half/half pizza
+@Sentence: We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!
+Context: # Constrain context:From the given context, it seems we cannot infer the sentiment of the half/half pizza as positive or negative. So, the answer to the first question is 'No'. And as a result, the answer to the second and third questions is also 'No'.
+
+# Background context:A half-and-half pizza is a popular option that allows customers to enjoy two different pizza flavors in one order. It's divided into two halves, with each half featuring different toppings or sauces to cater to different preferences. This option is great for accommodating multiple
+
+# Analogies context:1. Sentence: "The half/half pizza was a hit at the party, with everyone loving both the pepperoni and vegetarian sides."
+   Sentiment Polarity: Positive
+
+2. Sentence: "I was disappointed with the half/half pizza as the crust was too soggy on one side and the toppings were overcooked on the other."
+   Sentiment Polarity: Negative
+
+3. Sentence: "The concept of a half/half pizza is interesting, but the execution fell short with uneven cooking and flavors that didn't quite work together."
+   Sentiment Polarity: Negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: food
+@Sentence: Excellent food, although the interior could use some help.
+Context: # Constrain context:# From 'Excellent food, although the interior could use some help.', can we infer that the food is positive? Yes
+# From 'Excellent food, although the interior could use some help.', can we infer that the food is negative? No
+# From 'Excellent food, although the interior could use some help.', can we infer that the food is neutral? No
+
+# Background context:Food is an essential source of nourishment and sustenance for all living organisms. It encompasses a wide variety of edible substances that provide the energy, nutrients, and building blocks necessary for survival and optimal bodily function. From fruits and vegetables to grains, meats
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+1. Sentence: "The food at that new restaurant was absolutely delicious; I had a wonderful dining experience."
+   Predicted sentiment polarity of the aspect 'food': 'positive'
+
+2. Sentence: "The food was decent, but the service was slow and the ambience was lacking."
+   Predicted sentiment polarity of the aspect 'food': 'neutral'
+
+3. Sentence: "I was disappointed by the quality of the food; it was overpriced and tasted bland."
+   Predict
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: space
+@Sentence: The space kind of feels like an Alice in Wonderland setting, without it trying to be that.
+Context: # Constrain context:- From 'The space kind of feels like an Alice in Wonderland setting, without it trying to be that.', can we infer that the space is positive? No
+- From 'The space kind of feels like an Alice in Wonderland setting, without it trying to be that.', can we infer that the space is negative? No
+- From 'The space kind of feels like an Alice in Wonderland setting, without it trying to be that.', can we infer that the space is neutral? Yes
+
+# Background context:Space, also known as outer space, is the vast expanse that exists beyond Earth's atmosphere. It is nearly a vacuum, with very low pressure and almost no air. Space is defined by the absence of atmosphere and the presence of celestial bodies such
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'space' included:
+
+Example 1:
+Sentence: "The hotel room had limited space, which made it feel cramped."
+Predicted sentiment polarity of 'space': negative
+
+Example 2:
+Sentence: "The spacious accommodations were a delight, offering plenty of space for relaxation."
+Predicted sentiment polarity of 'space': positive
+
+Example 3:
+Sentence: "Though the office area was cluttered, there was still ample space to work comfortably."
+Predicted sentiment polarity of 'space': neutral
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: meal
+@Sentence: I paid just about $60 for a good meal, though :)
+Context: # Constrain context:# From 'I paid just about $60 for a good meal, though :)', can we infer that the meal is positive? Yes
+# From 'I paid just about $60 for a good meal, though :)', can we infer that the meal is negative? No
+# From 'I paid just about $60 for a good meal, though :)', can we infer that the meal is neutral? No
+
+# Background context:A meal is a specific occasion or period of time during which food is consumed. It typically involves a combination of different food items and dishes that are eaten together. Meals can vary in size, formality, and cultural significance, and they often serve as
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "meal" included in the sentence:
+
+1. Sentence: "The steak was juicy and flavorful, but the side dishes were disappointing."
+   Predicted sentiment polarity of the aspect ('meal'): positive
+
+2. Sentence: "The restaurant had a great ambiance, but the meal took a long time to be served."
+   Predicted sentiment polarity of the aspect ('meal'): neutral
+
+3. Sentence: "The meal was overpriced and not worth the money."
+   Predicted sentiment polarity of the aspect ('meal'): negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: sake
+@Sentence: Great sake!
+Context: # Constrain context:# Your task is to answer the following questions with 'Yes' or 'No' and input the answer into the slot $PRED$
+# From 'Great sake!', can we infer that the sake is positive? Yes
+# From 'Great sake!', can we infer that the sake is negative? No
+# From 'Great sake!', can we infer that the sake is neutral? No
+
+# Background context:Sake is a traditional Japanese alcoholic beverage made from fermented rice. It is often referred to as rice wine, although the production process is more similar to that of beer. Sake is a significant part of Japanese culture and is enjoyed during various occasions,
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'sake' included in the sentence:
+
+1. Sentence: "The sake selection at this restaurant is exceptional, with a wide variety of options to choose from."
+   Predicted sentiment polarity of 'sake': Positive
+
+2. Sentence: "I found the sake to be mediocre, not quite living up to my expectations."
+   Predicted sentiment polarity of 'sake': Negative
+
+3. Sentence: "The waiter recommended an exquisite sake that perfectly complemented our meal, enhancing our overall dining experience."
+   Predicted sentiment
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: Sushi
+@Sentence: Reliable, Fresh Sushi
+Context: # Constrain context:From 'Reliable, Fresh Sushi', we can infer that the sushi is generally positive. Therefore, the answers to the questions are as follows:
+1. Yes
+2. No
+3. No
+
+# Background context:Sushi is a popular Japanese dish consisting of small balls or rolls of vinegar-seasoned rice combined with a variety of ingredients such as seafood, vegetables, and sometimes tropical fruits. The most well-known type of sushi is nigiri, which is a hand
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'Sushi' included in the sentence and their predicted sentiment polarities:
+
+1. Sentence: "The sushi at that restaurant was fresh and delicious."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "I found the sushi to be average at best, nothing special."
+   Predicted sentiment polarity: neutral
+
+3. Sentence: "I was disappointed with the sushi. It was bland and not worth the price."
+   Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: sashimi
+@Sentence: The sashimi is always fresh and the rolls are innovative and delicious.
+Context: # Constrain context:- From 'The sashimi is always fresh and the rolls are innovative and delicious.', can we infer that the sashimi is positive? Yes
+- From 'The sashimi is always fresh and the rolls are innovative and delicious.', can we infer that the sashimi is negative? No
+- From 'The sashimi is always fresh and the rolls are innovative and delicious.', can we infer that the sashimi is neutral? No
+
+# Background context:Sashimi is a Japanese delicacy that consists of thinly sliced, fresh, raw fish or seafood, often served with soy sauce and wasabi. It is distinct from sushi in that it is typically served without rice or seaweed, allowing the focus
+
+# Analogies context:Sure, here are three examples of aspect-based sentiment analysis with the aspect 'sashimi' included in the sentence:
+
+1. Sentence: "The sashimi at this restaurant is fresh and delicious."
+   Predicted sentiment polarity of 'sashimi': positive
+
+2. Sentence: "I found the sashimi to be a bit bland and lacking in flavor."
+   Predicted sentiment polarity of 'sashimi': negative
+
+3. Sentence: "The sashimi was served with a beautiful presentation, but the taste was disappointing."
+   Predicted sentiment polarity of 'sashimi
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example21 :
+Aspect: service
+@Sentence: Have never had a problem with service save a missing rice once.
+Context: # Constrain context:# From 'Have never had a problem with service save a missing rice once.', can we infer that the service is positive? Yes
+# From 'Have never had a problem with service save a missing rice once.', can we infer that the service is negative? No
+# From 'Have never had a problem with service save a missing rice once.', can we infer that the service is neutral? No
+
+# Background context:A service is an economic activity that provides value to customers by satisfying their needs or wants. It involves the delivery of intangible assets such as expertise, advice, performance, or access to goods, facilities, and experiences. Unlike tangible goods, services are
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect "service" included:
+
+1. Sentence: "The service at the restaurant was excellent, and the staff was very attentive."
+   Predicted sentiment polarity of the aspect 'service': positive
+
+2. Sentence: "I was disappointed by the poor service I received at the hotel, as it took a long time to get any assistance."
+   Predicted sentiment polarity of the aspect 'service': negative
+
+3. Sentence: "The service on the airline was satisfactory, but there were some areas that could be improved."
+   Predicted
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example22 :
+Aspect: Delivery
+@Sentence: Delivery can be spot on or lacking depending on the weather and the day of the week.
+Context: # Constrain context:From the statement 'Delivery can be spot on or lacking depending on the weather and the day of the week.', we can infer that the Delivery is neutral.
+
+# Background context:Delivery refers to the process of transporting goods, products, or services from a seller to a buyer or a sender to a recipient. It is a crucial aspect of businesses that sell physical products or provide services that require physical presence. Delivery can take various forms
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Delivery' included:
+
+1. Sentence: "The delivery was incredibly fast and efficient, I was very impressed."
+   Predicted sentiment polarity of 'Delivery': positive
+
+2. Sentence: "The delivery was late and the package was damaged during transit."
+   Predicted sentiment polarity of 'Delivery': negative
+
+3. Sentence: "I was happy with the delivery service, it arrived exactly as promised."
+   Predicted sentiment polarity of 'Delivery': positive
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example23 :
+Aspect: Delivery guy
+@Sentence: Delivery guy sometimes get upset if you don't tip more than 10%.
+Context: # Constrain context:From the statement 'Delivery guy sometimes get upset if you don't tip more than 10%':
+1. No
+2. Yes
+3. No
+
+# Background context:A delivery guy is a person responsible for transporting and delivering goods and products to customers, businesses, or other recipients. They may work for a variety of companies, including courier services, food delivery platforms, retail stores, and shipping companies. Delivery guys are
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Delivery guy' included:
+
+1. Sentence: "The delivery guy arrived right on time and was very friendly."
+   Predicted sentiment polarity of 'Delivery guy': Positive
+
+2. Sentence: "The delivery guy seemed to be in a rush and was not very polite."
+   Predicted sentiment polarity of 'Delivery guy': Negative
+
+3. Sentence: "The delivery guy was professional and handled the package with care."
+   Predicted sentiment polarity of 'Delivery guy': Positive
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example24 :
+Aspect: Sushi
+@Sentence: Best. Sushi. Ever.
+Context: # Constrain context:From 'Best. Sushi. Ever.', can we infer that the Sushi is positive? Yes
+From 'Best. Sushi. Ever.', can we infer that the Sushi is negative? No
+From 'Best. Sushi. Ever.', can we infer that the Sushi is neutral? No
+
+# Background context:Sushi is a traditional Japanese dish that has become popular worldwide. It typically consists of vinegared rice combined with a variety of ingredients such as seafood, vegetables, and occasionally tropical fruits. These ingredients are often rolled in seaweed, known as nor
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect 'Sushi':
+
+Example 1:
+1. Sentence: "The sushi at that restaurant was absolutely delicious."
+2. Predicted sentiment polarity: positive
+
+Example 2:
+1. Sentence: "I have never been a fan of sushi, but I really enjoyed the sushi at this place."
+2. Predicted sentiment polarity: positive
+
+Example 3:
+1. Sentence: "I found the presentation of the sushi to be impressive, but the taste was disappointing."
+2. Predicted sentiment polarity: mixed (positive/n
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example25 :
+Aspect: sushi
+@Sentence: This place has ruined me for neighborhood sushi.
+Context: # Constrain context:From the phrase "This place has ruined me for neighborhood sushi," we can infer that the sushi is positive.
+
+# Background context:Sushi is a traditional Japanese dish that has gained popularity worldwide for its unique and delicious taste. It typically consists of vinegared rice combined with a variety of ingredients, such as seafood, vegetables, and sometimes tropical fruits, wrapped in seaweed or
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect 'sushi':
+
+1. "The sushi at that new restaurant was absolutely delicious."
+   Predicted sentiment polarity: positive
+
+2. "I found the sushi to be mediocre, but the service was excellent."
+   Predicted sentiment polarity: neutral
+
+3. "I was disappointed with the quality of the sushi at the buffet last night."
+   Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example26 :
+Aspect: sashimi
+@Sentence: Excellent sashimi, and the millennium roll is beyond delicious.
+Context: # Constrain context:1. Yes
+2. No
+3. No
+
+# Background context:Sashimi is a traditional Japanese dish consisting of fresh, raw fish or seafood that is thinly sliced and served without rice. It is often enjoyed as an appetizer or as part of a multi-course meal. The fish used in sashimi is
+
+# Analogies context:Sure! Here are the three Aspect-Based Sentiment Analysis examples with the aspect "sashimi" included in the sentence:
+
+1. "The sashimi at this restaurant is fresh, delicious, and melts in your mouth." 
+   Predicted sentiment polarity: positive
+
+2. "I was disappointed with the sashimi at the new sushi place - it was not as fresh as I expected." 
+   Predicted sentiment polarity: negative
+
+3. "The presentation of the sashimi was exquisite, but the taste was just average." 
+   Predicted sentiment polarity: neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example27 :
+Aspect: place
+@Sentence: The place is a bit hidden away, but once you get there, it's all worth it.
+Context: # Constrain context:From 'The place is a bit hidden away, but once you get there, it's all worth it.', we can infer that the place is positive.
+
+# Background context:A place is a physical or geographical area with distinct characteristics that set it apart from its surroundings. It can be a specific location, such as a city, town, park, or building, or a more general area defined by natural features like mountains,
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'place' included in the sentence:
+
+1. Sentence: "The place was cozy and welcoming, perfect for a relaxing weekend getaway."
+   Predicted sentiment polarity of the aspect 'place': positive
+
+2. Sentence: "The location of the restaurant was convenient, but the place itself was dirty and poorly maintained."
+   Predicted sentiment polarity of the aspect 'place': negative
+
+3. Sentence: "The concert hall was spacious and well-designed, but the acoustics in the place were terrible."
+   Predicted sentiment polarity
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example28 :
+Aspect: food
+@Sentence: not only is the food
+Context: # Constrain context:From 'not only is the food', can we infer that the food is positive? No
+
+From 'not only is the food', can we infer that the food is negative? No
+
+From 'not only is the food', can we infer that the food is neutral? No
+
+# Background context:Food is essential for sustenance and contains nutrients that are necessary for the body to function properly. It encompasses a wide variety of items that can be consumed for nourishment, including fruits, vegetables, grains, meats, and dairy products. Food is not
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+Example 1:
+Sentence: "The food at that restaurant was absolutely delicious."
+Predicted sentiment polarity: 'positive'
+
+Example 2:
+Sentence: "The food was average, but the service was exceptional."
+Predicted sentiment polarity: 'neutral'
+
+Example 3:
+Sentence: "I was disappointed by the quality of the food; it was underwhelming."
+Predicted sentiment polarity: 'negative'
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example29 :
+Aspect: waiter
+@Sentence: The waiter was attentive, the food was delicious and the views of the city were great.
+Context: # Constrain context:# Based on the given statement, the waiter appears to be positive. Therefore, the answer to the first question is 'Yes'.
+# Based on the given statement, we cannot infer that the waiter is negative. Therefore, the answer to the second question is 'No'.
+# Based on the given statement, we cannot infer that the waiter is neutral. Therefore, the answer to the third question is 'No'.
+
+# Background context:A waiter, also known as a server or waitstaff, is an essential member of the hospitality industry who is responsible for ensuring a positive dining experience for restaurant patrons. The primary duties of a waiter include greeting and seating guests, taking and delivering food and
+
+# Analogies context:Sure, here are three examples of aspect-based sentiment analysis with the aspect 'waiter' included:
+
+1. Sentence: "The waiter was very attentive and provided excellent service."
+   Sentiment polarity of 'waiter': positive
+
+2. Sentence: "I found the waiter to be rude and unhelpful."
+   Sentiment polarity of 'waiter': negative
+
+3. Sentence: "The waiter was professional and efficient, but lacked friendliness."
+   Sentiment polarity of 'waiter': neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example30 :
+Aspect: place
+@Sentence: Great place to relax and enjoy your dinner
+Context: # Constrain context:From 'Great place to relax and enjoy your dinner', can we infer that the place is positive? Yes
+From 'Great place to relax and enjoy your dinner', can we infer that the place is negative? No
+From 'Great place to relax and enjoy your dinner', can we infer that the place is neutral? No
+
+# Background context:A place is a specific location or area that is defined by its unique characteristics, such as its geographic features, cultural significance, or social environment. Places can range from natural landscapes, such as mountains, forests, or rivers, to human-made environments,
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "place" included in the sentence:
+
+1. Sentence: "The place was beautiful and well-maintained, I had a positive experience overall."
+   Predicted sentiment polarity of the aspect: 'positive'
+
+2. Sentence: "The place was average, nothing special to rave about."
+   Predicted sentiment polarity of the aspect: 'neutral'
+
+3. Sentence: "I found the place to be run-down and unhygienic, I would not recommend it."
+   Predicted sentiment polarity of the aspect: 'negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example31 :
+Aspect: atmosphere
+@Sentence: There is something about their atmosphere that makes me come back nearly every week.
+Context: # Constrain context:From the statement 'There is something about their atmosphere that makes me come back nearly every week,' we can infer that the atmosphere is positive. Therefore, the answer to the first question is 'Yes' and the answers to the second and third questions are 'No.'
+
+# Background context:The atmosphere is the layer of gases surrounding the Earth and is held in place by the force of gravity. It is essential for supporting life on the planet, as it provides the air we breathe and helps to regulate the Earth's temperature. The atmosphere is
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "atmosphere":
+
+1. "The atmosphere at the restaurant was lively and vibrant, creating a positive dining experience."
+   Predicted sentiment polarity of the aspect 'atmosphere': positive
+
+2. "The atmosphere in the hotel lobby was cozy and inviting, making guests feel welcomed and comfortable."
+   Predicted sentiment polarity of the aspect 'atmosphere': positive
+
+3. "The atmosphere at the concert was dull and uninspiring, leaving the audience disappointed."
+   Predicted sentiment polarity of the aspect 'atmosphere
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example32 :
+Aspect: Place
+@Sentence: Place is open till late, no dress code.
+Context: # Constrain context:From the statement "Place is open till late, no dress code.", we can infer that the place is positive.
+
+# Background context:A place is a specific location, area, or space that holds significance for individuals or communities. It is more than just a physical setting, as it can evoke emotions, memories, and experiences. Places can be natural, such as mountains, rivers,
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect 'Place' included in the sentence:
+
+1. Sentence: "The restaurant had a great atmosphere, but the place was a bit dirty."
+   Predicted sentiment polarity of the aspect 'Place': Negative
+
+2. Sentence: "The hotel's location was fantastic, but the place was noisy at night."
+   Predicted sentiment polarity of the aspect 'Place': Negative
+
+3. Sentence: "The cafe had a cozy feel, and the place was clean and well-organized."
+   Predicted sentiment polarity of the aspect '
+----------------------------------------------------
+@@Sentiment: Positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example33 :
+Aspect: food
+@Sentence: Good food: my favorite is the seafood spaghetti.
+Context: # Constrain context:# From 'Good food: my favorite is the seafood spaghetti.', can we infer that the food is positive? Yes
+# From 'Good food: my favorite is the seafood spaghetti.', can we infer that the food is negative? No
+# From 'Good food: my favorite is the seafood spaghetti.', can we infer that the food is neutral? No
+
+# Background context:Food is essential for sustaining life and providing the necessary nutrients for the body to function. It includes a wide variety of edible substances that are consumed for nourishment, pleasure, and cultural significance. Food comes in many forms, such as fruits, vegetables,
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect "food" included:
+
+1. Sentence: "The food at that restaurant was delicious, especially the dessert."
+   Predicted sentiment polarity of 'food': positive
+
+2. Sentence: "I found the food at the new Italian restaurant to be quite average."
+   Predicted sentiment polarity of 'food': neutral
+
+3. Sentence: "I was disappointed by the food quality at the fast-food chain."
+   Predicted sentiment polarity of 'food': negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example34 :
+Aspect: food
+@Sentence: Excellent food for great prices
+Context: # Constrain context:# From 'Excellent food for great prices', can we infer that the food is positive? Yes
+# From 'Excellent food for great prices', can we infer that the food is negative? No
+# From 'Excellent food for great prices', can we infer that the food is neutral? No
+
+# Background context:Food is essential for the nourishment and sustenance of the human body. It provides the necessary nutrients, such as carbohydrates, proteins, fats, vitamins, and minerals, that are needed to support bodily functions and maintain overall health. In addition to providing
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+Example 1:
+1. Sentence: "The food at that restaurant was absolutely delicious."
+2. Predicted sentiment polarity of the aspect 'food': 'positive'
+
+Example 2:
+1. Sentence: "The food was decent, but the service was lacking."
+2. Predicted sentiment polarity of the aspect 'food': 'neutral'
+
+Example 3:
+1. Sentence: "I was disappointed with the quality of the food at the new café."
+2. Predicted sentiment polarity of
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example35 :
+Aspect: wait staff
+@Sentence: The wait staff is very courteous and accomodating.
+Context: # Constrain context:From 'The wait staff is very courteous and accomodating.', can we infer that the wait staff is positive? Yes
+From 'The wait staff is very courteous and accomodating.', can we infer that the wait staff is negative? No
+From 'The wait staff is very courteous and accomodating.', can we infer that the wait staff is neutral? No
+
+# Background context:Wait staff, also known as servers or waiters/waitresses, are essential members of the hospitality industry who provide service to customers in restaurants, bars, hotels, and other dining establishments. Their primary responsibilities include taking food and drink orders, serving meals,
+
+# Analogies context:Sure, here are three examples of sentences for Aspect-Based Sentiment Analysis with the aspect 'wait staff' included, along with the predicted sentiment polarity:
+
+1. "The wait staff at the restaurant was attentive and friendly, making the dining experience enjoyable."
+   Predicted sentiment polarity: positive
+
+2. "The wait staff appeared disinterested and unfriendly, which negatively impacted the overall dining experience."
+   Predicted sentiment polarity: negative
+
+3. "The wait staff was professional and efficient, ensuring that our orders were taken promptly and accurately."
+   Predicted sentiment polarity: positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example36 :
+Aspect: space
+@Sentence: The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.
+Context: # Constrain context:1. No
+2. Yes
+3. No
+
+# Background context:Space is the vast and seemingly infinite expanse that exists beyond the Earth's atmosphere. It is home to countless celestial bodies, including planets, stars, galaxies, and nebulae. Space is a vacuum, devoid of atmosphere and air, and is
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'space' included in the sentence, along with the predicted sentiment polarity of the aspect:
+
+1. Sentence: "The hotel room had a spacious and comfortable seating area, providing ample space for relaxation."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The airplane seats were cramped and the overhead storage space was limited, making the journey quite uncomfortable."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "The office layout was well-designed, with plenty of open space and natural light, creating a pleasant
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example37 :
+Aspect: place
+@Sentence: my favorite place lol
+Context: # Constrain context:From the phrase 'my favorite place lol', we can infer that the place is positive. Therefore, the answer to the first question is 'Yes', the answer to the second question is 'No', and the answer to the third question is 'No'.
+
+# Background context:A "place" can be defined as a specific point, area, or location with distinct characteristics that differentiate it from its surroundings. Places can be physical, such as a natural landscape, a building, or a city, or they can be conceptual,
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'place' included in the sentence:
+
+1. Sentence: "The place is beautiful and has a peaceful atmosphere."
+   Predicted sentiment polarity of the aspect: 'positive'
+   
+2. Sentence: "The place was average, nothing really stood out."
+   Predicted sentiment polarity of the aspect: 'neutral'
+
+3. Sentence: "I didn't like the place at all, it was dirty and poorly maintained."
+   Predicted sentiment polarity of the aspect: 'negative'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example38 :
+Aspect: chicken pasta
+@Sentence: i love their chicken pasta cant remember the name but is sooo good
+Context: # Constrain context:From the given text "i love their chicken pasta cant remember the name but is sooo good," we can infer that the chicken pasta is positive.
+
+# Background context:Chicken pasta is a popular and satisfying dish that combines tender pieces of chicken with al dente pasta in a flavorful sauce. This dish is versatile and can be prepared in a variety of ways, appealing to a wide range of tastes and preferences. The chicken
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "chicken pasta" included in the sentences:
+
+1. Sentence: "I thoroughly enjoyed the chicken pasta dish at the restaurant, it was flavorful and perfectly cooked."
+Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The chicken pasta I ordered was a bit bland and lacked seasoning, but the portion size was generous."
+Predicted sentiment polarity: 'neutral'
+
+3. Sentence: "I was really disappointed with the chicken pasta; it was overcooked and the sauce was too salty."
+Predicted sentiment polarity: 'negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example39 :
+Aspect: place
+@Sentence: im not necessarily fanatical about this place, but it was a fun time for low pirces.
+Context: # Constrain context:From the phrase "im not necessarily fanatical about this place, but it was a fun time for low prices.", we can infer that the place is somewhat positive.
+
+# Background context:A place is a specific location that can be defined by its physical, geographical, cultural, or emotional characteristics. It can be a tangible area in the world, such as a city, a mountain, or a building, or it can be more abstract
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect "place" included in the sentence:
+
+1. Sentence: "The place was beautiful and inviting, with a warm and cozy ambiance."
+   Predicted sentiment polarity of the aspect "place": Positive
+
+2. Sentence: "The place was run-down and dirty, making it an unpleasant experience."
+   Predicted sentiment polarity of the aspect "place": Negative
+
+3. Sentence: "The place was average, nothing special but not terrible either."
+   Predicted sentiment polarity of the aspect "place": Neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example40 :
+Aspect: lobster
+@Sentence: lobster was good, nothing spectacular.
+Context: # Constrain context:From 'lobster was good, nothing spectacular.', can we infer that the lobster is positive? No
+
+From 'lobster was good, nothing spectacular.', can we infer that the lobster is negative? No
+
+From 'lobster was good, nothing spectacular.', can we infer that the lobster is neutral? Yes
+
+# Background context:Lobster is a type of shellfish that is highly prized for its succulent, sweet meat. These crustaceans are found in the Atlantic Ocean and parts of the Pacific Ocean, where they inhabit rocky crevices and burrows on the
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'lobster' included in the sentence:
+
+1. Sentence: "I had the most delicious lobster dish at the restaurant last night."
+   Predicted sentiment polarity: Positive
+
+2. Sentence: "The lobster was overcooked and tasted bland."
+   Predicted sentiment polarity: Negative
+
+3. Sentence: "The menu offered a variety of seafood options, including lobster, which was a nice touch."
+   Predicted sentiment polarity: Neutral
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example41 :
+Aspect: restaraunt
+@Sentence: its just a fun place to go, not a five star restaraunt.
+Context: # Constrain context:From the statement "it's just a fun place to go, not a five star restaurant," we can infer that the restaurant is not considered very upscale or luxurious. Therefore, it doesn't necessarily imply a positive or negative sentiment. The restaurant is more likely to be considered neutral in this context.
+
+# Background context:A restaurant is a place where people can enjoy prepared food and drinks, usually for a fee. Restaurants vary greatly in appearance and offerings, ranging from modest establishments serving simple fare to high-end dining experiences with elaborate cuisine. In addition to the food and beverages
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'restaurant' included in the sentence:
+
+1. "The restaurant had excellent service and delicious food, but the atmosphere was lacking." 
+   Predicted sentiment polarity of the aspect 'restaurant': Neutral
+
+2. "I had a horrible experience at the restaurant, the food was cold, and the service was slow." 
+   Predicted sentiment polarity of the aspect 'restaurant': Negative
+
+3. "The restaurant exceeded my expectations with its warm ambiance and friendly staff." 
+   Predicted sentiment polarity of the aspect 'restaurant': Positive
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example42 :
+Aspect: pizza
+@Sentence: I think the pizza is so overrated and was under cooked.
+Context: # Constrain context:From 'I think the pizza is so overrated and was undercooked.', can we infer that the pizza is positive? No
+
+From 'I think the pizza is so overrated and was undercooked.', can we infer that the pizza is negative? Yes
+
+From 'I think the pizza is so overrated and was undercooked.', can we infer that the pizza is neutral? No
+
+# Background context:Pizza is a popular dish that originated in Italy and has since become a beloved staple of international cuisine. It typically consists of a thin, round base of dough topped with tomato sauce, cheese, and various other ingredients, which can include meats, vegetables,
+
+# Analogies context:Example 1:
+1. "The pizza at that new restaurant was fantastic; I loved the crispy crust and the fresh toppings."
+2. Predicted sentiment polarity: positive
+
+Example 2:
+1. "I found the pizza to be quite underwhelming; the crust was soggy and the toppings were bland."
+2. Predicted sentiment polarity: negative
+
+Example 3:
+1. "The pizza was decent, but I wish they had a wider selection of toppings to choose from."
+2. Predicted sentiment polarity: neutral
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example43 :
+Aspect: staff
+@Sentence: Had no flavor and the staff is rude and not attentive.
+Context: # Constrain context:From 'Had no flavor and the staff is rude and not attentive.', can we infer that the staff is positive? No
+
+From 'Had no flavor and the staff is rude and not attentive.', can we infer that the staff is negative? Yes
+
+From 'Had no flavor and the staff is rude and not attentive.', can we infer that the staff is neutral? No
+
+# Background context:Staff are the collective group of individuals employed by an organization to carry out various roles and responsibilities. They are integral to the functioning of a business, providing the skills, expertise, and labor necessary for the organization to operate effectively. Staff members can encompass a
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect "staff" included:
+
+1. Sentence: "The staff at the hotel were incredibly friendly and helpful."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The staff was rude and unprofessional, which really ruined the dining experience for us."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "I found the staff to be quite efficient, although they were not very friendly or welcoming."
+   Predicted sentiment polarity: neutral
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example44 :
+Aspect: place
+@Sentence: I love this place
+Context: # Constrain context:From 'I love this place', can we infer that the place is positive? Yes
+From 'I love this place', can we infer that the place is negative? No
+From 'I love this place', can we infer that the place is neutral? No
+
+# Background context:A "place" is a specific location or area that holds significance or meaning to individuals or communities. Places can be physical, such as a city, park, or building, or they can be symbolic, representing an emotional or cultural connection. Places may
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'place' included in the sentence:
+
+1. Sentence: "The place was beautiful and well-maintained, the perfect spot for a weekend getaway."
+   Predicted sentiment polarity of the aspect 'place': Positive
+
+2. Sentence: "The place was average, nothing outstanding but not terrible either."
+   Predicted sentiment polarity of the aspect 'place': Neutral
+
+3. Sentence: "I was really disappointed with the place, it was dirty and poorly managed."
+   Predicted sentiment polarity of the aspect 'place': Negative
+----------------------------------------------------
+@@Sentiment: Positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example45 :
+Aspect: service
+@Sentence: The service was quick and friendly.
+Context: # Constrain context:From 'The service was quick and friendly.', we can infer that the service is positive.
+
+# Background context:A service refers to an intangible offering provided by one party to another, often in exchange for payment. This can take the form of various activities, assistance, or performance of a task to fulfill a specific need or requirement of the recipient. Services are
+
+# Analogies context:Example 1:
+Sentence: "The customer service at this restaurant is excellent, they always make sure to take care of their guests."
+Predicted sentiment polarity: 'positive'
+
+Example 2:
+Sentence: "I had a terrible experience with the service at this hotel, the staff was rude and unhelpful."
+Predicted sentiment polarity: 'negative'
+
+Example 3:
+Sentence: "The service was satisfactory at the hair salon, but the waiting time was too long."
+Predicted sentiment polarity: 'neutral'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example46 :
+Aspect: restaurant
+@Sentence: I thought the restaurant was nice and clean.
+Context: # Constrain context:From 'I thought the restaurant was nice and clean.', can we infer that the restaurant is positive? Yes
+From 'I thought the restaurant was nice and clean.', can we infer that the restaurant is negative? No
+From 'I thought the restaurant was nice and clean.', can we infer that the restaurant is neutral? No
+
+# Background context:A restaurant is a business that offers prepared food and beverages to customers in exchange for payment. Restaurants vary widely in style and offerings, from small, casual eateries to upscale, fine dining establishments. They may specialize in specific cuisines, such as Italian
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect 'restaurant' included in the sentence:
+
+1. Sentence: "The ambience of the restaurant was elegant and cozy, making it a pleasant dining experience."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The service at the restaurant was slow and the food was disappointing."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "I found the prices at the restaurant to be reasonable, and the food quality was exceptional."
+   Predicted sentiment polarity: positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example47 :
+Aspect: vitello alla marsala
+@Sentence: I ordered the vitello alla marsala and I was pretty impressed.
+Context: # Constrain context:From 'I ordered the vitello alla marsala and I was pretty impressed.', can we infer that the vitello alla marsala is positive? Yes
+From 'I ordered the vitello alla marsala and I was pretty impressed.', can we infer that the vitello alla marsala is negative? No
+From 'I ordered the vitello alla marsala and I was pretty impressed.', can we infer that the vitello alla marsala is neutral? No
+
+# Background context:'Vitello alla Marsala' is a classic Italian dish that consists of tender veal cutlets that are sautéed and then finished in a sauce made with Marsala wine. The dish often includes an array of other flavorful ingredients such
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples with the aspect "vitello alla marsala" included in the sentences:
+
+1. Sentence: "The vitello alla marsala was absolutely delicious and cooked to perfection."
+   Predicted sentiment polarity: Positive
+
+2. Sentence: "I found the vitello alla marsala to be underwhelming and lacking in flavor."
+   Predicted sentiment polarity: Negative
+
+3. Sentence: "The restaurant's version of vitello alla marsala is a new and interesting twist on the classic dish."
+   Predicted sentiment polarity: Neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example48 :
+Aspect: veal
+@Sentence: The veal and the mushrooms were cooked perfectly.
+Context: # Constrain context:From 'The veal and the mushrooms were cooked perfectly.', can we infer that the veal is positive? Yes
+From 'The veal and the mushrooms were cooked perfectly.', can we infer that the veal is negative? No
+From 'The veal and the mushrooms were cooked perfectly.', can we infer that the veal is neutral? No
+
+# Background context:Veal is the meat of young cattle, typically from calves that are about 16 to 18 weeks old. The meat has a tender texture and a delicate flavor, making it a popular choice for a range of culinary dishes. Veal is known
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'veal':
+
+Example 1:
+1. Sentence: "The veal dish was tender and flavorful."
+2. Predicted sentiment polarity: Positive
+
+Example 2:
+1. Sentence: "I usually avoid ordering veal dishes as I find them unethical."
+2. Predicted sentiment polarity: Negative
+
+Example 3:
+1. Sentence: "The restaurant offered a variety of veal options on their menu."
+2. Predicted sentiment polarity: Neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example49 :
+Aspect: potato balls
+@Sentence: The potato balls were not dry at all... in fact it was buttery.
+Context: # Constrain context:Yes
+No
+No
+
+# Background context:Potato balls are a popular and delicious snack or side dish made from mashed potatoes that are formed into bite-sized balls and then typically coated in bread crumbs and fried until golden and crispy. They are often seasoned with herbs, spices, and other flavorful ingredients
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "potato balls" included in the sentences:
+
+Example 1:
+Sentence: "The crispy texture of the potato balls is so satisfying!"
+Predicted sentiment polarity of the aspect: positive
+
+Example 2:
+Sentence: "I was disappointed with the bland taste of the potato balls."
+Predicted sentiment polarity of the aspect: negative
+
+Example 3:
+Sentence: "The restaurant's potato balls are a must-try for any potato lovers."
+Predicted sentiment polarity of the aspect: positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example50 :
+Aspect: PLACE
+@Sentence: WORST PLACE ON SMITH STREET IN BROOKLYN
+Context: # Constrain context:From 'WORST PLACE ON SMITH STREET IN BROOKLYN', we can infer that the PLACE is negative.
+
+# Background context:'PLACE' is a term used to describe a physical location or area, often associated with a specific context or purpose. Places can range from small, intimate settings like a cozy cafe to vast expanses such as a national park. Each place has its
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "PLACE" included in the sentence:
+
+1. Sentence: "The atmosphere of the restaurant was lively and inviting."
+   Predicted sentiment polarity of the aspect "PLACE": Positive
+
+2. Sentence: "The hotel room was clean and spacious, but the location was not ideal."
+   Predicted sentiment polarity of the aspect "PLACE": Neutral
+
+3. Sentence: "The park was beautiful, but the public restrooms were not well-maintained."
+   Predicted sentiment polarity of the aspect "PLACE": Negative
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example51 :
+Aspect: bartender
+@Sentence: Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.
+Context: # Constrain context:From the provided text, we can infer that the bartender is negative.
+
+# Background context:A bartender is a skilled individual who works in bars, restaurants, and other establishments where alcoholic and non-alcoholic beverages are served. In addition to mixing and serving drinks, bartenders often engage with customers, providing recommendations, creating a welcoming atmosphere, and
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'bartender' included in the sentence:
+
+1. Sentence: "The bartender was friendly and attentive, making our experience enjoyable."
+   Predicted sentiment polarity of 'bartender': Positive
+
+2. Sentence: "The bartender seemed disinterested and took a long time to take our orders."
+   Predicted sentiment polarity of 'bartender': Negative
+
+3. Sentence: "The bartender was professional and efficient, ensuring that our drinks were prepared just as we liked them."
+   Predicted sentiment polarity of 'bartender': Positive
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example52 :
+Aspect: place
+@Sentence: I would never recommend this place to anybody even for a casual dinner.
+Context: # Constrain context:From the statement 'I would never recommend this place to anybody even for a casual dinner.', we can infer that the place is negative. $PRED$ = No
+
+# Background context:A place is a specific location or area that holds significance, whether it be physical, emotional, or cultural. Places can range from natural landscapes such as mountains, beaches, or forests to built environments such as cities, towns, and buildings. Each place
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'place' included in the sentence:
+
+1. Sentence: "The place was beautiful and had a peaceful ambiance."
+   Predicted sentiment polarity of the aspect 'place': 'positive'
+
+2. Sentence: "The place was average, but the service was excellent."
+   Predicted sentiment polarity of the aspect 'place': 'neutral'
+
+3. Sentence: "I am disappointed with the place as it was dirty and poorly maintained."
+   Predicted sentiment polarity of the aspect 'place': 'negative'
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example53 :
+Aspect: food
+@Sentence: the food is always fresh ...
+Context: # Constrain context:From the statement "the food is always fresh," we can infer that the food is generally positive.
+
+# Background context:Food is any substance consumed to provide nutritional support for an organism. It is essential for human survival and provides the body with the energy and nutrients it needs to function properly. Beyond its basic role in sustenance, food holds cultural, social, and emotional
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food':
+
+Example 1:
+Sentence: "The food at that restaurant was delicious and satisfying."
+Predicted sentiment polarity of the aspect 'food': 'positive'
+
+Example 2:
+Sentence: "The food quality was underwhelming, but the service was excellent."
+Predicted sentiment polarity of the aspect 'food': 'negative'
+
+Example 3:
+Sentence: "The presentation of the food was appealing, but the taste was disappointing."
+Predicted sentiment polarity of the aspect 'food': 'negative'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example54 :
+Aspect: japanese food
+@Sentence: overpriced japanese food with mediocre service
+Context: # Constrain context:From 'overpriced japanese food with mediocre service', we can infer that the Japanese food is negative. So, I would input 'No' into the slot $PRED$.
+
+# Background context:Japanese food is a diverse and flavorful cuisine that reflects the country's rich culinary heritage and unique cooking techniques. It is known for its emphasis on fresh, seasonal ingredients, and balanced flavors. The traditional Japanese diet primarily consists of rice, fish, vegetables,
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'japanese food' included in the sentence:
+
+1. Sentence: "I absolutely love the authentic flavors of Japanese food."
+   Predicted sentiment polarity of 'japanese food': 'positive'
+
+2. Sentence: "The presentation of the Japanese food was impressive, but the taste was mediocre."
+   Predicted sentiment polarity of 'japanese food': 'neutral'
+
+3. Sentence: "I had a terrible experience with Japanese food at that restaurant."
+   Predicted sentiment polarity of 'japanese food': 'negative'
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example55 :
+Aspect: Chicken teriyaki
+@Sentence: Chicken teriyaki had tomato or pimentos on top??
+Context: # Constrain context:From the given statement, we cannot infer the sentiment of the Chicken teriyaki, so the answer for each question is "No".
+
+# Background context:Chicken teriyaki is a popular Japanese dish made with tender, juicy chicken that is marinated in a sweet and savory teriyaki sauce, then grilled or pan-fried to perfection. The teriyaki sauce is a combination of soy sauce,
+
+# Analogies context:Sure, here are three example sentences with the aspect "Chicken teriyaki" and their predicted sentiment polarities:
+
+1. Sentence: "The Chicken teriyaki at this restaurant is absolutely delicious, with a perfect blend of sweet and savory flavors."
+   Predicted sentiment: positive
+
+2. Sentence: "I find the Chicken teriyaki served here to be decent, although it could use a bit more seasoning."
+   Predicted sentiment: neutral
+
+3. Sentence: "Unfortunately, the Chicken teriyaki was overly salty and tough, which was disappointing."
+   Predicted sentiment: negative
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example56 :
+Aspect: food
+@Sentence: food was luke warm.
+Context: # Constrain context:From 'food was luke warm.', can we infer that the food is positive? No
+
+From 'food was luke warm.', can we infer that the food is negative? No
+
+From 'food was luke warm.', can we infer that the food is neutral? No
+
+# Background context:Food is essential for sustaining life and providing the body with the necessary nutrients to function properly. It encompasses a wide variety of items that are consumed for nourishment and enjoyment, including fruits, vegetables, grains, meats, and dairy products. Food is not
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect "food" included in the sentence:
+
+1. Sentence: "The food at the restaurant was delicious, especially the pasta."
+   Predicted sentiment polarity of the aspect: Positive
+
+2. Sentence: "The food was mediocre, but the dessert was amazing."
+   Predicted sentiment polarity of the aspect: Mixed (neutral/negative)
+
+3. Sentence: "I didn't enjoy the food, it was tasteless and bland."
+   Predicted sentiment polarity of the aspect: Negative
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example57 :
+Aspect: waitress
+@Sentence: The waitress was not attentive at all.
+Context: # Constrain context:From 'The waitress was not attentive at all.', can we infer that the waitress is positive? No
+
+From 'The waitress was not attentive at all.', can we infer that the waitress is negative? Yes
+
+From 'The waitress was not attentive at all.', can we infer that the waitress is neutral? No
+
+# Background context:A waitress is a front-line hospitality professional who serves food and drinks to customers in restaurants, cafes, bars, and other dining establishments. This role requires excellent customer service skills, as waitresses are responsible for taking customer orders, ensuring accuracy, and delivering
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'waitress':
+
+1. Sentence: "The waitress was friendly and attentive, making our dining experience enjoyable."
+   Predicted sentiment polarity of the aspect: 'positive'
+
+2. Sentence: "The waitress seemed disinterested and impatient, which negatively impacted our dining experience."
+   Predicted sentiment polarity of the aspect: 'negative'
+
+3. Sentence: "The waitress was professional and efficient, ensuring that our orders were taken accurately and promptly."
+   Predicted sentiment polarity of the aspect: 'positive'
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example58 :
+Aspect: dessert
+@Sentence: I was looking for banana tempura for dessert and they dont have.
+Context: # Constrain context:From 'I was looking for banana tempura for dessert and they dont have.', we can infer that the dessert is negative. Therefore, the answer is 'No'.
+
+# Background context:Dessert is a course typically served at the end of a meal to satisfy a sweet craving or provide a delightful finishing touch to the dining experience. It encompasses a wide variety of sweet dishes, including cakes, pies, pastries, puddings,
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'dessert':
+
+1. Sentence: "The dessert was divine, I couldn't get enough of it!"
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The dessert was average, nothing too special."
+   Predicted sentiment polarity: neutral
+
+3. Sentence: "The dessert was disappointing, it tasted stale and flavorless."
+   Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example59 :
+Aspect: The Four Seasons
+@Sentence: Not because you are "The Four Seasons"... – you are allowed to charge an arm and a leg for a romatic dinner.
+Context: # Constrain context:1. No
+2. No
+3. Yes
+
+# Background context:"The Four Seasons" is a set of four violin concertos composed by Antonio Vivaldi in 1723. Each concerto represents a different season - spring, summer, autumn, and winter - and is accompanied by sonnets that depict the scenes
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'The Four Seasons':
+
+1. Sentence: "I really enjoyed my stay at The Four Seasons; the luxurious amenities and impeccable service made my experience unforgettable."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "I was disappointed with the lack of variety in the room service menu at The Four Seasons."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "The Four Seasons hotel is known for its consistent high quality, providing a reliable and comfortable experience for guests."
+   Predicted sentiment polarity: 'positive
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example60 :
+Aspect: food
+@Sentence: The food was excellent as well as service, however, I left The Four Seasons very dissappointed.
+Context: # Constrain context:From the given statement, "The food was excellent as well as service, however, I left The Four Seasons very disappointed," we can infer that the food is positive. Therefore, the answer for the first question is 'Yes', the second question is 'No', and the third question is 'No'.
+
+# Background context:Food is essential for nourishing our bodies, providing the energy and nutrients needed for growth, development, and overall well-being. It comes in various forms and types, offering a wide range of flavors, textures, and nutritional benefits. Food is a fundamental
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+1. Sentence: "The food at that restaurant was delicious and flavorful."
+Predicted sentiment polarity: 'positive'
+
+2. Sentence: "I found the food to be quite average at the new cafe in town."
+Predicted sentiment polarity: 'neutral'
+
+3. Sentence: "Unfortunately, the food was cold and tasteless at the event."
+Predicted sentiment polarity: 'negative'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example61 :
+Aspect: dinner
+@Sentence: I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.
+Context: # Constrain context:# From 'I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.', can we infer that the dinner is positive? No
+# From 'I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.', can we infer that the dinner is negative? Yes
+# From 'I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.', can we infer that the dinner is neutral? No
+
+# Background context:Dinner is the evening meal, typically eaten between 6:00 and 8:00 PM, and is a key aspect of various cultures worldwide. It serves as a time for families and friends to come together, share experiences, and connect with
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'dinner' included in the sentence:
+
+1. Sentence: "The dinner at the new restaurant was absolutely delicious, and the service was exceptional."
+   Predicted sentiment polarity of the aspect 'dinner': Positive
+
+2. Sentence: "We had high expectations for the dinner, but unfortunately, it fell short of what we hoped for."
+   Predicted sentiment polarity of the aspect 'dinner': Negative
+
+3. Sentence: "The family dinner was a pleasant and enjoyable experience for everyone."
+   Predicted sentiment polarity of
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example62 :
+Aspect: Red Dragon Roll
+@Sentence: Red Dragon Roll - my favorite thing to eat, of any food group - hands down
+Context: # Constrain context:From 'Red Dragon Roll - my favorite thing to eat, of any food group - hands down', can we infer that the Red Dragon Roll is positive? Yes
+From 'Red Dragon Roll - my favorite thing to eat, of any food group - hands down', can we infer that the Red Dragon Roll is negative? No
+From 'Red Dragon Roll - my favorite thing to eat, of any food group - hands down', can we infer that the Red Dragon Roll is neutral? No
+
+# Background context:The Red Dragon Roll is a popular sushi roll that combines the flavors of spicy tuna and avocado with a twist. It typically features a center filling of spicy tuna, cucumber, and sometimes avocado, wrapped in seaweed and rice. The roll is then topped
+
+# Analogies context:Sure! Here are three aspect-based sentiment analysis examples with the aspect 'Red Dragon Roll':
+
+1. Sentence: "The Red Dragon Roll at this restaurant is absolutely delicious."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "I found the Red Dragon Roll to be mediocre compared to the other sushi options."
+   Predicted sentiment polarity: neutral
+
+3. Sentence: "I was disappointed by the Red Dragon Roll - it lacked the flavor I was expecting."
+   Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example63 :
+Aspect: Yamato
+@Sentence: Just go to Yamato and order the Red Dragon Roll.
+Context: # Constrain context:# Your task is to answer the following questions with 'Yes' or 'No' and input the answer into the slot $PRED$
+# From 'Just go to Yamato and order the Red Dragon Roll.', can we infer that the Yamato is positive? Yes
+# From 'Just go to Yamato and order the Red Dragon Roll.', can we infer that the Yamato is negative? No
+# From 'Just go to Yamato and order the Red Dragon Roll.', can we infer that the Yamato is neutral? No
+
+# Background context:Yamato is a historical Japanese term that refers to the ancient region and later a province in the Kansai region of Japan. During the Nara period (710-794), Yamato was the political and cultural center of Japan. The imperial
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'Yamato' included in the sentence:
+
+1. Sentence: "The service on the Yamato was exceptional, the staff were very attentive and friendly."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The food on the Yamato was disappointing, it was bland and lacked flavor."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "I found the entertainment options on the Yamato to be average, not particularly exciting or memorable."
+   Predicted sentiment polarity: neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example64 :
+Aspect: Seafood Dynamite
+@Sentence: The Seafood Dynamite is also otherworldly.
+Context: # Constrain context:From 'The Seafood Dynamite is also otherworldly.', we can infer that the Seafood Dynamite is positive. Yes
+
+# Background context:Seafood dynamite is a popular dish often found in Japanese and American fusion restaurants. It typically consists of a combination of fresh seafood such as shrimp, crab, or scallops mixed with a creamy, spicy mayonnaise-based sauce and baked to perfection
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect "Seafood Dynamite":
+
+1. Sentence: "I absolutely love the Seafood Dynamite at that restaurant; it's so flavorful and delicious!"
+   Predicted sentiment polarity of the aspect: positive
+
+2. Sentence: "The Seafood Dynamite was okay, but I've had better elsewhere."
+   Predicted sentiment polarity of the aspect: neutral
+
+3. Sentence: "I found the Seafood Dynamite to be overcooked and bland, very disappointing."
+   Predicted sentiment polarity of the aspect: negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example65 :
+Aspect: Sushi
+@Sentence: Favorite Sushi in NYC
+Context: # Constrain context:From 'Favorite Sushi in NYC', can we infer that the Sushi is positive? Yes
+
+From 'Favorite Sushi in NYC', can we infer that the Sushi is negative? No
+
+From 'Favorite Sushi in NYC', can we infer that the Sushi is neutral? No
+
+# Background context:Sushi is a Japanese dish that has become popular worldwide. It consists of vinegared rice, combined with a variety of ingredients such as seafood, vegetables, and occasionally tropical fruits. The most popular type of sushi is nigiri, which is a
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Sushi' included in the sentence:
+
+1. Sentence: "The sushi at this restaurant is absolutely delicious."
+   Predicted sentiment polarity of 'Sushi': positive
+
+2. Sentence: "I tried the sushi at the new place in town, and it was just okay."
+   Predicted sentiment polarity of 'Sushi': neutral
+
+3. Sentence: "I was really disappointed with the quality of the sushi at that place."
+   Predicted sentiment polarity of 'Sushi': negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example66 :
+Aspect: spot
+@Sentence: An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.
+Context: # Constrain context:From the statement "An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.", we can infer that the spot is positive.
+
+# Background context:Spot is a revolutionary robot dog created by Boston Dynamics, a robotics company known for its advanced and agile robots. Spot is designed to navigate various terrains and perform tasks that are challenging for humans, such as inspecting industrial facilities, surveying construction sites
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'spot':
+
+1. Sentence: The restaurant has a cozy atmosphere and a great spot for outdoor seating.
+   Predicted sentiment polarity of 'spot': Positive
+
+2. Sentence: The hotel room had a beautiful balcony with a stunning ocean view spot.
+   Predicted sentiment polarity of 'spot': Positive
+
+3. Sentence: I found a perfect parking spot right by the entrance of the store.
+   Predicted sentiment polarity of 'spot': Positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example67 :
+Aspect: back garden area
+@Sentence: In the summer months, the back garden area is really nice.
+Context: # Constrain context:From the statement 'In the summer months, the back garden area is really nice.', we can infer that the back garden area is positive.
+
+# Background context:The back garden area is a private outdoor space located behind a house or property, intended for relaxation, recreation, and enjoying nature. It provides a peaceful retreat from the busy world and an opportunity to connect with the natural environment. The back garden area often
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis for the aspect 'back garden area':
+
+1. Sentence: "The back garden area is beautifully landscaped and perfect for relaxing."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "I wish the back garden area was bigger, it feels a bit cramped."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "The back garden area is well-maintained, but it could use some additional seating."
+   Predicted sentiment polarity: neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example68 :
+Aspect: rolls
+@Sentence: The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.
+Context: # Constrain context:"From 'The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious Japanese food.', we can infer that the rolls are positive."
+
+# Background context:Rolls are a diverse category of food items that are characterized by their distinctive cylindrical shape and often feature a soft, bread-like texture. They come in a wide variety of forms and flavors, making them a popular choice for meals and snacks in many cultures
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'rolls' included:
+
+1. Sentence: "The sushi rolls at that restaurant are always fresh and flavorful."
+   Predicted sentiment polarity of the aspect 'rolls': Positive
+
+2. Sentence: "The sushi rolls were a bit bland, but the tempura was delicious."
+   Predicted sentiment polarity of the aspect 'rolls': Neutral
+
+3. Sentence: "I had a terrible experience with the sushi rolls at the new place in town."
+   Predicted sentiment polarity of the aspect 'rolls': Negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example69 :
+Aspect: Dancing, White River and Millenium rolls
+@Sentence: The Dancing, White River and Millenium rolls are musts.
+Context: # Constrain context:1. No
+2. No
+3. Yes
+
+# Background context:Sure! "Dancing," "White River," and "Millennium" rolls are popular and delicious sushi rolls that are enjoyed by many sushi enthusiasts. 
+
+The "Dancing" roll typically contains a combination of fresh fish such as tuna or salmon
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspects 'Dancing', 'White River', and 'Millenium rolls' included in the sentence, along with the predicted sentiment polarity:
+
+1. Sentence: "The dancing at the event was fantastic, but the food was subpar, especially the Millenium rolls."
+   Predicted sentiment polarity for 'Dancing': positive
+   Predicted sentiment polarity for 'Millenium rolls': negative
+
+2. Sentence: "I always enjoy spending weekends at the White River, it's such a peaceful and relaxing place."
+   Predict
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example70 :
+Aspect: PLACE
+@Sentence: I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE ...)
+Context: # Constrain context:- Yes
+- No
+- No
+
+# Background context:'PLACE' can refer to a specific location or area, or it can have a more abstract meaning related to a particular role or position. In the context of geography, a place is a point, area, or region on the Earth's surface that
+
+# Analogies context:Example 1:
+Sentence: "The restaurant's PLACE is cozy and inviting, perfect for a relaxing meal."
+Predicted sentiment polarity of PLACE: positive
+
+Example 2:
+Sentence: "The hotel's PLACE is not well-maintained and could use some improvement."
+Predicted sentiment polarity of PLACE: negative
+
+Example 3:
+Sentence: "The café's PLACE is small, but it has a charming and intimate atmosphere."
+Predicted sentiment polarity of PLACE: positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example71 :
+Aspect: food
+@Sentence: Gross food – Wow-
+Context: # Constrain context:From 'Gross food - Wow-', we can infer that the food is negative.
+
+# Background context:Food is any substance consumed to provide nutritional support for the body. It is essential for life and sustains human beings and other organisms in order to maintain their metabolic processes. Food comes in various forms, including plants, animals, and other sources, and
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food':
+
+1. Sentence: "The food at that restaurant was absolutely delicious, and the service was also great."
+   Predicted sentiment polarity of 'food': positive
+
+2. Sentence: "I found the food at the new cafe to be mediocre, but the ambiance was really nice."
+   Predicted sentiment polarity of 'food': neutral
+
+3. Sentence: "I had a terrible experience at the hotel - the food was cold and tasteless, and the staff was rude."
+   Predicted sentiment polarity of 'food
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example72 :
+Aspect: food
+@Sentence: I can't remember the last time I had such gross food in New York.
+Context: # Constrain context:From 'I can't remember the last time I had such gross food in New York.', can we infer that the food is positive? No
+
+From 'I can't remember the last time I had such gross food in New York.', can we infer that the food is negative? Yes
+
+From 'I can't remember the last time I had such gross food in New York.', can we infer that the food is neutral? No
+
+# Background context:Food is any substance consumed to provide nutritional support for the body. It is essential for human survival, providing the necessary nutrients, energy, and sustenance needed to maintain a healthy life. Food comes in a myriad of forms, ranging from fruits and vegetables
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect 'food' included in the sentence:
+
+1. Sentence: "The food at the new restaurant was delicious, especially the dessert."
+Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The food presentation was very appealing, but the taste was underwhelming."
+Predicted sentiment polarity: 'neutral'
+
+3. Sentence: "I was disappointed with the quality of the food, it was not up to my expectations."
+Predicted sentiment polarity: 'negative'
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example73 :
+Aspect: quesadilla
+@Sentence: My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.
+Context: # Constrain context:From 'My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.', we can infer that the quesadilla is negative. $PRED$ = No
+
+# Background context:A quesadilla is a popular Mexican dish that is typically made by filling a tortilla with a variety of ingredients such as cheese, meat, vegetables, and beans, and then folding it in half and grilling or pan-frying until the tort
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'quesadilla' included in the sentence:
+
+1. Sentence: "I had a delicious chicken quesadilla for lunch today."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The quesadilla at that restaurant was disappointing, it was bland and undercooked."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "I'm craving a cheesy and flavorful quesadilla for dinner tonight."
+   Predicted sentiment polarity: 'positive'
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example74 :
+Aspect: guacamole
+@Sentence: And $11 for a plate of bland guacamole?
+Context: # Constrain context:From the statement "And $11 for a plate of bland guacamole?", we can infer that the guacamole is negative. So, for the first two questions, the answer is 'No' and for the third question, the answer is 'Yes'.
+
+# Background context:Guacamole is a delicious and versatile Mexican dip or condiment made primarily from ripe avocados mixed with various ingredients such as onions, tomatoes, cilantro, lime juice, and seasonings. The smooth and creamy texture of avocados lends
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect "guacamole" included in the sentence:
+
+Example 1:
+Sentence: "The guacamole was creamy and flavorful."
+Predicted sentiment polarity: positive
+
+Example 2:
+Sentence: "I found the guacamole to be bland and tasteless."
+Predicted sentiment polarity: negative
+
+Example 3:
+Sentence: "The restaurant offers fresh guacamole as a side, which is a nice touch."
+Predicted sentiment polarity: positive
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example75 :
+Aspect: margaritas
+@Sentence: Don't get me started on the margaritas, either.
+Context: # Constrain context:From "Don't get me started on the margaritas, either.", we cannot infer whether the margaritas is positive, negative, or neutral.
+
+# Background context:Margaritas are a popular and classic cocktail that originated in Mexico. The drink is known for its refreshing and tangy flavor, typically made with tequila, lime juice, and an orange liqueur such as triple sec or Cointreau. The
+
+# Analogies context:Sure! Here are three examples of aspect-based sentiment analysis with the aspect "margaritas" included:
+
+1. "The margaritas at this restaurant are always refreshing and delicious."
+   Predicted sentiment polarity of the aspect: positive
+
+2. "I found the margaritas to be too strong and overwhelming at the bar last night."
+   Predicted sentiment polarity of the aspect: negative
+
+3. "The bartender recommended their special margaritas, and I found them to be flavorful and satisfying."
+   Predicted sentiment polarity of the aspect: positive
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example76 :
+Aspect: place
+@Sentence: Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word.
+Context: # Constrain context:From the statement "Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word", we can infer that the place is negative. So the answer to the first question is 'No', the answer to the second question is 'Yes', and the answer to the third question is also 'No.'
+
+# Background context:A place is a specific area or location, often with distinct characteristics or features that set it apart from other areas. Places can be physical, such as a city, a park, a building, or a natural landscape, as well as abstract, such
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'place' included in the sentence:
+
+1. Sentence: "The food was delicious, but the place was a bit rundown."
+   Predicted sentiment polarity of the aspect: Negative
+
+2. Sentence: "The service was excellent and the place was beautifully decorated."
+   Predicted sentiment polarity of the aspect: Positive
+
+3. Sentence: "The place was clean, but the overall atmosphere was a bit dull."
+   Predicted sentiment polarity of the aspect: Neutral
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example77 :
+Aspect: Indian Food
+@Sentence: Great Indian Food!
+Context: # Constrain context:From 'Great Indian Food!', can we infer that the Indian Food is positive? Yes
+From 'Great Indian Food!', can we infer that the Indian Food is negative? No
+From 'Great Indian Food!', can we infer that the Indian Food is neutral? No
+
+# Background context:Indian food is known for its diverse and vibrant flavors, rich use of spices, and a wide variety of regional cuisines. From creamy curries and spicy masalas to sweet desserts and tangy chutneys, Indian cuisine offers a wide range
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Indian Food' included in the sentence:
+
+1. Sentence: "The Indian Food at that restaurant was flavorful and delicious."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "I found the Indian Food at the new restaurant to be average."
+   Predicted sentiment polarity: neutral
+
+3. Sentence: "Unfortunately, the Indian Food from the takeout place was disappointing and bland."
+   Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example78 :
+Aspect: food
+@Sentence: The food was good, the place was clean and affordable.
+Context: # Constrain context:From 'The food was good, the place was clean and affordable.', can we infer that the food is positive? Yes
+From 'The food was good, the place was clean and affordable.', can we infer that the food is negative? No
+From 'The food was good, the place was clean and affordable.', can we infer that the food is neutral? No
+
+# Background context:Food is essential for sustaining life and providing necessary nutrients for the body to function properly. It encompasses a wide variety of edible substances that are consumed to provide energy, support growth, and maintain overall health. Food is not only a source of nourishment but
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+1. Sentence: "The food at that new restaurant is absolutely delicious."
+Predicted sentiment polarity of the aspect 'food': positive
+
+2. Sentence: "I didn't like the food at the party, but everything else was great."
+Predicted sentiment polarity of the aspect 'food': negative
+
+3. Sentence: "The food was okay, but the service was outstanding."
+Predicted sentiment polarity of the aspect 'food': neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example79 :
+Aspect: indian place
+@Sentence: I noticed alot of indian people eatting there which is a great sign for an indian place!
+Context: # Constrain context:Can we infer that the Indian place is positive? Yes
+Can we infer that the Indian place is negative? No
+Can we infer that the Indian place is neutral? No
+
+# Background context:Indian cuisine is known for its vibrant flavors, aromatic spices, and diverse regional dishes. 'Indian place' offers an authentic dining experience, showcasing the rich culinary heritage of India. From traditional street food like samosas and chaat to iconic favorites like butter
+
+# Analogies context:Sure, here are three examples for Aspect-Based Sentiment Analysis with the aspect "indian place" included in the sentence:
+
+1. Sentence: "I love the authentic flavors and warm ambiance of that Indian place."
+   Predicted sentiment polarity of the aspect: 'positive'
+
+2. Sentence: "The service at that Indian place was slow, but the food was amazing."
+   Predicted sentiment polarity of the aspect: 'neutral'
+
+3. Sentence: "I had a terrible experience at that Indian place; the food was cold and the staff was rude."
+   Predicted sentiment polarity of the aspect
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example80 :
+Aspect: food
+@Sentence: This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .
+Context: # Constrain context:From the given statement, "This is one of my favorite spot, very relaxing the food is great all the times, celebrated my engagement and my wedding here, it was very well organized," it is not clear whether the food sentiment is positive, negative, or neutral, as the specific sentiment about the food is not mentioned. Therefore, the answers to all the questions would be "No".
+
+# Background context:Food is any substance consumed by living organisms to provide necessary nutrients for growth, maintenance, and energy. It can be of plant or animal origin, and contains a variety of essential components such as carbohydrates, proteins, fats, vitamins, and minerals. Food
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+1. Sentence: "The food at that new restaurant is amazing, I couldn't get enough of it."
+   Predicted sentiment polarity of the aspect 'food': Positive
+
+2. Sentence: "The food was decent, but the service was terrible."
+   Predicted sentiment polarity of the aspect 'food': Neutral
+
+3. Sentence: "I was disappointed with the food quality at the event, it didn't meet my expectations."
+   Predicted sentiment polarity of the aspect 'food':
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example81 :
+Aspect: staff
+@Sentence: The staff is very good.
+Context: # Constrain context:From 'The staff is very good.', can we infer that the staff is positive? Yes
+From 'The staff is very good.', can we infer that the staff is negative? No
+From 'The staff is very good.', can we infer that the staff is neutral? No
+
+# Background context:Staff refers to a group of individuals who are employed by an organization, business, or institution to perform various roles and responsibilities to support the functioning and operations of the entity. Members of the staff typically work under the direction and supervision of management or higher-ranking
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'staff':
+
+1. Sentence: "The staff at the restaurant was extremely attentive and friendly, making our dining experience enjoyable."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The staff seemed indifferent and unhelpful, which was disappointing given the high expectations we had for this hotel."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "I found the staff to be professional and courteous, and they were quick to address any issues that arose during my stay."
+   Predicted sentiment polarity: '
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example82 :
+Aspect: drink menu
+@Sentence: Love their drink menu.
+Context: # Constrain context:From 'Love their drink menu.', we can infer that the drink menu is positive. Yes
+
+# Background context:A drink menu is a list of beverages available at a restaurant, bar, or coffee shop. It typically includes a variety of alcoholic and non-alcoholic drinks such as cocktails, beer, wine, spirits, soft drinks, juices, and hot beverages like
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'drink menu' included in the sentence:
+
+1. Sentence: "The drink menu at the new restaurant is extensive and impressive, offering a wide variety of cocktails and mocktails."
+   Predicted sentiment polarity of 'drink menu': positive
+
+2. Sentence: "I was disappointed by the limited options on the drink menu at the bar, as it lacked variety and creativity."
+   Predicted sentiment polarity of 'drink menu': negative
+
+3. Sentence: "The drink menu at the café was average, with a few classic options
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example83 :
+Aspect: place
+@Sentence: I highly recommend this beautiful place.
+Context: # Constrain context:From 'I highly recommend this beautiful place.', can we infer that the place is positive? Yes
+From 'I highly recommend this beautiful place.', can we infer that the place is negative? No
+From 'I highly recommend this beautiful place.', can we infer that the place is neutral? No
+
+# Background context:A place is a specific location that possesses a distinct character and significance. It can be as small and specific as a room within a house, or as large and broad as a country or continent. Places can hold cultural, historical, or personal significance,
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect "place" included in the sentence:
+
+1. Sentence: "The place was clean and well-organized."
+   Predicted sentiment: positive
+
+2. Sentence: "The place was average in terms of cleanliness and ambiance."
+   Predicted sentiment: neutral
+
+3. Sentence: "I didn't like the place at all, it was dirty and uninviting."
+   Predicted sentiment: negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example84 :
+Aspect: Voss bottles of water
+@Sentence: We were offered water for the table but were not told the Voss bottles of water were $8 a piece.
+Context: # Constrain context:From the statement "We were offered water for the table but were not told the Voss bottles of water were $8 a piece," we cannot infer whether the Voss bottles of water are positive, negative, or neutral.
+
+# Background context:Voss water is a premium brand of bottled water known for its high-quality, luxurious packaging. The water is sourced from an artesian aquifer in southern Norway, known for its purity and natural mineral content. Voss water is known for its distinctive
+
+# Analogies context:Sure, here are three example sentences with the aspect "Voss bottles of water" included, along with the predicted sentiment polarity:
+
+1. "I love the sleek design of Voss bottles of water and the refreshing taste, it's always a positive experience when I drink it."
+   Predicted sentiment polarity: positive
+
+2. "I find the price of Voss bottles of water to be quite high compared to other brands, but the quality is undeniable."
+   Predicted sentiment polarity: neutral
+
+3. "I was disappointed with the packaging of Voss bottles of water as it arrived damaged,
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example85 :
+Aspect: Food
+@Sentence: Food was OK.
+Context: # Constrain context:From 'Food was OK.', we can infer that the Food is neutral.
+
+# Background context:Food is any substance consumed to provide nutritional support for the body. It is essential for sustenance and is also deeply intertwined with culture, tradition, and social interactions. The consumption of food is necessary for the human body to function, as it provides energy
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'Food':
+
+1. Sentence: "The food at the new restaurant was absolutely delicious, with a great variety of flavors."
+Predicted sentiment polarity of the aspect 'Food': Positive
+
+2. Sentence: "The service was excellent, but unfortunately, the food was quite bland and lacked seasoning."
+Predicted sentiment polarity of the aspect 'Food': Negative
+
+3. Sentence: "Overall, the dining experience was pleasant, but the food took a long time to be served, causing some frustration among customers."
+Predicted sentiment polarity of
+----------------------------------------------------
+@@Sentiment: Neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example86 :
+Aspect: view of river and NYC
+@Sentence: Nice view of river and NYC.
+Context: # Constrain context:From 'Nice view of river and NYC.', we can infer that the view of the river and NYC is positive.
+
+# Background context:The view of the river and New York City skyline is a breathtaking and iconic sight that captivates visitors and residents alike. From various vantage points along the Hudson River, such as from the Brooklyn Bridge, Battery Park, or the waterfront promen
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'view of river and NYC':
+
+1. Sentence: "The hotel room had an amazing view of the river and NYC skyline."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The apartment had a balcony with a beautiful view of the river and NYC."
+   Predicted sentiment polarity: positive
+
+3. Sentence: "I was disappointed with the view of the river and NYC from the restaurant."
+   Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example87 :
+Aspect: survice
+@Sentence: Great survice
+Context: # Constrain context:From 'Great survice', can we infer that the service is positive? Yes
+From 'Great survice', can we infer that the service is negative? No
+From 'Great survice', can we infer that the service is neutral? No
+
+# Background context:"Survive" means to continue to live or exist, especially in difficult conditions. It can also refer to enduring or overcoming a challenging situation or threat. Survival can involve both physical and mental aspects, as individuals may need to find ways to maintain their
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect 'service' included in the sentence:
+
+1. "The service at the hotel was exceptional, and the staff was incredibly friendly and accommodating."
+   - Predicted sentiment polarity: 'positive'
+
+2. "I was disappointed with the service at the restaurant, as the waiters seemed indifferent and unattentive."
+   - Predicted sentiment polarity: 'negative'
+
+3. "Overall, I would rate their customer service as average, as they were responsive to my inquiries but didn't go above and beyond."
+   - Predict
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example88 :
+Aspect: Egyptian restaurant
+@Sentence: A beautifully designed dreamy Egyptian restaurant that gets sceney at night.
+Context: # Constrain context:From the description "A beautifully designed dreamy Egyptian restaurant that gets sceney at night.", we can infer that the Egyptian restaurant is positive. $PRED$
+
+# Background context:An Egyptian restaurant offers a culinary journey through the rich and diverse flavors of Egypt. Traditional Egyptian cuisine is characterized by its use of bold spices, fresh ingredients, and a combination of influences from various cultures including Middle Eastern, Mediterranean, and African. The menu
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect "Egyptian restaurant" included in the sentence:
+
+1. Sentence: "I recently tried a new Egyptian restaurant and I absolutely loved the flavors and ambiance."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The service at the Egyptian restaurant was slow and the food was just average."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "I haven't been to an Egyptian restaurant before, but I'm excited to try the unique dishes and experience the culture."
+   Predicted sentiment polarity: neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example89 :
+Aspect: belly dancers
+@Sentence: Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.
+Context: # Constrain context:1. Yes
+2. No
+3. No
+
+# Background context:Belly dancing is a traditional form of dance originating from the Middle East, characterized by intricate movements of the torso, hips, and arms. It is often performed in a solo or group setting, with dancers wearing elaborate costumes adorned with colorful fabrics, coins
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'belly dancers' included:
+
+1. Sentence: "The restaurant had amazing belly dancers who entertained us throughout the evening."
+   Predicted sentiment: Positive
+
+2. Sentence: "I didn't enjoy the belly dancers at the event; their performance was lackluster."
+   Predicted sentiment: Negative
+
+3. Sentence: "The audience was indifferent to the belly dancers' performance, focusing more on their meals."
+   Predicted sentiment: Neutral
+----------------------------------------------------
+@@Sentiment: Positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example90 :
+Aspect: hookah
+@Sentence: Oh, and there's hookah.
+Context: # Constrain context:From 'Oh, and there's hookah.', we cannot infer if the hookah is positive, negative, or neutral as the statement does not provide enough information to make that determination.
+
+# Background context:Hookah, also known as shisha or water pipe, is a device used for smoking flavored tobacco. It originated in ancient Persia and India, and has been a popular social and cultural practice in the Middle East and South Asia for centuries. The
+
+# Analogies context:Sure, here are three examples of aspect-based sentiment analysis with the aspect "hookah":
+
+1. Sentence: "The hookah at the new lounge is fantastic, with a wide variety of flavors to choose from."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "I found the hookah at that café to be lackluster and overpriced."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "The bartender recommended a fantastic hookah flavor that really enhanced our experience at the lounge."
+   Predicted sentiment polarity: 'positive'
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example91 :
+Aspect: Raymond
+@Sentence: Raymond the bartender rocks!
+Context: # Constrain context:From 'Raymond the bartender rocks!', we can infer that the Raymond is positive. Yes
+
+# Background context:Raymond is a given name of Germanic origin, meaning "protector" or "wise protector." It has been a popular name for boys in English-speaking countries for many years. Famous individuals named Raymond include Raymond Chandler, the renowned American novelist and
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'Raymond' included in the sentence:
+
+Example 1:
+Sentence: "I absolutely love the Raymond suit I bought for my interview."
+Predicted sentiment polarity of 'Raymond': positive
+
+Example 2:
+Sentence: "The service at Raymond's restaurant was disappointing, but the food was excellent."
+Predicted sentiment polarity of 'Raymond': neutral
+
+Example 3:
+Sentence: "I was highly impressed with the professionalism of Raymond's staff at the hotel."
+Predicted sentiment polarity of 'Raymond': positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example92 :
+Aspect: Pacifico
+@Sentence: Pacifico is a great place to casually hang out.
+Context: # Constrain context:From 'Pacifico is a great place to casually hang out.', can we infer that the Pacifico is positive? Yes
+
+From 'Pacifico is a great place to casually hang out.', can we infer that the Pacifico is negative? No
+
+From 'Pacifico is a great place to casually hang out.', can we infer that the Pacifico is neutral? No
+
+# Background context:Pacifico is a popular and versatile typeface known for its casual and friendly appearance. Originally designed by Vernon Adams, this font is often used in a variety of designs, including branding, advertising, and packaging. Its flowing and smooth characteristics make it ideal
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Pacifico':
+
+1. Sentence: "The Pacifico beer was crisp and refreshing."
+   Predicted Sentiment Polarity: 'positive'
+
+2. Sentence: "I found the Pacifico beach resort to be a little overhyped."
+   Predicted Sentiment Polarity: 'neutral'
+
+3. Sentence: "The Pacifico restaurant service was slow and the food was disappointing."
+   Predicted Sentiment Polarity: 'negative'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example93 :
+Aspect: drinks
+@Sentence: The drinks are great, especially when made by Raymond.
+Context: # Constrain context:# From 'The drinks are great, especially when made by Raymond.', can we infer that the drinks is positive? Yes
+# From 'The drinks are great, especially when made by Raymond.', can we infer that the drinks is negative? No
+# From 'The drinks are great, especially when made by Raymond.', can we infer that the drinks is neutral? No
+
+# Background context:Drinks are liquid substances that are consumed to quench thirst, provide refreshment, and offer enjoyment. They come in a wide variety of forms, including hot and cold beverages, alcoholic and non-alcoholic options, and a range of flavors and textures
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect "drinks" included in the sentence:
+
+1. Sentence: "The drinks at the party were refreshing and delicious."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The quality of the drinks at the new bar was disappointing."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "I tried their new cocktail and found it to be quite average in terms of taste."
+   Predicted sentiment polarity: 'neutral'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example94 :
+Aspect: omlette for brunch
+@Sentence: The omlette for brunch is great...
+Context: # Constrain context:# From 'The omlette for brunch is great...', can we infer that the omlette for brunch is positive? $PRED$  
+Yes
+
+# From 'The omlette for brunch is great...', can we infer that the omlette for brunch is negative? $PRED$
+No
+
+# From 'The omlette for brunch is great...', can we infer that the omlette for brunch is neutral? $PRED$
+No
+
+# Background context:An omelette for brunch is a classic and versatile dish that can be enjoyed in a variety of ways. Made from beaten eggs cooked with various fillings, such as cheese, vegetables, meats, and herbs, the omelette offers a satisfying
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect "omelette for brunch" included in the sentence:
+
+1. "I had an amazing omelette for brunch today at the new café down the street." 
+   Predicted sentiment polarity of the aspect: positive
+
+2. "The omelette for brunch was just okay, it could have been better seasoned." 
+   Predicted sentiment polarity of the aspect: neutral
+
+3. "I was disappointed with the quality of the omelette for brunch, it was overcooked and lacked flavor." 
+   Predicted
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example95 :
+Aspect: spinach
+@Sentence: the spinach is fresh, definately not frozen...
+Context: # Constrain context:From 'the spinach is fresh, definitely not frozen...', can we infer that the spinach is positive? Yes
+From 'the spinach is fresh, definitely not frozen...', can we infer that the spinach is negative? No
+From 'the spinach is fresh, definitely not frozen...', can we infer that the spinach is neutral? No
+
+# Background context:Spinach is a leafy green vegetable that belongs to the amaranth family and is known for its vibrant green color and nutritional value. It is widely cultivated and enjoyed in various cuisines around the world. With its tender leaves and slightly bitter flavor
+
+# Analogies context:Sure, here are three examples of aspect-based sentiment analysis with the aspect "spinach" included in the sentence:
+
+Example 1:
+1. Sentence: "The spinach salad was fresh and delicious."
+2. Predicted sentiment polarity of the aspect 'spinach': positive
+
+Example 2:
+1. Sentence: "I don't like the taste of spinach in the smoothie."
+2. Predicted sentiment polarity of the aspect 'spinach': negative
+
+Example 3:
+1. Sentence: "The spinach dip was okay, but I've had better."
+2. Predicted sentiment polarity of
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example96 :
+Aspect: quacamole
+@Sentence: quacamole at pacifico is yummy, as are the wings with chimmichuri.
+Context: # Constrain context:From the given statement 'quacamole at pacifico is yummy, as are the wings with chimmichuri.', we cannot infer the sentiment of the guacamole as positive, negative, or neutral.
+
+# Background context:Guacamole is a traditional Mexican dish that is popular worldwide. It is a creamy dip or spread made primarily from ripe avocados, which are mashed and combined with various ingredients such as lime juice, onions, tomatoes, cilantro, and season
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect "guacamole" included in the sentence along with the predicted sentiment polarity:
+
+1. "I ordered the taco salad, and the guacamole was flavorful and creamy."
+   Predicted sentiment polarity: positive
+
+2. "The burrito was good, but the guacamole tasted a bit bland."
+   Predicted sentiment polarity: neutral
+
+3. "I was disappointed with the nachos as the guacamole had a strange aftertaste."
+   Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example97 :
+Aspect: chicken in the salads
+@Sentence: A weakness is the chicken in the salads.
+Context: # Constrain context:# From 'A weakness is the chicken in the salads.', can we infer that the chicken in the salads is positive? No
+# From 'A weakness is the chicken in the salads.', can we infer that the chicken in the salads is negative? Yes
+# From 'A weakness is the chicken in the salads.', can we infer that the chicken in the salads is neutral? No
+
+# Background context:Chicken in salads is a popular and versatile ingredient that adds protein, flavor, and texture to a wide variety of salads. It is often used in both warm and cold salads, making it a flexible option for any season. Chicken can be prepared in numerous
+
+# Analogies context:Sure, here are three examples of aspect-based sentiment analysis with the aspect 'chicken in the salads':
+
+1. Sentence: "The chicken in the salads is always tender and flavorful."
+   Sentiment: Positive
+
+2. Sentence: "I wish they would use more chicken in the salads, as the portion sizes are too small."
+   Sentiment: Neutral
+
+3. Sentence: "I was disappointed with the quality of the chicken in the salads; it was dry and bland."
+   Sentiment: Negative
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example98 :
+Aspect: portobello and asparagus mole
+@Sentence: Also, I personally wasn't a fan of the portobello and asparagus mole.
+Context: # Constrain context:From the given statement, we can infer that the portobello and asparagus mole would be perceived as negative.
+
+# Background context:Portobello and asparagus mole is a delicious and savory vegetarian dish that combines the earthy flavors of portobello mushrooms and the bright, slightly bitter taste of asparagus with a rich and complex mole sauce. The portobello mushrooms provide a
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect "portobello and asparagus mole" included in the sentence:
+
+Example 1:
+1. "The portobello and asparagus mole at the new restaurant was absolutely delicious."
+2. Predicted sentiment polarity: positive
+
+Example 2:
+1. "I was disappointed with the underwhelming taste of the portobello and asparagus mole dish."
+2. Predicted sentiment polarity: negative
+
+Example 3:
+1. "The chef's innovative take on the portobello and asparagus mole left me feeling impressed
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example99 :
+Aspect: food
+@Sentence: Overall, decent food at a good price, with friendly people.
+Context: # Constrain context:From 'Overall, decent food at a good price, with friendly people.', can we infer that the food is positive? Yes
+
+From 'Overall, decent food at a good price, with friendly people.', can we infer that the food is negative? No
+
+From 'Overall, decent food at a good price, with friendly people.', can we infer that the food is neutral? No
+
+# Background context:Food is any substance consumed to provide the body with necessary nutrients for energy, growth, and survival. It comes in a wide variety of forms, including fruits, vegetables, grains, meats, and dairy products. Food serves as a source of sustenance
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+1. "The food at that restaurant is delicious."
+   Predicted sentiment polarity of the aspect 'food': positive
+
+2. "I thought the food was just okay, nothing special."
+   Predicted sentiment polarity of the aspect 'food': neutral
+
+3. "I was disappointed with the quality of the food at the party."
+   Predicted sentiment polarity of the aspect 'food': negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example100 :
+Aspect: Indian Restaurant
+@Sentence: Best Indian Restaurant in the City
+Context: # Constrain context:# From 'Best Indian Restaurant in the City', can we infer that the Indian Restaurant is positive? Yes
+# From 'Best Indian Restaurant in the City', can we infer that the Indian Restaurant is negative? No
+# From 'Best Indian Restaurant in the City', can we infer that the Indian Restaurant is neutral? No
+
+# Background context:An Indian restaurant is a dining establishment that specializes in serving authentic Indian cuisine. These restaurants typically feature a menu that includes a wide variety of dishes from different regions of India, showcasing the diverse flavors, spices, and cooking techniques that are integral to Indian cooking
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect "Indian Restaurant" included in the sentence:
+
+1. Sentence: "The ambiance of the Indian restaurant was delightful, and the food was absolutely delicious."
+   Predicted sentiment polarity: Positive
+
+2. Sentence: "I found the service at the Indian restaurant to be slow, but the flavors of the dishes were authentic and tasty."
+   Predicted sentiment polarity: Neutral
+
+3. Sentence: "I had a terrible experience at the Indian restaurant - the food was undercooked, and the staff was unfriendly."
+   Predicted sentiment
+----------------------------------------------------
+@@Sentiment: Positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example101 :
+Aspect: Decor
+@Sentence: Decor needs to be upgraded but the food is amazing!
+Context: # Constrain context:From 'Decor needs to be upgraded but the food is amazing!', can we infer that the Decor is positive? Yes
+From 'Decor needs to be upgraded but the food is amazing!', can we infer that the Decor is negative? No
+From 'Decor needs to be upgraded but the food is amazing!', can we infer that the Decor is neutral? No
+
+# Background context:Decor refers to the elements and arrangement of items within a space to create a particular atmosphere or aesthetic. It encompasses the selection of furniture, accessories, colors, patterns, and textures to bring together a cohesive and visually appealing design. Decor is an important aspect
+
+# Analogies context:1. Sentence: "The decor of the restaurant was elegant and sophisticated, creating a wonderful ambiance."
+   Sentiment Polarity of 'Decor': positive
+
+2. Sentence: "Although the restaurant had delicious food, the decor was outdated and in need of renovation."
+   Sentiment Polarity of 'Decor': negative
+
+3. Sentence: "The decor in the hotel lobby was minimalistic and modern, which some guests found refreshing."
+   Sentiment Polarity of 'Decor': positive
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example102 :
+Aspect: gyros
+@Sentence: This small Astoria souvlaki spot makes what many consider the best gyros in New York.
+Context: # Constrain context:# From 'This small Astoria souvlaki spot makes what many consider the best gyros in New York.', can we infer that the gyros is positive? Yes
+# From 'This small Astoria souvlaki spot makes what many consider the best gyros in New York.', can we infer that the gyros is negative? No
+# From 'This small Astoria souvlaki spot makes what many consider the best gyros in New York.', can we infer that the gyros is neutral? No
+
+# Background context:Gyros are a popular Greek dish that is made from seasoned meat, usually lamb, beef, or chicken, cooked on a vertical rotisserie. The meat is typically sliced and served in a pita wrap or on a platter with a
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "gyros" included in the sentence:
+
+1. The sentence: "The gyros at this restaurant are absolutely delicious."
+   Predicted sentiment polarity of the aspect: 'positive'
+
+2. The sentence: "I've had better gyros before, but these were still pretty good."
+   Predicted sentiment polarity of the aspect: 'neutral'
+
+3. The sentence: "I was disappointed with the gyros I ordered - they were dry and lacking in flavor."
+   Predicted sentiment polarity of the aspect: 'negative'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example103 :
+Aspect: food
+@Sentence: What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.
+Context: # Constrain context:1. Yes
+2. No
+3. No
+
+# Background context:Food is essential for sustenance and nourishment, providing the necessary nutrients and energy for the human body to function optimally. It encompasses a wide variety of edible substances that are consumed for their taste, nutritional value, and cultural significance. Food is ingr
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+Example 1:
+Sentence: "The food at that restaurant is absolutely delicious, especially the desserts."
+Predicted sentiment polarity of the aspect 'food': positive
+
+Example 2:
+Sentence: "I found the food to be average, nothing too special but not bad either."
+Predicted sentiment polarity of the aspect 'food': neutral
+
+Example 3:
+Sentence: "Unfortunately, the food was quite disappointing at the new cafe we tried last night."
+Predicted sentiment polarity of the aspect '
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example104 :
+Aspect: Greek and Cypriot dishes
+@Sentence: All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted.
+Context: # Constrain context:From the statement "All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted," we can infer that the Greek and Cypriot dishes are positive.
+
+# Background context:Greek and Cypriot dishes are known for their delectable flavors, fresh ingredients, and rich culinary traditions rooted in ancient Mediterranean culture. These cuisines feature a delightful array of dishes that showcase the prominence of olive oil, fresh vegetables, grains,
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Greek and Cypriot dishes' included:
+
+1. Sentence: "The Greek and Cypriot dishes at this restaurant are simply delicious, with authentic flavors and fresh ingredients."
+   Predicted sentiment: Positive
+
+2. Sentence: "I found the Greek and Cypriot dishes to be average, nothing really stood out in terms of flavor or presentation."
+   Predicted sentiment: Neutral
+
+3. Sentence: "Unfortunately, the Greek and Cypriot dishes we tried were disappointing - the flavors were bland and the portion sizes
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example105 :
+Aspect: restaurant
+@Sentence: Best restaurant in Brooklyn
+Context: # Constrain context:From 'Best restaurant in Brooklyn', can we infer that the restaurant is positive? Yes
+
+From 'Best restaurant in Brooklyn', can we infer that the restaurant is negative? No
+
+From 'Best restaurant in Brooklyn', can we infer that the restaurant is neutral? No
+
+# Background context:A restaurant is a commercial establishment where prepared food and drinks are served to customers in exchange for payment. Restaurants vary widely in terms of cuisine, ambiance, and service style, catering to a diverse range of tastes and preferences. Common types of restaurants include fast
+
+# Analogies context:Sure, here are three example sentences for aspect-based sentiment analysis with the aspect 'restaurant':
+
+1. "The restaurant had excellent service and the food was delicious."
+   - Predicted sentiment polarity for the aspect 'restaurant': Positive
+
+2. "The ambiance of the restaurant was disappointing, but the food made up for it."
+   - Predicted sentiment polarity for the aspect 'restaurant': Neutral
+
+3. "I had a terrible experience at the restaurant - the service was rude and the food was cold."
+   - Predicted sentiment polarity for the aspect 'restaurant': Negative
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example106 :
+Aspect: food
+@Sentence: Great food, amazing service, this place is a class act.
+Context: # Constrain context:From 'Great food, amazing service, this place is a class act.', we can infer that the food is positive. $PRED$ - Yes
+
+# Background context:Food is a vital source of nourishment and sustenance for living organisms, providing the essential nutrients, energy, and building blocks for growth, repair, and overall well-being. It encompasses a wide variety of items that can be consumed, including fruits,
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+1. Sentence: "The food at that restaurant was absolutely delicious."
+   Predicted sentiment polarity of the aspect: 'positive'
+
+2. Sentence: "The food was mediocre, but the service was excellent."
+   Predicted sentiment polarity of the aspect: 'neutral'
+
+3. Sentence: "I was dissatisfied with the food quality and taste at the event."
+   Predicted sentiment polarity of the aspect: 'negative'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example107 :
+Aspect: veal
+@Sentence: The veal was incredible last night.
+Context: # Constrain context:From 'The veal was incredible last night.', we can infer that the veal is positive. Yes
+From 'The veal was incredible last night.', we can infer that the veal is negative. No
+From 'The veal was incredible last night.', we can infer that the veal is neutral. No
+
+# Background context:Veal is a type of meat that comes from young calves, usually between 1-4 months old, and is prized for its delicate flavor and tender texture. The meat is pale pink in color and is known for its tenderness, making it
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'veal' included in the sentence:
+
+Example 1:
+Sentence: "The veal dish was tender and flavorful, making it a delightful dining experience."
+Predicted sentiment polarity: positive
+
+Example 2:
+Sentence: "I found the veal to be overcooked and lacking in seasoning, resulting in a disappointing meal."
+Predicted sentiment polarity: negative
+
+Example 3:
+Sentence: "The veal was presented with a beautiful sauce that complemented the flavor perfectly, leaving me with a very positive impression."
+Predicted sentiment
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example108 :
+Aspect: place
+@Sentence: This place is a must visit!
+Context: # Constrain context:From 'This place is a must visit!', we can infer that the place is positive. So the answers are:
+- **$PRED$** = Yes
+- **$PRED$** = No
+- **$PRED$** = No
+
+# Background context:A "place" refers to a specific area or location that can be both physical and conceptual. It encompasses a wide range of environments, from natural landscapes such as mountains, forests, and bodies of water, to built environments like cities, neighborhoods, and
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'place' included in the sentence:
+
+Example 1:
+Sentence: "The atmosphere at the restaurant is wonderful, but the place is a bit cramped."
+Predicted sentiment polarity of the aspect 'place': Negative
+
+Example 2:
+Sentence: "The hotel room was small, but the place was clean and well-maintained."
+Predicted sentiment polarity of the aspect 'place': Positive
+
+Example 3:
+Sentence: "The park is beautiful, but the place was quite crowded during our visit."
+Predicted sentiment polarity of
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example109 :
+Aspect: booths
+@Sentence: Most of the booths allow you to sit next to eachother without looking like 'that' couple.
+Context: # Constrain context:From the given statement, "Most of the booths allow you to sit next to each other without looking like 'that' couple," it can be inferred that the booths are positive.
+
+# Background context:Booths are enclosed or partially enclosed spaces that are typically used for seating in a variety of settings, including restaurants, bars, trade shows, and events. They can come in various designs, such as bench-style seating with high backrests and
+
+# Analogies context:Sure! Here are three examples of sentences for Aspect-Based Sentiment Analysis with the aspect 'booths':
+
+1. "The booths at the trade show were beautifully designed and spacious, making it a pleasant experience for the attendees."
+   Predicted sentiment polarity: positive
+
+2. "The booths at the carnival were old and run-down, giving a negative impression to the visitors."
+   Predicted sentiment polarity: negative
+
+3. "The booths at the food festival were functional and served their purpose adequately, without any standout features."
+   Predicted sentiment polarity: neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example110 :
+Aspect: food
+@Sentence: The food is all shared so we get to order together and eat together.
+Context: # Constrain context:# From 'The food is all shared so we get to order together and eat together.', can we infer that the food is positive? Yes
+# From 'The food is all shared so we get to order together and eat together.', can we infer that the food is negative? No
+# From 'The food is all shared so we get to order together and eat together.', can we infer that the food is neutral? No
+
+# Background context:Food is essential for nourishing our bodies and providing us with the energy and nutrients we need to thrive. It comes in a wide variety of forms, including fruits, vegetables, grains, meats, and dairy products. Food plays a critical role in our
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+Example 1:
+Sentence: "The food at the restaurant was delicious, especially the dessert."
+Predicted sentiment polarity: 'positive'
+
+Example 2:
+Sentence: "The food was mediocre, but the service was excellent."
+Predicted sentiment polarity: 'neutral'
+
+Example 3:
+Sentence: "I was disappointed with the quality of the food at the new cafe."
+Predicted sentiment polarity: 'negative'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example111 :
+Aspect: dishes
+@Sentence: I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).
+Context: # Constrain context:# From the statement 'I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).', we can infer that the dishes are positive. Yes
+# From the statement 'I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).', we can infer that the dishes are negative. No
+# From the statement 'I've enjoyed 99% of the dishes
+
+# Background context:Dishes refer to a variety of food items that are prepared and served in a particular way to create a cohesive meal. These can include main courses, side dishes, appetizers, desserts, and more. Each dish typically consists of a combination of ingredients
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'dishes':
+
+1. Sentence: "The restaurant has a variety of delicious dishes, and the pasta is exceptional."
+   Predicted sentiment polarity of the aspect 'dishes': positive
+
+2. Sentence: "The dishes at this restaurant were quite mediocre, and the flavors were bland."
+   Predicted sentiment polarity of the aspect 'dishes': negative
+
+3. Sentence: "The menu offers a good selection of vegetarian dishes, which is great for those with dietary restrictions."
+   Predicted sentiment polarity of the aspect 'd
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example112 :
+Aspect: Water's Edge
+@Sentence: My daughter's wedding reception at Water's Edge received the highest compliments from our guests.
+Context: # Constrain context:From the statement "My daughter's wedding reception at Water's Edge received the highest compliments from our guests," we can infer that the Water's Edge is positive.
+
+# Background context:'Water's Edge' is a popular restaurant located in a picturesque waterfront setting. Known for its stunning views, the restaurant offers a unique dining experience with a focus on fresh seafood and locally sourced ingredients. The menu features a wide variety of dishes, including
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "Water's Edge" included in the sentence:
+
+1. Sentence: "The resort's location at the Water's Edge provides a stunning view of the ocean."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The property's maintenance near the Water's Edge needs improvement as the shoreline is littered with debris."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "The peaceful atmosphere at the Water's Edge makes it an ideal spot for relaxation and contemplation."
+   Predicted sentiment polarity: positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example113 :
+Aspect: atmosphere
+@Sentence: Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!
+Context: # Constrain context:From 'Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!', we can infer that the atmosphere is positive.
+
+# Background context:Atmosphere refers to the layer of gases that surrounds a planet and is held in place by the planet's gravitational force. On Earth, the atmosphere is composed of nitrogen (about 78%), oxygen (about 21%), and trace amounts of other
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples with the aspect "atmosphere":
+
+1. Sentence: "The restaurant had a cozy and inviting atmosphere."
+   Predicted sentiment polarity: Positive
+
+2. Sentence: "The crowded and noisy atmosphere at the concert was not enjoyable for everyone."
+   Predicted sentiment polarity: Negative
+
+3. Sentence: "The relaxed and peaceful atmosphere of the spa helped me unwind and de-stress."
+   Predicted sentiment polarity: Positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example114 :
+Aspect: Service
+@Sentence: Service was wonderful;
+Context: # Constrain context:From 'Service was wonderful;', can we infer that the Service is positive? Yes
+From 'Service was wonderful;', can we infer that the Service is negative? No
+From 'Service was wonderful;', can we infer that the Service is neutral? No
+
+# Background context:Service refers to the act of providing assistance or performing tasks for the benefit of others. It is a fundamental part of many industries and sectors, including customer service, healthcare, hospitality, and public service. Service can take various forms, such as delivering goods
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect "Service" included:
+
+1. Sentence: "The service at the restaurant was exceptional, with attentive staff and quick service."
+   Predicted sentiment polarity of "Service": Positive
+
+2. Sentence: "I was disappointed with the slow service and lack of responsiveness from the customer service team."
+   Predicted sentiment polarity of "Service": Negative
+
+3. Sentence: "The hotel staff provided top-notch service, making us feel welcomed and taken care of throughout our stay."
+   Predicted sentiment polarity of "Service": Positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example115 :
+Aspect: Paul
+@Sentence: Paul, the maitre d', was totally professional and always on top of things.
+Context: # Constrain context:- $PRED$: Yes
+- $PRED$: No
+- $PRED$: No
+
+# Background context:Paul is a common male given name with roots in Latin and French. The name is derived from the Roman family name Paulus, which means "small" or "humble" in Latin. It has been used as a first name since the Middle
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'Paul':
+
+1. Sentence: "Paul is such a dedicated and hardworking employee."
+Predicted Sentiment: Positive
+
+2. Sentence: "I've heard Paul can be quite difficult to work with at times."
+Predicted Sentiment: Negative
+
+3. Sentence: "The team really appreciates the input Paul provides during meetings."
+Predicted Sentiment: Positive
+----------------------------------------------------
+@@Sentiment: Positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example116 :
+Aspect: Water's Edge
+@Sentence: Thank you everyone at Water's Edge.
+Context: # Constrain context:- From 'Thank you everyone at Water's Edge.', can we infer that the Water's Edge is positive? Yes
+- From 'Thank you everyone at Water's Edge.', can we infer that the Water's Edge is negative? No
+- From 'Thank you everyone at Water's Edge.', can we infer that the Water's Edge is neutral? No
+
+# Background context:'Water's Edge' is a tranquil and picturesque location where the land meets the water, providing a serene and calming environment for visitors to enjoy. With its peaceful waterfront setting, 'Water's Edge' offers a retreat from the hustle and bustle of
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'Water's Edge' included:
+
+1. Sentence: "The resort is situated right at the water's edge, providing breathtaking views of the ocean."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The house is a charming cottage nestled at the water's edge, creating a peaceful and serene atmosphere."
+   Predicted sentiment polarity: positive
+
+3. Sentence: "The restaurant's outdoor seating area was just at the water's edge, offering a romantic and picturesque setting."
+   Predicted sentiment polarity: positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example117 :
+Aspect: Service
+@Sentence: Service ok but unfriendly,filthy bathroom.
+Context: # Constrain context:From 'Service ok but unfriendly,filthy bathroom.', we can infer that the Service is negative.
+
+# Background context:A service refers to the act of providing assistance, support, or performing a task for someone else. In a business context, a service is a non-material, intangible offering provided by a company to fulfill a customer's needs or desires. This can
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'Service' included in the sentence:
+
+1. Sentence: "The service at the restaurant was excellent - the staff was attentive and the food came out quickly."
+   Predicted sentiment polarity of the aspect: Positive
+
+2. Sentence: "I was disappointed with the service I received from the customer support team - they were unhelpful and seemed disinterested in my issue."
+   Predicted sentiment polarity of the aspect: Negative
+
+3. Sentence: "Overall, the service provided by the hotel staff was satisfactory - they were friendly
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example118 :
+Aspect: view
+@Sentence: The high prices you're going to pay is for the view not for the food.
+Context: # Constrain context:# From 'The high prices you're going to pay is for the view not for the food.', can we infer that the view is positive? No
+# From 'The high prices you're going to pay is for the view not for the food.', can we infer that the view is negative? No
+# From 'The high prices you're going to pay is for the view not for the food.', can we infer that the view is neutral? Yes
+
+# Background context:In the context of computing and technology, a "view" typically refers to a user interface or a display of data. It is a visual representation of information that allows users to interact with and understand the underlying data.
+
+In database systems, a "view
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "view" included in the sentence:
+
+1. Sentence: "The stunning view from the hotel room was absolutely breathtaking."
+   Predicted sentiment polarity of the aspect: 'positive'
+
+2. Sentence: "The view from the restaurant was quite disappointing, considering the high prices."
+   Predicted sentiment polarity of the aspect: 'negative'
+
+3. Sentence: "I found the view from the rooftop bar to be impressive and mesmerizing."
+   Predicted sentiment polarity of the aspect: 'positive'
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example119 :
+Aspect: bar drinks
+@Sentence: The bar drinks were Eh, ok to say the least.
+Context: # Constrain context:From 'The bar drinks were Eh, ok to say the least.', can we infer that the bar drinks is positive? No
+
+From 'The bar drinks were Eh, ok to say the least.', can we infer that the bar drinks is negative? No
+
+From 'The bar drinks were Eh, ok to say the least.', can we infer that the bar drinks is neutral? Yes
+
+# Background context:Bar drinks refer to a wide variety of alcoholic beverages that are typically served in bars, restaurants, and other social settings. These drinks can range from simple cocktails and mixed drinks to more complex concoctions that feature a combination of spirits, mixers, and
+
+# Analogies context:Sure, here are three examples of aspect-based sentiment analysis with the aspect "bar drinks" included in the sentence:
+
+1. Sentence: "The bar drinks were perfectly mixed and refreshing."
+   Predicted sentiment polarity of 'bar drinks': positive
+
+2. Sentence: "Honestly, the bar drinks were just okay, nothing special."
+   Predicted sentiment polarity of 'bar drinks': neutral
+
+3. Sentence: "I was quite disappointed with the bar drinks; they were watered down and overpriced."
+   Predicted sentiment polarity of 'bar drinks': negative
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example120 :
+Aspect: stuff tilapia
+@Sentence: The stuff tilapia was horrid...tasted like cardboard.
+Context: # Constrain context:From the statement 'The stuff tilapia was horrid...tasted like cardboard.', we can infer that the stuff tilapia is negative. Therefore, the answer for all the questions is 'No'.
+
+# Background context:Sure! Tilapia is a type of white fish that is popular for its mild flavor and versatility in cooking. "Stuffed tilapia" typically refers to a dish where the tilapia fillets are filled with a flavorful stuffing before being baked, grilled
+
+# Analogies context:Sure, here are three aspect-based sentiment analysis examples with the aspect "stuff tilapia" included in the sentence:
+
+1. Sentence: "I absolutely love the stuff tilapia at that restaurant, it's always seasoned perfectly and cooked to perfection."
+   Predicted sentiment polarity: Positive
+
+2. Sentence: "I found the stuff tilapia to be quite bland and uninspiring, it lacked flavor and was overcooked."
+   Predicted sentiment polarity: Negative
+
+3. Sentence: "The stuff tilapia was okay, but I've had better elsewhere, it could use more seasoning and better cooking techniques
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example121 :
+Aspect: dessert
+@Sentence: We thought the dessert would be better, Wrong!
+Context: # Constrain context:From the statement "We thought the dessert would be better, Wrong!", we can infer that the dessert is not as good as expected, so the dessert is negative.
+
+# Background context:Dessert is the sweet course that typically concludes a meal. It is a category of food that includes a wide variety of sweet and often indulgent dishes, such as cakes, pies, cookies, ice cream, pastries, custards, and
+
+# Analogies context:Sure! Here are three examples of sentences for Aspect-Based Sentiment Analysis with the aspect "dessert" and the predicted sentiment polarity:
+
+Example 1:
+Sentence: "The dessert was delectable and satisfying."
+Predicted sentiment polarity: Positive
+
+Example 2:
+Sentence: "I found the dessert to be underwhelming and too sweet."
+Predicted sentiment polarity: Negative
+
+Example 3:
+Sentence: "The dessert was okay, but I've had better."
+Predicted sentiment polarity: Neutral
+----------------------------------------------------
+@@Sentiment: Negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example122 :
+Aspect: mens bathroom
+@Sentence: oh speaking of bathroom , the mens bathroom was disgusting.
+Context: # Constrain context:# From 'oh speaking of bathroom , the mens bathroom was disgusting.', can we infer that the mens bathroom is positive? No
+# From 'oh speaking of bathroom , the mens bathroom was disgusting.', can we infer that the mens bathroom is negative? Yes
+# From 'oh speaking of bathroom , the mens bathroom was disgusting.', can we infer that the mens bathroom is neutral? No
+
+# Background context:The men's bathroom, also known as the men's restroom or men's lavatory, is a designated facility for males to use the toilet, wash their hands, and attend to other personal hygiene needs in public or private locations. Typically, men's
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect "men's bathroom" included in the sentence:
+
+1. Sentence: "The cleanliness of the men's bathroom was impressive."
+   Predicted sentiment polarity: Positive
+
+2. Sentence: "The smell coming from the men's bathroom was unbearable."
+   Predicted sentiment polarity: Negative
+
+3. Sentence: "I didn't notice anything remarkable about the men's bathroom."
+   Predicted sentiment polarity: Neutral
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example123 :
+Aspect: wine list
+@Sentence: The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.
+Context: # Constrain context:From 'The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.', we can infer that the wine list is positive. No
+
+# Background context:A wine list is a menu or list of the wines available for purchase at a restaurant, bar, or wine shop. It typically provides a selection of different wines, including red, white, rosé, and sparkling wines, as well as information about
+
+# Analogies context:Example 1:
+1. Sentence: "The restaurant has an impressive wine list with a variety of options from different regions."
+   Predicted sentiment polarity of 'wine list': Positive
+
+Example 2:
+2. Sentence: "I was disappointed by the limited wine list at the bar I visited last night."
+   Predicted sentiment polarity of 'wine list': Negative
+
+Example 3:
+3. Sentence: "The wine list at the upscale dining establishment was extensive but overpriced."
+   Predicted sentiment polarity of 'wine list': Negative
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example124 :
+Aspect: bread
+@Sentence: The bread we received was horrible - rock hard and cold - and the "free" appetizer of olives was disappointing.
+Context: # Constrain context:From the given statement, we can infer that the bread is negative. Therefore, the answer for the first two questions would be as follows:
+1. No
+2. Yes
+3. No
+
+# Background context:Bread is a staple food that has been a dietary mainstay in many cultures for thousands of years. It is typically made from a mixture of flour, water, yeast, and salt, though variations exist depending on the type of bread being produced.
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "bread" included in the sentence:
+
+1. Sentence: "The freshly baked bread at the bakery is always a delight to taste."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "I found the bread served at the restaurant to be average in taste and texture."
+   Predicted sentiment polarity: neutral
+
+3. Sentence: "I was disappointed with the stale bread that was served with the soup at the cafe."
+   Predicted sentiment polarity: negative
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example125 :
+Aspect: main course
+@Sentence: However, our main course was wonderful.
+Context: # Constrain context:- From 'However, our main course was wonderful.', can we infer that the main course is positive? **Yes**
+- From 'However, our main course was wonderful.', can we infer that the main course is negative? **No**
+- From 'However, our main course was wonderful.', can we infer that the main course is neutral? **No**
+
+# Background context:The main course is the focal point of a meal, typically consisting of a substantial and satisfying dish that serves as the centerpiece of the dining experience. It is usually served after the appetizers or starter course and before the dessert. The main course often features
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'main course' included in the sentence.
+
+1. Sentence: "The main course was absolutely delicious, and I couldn't have been happier with it."
+   Predicted sentiment polarity of the aspect: Positive
+
+2. Sentence: "The main course was quite disappointing; it lacked flavor and was overcooked."
+   Predicted sentiment polarity of the aspect: Negative
+
+3. Sentence: "The main course was decent, but it didn't exceed my expectations."
+   Predicted sentiment polarity of the aspect: Neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example126 :
+Aspect: fish
+@Sentence: I had fish and my husband had the filet - both of which exceeded our expectations.
+Context: # Constrain context:- No
+- No
+- Yes
+
+# Background context:Fish are aquatic vertebrates that are found in diverse habitats, ranging from freshwater lakes and rivers to the depths of the ocean. They are characterized by their streamlined body shape, gills for breathing underwater, and fins for propulsion and stability. Fish come in
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "fish" included in the sentence:
+
+Example 1:
+Sentence: "The grilled salmon was delicious, but the fish tacos were bland."
+Predicted sentiment polarity of "fish": Negative
+
+Example 2:
+Sentence: "I love how fresh the fish is at this seafood restaurant."
+Predicted sentiment polarity of "fish": Positive
+
+Example 3:
+Sentence: "The fish and chips were okay, but the fish sandwich was fantastic."
+Predicted sentiment polarity of "fish": Neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example127 :
+Aspect: pear torte
+@Sentence: The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.
+Context: # Constrain context:1. Yes
+2. No
+3. No
+
+# Background context:A pear torte is a delicious dessert that features thinly sliced pears arranged in a circular pattern on top of a light, buttery cake batter. This delectable treat is typically made by layering the pears over the batter and then sprink
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'pear torte' included in the sentence:
+
+1. Sentence: "The pear torte was absolutely delicious and served as the perfect end to our meal."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "I found the texture of the pear torte to be a bit too dry for my liking."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "The presentation of the pear torte was underwhelming, but the taste was exceptional."
+   Predicted sentiment polarity: mixed (positive and negative)
+----------------------------------------------------
+@@Sentiment: mixed (positive and negative)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example128 :
+Aspect: waitress
+@Sentence: When we inquired about ports - the waitress listed off several but did not know taste variations or cost.
+Context: # Constrain context:From 'When we inquired about ports - the waitress listed off several but did not know taste variations or cost.', we can infer that the waitress is neutral.
+
+# Background context:A waitress is an individual who works in a restaurant or dining establishment, taking and serving food and drink orders to customers. They play a crucial role in ensuring that guests have a pleasant dining experience by providing friendly and efficient service. Waitresses are responsible for
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'waitress' included in the sentence:
+
+1. Sentence: "The waitress was friendly and attentive, making our dining experience very enjoyable."
+   Predicted sentiment polarity of 'waitress': positive
+
+2. Sentence: "The waitress seemed disinterested and inattentive, which negatively impacted our dining experience."
+   Predicted sentiment polarity of 'waitress': negative
+
+3. Sentence: "The waitress was professional and efficient, ensuring that our orders were taken and delivered accurately and promptly."
+   Predicted sentiment polarity of '
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example129 :
+Aspect: location
+@Sentence: Not what I would expect for the price and prestige of this location.
+Context: # Constrain context:# From 'Not what I would expect for the price and prestige of this location.', can we infer that the location is positive? No
+# From 'Not what I would expect for the price and prestige of this location.', can we infer that the location is negative? Yes
+# From 'Not what I would expect for the price and prestige of this location.', can we infer that the location is neutral? No
+
+# Background context:A location refers to a specific place or position that can be identified on the Earth's surface. It can be expressed in terms of geographical coordinates such as latitude and longitude, or by using a street address or geographic features. Locations are essential for navigation,
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis related to the aspect 'location':
+
+Example 1:
+1. Sentence: "The hotel's location was perfect, with easy access to all the main tourist attractions."
+2. Predicted sentiment polarity of the aspect: 'positive'
+
+Example 2:
+1. Sentence: "The restaurant's location is quite inconvenient, as it's far from the city center."
+2. Predicted sentiment polarity of the aspect: 'negative'
+
+Example 3:
+1. Sentence: "The office's location is neutral, not too far from downtown but not
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example130 :
+Aspect: restaurant
+@Sentence: All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.
+Context: # Constrain context:From the statement 'All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.', we can infer that the restaurant is positive.
+
+# Background context:A restaurant is a commercial establishment where food and drinks are prepared, served, and consumed. It provides a space for people to dine out, socialize, and celebrate occasions, offering a wide variety of cuisines and dining experiences. Restaurants range from casual
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples using the aspect "restaurant":
+
+1. Sentence: "The decor at the restaurant was stunning and the service was impeccable, but the food was underwhelming."
+   Predicted sentiment polarity of the aspect 'restaurant': Negative
+
+2. Sentence: "I had an amazing experience at the restaurant - the ambiance was lovely, the food was delicious, and the staff was very attentive."
+   Predicted sentiment polarity of the aspect 'restaurant': Positive
+
+3. Sentence: "The restaurant had a great location, but the service was slow and the prices were
+----------------------------------------------------
+@@Sentiment: Overall, the sentiment towards the aspect 'restaurant' is positive.
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example131 :
+Aspect: seating
+@Sentence: short and sweet – seating is great:it's romantic,cozy and private.
+Context: # Constrain context:From 'short and sweet – seating is great: it's romantic, cozy and private.', we can infer that the seating is positive.
+
+# Background context:Seating refers to the provision of chairs, benches, or other furniture for people to sit on. It is a fundamental aspect of interior design, hospitality, event planning, and public spaces. Seating is crucial for providing comfort and support, whether in
+
+# Analogies context:Sure! Here are three examples of Aspect-Based Sentiment Analysis with the aspect 'seating' included in the sentence:
+
+1. Sentence: "The seating at the restaurant was comfortable and spacious."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The seating on the bus was cramped and uncomfortable."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "The seating in the theater was average, nothing special."
+   Predicted sentiment polarity: 'neutral'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example132 :
+Aspect: boths
+@Sentence: The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.
+Context: # Constrain context:# From 'The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.', can we infer that the boths is positive? No
+# From 'The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.', can we infer that the boths is negative? No
+# From 'The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.', can we infer that the boths is neutral? Yes
+
+# Background context:The term "both" is a conjunction that is used to indicate two entities or elements considered together. It is commonly used to introduce a comparison or to emphasize the combination of two things. "Both" is often followed by "and" and is used
+
+# Analogies context:I'm sorry, but I don't have access to a specific database of pre-labeled sentences for aspect-based sentiment analysis. However, I can help you with understanding the concept and providing general examples if you'd like.
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example133 :
+Aspect: service
+@Sentence: The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.
+Context: # Constrain context:# From 'The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.', can we infer that the service is positive? No
+# From 'The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.', can we infer that the service is negative? No
+# From 'The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter
+
+# Background context:A service can be defined as a valuable action, performance, or task provided by one party for the benefit of another. Unlike physical goods, services are intangible and do not result in the ownership of anything tangible. Services are often consumed at the point
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'service':
+
+1. Sentence: "The customer service at this restaurant is exceptional."
+   Predicted sentiment polarity of 'service': 'positive'
+
+2. Sentence: "I was disappointed with the quality of service I received at the hotel."
+   Predicted sentiment polarity of 'service': 'negative'
+
+3. Sentence: "The service I experienced at the spa was average, nothing exceptional."
+   Predicted sentiment polarity of 'service': 'neutral'
+----------------------------------------------------
+@@Sentiment: Mixed (positive and negative)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example134 :
+Aspect: food
+@Sentence: The food was ok and fair nothing to go crazy.
+Context: # Constrain context:From 'The food was ok and fair nothing to go crazy.', we can infer that the food is **neutral**.
+
+# Background context:Food is a vital source of nourishment and sustenance for all living organisms. It provides the essential nutrients, such as carbohydrates, proteins, fats, vitamins, and minerals, that are required for the proper functioning of the body. In addition to fulfilling
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "food":
+
+1. Sentence: "The food at that restaurant is amazing, especially their desserts."
+   Predicted sentiment polarity of the aspect 'food': positive
+
+2. Sentence: "I found the food at the new café to be mediocre, but the service was excellent."
+   Predicted sentiment polarity of the aspect 'food': neutral
+
+3. Sentence: "I was disappointed with the food at the party; it didn't meet my expectations."
+   Predicted sentiment polarity of the aspect 'food': negative
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example135 :
+Aspect: looks
+@Sentence: Over all the looks of the place exceeds the actual meals.
+Context: # Constrain context:From the statement 'Over all the looks of the place exceeds the actual meals.', we can infer that the looks are positive.
+
+# Background context:Looks can refer to a person's physical appearance, style, or overall aesthetic. It encompasses a wide range of attributes such as clothing, grooming, posture, and facial expressions. People often use their looks as a means of self-expression and to convey aspects
+
+# Analogies context:Sure! Here are three Aspect-Based Sentiment Analysis examples with the aspect "looks" included in the sentence:
+
+1. Sentence: "The new iPhone looks sleek and stylish."
+   Predicted sentiment polarity of the aspect: 'positive'
+
+2. Sentence: "The restaurant looks rundown and unappealing from the outside."
+   Predicted sentiment polarity of the aspect: 'negative'
+
+3. Sentence: "The car looks average, nothing special."
+   Predicted sentiment polarity of the aspect: 'neutral'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example136 :
+Aspect: restaurant
+@Sentence: So what you really end up paying for is the restaurant not the food.
+Context: # Constrain context:From the statement 'So what you really end up paying for is the restaurant not the food.', we can infer that the restaurant is positive. No
+
+# Background context:A restaurant is a business that provides food and drinks to customers in exchange for payment. It typically offers a menu of dishes and beverages for customers to choose from, and may specialize in a certain type of cuisine or dining experience. Restaurants vary in style and
+
+# Analogies context:Sure, here are three examples of Aspect-Based Sentiment Analysis with the aspect 'restaurant' included in the sentence:
+
+Example 1:
+Sentence: "The restaurant has excellent service and a cozy ambiance."
+Predicted sentiment polarity of the aspect: 'positive'
+
+Example 2:
+Sentence: "The food at the restaurant was disappointing, but the atmosphere was lovely."
+Predicted sentiment polarity of the aspect: 'mixed/neutral'
+
+Example 3:
+Sentence: "We had a terrible experience at the restaurant - the wait staff were rude and the food was cold."
+Predicted sentiment polarity of the aspect:
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example137 :
+Aspect: food
+@Sentence: Subtle food and service
+Context: # Constrain context:From the phrase 'Subtle food and service', it is not possible to infer the sentiment of the food as positive, negative, or neutral. Therefore, the answer for all the questions is 'No'.
+
+# Background context:Food is any substance consumed to provide nutritional support for the body. It is essential for maintaining overall health and well-being. Food comes in a wide variety of forms, including fruits, vegetables, grains, meats, and dairy products. It provides the body
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+1. Sentence: "The food at that new restaurant was absolutely delicious, I was blown away by the flavors."
+   Predicted sentiment polarity of the aspect 'food': positive
+
+2. Sentence: "The food was decent, but the service was really slow and the atmosphere was not great."
+   Predicted sentiment polarity of the aspect 'food': neutral
+
+3. Sentence: "I was really disappointed with the food at the event, it was overpriced and tasted terrible."
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example138 :
+Aspect: service
+@Sentence: Noodle pudding is exactly the type of service and food I enjoy.
+Context: # Constrain context:From the statement "Noodle pudding is exactly the type of service and food I enjoy.", we can infer that the service is not mentioned, so we cannot infer if it's positive, negative, or neutral.
+
+# Background context:A service is a type of economic activity that involves the provision of intangible goods or benefits, performed either by one party for another or by a group of people for the benefit of a community. Services are essential for the functioning of modern economies and play
+
+# Analogies context:Example 1:
+1. "The service at this restaurant is always friendly and efficient."
+2. Predicted sentiment polarity of the aspect 'service': positive
+
+Example 2:
+1. "I was disappointed with the slow service at the hotel."
+2. Predicted sentiment polarity of the aspect 'service': negative
+
+Example 3:
+1. "The customer service representatives were helpful and polite."
+2. Predicted sentiment polarity of the aspect 'service': positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example139 :
+Aspect: Greg
+@Sentence: Servers are all different, Greg is my favorite.
+Context: # Constrain context:From 'Servers are all different, Greg is my favorite.', we cannot infer Greg's sentiment as positive, negative, or neutral. Therefore, the answer to all three questions is "No."
+
+# Background context:Greg is a 35-year-old software engineer with a passion for creating innovative solutions and exploring cutting-edge technology. With a background in computer science and several years of industry experience, Greg has honed his skills in software development, machine learning, and data
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect "Greg" included in the sentence:
+
+1. Sentence: "Greg is always so cheerful and positive, it's infectious."
+   Predicted sentiment polarity of aspect 'Greg': positive
+
+2. Sentence: "I find Greg to be quite unreliable and disorganized as a project manager."
+   Predicted sentiment polarity of aspect 'Greg': negative
+
+3. Sentence: "Overall, my experience working with Greg has been quite neutral, neither greatly positive nor negative."
+   Predicted sentiment polarity of aspect 'Greg': neutral
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example140 :
+Aspect: server
+@Sentence: Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner.
+Context: # Constrain context:From the given sentence, we can infer that the server is positive.
+
+# Background context:A server is a specialized computer or software system that provides resources, data, services, or functionality to other computers or devices, known as clients, within a network. Servers are designed to handle and process requests from clients and deliver the requested data or services
+
+# Analogies context:Sure, here are three examples of sentences with the aspect 'server' for Aspect-Based Sentiment Analysis:
+
+1. Sentence: "The server was extremely helpful and attentive throughout our meal, making the dining experience truly enjoyable."
+   Predicted sentiment polarity: positive
+
+2. Sentence: "The server seemed overwhelmed and made several mistakes, resulting in a frustrating dining experience."
+   Predicted sentiment polarity: negative
+
+3. Sentence: "The server was courteous and efficient, ensuring that our orders were promptly delivered to our table."
+   Predicted sentiment polarity: positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example141 :
+Aspect: runner
+@Sentence: This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.
+Context: # Constrain context:Sure, here are the answers to your questions:
+
+1. Yes
+2. No
+3. No
+
+# Background context:A runner is an individual who engages in the sport of running, which involves moving swiftly on foot over a short or long distance. Runners pursue various objectives, including physical fitness, competition, personal achievement, and stress relief. They may participate in organized
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples with the aspect 'runner' included in the sentence:
+
+1. Sentence: "The runner felt exhilarated after completing the marathon."
+   Predicted sentiment polarity: 'positive'
+
+2. Sentence: "The runner experienced some discomfort due to a minor injury."
+   Predicted sentiment polarity: 'negative'
+
+3. Sentence: "Overall, the runner had a satisfactory performance in the race."
+   Predicted sentiment polarity: 'neutral'
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example142 :
+Aspect: food
+@Sentence: Prices are fair across the board for both food and bev.
+Context: # Constrain context:From 'Prices are fair across the board for both food and bev.', we can infer that the food pricing is fair. However, it does not provide enough information to determine if the food is positive, negative, or neutral in quality.
+
+# Background context:Food is any substance that is consumed to provide nutritional support for the body. It is essential for sustaining life and maintaining good health. Besides providing the energy and nutrients necessary for growth and repair of body tissues, food also contributes to the pleasure and enjoyment of
+
+# Analogies context:Sure, here are three Aspect-Based Sentiment Analysis examples with the aspect 'food' included in the sentence:
+
+Example 1:
+1. The sentence to be analyzed: "The food at the new restaurant was absolutely delicious."
+2. The predicted sentiment polarity of the aspect: 'positive'
+
+Example 2:
+1. The sentence to be analyzed: "I found the food to be quite average at the hotel's buffet."
+2. The predicted sentiment polarity of the aspect: 'neutral'
+
+Example 3:
+1. The sentence to be analyzed: "I was disappointed by the quality of the food
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example143 :
+Aspect: servers
+@Sentence: I go out to eat and like my courses, servers are patient and never rush courses or force another drink.
+Context: # Constrain context:From 'I go out to eat and like my courses, servers are patient and never rush courses or force another drink.', we can infer that the servers are positive. Yes
+From 'I go out to eat and like my courses, servers are patient and never rush courses or force another drink.', we cannot infer that the servers are negative. No
+From 'I go out to eat and like my courses, servers are patient and never rush courses or force another drink.', we cannot infer that the servers are neutral. No
+
+# Background context:Servers are powerful computers designed to store, process, and deliver data and services to other devices or computers on a network. They are crucial for managing and hosting various resources and applications, such as websites, email services, databases, and file storage. Servers
+
+# Analogies context:Certainly! Here are three Aspect-Based Sentiment Analysis examples related to the aspect 'servers':
+
+1. Sentence: "The servers at the restaurant were slow, resulting in delays with our food orders."
+   Predicted sentiment polarity: Negative
+
+2. Sentence: "I was impressed with the fast and efficient servers at the new coffee shop."
+   Predicted sentiment polarity: Positive
+
+3. Sentence: "Despite the crowded Saturday night, the servers managed to handle the rush well, ensuring a smooth dining experience."
+   Predicted sentiment polarity: Positive
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++

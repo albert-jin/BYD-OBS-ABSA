@@ -1,0 +1,1400 @@
+{
+    "example01": {
+        "sentence": "Bourne & O \u00e2\u0080\u0099 Neil Treasure Oak Humidor : Many have a humidor , some also own a polished oak piece , but no one has a ... http://t.co/GWEBkRbG",
+        "aspect": "Bourne & O \u00e2\u0080\u0099 Neil Treasure",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example02": {
+        "sentence": "It is from among such individuals that all human failures spring\"// Alfred Adler",
+        "aspect": "Alfred Adler",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example03": {
+        "sentence": "Tommorrow is my final day at ITP . i'm just so happy this demanding course will end",
+        "aspect": "ITP",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example04": {
+        "sentence": "In defense of RSS via Seth Godin http://is.gd/k9Wvy",
+        "aspect": "Seth Godin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example05": {
+        "sentence": "is still half clueless about twitter haha",
+        "aspect": "twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example06": {
+        "sentence": "New Blog Post : iZigg Agent Jennifer Varenka on CRUSH IT ! and winning a coaching session with \u00e2\u0080\u00a6 http://t.co/SO8VXPc9",
+        "aspect": "iZigg",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example07": {
+        "sentence": "Whitney Houston is not yet buried and the money vultures are already out http://t.co/fuvM5TWo",
+        "aspect": "Whitney Houston",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example08": {
+        "sentence": "More period work for Downton star : Based on a true story , Stevens' character is Gilbert Evans , a land agent for ... http://t.co/2FgMaGJX",
+        "aspect": "Stevens'",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example09": {
+        "sentence": "My daughter upon turning 8 said , \"Hey , Dad , now I'm a Tween\" , to which I responded , \"Sorry , honey , you're still a Twirp\" .",
+        "aspect": "My daughter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example10": {
+        "sentence": "It was nice taking the time off and being with fellow animators from other places . Awazu kanto's texturing skills are frikken amazing",
+        "aspect": "Awazu kanto's",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example11": {
+        "sentence": "An ideal city is not likely to be the mold of a real city . Harvey Zorbaugh",
+        "aspect": "Harvey Zorbaugh",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example12": {
+        "sentence": "I imagine that the pain from the explosion of instant mashed potatoes is what hot lava feels like . Send FEMA mobile burn unit now please !",
+        "aspect": "FEMA",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example13": {
+        "sentence": "#NowPlaying 'Dance With Me' by @AARONCARTER7 featuring Flo Rida - Download it on iTunes ! http://bit.ly/8cFidZ #AaronCarter #AC2010",
+        "aspect": "Flo Rida",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example14": {
+        "sentence": "\u00c3\u00a2\u00c2\u0080\u00c2\u009c @ BarackObama : International community soft words MUST end . Assad is not a reformer he is a Dictator and your silence makes it worst . #Syria",
+        "aspect": "BarackObama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example15": {
+        "sentence": "Michael Anderson , Co-founder Aboriginal Tent Embassy says they dont want to be part of the Aust Constitution coz Aust is racist & liars #RA",
+        "aspect": "Michael Anderson",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example16": {
+        "sentence": "Google Triples the speed of +1 button http://ow.ly/5ODxE",
+        "aspect": "Google",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example17": {
+        "sentence": "The whole media is corrupt , follow ppl you trust !! @laurenflax @CNN #londonroits",
+        "aspect": "@CNN",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example18": {
+        "sentence": "He who opens a school door closes a prison . Victor Hugo",
+        "aspect": "Victor Hugo",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example19": {
+        "sentence": "Sun Softwares is one of the leading outsourcing companies in India . Here we provide you the exact results as you want in Web designing .",
+        "aspect": "Sun Softwares",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example20": {
+        "sentence": "I posted 21 photos on Facebook in the album \"Success with Technology\" http://t.co/eHX7wite",
+        "aspect": "Facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example21": {
+        "sentence": "Lindsey , I look forward to your October 17 show in Anaheim !",
+        "aspect": "Lindsey",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example22": {
+        "sentence": "Missing energy exec found dead in New Orlean s: HOUSTON ( Reuters ) - A senior executive with an Atlanta-based energy ... http://bit.ly/cZ3gDe",
+        "aspect": "Reuters",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example23": {
+        "sentence": "Mint Announces Third Quarterly Results and Market Guidance ... http : //p.gs/1vvo6",
+        "aspect": "Mint",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example24": {
+        "sentence": "Oil and the economy : The 2011 oil shock | The Economist - http://econ.st/edJDel via @TheEconomist",
+        "aspect": "The Economist",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example25": {
+        "sentence": "SA made G Kristen as coach . They actually misread Ind WC victory . Can some one pls tell them they need MSD to win ? #MSD #kristen",
+        "aspect": "G Kristen",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example26": {
+        "sentence": "@shafiqhamdam - I thought I wrote to AACN a month ago , no reply man ? You involved ?",
+        "aspect": "AACN",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example27": {
+        "sentence": "Abraham Lincoln's mother died when she drank the milk of a cow that grazed on poisonous snakeroot .",
+        "aspect": "Abraham Lincoln's",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example28": {
+        "sentence": "I posted a new photo to Facebook http://t.co/1ZuCr6cb",
+        "aspect": "Facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example29": {
+        "sentence": "felling vaery sad bcz of Steve Jobs's death ...........",
+        "aspect": "Steve Jobs's",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example30": {
+        "sentence": "Prince offers $ 1m to seize Israelis - The Independent http://t.co/LbhiTBAQ",
+        "aspect": "The Independent",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example31": {
+        "sentence": "THAKSIN do not want 2B come PM . But he wants 2B the PRESIDENT of the REPUBLIC of THAILAND .",
+        "aspect": "THAKSIN",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "unknown"
+    },
+    "example32": {
+        "sentence": "they are not worried on Anna's health",
+        "aspect": "Anna's",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example33": {
+        "sentence": "Today's Mantra : Yes , I'm realistic ... My dreams are huge , bold and imaginative . -Mike",
+        "aspect": "-Mike",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example34": {
+        "sentence": "Sergio Aguero greets Man City fans at the Etihad Stadium http://t.co/XqQUro4",
+        "aspect": "Sergio Aguero",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example35": {
+        "sentence": "When it comes to presentation , Mark Zuckerberg is no Steve Jobs ;P http://t.co/3ORETf2 facebook announcement",
+        "aspect": "Mark Zuckerberg",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example36": {
+        "sentence": "feminist author Barbara Novak ( Renee Zellweger ) finds herself head-over-heels.....http://www.acmemoviereviews.bravehost.com/downwithlove.htm",
+        "aspect": "Barbara Novak",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example37": {
+        "sentence": "I liked a @YouTube video http://t.co/TTDr9TNr One Direction - What Makes You Beautiful",
+        "aspect": "One Direction",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example38": {
+        "sentence": "american Whole Foods Market is like a temple of food",
+        "aspect": "Whole Foods Market",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example39": {
+        "sentence": "@Douglaslas are you familiar with ASCE ( American Society of Civil Engineers ) ?",
+        "aspect": "ASCE ( American Society of Civil Engineers",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example40": {
+        "sentence": "CERN turns up power to answer Higgs riddle in 2012 | Sci-tech | http://t.co/E1HhGAeO http://t.co/jRlF2mIm",
+        "aspect": "CERN",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example41": {
+        "sentence": "ppl : abot Onion price hike ? ' - CM Karunanidhi : ''Go and ask PERIYAR'' MK : abot our alliance ? '' -- - Sonia : ''ASK RAJIV GANDHI''- ha ha : - )",
+        "aspect": "Karunanidhi",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example42": {
+        "sentence": "Shania Twain - Dance With The One That Brought You http://t.co/uVWcAtJN",
+        "aspect": "Shania Twain",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example43": {
+        "sentence": "Next Cineworks and Raindance \"Booze and Schmooze\" is March 5th http://t.co/WIr5hLqd",
+        "aspect": "Cineworks",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example44": {
+        "sentence": "OneBode Blend obtains a complete blend of antioxidants including grape seed , grape skin , pine bark and SOD precursors",
+        "aspect": "OneBode Blend",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example45": {
+        "sentence": "Now Mr . Bhusan Dahal iz in the fire ........ and Kumar phudung at side ..... great conversationn iz still on air ......",
+        "aspect": "Mr . Bhusan Dahal",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example46": {
+        "sentence": "5 Tips for Using the New LinkedIn Company Pages http://t.co/8LpLeEsF",
+        "aspect": "LinkedIn",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example47": {
+        "sentence": "ABE staff won 3rd place in the Poly50 staff catergory ! Congratulations !",
+        "aspect": "ABE",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example48": {
+        "sentence": "Sometimes the questions are complicated and the answers are simple- Dr Suess",
+        "aspect": "Dr Suess",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example49": {
+        "sentence": "Tony Romo among DFW celebrity golfers at AT & T Pro-Am : When Dallas Cowboys quarterback Tony Romo tees off today w ... http://t.co/sCgb3nwJ",
+        "aspect": "Tony Romo",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example50": {
+        "sentence": "Lol lol RT @allkpop : [ Spoiler : Running Man ] Kim Jong Kook is betrayed by Haha http://t.co/U1FHxYLw",
+        "aspect": "Kim Jong Kook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example51": {
+        "sentence": "Houston billionaires make Forbes Richest People in America list http://t.co/yM8tvfID",
+        "aspect": "Forbes",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example52": {
+        "sentence": "@Moyade1 cause i was outside . Sorry dude .",
+        "aspect": "@Moyade1",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example53": {
+        "sentence": "Afghans Unconvinced by Karzai Presidency : http://bit.ly/fQFXOD",
+        "aspect": "Karzai",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example54": {
+        "sentence": "I posted a new photo to Facebook http://t.co/DPKRnlx3",
+        "aspect": "Facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example55": {
+        "sentence": "Key Dems criticize HHS reshuffling of public health fund ( 6/17/10 \u00e2\u0080\u00a6 http://bit.ly/9urynn",
+        "aspect": "HHS",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example56": {
+        "sentence": "I posted a new photo to Facebook http://fb.me/tlyRE78d",
+        "aspect": "Facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example57": {
+        "sentence": "Twitter Help Center | It looks like I \u00e2\u0080\u0099 m not following someone I know I \u00e2\u0080\u0099 ve followed ! http://t.co/Onk1xSQ7 via @support",
+        "aspect": "Twitter",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example58": {
+        "sentence": "Are you guys as stoked as we are to see Jesse in a Tu-tu ? http://t.co/Fi0blpSb http://t.co/TKaOzpj9",
+        "aspect": "Jesse",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example59": {
+        "sentence": "Trading Facebook Option s: In light of the upcoming Facebook IPO we add this discussion of trading Facebook optio ... http://t.co/Gx6NbP7R",
+        "aspect": "Facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example60": {
+        "sentence": "David's Hybrid Spinach Spargo 385 Treated Seeds per Packet by David's Garden Seeds http://t.co/x9xOjLQB via @amazon",
+        "aspect": "David's",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example61": {
+        "sentence": "What Are Universities For ? By Stefan Collini http://t.co/QpqnNmi0",
+        "aspect": "Stefan Collini",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example62": {
+        "sentence": "Forget the supermarket , go artisanal : By Justine Gerardy The Neighbourgoods Market in Saltriver , where people co ... http://t.co/xDUUJwUK",
+        "aspect": "Justine Gerardy The Neighbourgoods Market",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example63": {
+        "sentence": "Will Uma Thurman Be Shopping For Pink Or Blue ? : PINK , according to Life & Style ! Uma Thurman is expecting a baby ... http://t.co/Tr6XNRzs",
+        "aspect": "Uma Thurman",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example64": {
+        "sentence": "Budco Supports Innovative Direct Marketing Media Through New DiscMail Direct Coalition http://tinyurl.com/37z5ntd",
+        "aspect": "Budco",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example65": {
+        "sentence": "I posted a new photo to Facebook http://fb.me/TFq96YOd",
+        "aspect": "Facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example66": {
+        "sentence": "I liked a YouTube video -- Social commercial http://youtu.be/4XbiVFME5d4?a",
+        "aspect": "YouTube",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example67": {
+        "sentence": "I am like a little pencil in God's hand . That is all . - Mother Teresa #RT via @Dr Wayne W Dyer",
+        "aspect": "God's",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example68": {
+        "sentence": "News Update Recovering From Eating Disorders Focus Events - The presenter will be Christina Sweetland , a licensed cl ... http://ow.ly/1bjdfL",
+        "aspect": "Christina Sweetland",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example69": {
+        "sentence": "@Mo0stafa Yes , I should do that , Mostafa . It is my pleasure following you , man :)",
+        "aspect": "Mostafa",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example70": {
+        "sentence": "Ahhhh gosh why did I have to go check Facebook . Ended up wasting so much time ... ):",
+        "aspect": "Facebook",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example71": {
+        "sentence": "De Briefcase Arsenal's Cesc Fabregas fears he may have a broken leg : http://debriefcase.com/1511",
+        "aspect": "De Briefcase Arsenal's Cesc Fabregas",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example72": {
+        "sentence": "Senior Obama Campaign Staffer Tweets Subtle Attack on Romney : President Obama's senior campaign strategist took ... http://t.co/DzilfcyU",
+        "aspect": "Obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example73": {
+        "sentence": "Cute Females to have sex in Bangalore 8722971642 : Call Kiran 8722971642 Charming and sexy girls to be your tem ... http://twurl.nl/4zt676",
+        "aspect": "Kiran",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "unknown"
+    },
+    "example74": {
+        "sentence": "Quasimidi Sirius Demoed by Polish Master on I Have Synth http://tinyurl.com/y9rcfsf",
+        "aspect": "Quasimidi Sirius",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example75": {
+        "sentence": "Twitter Help Center | How To Change Language Settings http://t.co/61USVOr via @support",
+        "aspect": "Twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example76": {
+        "sentence": "Wiz Khalifa Announces Engagement on Twitter [ VIDEO ] http://t.co/ryu1SLUz",
+        "aspect": "Wiz Khalifa",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example77": {
+        "sentence": "The Supranatural Secrets of the Freemasons http://ow.ly/5kf81",
+        "aspect": "Freemasons",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example78": {
+        "sentence": "Royal Pirates officially announce their Korean ... http://t.co/MnOHUcy via @koreaboo",
+        "aspect": "Royal Pirates",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example79": {
+        "sentence": "William Walker Joins Aegis Health Group as Vice President of Information ... - MarketWatch ( press release ): Will ... http://t.co/wghuk2bg",
+        "aspect": "William Walker",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example80": {
+        "sentence": "Ford / Mazda Credit \"Total Loss\" Dept SUCKS ! Allstate paid off the claim May 20th and they still have NOT paid me my balance due ! They SUCK !",
+        "aspect": "Ford / Mazda Credit",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example81": {
+        "sentence": "I know how to get tons of twitter followers ! http://t.co/s9oC91Zf",
+        "aspect": "twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example82": {
+        "sentence": "Free tutorial on how to earn money on FaceBook - http://grsnip.com/r/v5I1 - Couldn't be easier , read this out , free today !",
+        "aspect": "FaceBook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example83": {
+        "sentence": "IBN : Iran vs EU : Iraq Plays Go-Between in Oil Export Crisis http://t.co/nOFOjW6I",
+        "aspect": "EU",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example84": {
+        "sentence": "Do You Want To Make Money On AutoPilot Using Forex ? http://tinyurl.com/yeuc2oo",
+        "aspect": "Forex",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example85": {
+        "sentence": "#iranelection Iran's War on its People . NYT Editorial Dec 28 http://bit.ly/4XMNNU",
+        "aspect": "NYT Editorial",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example86": {
+        "sentence": "Do the right thing and give to Haiti now . MSF is the most needed NGO : https://donate.doctorswithoutborders.org/",
+        "aspect": "MSF",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example87": {
+        "sentence": "@MazenFarah hi mazen i am going through the #Mowgli experience now and it is amazing !",
+        "aspect": "mazen",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example88": {
+        "sentence": "V2 Cigs is Fastest Growing E-Cigarette Brand , Expert Reports - Online PR News ( press release ) http://ow.ly/1bzBYf",
+        "aspect": "V2 Cigs",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example89": {
+        "sentence": "Wilmington New Media Makes Your Site Confident http://p.ost.im/p/edQWkU",
+        "aspect": "Wilmington New Media",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example90": {
+        "sentence": "In the meantime , if you follow us on Twitter or like us on Facebook to show you're serious , maybe we'll let you in first in the queue ;-)",
+        "aspect": "Twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example91": {
+        "sentence": "@khadijahafeji All r doing well .. But i like Ishant .. The way his bowl and he crossed 150 kmph ..",
+        "aspect": "Ishant",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example92": {
+        "sentence": "what a joke - the gom for the jan lok pal bill - sharad pawar , moily and kapil sibal.this govt thinks we the people are stupid and gullible .",
+        "aspect": "sharad pawar",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example93": {
+        "sentence": "NASA unveils sweeping new program s: A week before President Obama attends a \"space summit\" in Florida , NASA unveil ... http://bit.ly/cwA9DE",
+        "aspect": "NASA",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example94": {
+        "sentence": "Hi friends !! We now have a new twitter account , follow us at @Dgbillboard",
+        "aspect": "twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example95": {
+        "sentence": "Today had the pleasure & honor to meet Philip Kotler , to attend the conference-forum \"Marketing 3.0\" by him !!",
+        "aspect": "Philip Kotler",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example96": {
+        "sentence": "UN agency calls for regional food body http://t.co/d0u7FVfJ #UAE #Follow",
+        "aspect": "UN",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example97": {
+        "sentence": "I love the Street Style Blogs , showing individuals styles in public . http://t.co/XdK6zD3C",
+        "aspect": "Street Style Blogs",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example98": {
+        "sentence": "@VincentChenPH @teresakok I read the newspaper , why sel gov approve the land for the schools which have yet to get the approval from MOE ?",
+        "aspect": "MOE",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example99": {
+        "sentence": "RACK's ( Rackwise Inc. ) recent partnership with Intel makes this company even more attractive in our eyes !!",
+        "aspect": "Rackwise Inc.",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example100": {
+        "sentence": "it's official ! Social security now pays out more than it brings in ! Word of advice : don't depend on social security in the future !",
+        "aspect": "Social security",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example101": {
+        "sentence": "@GhadahAlghunaim .. Offer is ready from now .. Good luck in your PHD challenge .. Please enjoy it as much as you can .. \u00ee\u0080\u0091",
+        "aspect": "@GhadahAlghunaim",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example102": {
+        "sentence": "Thank you to all who sponsored Helen at Wwhd for the charity cycle ride - we raised over \u00c2\u00a38 , 000",
+        "aspect": "Helen",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example103": {
+        "sentence": "coin mint 1 OZ Gold Coins From The US Mint ;P http://t.co/CGJEwxUo",
+        "aspect": "The US Mint",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example104": {
+        "sentence": "Google X to launch essentially Android vision ( augmented reality glasses ) by the end of the year : http://t.co/DfHtQSGN",
+        "aspect": "Google X",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example105": {
+        "sentence": "Subway Franchise for Sale : How Much Does a Subway Franchise Cost ? http://budurl.com/wm4k",
+        "aspect": "Subway",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example106": {
+        "sentence": "Meat Ball del Dawson's http://t.co/BEe4DcQO",
+        "aspect": "Meat Ball del Dawson's",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example107": {
+        "sentence": "The Interior Design Department Presents a Lecture by Ali Alraouf \u00e2\u0080\u009c Pearls , Harrods and FIFA : ( De ) -Constructing ... http://t.co/KwoWbpOA",
+        "aspect": "Ali Alraouf",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example108": {
+        "sentence": "Dollar rallies broadly , up over 1 pct vs . euro - Reuters http://t.co/ZCkVShoO",
+        "aspect": "Reuters",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example109": {
+        "sentence": "Journalist Marie Colvin to be buried in Syria , mother says http://t.co/QfSubQ3X",
+        "aspect": "Marie Colvin",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example110": {
+        "sentence": "Twitter Setting Up to Dominate Local Search : This last week , at the Chirp Conference ( Official Twitter Developer C ... http://bit.ly/cnLboy",
+        "aspect": "Twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example111": {
+        "sentence": "morehead state : O http://bit.ly/fv2kOm Where do I go from here with my Associates in Science degree ?",
+        "aspect": "morehead state",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example112": {
+        "sentence": "Israel seems to be relying on a strategy of being 'too powerful to oppose' .. Same strategy adopted by the former Egyptian interior ministry",
+        "aspect": "Egyptian interior ministry",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example113": {
+        "sentence": "Spezza anxious to shoulder load with teammate s: Senators centre Jason Spezza is pointing toward a return to the ... http://bit.ly/gUglMu",
+        "aspect": "Spezza",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example114": {
+        "sentence": "Saudi Prince Alwaleed buys TWITTER STAKE $ 300 MILLION - DUBAI ( Reuters ) Prince Alwaleed bin Talal , the Saudi billio ... http://t.co/OZcaL2CO",
+        "aspect": "Saudi Prince Alwaleed",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example115": {
+        "sentence": "24 hours after launch of \"Mass Traffic without Google\" over 3 , 000 people jumped at the opportunity - view http://bit.ly/jamtraffic",
+        "aspect": "Google\"",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example116": {
+        "sentence": "Murray , Federer to Dubai semis in straight set s: Roger Federer and Andy Murray advanced to the semifinals of the ... http://t.co/bfT7rzmZ",
+        "aspect": "Murray",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example117": {
+        "sentence": "who pays the cost of rahul gandhi'S security ?",
+        "aspect": "rahul gandhi'S",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example118": {
+        "sentence": "J . W . Schopf~ For four-fifths of our history our planet was populated by pond scum .",
+        "aspect": "J . W . Schopf~",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example119": {
+        "sentence": "Spend $ 25k to buy ugly rocker JFK sat in night B4 he died http://t.co/VdyScUNS, or $ 329 for the style he actually owned http://t.co/2opj9eMi",
+        "aspect": "JFK",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example120": {
+        "sentence": "@iansomerhalder Ian , How do you feeling now ?",
+        "aspect": "Ian",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example121": {
+        "sentence": "Your life changes the moment you make a new , congruent , and committed decision . Anthony Robbins",
+        "aspect": "Anthony Robbins",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example122": {
+        "sentence": "Behind every man now alive stand 30 ghosts , for that is the ratio by which the dead outnumber the living.Arthur C . Clarke",
+        "aspect": "living.Arthur C . Clarke",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example123": {
+        "sentence": "We started testing Twitter on the PG website .",
+        "aspect": "Twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example124": {
+        "sentence": "Movie Review : 'Jack and Jill' - Conway Daily Sun : Patriot-NewsMovie Review : 'Jack and Jill'Conway Daily Sun\u00c3\u00a2\u00c2\u0080\u00c2\u009cJa ... http://t.co/N7xEGdHb",
+        "aspect": "'Jack",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example125": {
+        "sentence": "Time ticking for Assad in Syria - Turkey's Erdogan : http://t.co/PbgZydxk",
+        "aspect": "Assad",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example126": {
+        "sentence": "$ 150 for dye/highlight , cut plus treatment ... Cheap ! i like uncle gan and aunti robelle :) http://t.co/823mO26C",
+        "aspect": "uncle gan",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example127": {
+        "sentence": "Look On Facebook @ Alpha Rain Roofing for pictures of 30 % energy Savings metal roof installation ! http://bit.ly/ahNraj",
+        "aspect": "Facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example128": {
+        "sentence": "Relaxing under all conditions | The Bowen Health Blog http://t.co/4oowAwF via @bowencollege",
+        "aspect": "Bowen Health",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example129": {
+        "sentence": "Free Shaklee Membership when you buy the Earth Day Healthy Home Pack for $ 30 . http://tiny.ly/gjNT",
+        "aspect": "Shaklee",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example130": {
+        "sentence": "Boston Professor Hails Obama for Declaring War on Deficits . Wait , What ? http://bit.ly/hxymv4",
+        "aspect": "Obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "positive"
+    },
+    "example131": {
+        "sentence": "EID Mubarak for every one , enjoy the vacation ....",
+        "aspect": "Mubarak",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example132": {
+        "sentence": "I just voted for http://introutsugar.wordpress.com/ at Deutsche Welle Blog Awards http://thebobs.com #thebobs",
+        "aspect": "Deutsche Welle",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example133": {
+        "sentence": "News . Here I earn on FOREX , indexes and raw actives ... I stake on Bettings , I recommend , high profit\\\\\\/// ... http : //t.co/4PuSDxw",
+        "aspect": "FOREX",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example134": {
+        "sentence": "Fomny Watch cnn English News international live online world tv tv links , cnn breaking headline news http://t.co/fvifQwm via @AddThis",
+        "aspect": "cnn",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example135": {
+        "sentence": "Millennium Tutors Kansas City , MO Use promocode for an additi http://t.co/ArAIPukr KansasCity Test Preparation & Tutoring Services #coupon",
+        "aspect": "Millennium Tutors",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example136": {
+        "sentence": "See you all tonight at 7 : 30 PM at Cinemagic for NOV 17 | GCFF 2011 Double Screening : Sun Come Up ( short film ) and ... http://t.co/Q3i3pIvb",
+        "aspect": "GCFF",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example137": {
+        "sentence": "Disobey Putin anti-election protest in Moscow - @Demotix News http://t.co/M9OjYA5F",
+        "aspect": "Putin",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example138": {
+        "sentence": "Mother of lost trawlerman died a few hours before he drowned - National News - Independent.ie http://t.co/QgSSSGx7",
+        "aspect": "National News",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example139": {
+        "sentence": "Chelsea Summer s: Hot housewife Chelsey Summers can \u00e2\u0080\u0099 t think of a single reason why being sexy is a bad thing . The ... http://t.co/scU1N5l7",
+        "aspect": "Chelsea Summer s:",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example140": {
+        "sentence": "Qualcomm ups dividend , approves up to $ 4B buyback : Mobile phone chip-maker Qualcomm Inc . sa ... http://t.co/fcPJDhhq http://t.co/FiSmxplN",
+        "aspect": "Qualcomm",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example141": {
+        "sentence": "I posted a new photo to Facebook http://t.co/2jaxcraY",
+        "aspect": "Facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example142": {
+        "sentence": "DJ Fernando Vocal Deep , Tech , Grooving House Mix 2010 http://t.co/cvmI6Et",
+        "aspect": "DJ Fernando",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example143": {
+        "sentence": "Only 1 sleep to go before Dr David Hill is here in Australia . If you know anyone that has any health challenges or ... http://t.co/XXaGtFri",
+        "aspect": "Dr David Hill",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example144": {
+        "sentence": "Discount Wilton Holiday Red and White Sprinkles",
+        "aspect": "Wilton",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example145": {
+        "sentence": "http://t.co/kb9ZDVXQ - Biblical Patriarchs Abraham & Moses NEVER EXISTED As the Bible Portrays http://t.co/wbb8XVwr",
+        "aspect": "Abraham",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example146": {
+        "sentence": "Call of Duty : Modern Warfare 3 - Piazza \"Teddy Bear\" Easter Egg - YouTube http://t.co/cW9SVwDw ( via @ultraryanrules )",
+        "aspect": "YouTube",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example147": {
+        "sentence": "I need to find a new way to interact with Twitter ; else I'll just drift farther and farther apart from it as my priorities shift .",
+        "aspect": "Twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "unknown"
+    },
+    "example148": {
+        "sentence": "@gigswigs yes bb . I'm listening Nickelback's Somebody and was just musing tt songs reminds us of different episodes- this one is of Canada",
+        "aspect": "Nickelback's",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example149": {
+        "sentence": "GM expects to repay $ 1 billion loan to Treasury : report ( Reuters ) : - http://u.nu/6q9w7",
+        "aspect": "GM",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example150": {
+        "sentence": "I uploaded a @YouTube video http://t.co/KPlIFhKi Show Gratitude To Allah's Favours",
+        "aspect": "@YouTube",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "neutral"
+    },
+    "example151": {
+        "sentence": "How Retailers Are Reinventing Shopping - Harvard Business Review : http://t.co/Dq5YRzKn @Said_Morales",
+        "aspect": "Harvard Business Review",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example152": {
+        "sentence": "@deepikapadukone happy birthday beautiful.may Allah gives you long life",
+        "aspect": "Allah",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example153": {
+        "sentence": "The Twitter 100 : No 1 to 10 - News - People - The Independent http://t.co/yQL39tfk",
+        "aspect": "Twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example154": {
+        "sentence": "Look further . It's inside you . Greg Z .",
+        "aspect": "Greg Z",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example155": {
+        "sentence": "Twitpic - Share photos and videos on Twitter http://t.co/kqo4Yk8U via @twitpic",
+        "aspect": "Twitpic",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example156": {
+        "sentence": "http://bit.ly/fJ8HCt Three Tips to Achieve High Earnings as an Amazon Affiliate",
+        "aspect": "Amazon",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example157": {
+        "sentence": "Valuable info by industry ! RT @hubspot Twitter or Facebook : Which Is Right for Your Business ? http://bit.ly/dmMUC9 via #in",
+        "aspect": "Twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example158": {
+        "sentence": "Lastly , a close-up of the Ziggy Zag Knit Skirt ! Love the flattering silhouette ! We'll be back with more previews ... http://t.co/WiaQQ73w",
+        "aspect": "Ziggy Zag",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example159": {
+        "sentence": "@Natura_Mexico 33%",
+        "aspect": "@Natura_Mexico",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example160": {
+        "sentence": "@asplinterofice what's wrong ? _r u ok now ? I'm hanging out with friends and few new guys ) ) _one of 'em looks exactly like Taylor Lothner ) )",
+        "aspect": "Taylor Lothner",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example161": {
+        "sentence": "What do you think about facebook ? can you believe facebook is paying people to answer this question , check it out ! http://dld.bz/u4TX",
+        "aspect": "facebook",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example162": {
+        "sentence": "Chinese President Hu Jintao warns of cultural warfare from West http://t.co/P4umjNqT",
+        "aspect": "President Hu Jintao",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example163": {
+        "sentence": "Artificial Tree s: Capturing Energy from Sun and Wind : Discovery News http://t.co/nQ2Cm0KT",
+        "aspect": "Discovery News",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example164": {
+        "sentence": "Obama is a stupid . People of Egypt don't want from Moubarak reform , they want him to leave power and Egypt .",
+        "aspect": "Obama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example165": {
+        "sentence": "Palestinians under pressure to drop UN bid - Middle East - Al Jazeera English http://t.co/NXCD1Qtq via @ajenglish",
+        "aspect": "UN",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example166": {
+        "sentence": "Steve \u00e2\u0080\u0099 s Last Laugh : Adobe Killing Off Flash For Mobile \u00c2 Devices via @techcrunch http://t.co/NJH0bEKO",
+        "aspect": "Steve",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example167": {
+        "sentence": "I subscribed to RajshriKids's channel on YouTube . http://t.co/LI3rtAPZ",
+        "aspect": "YouTube",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example168": {
+        "sentence": "\"Humor is mankind's greatest blessing.\" - Mark Twain http://t.co/068z0s9W",
+        "aspect": "Mark Twain",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example169": {
+        "sentence": "Ray J Breaks His Silence On Whitney Houston \u00e2\u0080\u0099 s Death #aolvideo http://t.co/kvclZaxZ via @AOL",
+        "aspect": "Ray J",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example170": {
+        "sentence": "Stephen Hawking : 'There is no heaven ; it's a fairy story' http://t.co/a35mbP2",
+        "aspect": "Stephen Hawking",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example171": {
+        "sentence": "Selling fast on @GoogleOffers : 50 % off at Michi Sushi http://t.co/RIQnjfcx",
+        "aspect": "Michi Sushi",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example172": {
+        "sentence": "Obama Turns The Super Committee Failure Into A Weapon Of GOP Destruction http://t.co/blHsWF4H v\u00c3\u00ada @politicususa",
+        "aspect": "Obama",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "neutral"
+    },
+    "example173": {
+        "sentence": "Al Jazzera offices closed by government in Cairo . All the dictators do the same stupidities , don\u00c2\u00b4t they have any creativity ?",
+        "aspect": "Al Jazzera",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example174": {
+        "sentence": "Petrobras CFO On Becoming Bigger Than Exxon And Apple : I Buy Oil Every Day , iPads Every 2 Years http://t.co/Wh7xo9b via @forbes",
+        "aspect": "Petrobras",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example175": {
+        "sentence": "some #ThingsThatShouldSTOP without a doubt : muslims calling for anything except Khilafah , muslims grovelling and puppeting for the west .",
+        "aspect": "Khilafah",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example176": {
+        "sentence": "Avoiding Copyright Pitfalls on Pinterest http://t.co/C5xnN2GR via @saving4someday",
+        "aspect": "Pinterest",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example177": {
+        "sentence": "Eid mubarak to every muslim around da globe . Plz remember the Muslims who r suffering around the world . Pray for them all ..",
+        "aspect": "mubarak",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example178": {
+        "sentence": "@jbieberkon IKR ! Let loose the talk of love as justin bieber said",
+        "aspect": "justin bieber",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example179": {
+        "sentence": "Currently reading Pirates in Iraqi waters on Mideast Youth : http://www.mideastyouth.com/2010/08/21/pirates-in-iraqi-waters/",
+        "aspect": "Mideast Youth",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example180": {
+        "sentence": "Actor Jim Iyke Enrolls for Anger Management Class ... http://t.co/Cb2JupOI",
+        "aspect": "Jim Iyke",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example181": {
+        "sentence": "Canada pulls fruit and candy flavoured cigarettes off ... - Canada East http://tinyurl.com/2aqcupj",
+        "aspect": "Canada East",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example182": {
+        "sentence": "is now using Happy Manor on Yahoo ! http://y.ahoo.it/sgC6mabQ",
+        "aspect": "Yahoo",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example183": {
+        "sentence": "@LenaMaher yes It is a good day for me .. I feel better :)",
+        "aspect": "@LenaMaher",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example184": {
+        "sentence": "Maximize your twitter account with this link . http://bit.ly/Twittank",
+        "aspect": "twitter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example185": {
+        "sentence": "\"How # strange ! You lose a little from you and you # cry . And your whole life is #wasting and you're # laughing\" Ibn Qayyim Al-Jawziyyah",
+        "aspect": "Ibn Qayyim Al-Jawziyyah",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example186": {
+        "sentence": "Traffic has returned to DC . School is back . DC jumped to # 4 in worst traffic according to Forbes ... only beat by New York , LA , and Chicago .",
+        "aspect": "Forbes",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "negative"
+    },
+    "example187": {
+        "sentence": "Check out Moolala , great daily deals and an amazing rewards program : http://t.co/EejxRsh",
+        "aspect": "Moolala",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example188": {
+        "sentence": "Fantastic article on how Steve Jobs' failures lead to his biggest successes http://ow.ly/6cBHz",
+        "aspect": "Steve Jobs'",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example189": {
+        "sentence": "The Ragged Trousered Philanthropists by Robert Tressell http://onlywire.com/r/30549094",
+        "aspect": "Robert Tressell",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example190": {
+        "sentence": "The facebook easy cash guide is working much better than any other way to make money and its so easy promo http://tinyurl.com/y8wynv3",
+        "aspect": "facebook",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example191": {
+        "sentence": "Indiana AG Halts eBay Auctions Due to Onerous Policies http://bit.ly/bqZ2QP",
+        "aspect": "eBay",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example192": {
+        "sentence": "Just Follow USAMA-NETWORK Send to 9900 & usama_tweet send to 40404",
+        "aspect": "USAMA-NETWORK",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example193": {
+        "sentence": "Company's internationalizing to Saudi Arabia should know that the Shoura lists its efforts to boost Saudization http://t.co/SPIdfzFw",
+        "aspect": "Shoura",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example194": {
+        "sentence": "Omg ... New song to Rihanna is very cool ... Man down :D ( music )",
+        "aspect": "Rihanna",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example195": {
+        "sentence": "Welcome to our New Member of the Day , John Polk from Texas who joined our Gold Level .",
+        "aspect": "John Polk",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example196": {
+        "sentence": "Grand Ayatollah Sistani declares that the people of Iran have a right to demonstrate against Government - #SoG #Iranelection",
+        "aspect": "Grand Ayatollah Sistani",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example197": {
+        "sentence": "Manny Pacquiao vs Antonio Margarito [ Full Fight ] @vodpod http://t.co/RfJZcxz",
+        "aspect": "Manny Pacquiao",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example198": {
+        "sentence": "@eldarmurtazin Nokia will open a research center at Russia high-technology hub Skolkovo , hopes will compete with California's Silicon Valley",
+        "aspect": "Nokia",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example199": {
+        "sentence": "Cmon Erra ! You know you are strong . So please stay strong ! \u00f0\u009f\u0092\u00aa :')",
+        "aspect": "Erra",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example200": {
+        "sentence": "It can be knowledge , it can be wealth . We all crave for something . I'm craving for a fat-less KFC 2 piece meal .",
+        "aspect": "KFC",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example201": {
+        "sentence": "Alain Renaud taking HSBC global M & A role-source s: LONDON ( Reuters ) - Alain Renaud is replacing Andrew Bell as gl ... http://t.co/8uzcV6Gs",
+        "aspect": "Alain Renaud",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example202": {
+        "sentence": "So I tell you , whatever you ask for in prayer , believe that you have received it , and it will be yours . - Mark 11 : 24",
+        "aspect": "Mark",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example203": {
+        "sentence": "Colts fans disappointed but respectful of Saint s: Colts fan Tony Joyner of Indianapolis couldn't believe Manning s ... http://bit.ly/a82fFc",
+        "aspect": "Colts",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "negative"
+    },
+    "example204": {
+        "sentence": "It's such joy to see my friends getting married one by one . Congrats LN and jacklyn .",
+        "aspect": "LN",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example205": {
+        "sentence": "Forgiveness is an act of self-love . - don Miguel Ruiz http://ow.ly/3vHSe",
+        "aspect": "don Miguel Ruiz",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example206": {
+        "sentence": "Everything should be as simple as it is , but not simpler . -Albert Einstein",
+        "aspect": "-Albert Einstein",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example207": {
+        "sentence": "Warrior Fit Body Solution Boise , ID Half Off Regular Bootcamp http://t.co/ivu2uj8 Boise Health Clubs & Gyms #coupon",
+        "aspect": "Warrior Fit Body Solution",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example208": {
+        "sentence": "Le Petit Prince limited-edition notebook collection by Moleskine",
+        "aspect": "Moleskine",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example209": {
+        "sentence": "China to Get Its Own 'Gossip Girl' Under Warner Deal : A 30-episode hour-long teen drama series , starring Yang Mi ... http://t.co/rDsiSGHn",
+        "aspect": "Yang Mi",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example210": {
+        "sentence": "Advice is what we ask for when we already know the answer but wish we didn't . ~Erica Jong ,",
+        "aspect": "~Erica Jong",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example211": {
+        "sentence": "@annashoutss cant beat my pint of B & J ! hahahaha s",
+        "aspect": "B & J",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example212": {
+        "sentence": "That is cool and great . ( YouTube http://youtu.be/pIIdAuyFLhk?a)",
+        "aspect": "YouTube",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example213": {
+        "sentence": "& another lose for the heat oh yeah' this completed my weekend & lt ; 4",
+        "aspect": "the heat",
+        "original_sentiment": "negative",
+        "predicted_sentiment": "negative"
+    },
+    "example214": {
+        "sentence": "@JenniferCirpici happy birthday jennifer hope to you enjoy your day ... :D .. like your Work ..",
+        "aspect": "@JenniferCirpici",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example215": {
+        "sentence": "@Is_a_Belle_ i wonder what you were browsing huh jajajaja",
+        "aspect": "@Is_a_Belle_",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example216": {
+        "sentence": "Apple planning iBooks and publishing NYC event for January ... http://t.co/AdFHutxq",
+        "aspect": "Apple",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example217": {
+        "sentence": "2010 NFL training cam ps: Carolina Panthers WR Steve Smith activated , catches passes http://mybrandz.com/2bA #NFL",
+        "aspect": "NFL",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example218": {
+        "sentence": "Support La Roja , add a #twibbon to your avatar now ! - http://twb.ly/bToZOP",
+        "aspect": "La Roja",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example219": {
+        "sentence": "President Zardari May Return Pakistan Tonight http://t.co/hBki8ySL",
+        "aspect": "President Zardari",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example220": {
+        "sentence": "Free workshop on Internet marketing for artists being hosted by Salem County ... : By Today's Sunbeam SALEM \u00e2\u0080\u0094 The ... http://t.co/k9NrZyGX",
+        "aspect": "Today's Sunbeam",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example221": {
+        "sentence": "Twitter Recommendation : Great guide to setting up Twitter Vending Machines http://ow.ly/1sl87",
+        "aspect": "Twitter",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example222": {
+        "sentence": "New blog post Vera Wang S/S 2009 Fashion Show Part 2 http://tinyurl.com/23rbwpc",
+        "aspect": "Vera Wang",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "neutral"
+    },
+    "example223": {
+        "sentence": "@joeteh Hey Joe , the update for the android version should be out by 12th Feb . Hope it helps .",
+        "aspect": "Joe",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example224": {
+        "sentence": "@nglizhu why are you answering your own question on twitter ?",
+        "aspect": "twitter",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example225": {
+        "sentence": "@BarackObama a November 20 , 1925 : Birth of Robert F . Kennedy , American politician .",
+        "aspect": "@BarackObama",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example226": {
+        "sentence": "if Birmingham can tie Chelsea at Stamford 1-1 , Sunderland beat Arsenal 2-0 at Lights , did the stars wrote Brighton will beat Liverpork 2nite ?",
+        "aspect": "Birmingham",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example227": {
+        "sentence": "Ma Fi Metlo , soon on MTV ! http://t.co/VbSQrDkz",
+        "aspect": "MTV",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example228": {
+        "sentence": "Captain America and Thor Battle In New The Avengers Image : Marvel recently released a new photo from their upcom ... http://t.co/xwkli87y",
+        "aspect": "Captain America",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example229": {
+        "sentence": "@ParisHilton finally found Paris Hilton shop in ibn battuta mall and found her signature On the this pic . Exciting http://t.co/iJEuKSWw",
+        "aspect": "@ParisHilton",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example230": {
+        "sentence": "Health care helps job market heal ( Rick Haglund column ): Compare that to auto and parts manufacturing , which emp ... http://t.co/BWbvBTHC",
+        "aspect": "Rick Haglund",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example231": {
+        "sentence": "Facebook Isn't Just For Looking Up Your Ex You Can Use It To Make Money Too Easy ! http://t.co/ve93AJY9",
+        "aspect": "Facebook",
+        "original_sentiment": "positive",
+        "predicted_sentiment": "positive"
+    },
+    "example232": {
+        "sentence": "Ky . Tornado Death Toll Rises to 19 - ABC News http://t.co/SvLiWzoh",
+        "aspect": "ABC News",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "positive"
+    },
+    "example233": {
+        "sentence": "Ky . Tornado Death Toll Rises to 19 - ABC News http://t.co/SvLiWzoh",
+        "aspect": "Wantickets",
+        "original_sentiment": "neutral",
+        "predicted_sentiment": "unknown"
+    }
+}

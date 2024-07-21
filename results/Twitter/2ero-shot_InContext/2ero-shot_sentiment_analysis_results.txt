@@ -1,0 +1,5359 @@
+example01 :
+Aspect: Bourne & O â Neil Treasure
+@Sentence: Bourne & O â Neil Treasure Oak Humidor : Many have a humidor , some also own a polished oak piece , but no one has a ... http://t.co/GWEBkRbG
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: Alfred Adler
+@Sentence: It is from among such individuals that all human failures spring"// Alfred Adler
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: ITP
+@Sentence: Tommorrow is my final day at ITP . i'm just so happy this demanding course will end
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: Seth Godin
+@Sentence: In defense of RSS via Seth Godin http://is.gd/k9Wvy
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: twitter
+@Sentence: is still half clueless about twitter haha
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: iZigg
+@Sentence: New Blog Post : iZigg Agent Jennifer Varenka on CRUSH IT ! and winning a coaching session with â¦ http://t.co/SO8VXPc9
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: Whitney Houston
+@Sentence: Whitney Houston is not yet buried and the money vultures are already out http://t.co/fuvM5TWo
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: Stevens'
+@Sentence: More period work for Downton star : Based on a true story , Stevens' character is Gilbert Evans , a land agent for ... http://t.co/2FgMaGJX
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: My daughter
+@Sentence: My daughter upon turning 8 said , "Hey , Dad , now I'm a Tween" , to which I responded , "Sorry , honey , you're still a Twirp" .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: Awazu kanto's
+@Sentence: It was nice taking the time off and being with fellow animators from other places . Awazu kanto's texturing skills are frikken amazing
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: Harvey Zorbaugh
+@Sentence: An ideal city is not likely to be the mold of a real city . Harvey Zorbaugh
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: FEMA
+@Sentence: I imagine that the pain from the explosion of instant mashed potatoes is what hot lava feels like . Send FEMA mobile burn unit now please !
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: Flo Rida
+@Sentence: #NowPlaying 'Dance With Me' by @AARONCARTER7 featuring Flo Rida - Download it on iTunes ! http://bit.ly/8cFidZ #AaronCarter #AC2010
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: BarackObama
+@Sentence: Ã¢ÂÂ @ BarackObama : International community soft words MUST end . Assad is not a reformer he is a Dictator and your silence makes it worst . #Syria
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: Michael Anderson
+@Sentence: Michael Anderson , Co-founder Aboriginal Tent Embassy says they dont want to be part of the Aust Constitution coz Aust is racist & liars #RA
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: Google
+@Sentence: Google Triples the speed of +1 button http://ow.ly/5ODxE
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: @CNN
+@Sentence: The whole media is corrupt , follow ppl you trust !! @laurenflax @CNN #londonroits
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: Victor Hugo
+@Sentence: He who opens a school door closes a prison . Victor Hugo
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: Sun Softwares
+@Sentence: Sun Softwares is one of the leading outsourcing companies in India . Here we provide you the exact results as you want in Web designing .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: Facebook
+@Sentence: I posted 21 photos on Facebook in the album "Success with Technology" http://t.co/eHX7wite
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example21 :
+Aspect: Lindsey
+@Sentence: Lindsey , I look forward to your October 17 show in Anaheim !
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example22 :
+Aspect: Reuters
+@Sentence: Missing energy exec found dead in New Orlean s: HOUSTON ( Reuters ) - A senior executive with an Atlanta-based energy ... http://bit.ly/cZ3gDe
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example23 :
+Aspect: Mint
+@Sentence: Mint Announces Third Quarterly Results and Market Guidance ... http : //p.gs/1vvo6
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example24 :
+Aspect: The Economist
+@Sentence: Oil and the economy : The 2011 oil shock | The Economist - http://econ.st/edJDel via @TheEconomist
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example25 :
+Aspect: G Kristen
+@Sentence: SA made G Kristen as coach . They actually misread Ind WC victory . Can some one pls tell them they need MSD to win ? #MSD #kristen
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example26 :
+Aspect: AACN
+@Sentence: @shafiqhamdam - I thought I wrote to AACN a month ago , no reply man ? You involved ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example27 :
+Aspect: Abraham Lincoln's
+@Sentence: Abraham Lincoln's mother died when she drank the milk of a cow that grazed on poisonous snakeroot .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example28 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://t.co/1ZuCr6cb
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example29 :
+Aspect: Steve Jobs's
+@Sentence: felling vaery sad bcz of Steve Jobs's death ...........
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example30 :
+Aspect: The Independent
+@Sentence: Prince offers $ 1m to seize Israelis - The Independent http://t.co/LbhiTBAQ
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example31 :
+Aspect: THAKSIN
+@Sentence: THAKSIN do not want 2B come PM . But he wants 2B the PRESIDENT of the REPUBLIC of THAILAND .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example32 :
+Aspect: Anna's
+@Sentence: they are not worried on Anna's health
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example33 :
+Aspect: -Mike
+@Sentence: Today's Mantra : Yes , I'm realistic ... My dreams are huge , bold and imaginative . -Mike
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example34 :
+Aspect: Sergio Aguero
+@Sentence: Sergio Aguero greets Man City fans at the Etihad Stadium http://t.co/XqQUro4
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example35 :
+Aspect: Mark Zuckerberg
+@Sentence: When it comes to presentation , Mark Zuckerberg is no Steve Jobs ;P http://t.co/3ORETf2 facebook announcement
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example36 :
+Aspect: Barbara Novak
+@Sentence: feminist author Barbara Novak ( Renee Zellweger ) finds herself head-over-heels.....http://www.acmemoviereviews.bravehost.com/downwithlove.htm
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example37 :
+Aspect: One Direction
+@Sentence: I liked a @YouTube video http://t.co/TTDr9TNr One Direction - What Makes You Beautiful
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example38 :
+Aspect: Whole Foods Market
+@Sentence: american Whole Foods Market is like a temple of food
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example39 :
+Aspect: ASCE ( American Society of Civil Engineers
+@Sentence: @Douglaslas are you familiar with ASCE ( American Society of Civil Engineers ) ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral or possibly positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example40 :
+Aspect: CERN
+@Sentence: CERN turns up power to answer Higgs riddle in 2012 | Sci-tech | http://t.co/E1HhGAeO http://t.co/jRlF2mIm
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example41 :
+Aspect: Karunanidhi
+@Sentence: ppl : abot Onion price hike ? ' - CM Karunanidhi : ''Go and ask PERIYAR'' MK : abot our alliance ? '' -- - Sonia : ''ASK RAJIV GANDHI''- ha ha : - )
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example42 :
+Aspect: Shania Twain
+@Sentence: Shania Twain - Dance With The One That Brought You http://t.co/uVWcAtJN
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example43 :
+Aspect: Cineworks
+@Sentence: Next Cineworks and Raindance "Booze and Schmooze" is March 5th http://t.co/WIr5hLqd
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example44 :
+Aspect: OneBode Blend
+@Sentence: OneBode Blend obtains a complete blend of antioxidants including grape seed , grape skin , pine bark and SOD precursors
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example45 :
+Aspect: Mr . Bhusan Dahal
+@Sentence: Now Mr . Bhusan Dahal iz in the fire ........ and Kumar phudung at side ..... great conversationn iz still on air ......
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example46 :
+Aspect: LinkedIn
+@Sentence: 5 Tips for Using the New LinkedIn Company Pages http://t.co/8LpLeEsF
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example47 :
+Aspect: ABE
+@Sentence: ABE staff won 3rd place in the Poly50 staff catergory ! Congratulations !
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example48 :
+Aspect: Dr Suess
+@Sentence: Sometimes the questions are complicated and the answers are simple- Dr Suess
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: Positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example49 :
+Aspect: Tony Romo
+@Sentence: Tony Romo among DFW celebrity golfers at AT & T Pro-Am : When Dallas Cowboys quarterback Tony Romo tees off today w ... http://t.co/sCgb3nwJ
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example50 :
+Aspect: Kim Jong Kook
+@Sentence: Lol lol RT @allkpop : [ Spoiler : Running Man ] Kim Jong Kook is betrayed by Haha http://t.co/U1FHxYLw
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example51 :
+Aspect: Forbes
+@Sentence: Houston billionaires make Forbes Richest People in America list http://t.co/yM8tvfID
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example52 :
+Aspect: @Moyade1
+@Sentence: @Moyade1 cause i was outside . Sorry dude .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example53 :
+Aspect: Karzai
+@Sentence: Afghans Unconvinced by Karzai Presidency : http://bit.ly/fQFXOD
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example54 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://t.co/DPKRnlx3
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example55 :
+Aspect: HHS
+@Sentence: Key Dems criticize HHS reshuffling of public health fund ( 6/17/10 â¦ http://bit.ly/9urynn
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example56 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://fb.me/tlyRE78d
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example57 :
+Aspect: Twitter
+@Sentence: Twitter Help Center | It looks like I â m not following someone I know I â ve followed ! http://t.co/Onk1xSQ7 via @support
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example58 :
+Aspect: Jesse
+@Sentence: Are you guys as stoked as we are to see Jesse in a Tu-tu ? http://t.co/Fi0blpSb http://t.co/TKaOzpj9
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example59 :
+Aspect: Facebook
+@Sentence: Trading Facebook Option s: In light of the upcoming Facebook IPO we add this discussion of trading Facebook optio ... http://t.co/Gx6NbP7R
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example60 :
+Aspect: David's
+@Sentence: David's Hybrid Spinach Spargo 385 Treated Seeds per Packet by David's Garden Seeds http://t.co/x9xOjLQB via @amazon
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example61 :
+Aspect: Stefan Collini
+@Sentence: What Are Universities For ? By Stefan Collini http://t.co/QpqnNmi0
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example62 :
+Aspect: Justine Gerardy The Neighbourgoods Market
+@Sentence: Forget the supermarket , go artisanal : By Justine Gerardy The Neighbourgoods Market in Saltriver , where people co ... http://t.co/xDUUJwUK
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example63 :
+Aspect: Uma Thurman
+@Sentence: Will Uma Thurman Be Shopping For Pink Or Blue ? : PINK , according to Life & Style ! Uma Thurman is expecting a baby ... http://t.co/Tr6XNRzs
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example64 :
+Aspect: Budco
+@Sentence: Budco Supports Innovative Direct Marketing Media Through New DiscMail Direct Coalition http://tinyurl.com/37z5ntd
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example65 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://fb.me/TFq96YOd
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example66 :
+Aspect: YouTube
+@Sentence: I liked a YouTube video -- Social commercial http://youtu.be/4XbiVFME5d4?a
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example67 :
+Aspect: God's
+@Sentence: I am like a little pencil in God's hand . That is all . - Mother Teresa #RT via @Dr Wayne W Dyer
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example68 :
+Aspect: Christina Sweetland
+@Sentence: News Update Recovering From Eating Disorders Focus Events - The presenter will be Christina Sweetland , a licensed cl ... http://ow.ly/1bjdfL
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example69 :
+Aspect: Mostafa
+@Sentence: @Mo0stafa Yes , I should do that , Mostafa . It is my pleasure following you , man :)
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example70 :
+Aspect: Facebook
+@Sentence: Ahhhh gosh why did I have to go check Facebook . Ended up wasting so much time ... ):
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example71 :
+Aspect: De Briefcase Arsenal's Cesc Fabregas
+@Sentence: De Briefcase Arsenal's Cesc Fabregas fears he may have a broken leg : http://debriefcase.com/1511
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example72 :
+Aspect: Obama
+@Sentence: Senior Obama Campaign Staffer Tweets Subtle Attack on Romney : President Obama's senior campaign strategist took ... http://t.co/DzilfcyU
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example73 :
+Aspect: Kiran
+@Sentence: Cute Females to have sex in Bangalore 8722971642 : Call Kiran 8722971642 Charming and sexy girls to be your tem ... http://twurl.nl/4zt676
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example74 :
+Aspect: Quasimidi Sirius
+@Sentence: Quasimidi Sirius Demoed by Polish Master on I Have Synth http://tinyurl.com/y9rcfsf
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example75 :
+Aspect: Twitter
+@Sentence: Twitter Help Center | How To Change Language Settings http://t.co/61USVOr via @support
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example76 :
+Aspect: Wiz Khalifa
+@Sentence: Wiz Khalifa Announces Engagement on Twitter [ VIDEO ] http://t.co/ryu1SLUz
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example77 :
+Aspect: Freemasons
+@Sentence: The Supranatural Secrets of the Freemasons http://ow.ly/5kf81
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example78 :
+Aspect: Royal Pirates
+@Sentence: Royal Pirates officially announce their Korean ... http://t.co/MnOHUcy via @koreaboo
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example79 :
+Aspect: William Walker
+@Sentence: William Walker Joins Aegis Health Group as Vice President of Information ... - MarketWatch ( press release ): Will ... http://t.co/wghuk2bg
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example80 :
+Aspect: Ford / Mazda Credit
+@Sentence: Ford / Mazda Credit "Total Loss" Dept SUCKS ! Allstate paid off the claim May 20th and they still have NOT paid me my balance due ! They SUCK !
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example81 :
+Aspect: twitter
+@Sentence: I know how to get tons of twitter followers ! http://t.co/s9oC91Zf
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example82 :
+Aspect: FaceBook
+@Sentence: Free tutorial on how to earn money on FaceBook - http://grsnip.com/r/v5I1 - Couldn't be easier , read this out , free today !
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example83 :
+Aspect: EU
+@Sentence: IBN : Iran vs EU : Iraq Plays Go-Between in Oil Export Crisis http://t.co/nOFOjW6I
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example84 :
+Aspect: Forex
+@Sentence: Do You Want To Make Money On AutoPilot Using Forex ? http://tinyurl.com/yeuc2oo
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example85 :
+Aspect: NYT Editorial
+@Sentence: #iranelection Iran's War on its People . NYT Editorial Dec 28 http://bit.ly/4XMNNU
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example86 :
+Aspect: MSF
+@Sentence: Do the right thing and give to Haiti now . MSF is the most needed NGO : https://donate.doctorswithoutborders.org/
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example87 :
+Aspect: mazen
+@Sentence: @MazenFarah hi mazen i am going through the #Mowgli experience now and it is amazing !
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example88 :
+Aspect: V2 Cigs
+@Sentence: V2 Cigs is Fastest Growing E-Cigarette Brand , Expert Reports - Online PR News ( press release ) http://ow.ly/1bzBYf
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example89 :
+Aspect: Wilmington New Media
+@Sentence: Wilmington New Media Makes Your Site Confident http://p.ost.im/p/edQWkU
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example90 :
+Aspect: Twitter
+@Sentence: In the meantime , if you follow us on Twitter or like us on Facebook to show you're serious , maybe we'll let you in first in the queue ;-)
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example91 :
+Aspect: Ishant
+@Sentence: @khadijahafeji All r doing well .. But i like Ishant .. The way his bowl and he crossed 150 kmph ..
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example92 :
+Aspect: sharad pawar
+@Sentence: what a joke - the gom for the jan lok pal bill - sharad pawar , moily and kapil sibal.this govt thinks we the people are stupid and gullible .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example93 :
+Aspect: NASA
+@Sentence: NASA unveils sweeping new program s: A week before President Obama attends a "space summit" in Florida , NASA unveil ... http://bit.ly/cwA9DE
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example94 :
+Aspect: twitter
+@Sentence: Hi friends !! We now have a new twitter account , follow us at @Dgbillboard
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example95 :
+Aspect: Philip Kotler
+@Sentence: Today had the pleasure & honor to meet Philip Kotler , to attend the conference-forum "Marketing 3.0" by him !!
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example96 :
+Aspect: UN
+@Sentence: UN agency calls for regional food body http://t.co/d0u7FVfJ #UAE #Follow
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example97 :
+Aspect: Street Style Blogs
+@Sentence: I love the Street Style Blogs , showing individuals styles in public . http://t.co/XdK6zD3C
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example98 :
+Aspect: MOE
+@Sentence: @VincentChenPH @teresakok I read the newspaper , why sel gov approve the land for the schools which have yet to get the approval from MOE ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example99 :
+Aspect: Rackwise Inc.
+@Sentence: RACK's ( Rackwise Inc. ) recent partnership with Intel makes this company even more attractive in our eyes !!
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example100 :
+Aspect: Social security
+@Sentence: it's official ! Social security now pays out more than it brings in ! Word of advice : don't depend on social security in the future !
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example101 :
+Aspect: @GhadahAlghunaim
+@Sentence: @GhadahAlghunaim .. Offer is ready from now .. Good luck in your PHD challenge .. Please enjoy it as much as you can .. î
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example102 :
+Aspect: Helen
+@Sentence: Thank you to all who sponsored Helen at Wwhd for the charity cycle ride - we raised over Â£8 , 000
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example103 :
+Aspect: The US Mint
+@Sentence: coin mint 1 OZ Gold Coins From The US Mint ;P http://t.co/CGJEwxUo
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example104 :
+Aspect: Google X
+@Sentence: Google X to launch essentially Android vision ( augmented reality glasses ) by the end of the year : http://t.co/DfHtQSGN
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example105 :
+Aspect: Subway
+@Sentence: Subway Franchise for Sale : How Much Does a Subway Franchise Cost ? http://budurl.com/wm4k
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example106 :
+Aspect: Meat Ball del Dawson's
+@Sentence: Meat Ball del Dawson's http://t.co/BEe4DcQO
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example107 :
+Aspect: Ali Alraouf
+@Sentence: The Interior Design Department Presents a Lecture by Ali Alraouf â Pearls , Harrods and FIFA : ( De ) -Constructing ... http://t.co/KwoWbpOA
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example108 :
+Aspect: Reuters
+@Sentence: Dollar rallies broadly , up over 1 pct vs . euro - Reuters http://t.co/ZCkVShoO
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example109 :
+Aspect: Marie Colvin
+@Sentence: Journalist Marie Colvin to be buried in Syria , mother says http://t.co/QfSubQ3X
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example110 :
+Aspect: Twitter
+@Sentence: Twitter Setting Up to Dominate Local Search : This last week , at the Chirp Conference ( Official Twitter Developer C ... http://bit.ly/cnLboy
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example111 :
+Aspect: morehead state
+@Sentence: morehead state : O http://bit.ly/fv2kOm Where do I go from here with my Associates in Science degree ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example112 :
+Aspect: Egyptian interior ministry
+@Sentence: Israel seems to be relying on a strategy of being 'too powerful to oppose' .. Same strategy adopted by the former Egyptian interior ministry
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example113 :
+Aspect: Spezza
+@Sentence: Spezza anxious to shoulder load with teammate s: Senators centre Jason Spezza is pointing toward a return to the ... http://bit.ly/gUglMu
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example114 :
+Aspect: Saudi Prince Alwaleed
+@Sentence: Saudi Prince Alwaleed buys TWITTER STAKE $ 300 MILLION - DUBAI ( Reuters ) Prince Alwaleed bin Talal , the Saudi billio ... http://t.co/OZcaL2CO
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example115 :
+Aspect: Google"
+@Sentence: 24 hours after launch of "Mass Traffic without Google" over 3 , 000 people jumped at the opportunity - view http://bit.ly/jamtraffic
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative or neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example116 :
+Aspect: Murray
+@Sentence: Murray , Federer to Dubai semis in straight set s: Roger Federer and Andy Murray advanced to the semifinals of the ... http://t.co/bfT7rzmZ
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example117 :
+Aspect: rahul gandhi'S
+@Sentence: who pays the cost of rahul gandhi'S security ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example118 :
+Aspect: J . W . Schopf~
+@Sentence: J . W . Schopf~ For four-fifths of our history our planet was populated by pond scum .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example119 :
+Aspect: JFK
+@Sentence: Spend $ 25k to buy ugly rocker JFK sat in night B4 he died http://t.co/VdyScUNS, or $ 329 for the style he actually owned http://t.co/2opj9eMi
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example120 :
+Aspect: Ian
+@Sentence: @iansomerhalder Ian , How do you feeling now ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example121 :
+Aspect: Anthony Robbins
+@Sentence: Your life changes the moment you make a new , congruent , and committed decision . Anthony Robbins
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example122 :
+Aspect: living.Arthur C . Clarke
+@Sentence: Behind every man now alive stand 30 ghosts , for that is the ratio by which the dead outnumber the living.Arthur C . Clarke
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example123 :
+Aspect: Twitter
+@Sentence: We started testing Twitter on the PG website .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example124 :
+Aspect: 'Jack
+@Sentence: Movie Review : 'Jack and Jill' - Conway Daily Sun : Patriot-NewsMovie Review : 'Jack and Jill'Conway Daily SunÃ¢ÂÂJa ... http://t.co/N7xEGdHb
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example125 :
+Aspect: Assad
+@Sentence: Time ticking for Assad in Syria - Turkey's Erdogan : http://t.co/PbgZydxk
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example126 :
+Aspect: uncle gan
+@Sentence: $ 150 for dye/highlight , cut plus treatment ... Cheap ! i like uncle gan and aunti robelle :) http://t.co/823mO26C
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example127 :
+Aspect: Facebook
+@Sentence: Look On Facebook @ Alpha Rain Roofing for pictures of 30 % energy Savings metal roof installation ! http://bit.ly/ahNraj
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example128 :
+Aspect: Bowen Health
+@Sentence: Relaxing under all conditions | The Bowen Health Blog http://t.co/4oowAwF via @bowencollege
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example129 :
+Aspect: Shaklee
+@Sentence: Free Shaklee Membership when you buy the Earth Day Healthy Home Pack for $ 30 . http://tiny.ly/gjNT
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example130 :
+Aspect: Obama
+@Sentence: Boston Professor Hails Obama for Declaring War on Deficits . Wait , What ? http://bit.ly/hxymv4
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: The sentiment towards Obama in this sentence is neutral.
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example131 :
+Aspect: Mubarak
+@Sentence: EID Mubarak for every one , enjoy the vacation ....
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example132 :
+Aspect: Deutsche Welle
+@Sentence: I just voted for http://introutsugar.wordpress.com/ at Deutsche Welle Blog Awards http://thebobs.com #thebobs
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example133 :
+Aspect: FOREX
+@Sentence: News . Here I earn on FOREX , indexes and raw actives ... I stake on Bettings , I recommend , high profit\\\/// ... http : //t.co/4PuSDxw
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example134 :
+Aspect: cnn
+@Sentence: Fomny Watch cnn English News international live online world tv tv links , cnn breaking headline news http://t.co/fvifQwm via @AddThis
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example135 :
+Aspect: Millennium Tutors
+@Sentence: Millennium Tutors Kansas City , MO Use promocode for an additi http://t.co/ArAIPukr KansasCity Test Preparation & Tutoring Services #coupon
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example136 :
+Aspect: GCFF
+@Sentence: See you all tonight at 7 : 30 PM at Cinemagic for NOV 17 | GCFF 2011 Double Screening : Sun Come Up ( short film ) and ... http://t.co/Q3i3pIvb
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example137 :
+Aspect: Putin
+@Sentence: Disobey Putin anti-election protest in Moscow - @Demotix News http://t.co/M9OjYA5F
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example138 :
+Aspect: National News
+@Sentence: Mother of lost trawlerman died a few hours before he drowned - National News - Independent.ie http://t.co/QgSSSGx7
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example139 :
+Aspect: Chelsea Summer s:
+@Sentence: Chelsea Summer s: Hot housewife Chelsey Summers can â t think of a single reason why being sexy is a bad thing . The ... http://t.co/scU1N5l7
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example140 :
+Aspect: Qualcomm
+@Sentence: Qualcomm ups dividend , approves up to $ 4B buyback : Mobile phone chip-maker Qualcomm Inc . sa ... http://t.co/fcPJDhhq http://t.co/FiSmxplN
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example141 :
+Aspect: Facebook
+@Sentence: I posted a new photo to Facebook http://t.co/2jaxcraY
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example142 :
+Aspect: DJ Fernando
+@Sentence: DJ Fernando Vocal Deep , Tech , Grooving House Mix 2010 http://t.co/cvmI6Et
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example143 :
+Aspect: Dr David Hill
+@Sentence: Only 1 sleep to go before Dr David Hill is here in Australia . If you know anyone that has any health challenges or ... http://t.co/XXaGtFri
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example144 :
+Aspect: Wilton
+@Sentence: Discount Wilton Holiday Red and White Sprinkles
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example145 :
+Aspect: Abraham
+@Sentence: http://t.co/kb9ZDVXQ - Biblical Patriarchs Abraham & Moses NEVER EXISTED As the Bible Portrays http://t.co/wbb8XVwr
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example146 :
+Aspect: YouTube
+@Sentence: Call of Duty : Modern Warfare 3 - Piazza "Teddy Bear" Easter Egg - YouTube http://t.co/cW9SVwDw ( via @ultraryanrules )
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example147 :
+Aspect: Twitter
+@Sentence: I need to find a new way to interact with Twitter ; else I'll just drift farther and farther apart from it as my priorities shift .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example148 :
+Aspect: Nickelback's
+@Sentence: @gigswigs yes bb . I'm listening Nickelback's Somebody and was just musing tt songs reminds us of different episodes- this one is of Canada
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example149 :
+Aspect: GM
+@Sentence: GM expects to repay $ 1 billion loan to Treasury : report ( Reuters ) : - http://u.nu/6q9w7
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example150 :
+Aspect: @YouTube
+@Sentence: I uploaded a @YouTube video http://t.co/KPlIFhKi Show Gratitude To Allah's Favours
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example151 :
+Aspect: Harvard Business Review
+@Sentence: How Retailers Are Reinventing Shopping - Harvard Business Review : http://t.co/Dq5YRzKn @Said_Morales
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example152 :
+Aspect: Allah
+@Sentence: @deepikapadukone happy birthday beautiful.may Allah gives you long life
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example153 :
+Aspect: Twitter
+@Sentence: The Twitter 100 : No 1 to 10 - News - People - The Independent http://t.co/yQL39tfk
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example154 :
+Aspect: Greg Z
+@Sentence: Look further . It's inside you . Greg Z .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example155 :
+Aspect: Twitpic
+@Sentence: Twitpic - Share photos and videos on Twitter http://t.co/kqo4Yk8U via @twitpic
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example156 :
+Aspect: Amazon
+@Sentence: http://bit.ly/fJ8HCt Three Tips to Achieve High Earnings as an Amazon Affiliate
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example157 :
+Aspect: Twitter
+@Sentence: Valuable info by industry ! RT @hubspot Twitter or Facebook : Which Is Right for Your Business ? http://bit.ly/dmMUC9 via #in
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example158 :
+Aspect: Ziggy Zag
+@Sentence: Lastly , a close-up of the Ziggy Zag Knit Skirt ! Love the flattering silhouette ! We'll be back with more previews ... http://t.co/WiaQQ73w
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example159 :
+Aspect: @Natura_Mexico
+@Sentence: @Natura_Mexico 33%
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example160 :
+Aspect: Taylor Lothner
+@Sentence: @asplinterofice what's wrong ? _r u ok now ? I'm hanging out with friends and few new guys ) ) _one of 'em looks exactly like Taylor Lothner ) )
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example161 :
+Aspect: facebook
+@Sentence: What do you think about facebook ? can you believe facebook is paying people to answer this question , check it out ! http://dld.bz/u4TX
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example162 :
+Aspect: President Hu Jintao
+@Sentence: Chinese President Hu Jintao warns of cultural warfare from West http://t.co/P4umjNqT
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example163 :
+Aspect: Discovery News
+@Sentence: Artificial Tree s: Capturing Energy from Sun and Wind : Discovery News http://t.co/nQ2Cm0KT
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example164 :
+Aspect: Obama
+@Sentence: Obama is a stupid . People of Egypt don't want from Moubarak reform , they want him to leave power and Egypt .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example165 :
+Aspect: UN
+@Sentence: Palestinians under pressure to drop UN bid - Middle East - Al Jazeera English http://t.co/NXCD1Qtq via @ajenglish
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example166 :
+Aspect: Steve
+@Sentence: Steve â s Last Laugh : Adobe Killing Off Flash For Mobile Â Devices via @techcrunch http://t.co/NJH0bEKO
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example167 :
+Aspect: YouTube
+@Sentence: I subscribed to RajshriKids's channel on YouTube . http://t.co/LI3rtAPZ
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example168 :
+Aspect: Mark Twain
+@Sentence: "Humor is mankind's greatest blessing." - Mark Twain http://t.co/068z0s9W
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example169 :
+Aspect: Ray J
+@Sentence: Ray J Breaks His Silence On Whitney Houston â s Death #aolvideo http://t.co/kvclZaxZ via @AOL
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example170 :
+Aspect: Stephen Hawking
+@Sentence: Stephen Hawking : 'There is no heaven ; it's a fairy story' http://t.co/a35mbP2
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example171 :
+Aspect: Michi Sushi
+@Sentence: Selling fast on @GoogleOffers : 50 % off at Michi Sushi http://t.co/RIQnjfcx
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example172 :
+Aspect: Obama
+@Sentence: Obama Turns The Super Committee Failure Into A Weapon Of GOP Destruction http://t.co/blHsWF4H vÃ­a @politicususa
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example173 :
+Aspect: Al Jazzera
+@Sentence: Al Jazzera offices closed by government in Cairo . All the dictators do the same stupidities , donÂ´t they have any creativity ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: slightly negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example174 :
+Aspect: Petrobras
+@Sentence: Petrobras CFO On Becoming Bigger Than Exxon And Apple : I Buy Oil Every Day , iPads Every 2 Years http://t.co/Wh7xo9b via @forbes
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example175 :
+Aspect: Khilafah
+@Sentence: some #ThingsThatShouldSTOP without a doubt : muslims calling for anything except Khilafah , muslims grovelling and puppeting for the west .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example176 :
+Aspect: Pinterest
+@Sentence: Avoiding Copyright Pitfalls on Pinterest http://t.co/C5xnN2GR via @saving4someday
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example177 :
+Aspect: mubarak
+@Sentence: Eid mubarak to every muslim around da globe . Plz remember the Muslims who r suffering around the world . Pray for them all ..
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example178 :
+Aspect: justin bieber
+@Sentence: @jbieberkon IKR ! Let loose the talk of love as justin bieber said
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example179 :
+Aspect: Mideast Youth
+@Sentence: Currently reading Pirates in Iraqi waters on Mideast Youth : http://www.mideastyouth.com/2010/08/21/pirates-in-iraqi-waters/
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example180 :
+Aspect: Jim Iyke
+@Sentence: Actor Jim Iyke Enrolls for Anger Management Class ... http://t.co/Cb2JupOI
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example181 :
+Aspect: Canada East
+@Sentence: Canada pulls fruit and candy flavoured cigarettes off ... - Canada East http://tinyurl.com/2aqcupj
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example182 :
+Aspect: Yahoo
+@Sentence: is now using Happy Manor on Yahoo ! http://y.ahoo.it/sgC6mabQ
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example183 :
+Aspect: @LenaMaher
+@Sentence: @LenaMaher yes It is a good day for me .. I feel better :)
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example184 :
+Aspect: twitter
+@Sentence: Maximize your twitter account with this link . http://bit.ly/Twittank
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example185 :
+Aspect: Ibn Qayyim Al-Jawziyyah
+@Sentence: "How # strange ! You lose a little from you and you # cry . And your whole life is #wasting and you're # laughing" Ibn Qayyim Al-Jawziyyah
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative/neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example186 :
+Aspect: Forbes
+@Sentence: Traffic has returned to DC . School is back . DC jumped to # 4 in worst traffic according to Forbes ... only beat by New York , LA , and Chicago .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example187 :
+Aspect: Moolala
+@Sentence: Check out Moolala , great daily deals and an amazing rewards program : http://t.co/EejxRsh
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example188 :
+Aspect: Steve Jobs'
+@Sentence: Fantastic article on how Steve Jobs' failures lead to his biggest successes http://ow.ly/6cBHz
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example189 :
+Aspect: Robert Tressell
+@Sentence: The Ragged Trousered Philanthropists by Robert Tressell http://onlywire.com/r/30549094
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example190 :
+Aspect: facebook
+@Sentence: The facebook easy cash guide is working much better than any other way to make money and its so easy promo http://tinyurl.com/y8wynv3
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example191 :
+Aspect: eBay
+@Sentence: Indiana AG Halts eBay Auctions Due to Onerous Policies http://bit.ly/bqZ2QP
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example192 :
+Aspect: USAMA-NETWORK
+@Sentence: Just Follow USAMA-NETWORK Send to 9900 & usama_tweet send to 40404
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example193 :
+Aspect: Shoura
+@Sentence: Company's internationalizing to Saudi Arabia should know that the Shoura lists its efforts to boost Saudization http://t.co/SPIdfzFw
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example194 :
+Aspect: Rihanna
+@Sentence: Omg ... New song to Rihanna is very cool ... Man down :D ( music )
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example195 :
+Aspect: John Polk
+@Sentence: Welcome to our New Member of the Day , John Polk from Texas who joined our Gold Level .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example196 :
+Aspect: Grand Ayatollah Sistani
+@Sentence: Grand Ayatollah Sistani declares that the people of Iran have a right to demonstrate against Government - #SoG #Iranelection
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example197 :
+Aspect: Manny Pacquiao
+@Sentence: Manny Pacquiao vs Antonio Margarito [ Full Fight ] @vodpod http://t.co/RfJZcxz
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example198 :
+Aspect: Nokia
+@Sentence: @eldarmurtazin Nokia will open a research center at Russia high-technology hub Skolkovo , hopes will compete with California's Silicon Valley
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example199 :
+Aspect: Erra
+@Sentence: Cmon Erra ! You know you are strong . So please stay strong ! ðª :')
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example200 :
+Aspect: KFC
+@Sentence: It can be knowledge , it can be wealth . We all crave for something . I'm craving for a fat-less KFC 2 piece meal .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example201 :
+Aspect: Alain Renaud
+@Sentence: Alain Renaud taking HSBC global M & A role-source s: LONDON ( Reuters ) - Alain Renaud is replacing Andrew Bell as gl ... http://t.co/8uzcV6Gs
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example202 :
+Aspect: Mark
+@Sentence: So I tell you , whatever you ask for in prayer , believe that you have received it , and it will be yours . - Mark 11 : 24
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example203 :
+Aspect: Colts
+@Sentence: Colts fans disappointed but respectful of Saint s: Colts fan Tony Joyner of Indianapolis couldn't believe Manning s ... http://bit.ly/a82fFc
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example204 :
+Aspect: LN
+@Sentence: It's such joy to see my friends getting married one by one . Congrats LN and jacklyn .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example205 :
+Aspect: don Miguel Ruiz
+@Sentence: Forgiveness is an act of self-love . - don Miguel Ruiz http://ow.ly/3vHSe
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example206 :
+Aspect: -Albert Einstein
+@Sentence: Everything should be as simple as it is , but not simpler . -Albert Einstein
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example207 :
+Aspect: Warrior Fit Body Solution
+@Sentence: Warrior Fit Body Solution Boise , ID Half Off Regular Bootcamp http://t.co/ivu2uj8 Boise Health Clubs & Gyms #coupon
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example208 :
+Aspect: Moleskine
+@Sentence: Le Petit Prince limited-edition notebook collection by Moleskine
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example209 :
+Aspect: Yang Mi
+@Sentence: China to Get Its Own 'Gossip Girl' Under Warner Deal : A 30-episode hour-long teen drama series , starring Yang Mi ... http://t.co/rDsiSGHn
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: Neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example210 :
+Aspect: ~Erica Jong
+@Sentence: Advice is what we ask for when we already know the answer but wish we didn't . ~Erica Jong ,
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example211 :
+Aspect: B & J
+@Sentence: @annashoutss cant beat my pint of B & J ! hahahaha s
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example212 :
+Aspect: YouTube
+@Sentence: That is cool and great . ( YouTube http://youtu.be/pIIdAuyFLhk?a)
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example213 :
+Aspect: the heat
+@Sentence: & another lose for the heat oh yeah' this completed my weekend & lt ; 4
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: slightly negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example214 :
+Aspect: @JenniferCirpici
+@Sentence: @JenniferCirpici happy birthday jennifer hope to you enjoy your day ... :D .. like your Work ..
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example215 :
+Aspect: @Is_a_Belle_
+@Sentence: @Is_a_Belle_ i wonder what you were browsing huh jajajaja
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example216 :
+Aspect: Apple
+@Sentence: Apple planning iBooks and publishing NYC event for January ... http://t.co/AdFHutxq
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example217 :
+Aspect: NFL
+@Sentence: 2010 NFL training cam ps: Carolina Panthers WR Steve Smith activated , catches passes http://mybrandz.com/2bA #NFL
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example218 :
+Aspect: La Roja
+@Sentence: Support La Roja , add a #twibbon to your avatar now ! - http://twb.ly/bToZOP
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example219 :
+Aspect: President Zardari
+@Sentence: President Zardari May Return Pakistan Tonight http://t.co/hBki8ySL
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example220 :
+Aspect: Today's Sunbeam
+@Sentence: Free workshop on Internet marketing for artists being hosted by Salem County ... : By Today's Sunbeam SALEM â The ... http://t.co/k9NrZyGX
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example221 :
+Aspect: Twitter
+@Sentence: Twitter Recommendation : Great guide to setting up Twitter Vending Machines http://ow.ly/1sl87
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example222 :
+Aspect: Vera Wang
+@Sentence: New blog post Vera Wang S/S 2009 Fashion Show Part 2 http://tinyurl.com/23rbwpc
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example223 :
+Aspect: Joe
+@Sentence: @joeteh Hey Joe , the update for the android version should be out by 12th Feb . Hope it helps .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example224 :
+Aspect: twitter
+@Sentence: @nglizhu why are you answering your own question on twitter ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: negative
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example225 :
+Aspect: @BarackObama
+@Sentence: @BarackObama a November 20 , 1925 : Birth of Robert F . Kennedy , American politician .
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example226 :
+Aspect: Birmingham
+@Sentence: if Birmingham can tie Chelsea at Stamford 1-1 , Sunderland beat Arsenal 2-0 at Lights , did the stars wrote Brighton will beat Liverpork 2nite ?
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: mixed (positive/negative)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example227 :
+Aspect: MTV
+@Sentence: Ma Fi Metlo , soon on MTV ! http://t.co/VbSQrDkz
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example228 :
+Aspect: Captain America
+@Sentence: Captain America and Thor Battle In New The Avengers Image : Marvel recently released a new photo from their upcom ... http://t.co/xwkli87y
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example229 :
+Aspect: @ParisHilton
+@Sentence: @ParisHilton finally found Paris Hilton shop in ibn battuta mall and found her signature On the this pic . Exciting http://t.co/iJEuKSWw
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example230 :
+Aspect: Rick Haglund
+@Sentence: Health care helps job market heal ( Rick Haglund column ): Compare that to auto and parts manufacturing , which emp ... http://t.co/BWbvBTHC
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example231 :
+Aspect: Facebook
+@Sentence: Facebook Isn't Just For Looking Up Your Ex You Can Use It To Make Money Too Easy ! http://t.co/ve93AJY9
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: positive
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example232 :
+Aspect: ABC News
+@Sentence: Ky . Tornado Death Toll Rises to 19 - ABC News http://t.co/SvLiWzoh
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example233 :
+Aspect: Wantickets
+@Sentence: Ky . Tornado Death Toll Rises to 19 - ABC News http://t.co/SvLiWzoh
+Context: Here are three examples of Aspect-Based Sentiment Analysis:
+Example 1:
+Sentence: 'sarah palin is awesome. | yes she is'
+Aspect: 'sarah palin'
+Sentiment: positive
+
+Example 2:
+Sentence: 'russell brand and katy perry suit each other. they 're both weird.'
+Aspect: 'katy perry'
+Sentiment: negative
+
+Example 3:
+Sentence: 'lindsay lohan must hate herself : samantha ronson has more followers on twitter. you know you 've hit rock bottom when...'
+Aspect: 'lindsay lohan'
+Sentiment: neutral
+
+
+----------------------------------------------------
+@@Sentiment: neutral
+++++++++++++++++++++++++++++++++++++++++++++++++++++

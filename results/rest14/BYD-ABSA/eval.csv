@@ -1,0 +1,4 @@
+Category, TP,FP,FN
+positive,72,5,3
+neutral,0,3,3
+negative,20,0,2

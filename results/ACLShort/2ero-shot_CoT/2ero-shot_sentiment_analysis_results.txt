@@ -1,0 +1,960 @@
+example01 :
+Aspect: shaquille o'neal
+@Sentence:  shaquille o'neal to miss 3rd straight playoff game | the ... : $t$ will miss his third straight play ... .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: justin
+@Sentence: dear justin , gray hoodies turned into leather jackets , '' ay ! '' turned into '' swag '' , u grew up , and we 've been here all the way . rt i u love bieber ♥
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: google wave
+@Sentence: received my google wave account today ! sorry have no invites , but i will spread the love if i receive any , thanks twitter community !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: google
+@Sentence: epascarello i know ! man i get pissed when i try to copy a link from google search results and paste it in a forum or whatever .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: john boehner
+@Sentence: is it just me , or does john boehner sound like a newsman ? sounds like he belongs on cbs nightly news .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral to Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: al gore
+@Sentence:  al gore 's next invention : the future of books ? -lrb- cheap shot , but cool application -rrb- . - by lizgannes startup
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: lindsay lohan
+@Sentence:  lindsay lohan looking gorgeous in nyc - 10/14 : here are new photos of $t$ helping launch the new velve . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: ipod
+@Sentence: so my latebus still sucks , but my ipod is n't dead this time : -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: biden
+@Sentence: new post on legality of the war -lrb- or lack thereof -rrb- . featuring a very scholarly exposition by biden in 1998 . -lrb- really ! -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: britney spears
+@Sentence: i like britney spears new song ... i wan na hear it now = -lrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: wii
+@Sentence: about to hack my nintendo wii so it can play dvds . i 'm a geek .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Mixed (Negative/Positive)'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: google wave
+@Sentence: i know eh ? my interviewer pulled out a completely random dynamic programming problem google wave ' is been working on for months !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: ipad
+@Sentence: mrice007 apple survey - what is your opinion of apple products ? ipad sucks ? apple .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: windows 7
+@Sentence: installed windows 7 . its real nice . its kust a shame no drivers for seven . had to install and go back to experience : -lrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: xbox
+@Sentence: bloooood mother fuckaa kall me red alert feed that bitch penis until ha head burst !! - weezyneed an xbox controller
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: selena gomez
+@Sentence: fashion soulmates selena gomez and victoria justice : who 's hotter ? - gather celebs news channel .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: britney spears
+@Sentence: a static lullaby - toxic -lrb- britney spears -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: psp
+@Sentence: god of war psp is very satisfying .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: katy perry
+@Sentence: chessed . . like why tf is my mom sleeping in the living room ? = / like wtf , now i ca n't even blast ' e.t - katy perry ft . kanye west ' -lrb- and -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: xbox
+@Sentence: ' green island ' - xbox live independent games showcase '' mtv multiple : the japanese went even crazier for & . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example01 :
+Aspect: shaquille o'neal
+@Sentence:  shaquille o'neal to miss 3rd straight playoff game | the ... : $t$ will miss his third straight play ... .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: justin
+@Sentence: dear justin , gray hoodies turned into leather jackets , '' ay ! '' turned into '' swag '' , u grew up , and we 've been here all the way . rt i u love bieber ♥
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: google wave
+@Sentence: received my google wave account today ! sorry have no invites , but i will spread the love if i receive any , thanks twitter community !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: google
+@Sentence: epascarello i know ! man i get pissed when i try to copy a link from google search results and paste it in a forum or whatever .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: john boehner
+@Sentence: is it just me , or does john boehner sound like a newsman ? sounds like he belongs on cbs nightly news .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: al gore
+@Sentence:  al gore 's next invention : the future of books ? -lrb- cheap shot , but cool application -rrb- . - by lizgannes startup
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: lindsay lohan
+@Sentence:  lindsay lohan looking gorgeous in nyc - 10/14 : here are new photos of $t$ helping launch the new velve . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis analysis concludes that the sentence portrays Lindsay Lohan in a positive light, focusing on her appearance and a recent event related to her career.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: ipod
+@Sentence: so my latebus still sucks , but my ipod is n't dead this time : -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: biden
+@Sentence: new post on legality of the war -lrb- or lack thereof -rrb- . featuring a very scholarly exposition by biden in 1998 . -lrb- really ! -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: britney spears
+@Sentence: i like britney spears new song ... i wan na hear it now = -lrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: wii
+@Sentence: about to hack my nintendo wii so it can play dvds . i 'm a geek .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: google wave
+@Sentence: i know eh ? my interviewer pulled out a completely random dynamic programming problem google wave ' is been working on for months !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: ipad
+@Sentence: mrice007 apple survey - what is your opinion of apple products ? ipad sucks ? apple .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: windows 7
+@Sentence: installed windows 7 . its real nice . its kust a shame no drivers for seven . had to install and go back to experience : -lrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: xbox
+@Sentence: bloooood mother fuckaa kall me red alert feed that bitch penis until ha head burst !! - weezyneed an xbox controller
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: selena gomez
+@Sentence: fashion soulmates selena gomez and victoria justice : who 's hotter ? - gather celebs news channel .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: britney spears
+@Sentence: a static lullaby - toxic -lrb- britney spears -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely **positive** or **neutral**. This assumption is based on the context that "britney spears" is mentioned in the context of a cover song, which generally implies some level of respect or appreciation for the original artist\'s work. Without additional context indicating otherwise, it\'s reasonable to infer a positive or neutral sentiment towards Britney Spears in this specific mention.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: psp
+@Sentence: god of war psp is very satisfying .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: katy perry
+@Sentence: chessed . . like why tf is my mom sleeping in the living room ? = / like wtf , now i ca n't even blast ' e.t - katy perry ft . kanye west ' -lrb- and -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: xbox
+@Sentence: ' green island ' - xbox live independent games showcase '' mtv multiple : the japanese went even crazier for & . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example21 :
+Aspect: lindsay lohan
+@Sentence:  lindsay lohan begins blame game : $t$ begins the blame game . lindsay started reeling off excuses for with . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example22 :
+Aspect: miley cyrus
+@Sentence: np party in the usa - miley cyrus udh lama ga dengerin ini lagu wwkwk : d
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example23 :
+Aspect: jimmy fallon
+@Sentence: just saw stephen colbert and the roots covering friday on the jimmy fallon show . funny stuff .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis sentiment is inferred based on the use of "funny stuff", indicating a positive and enjoyable experience watching Jimmy Fallon\'s show. The sentence does not express any negative sentiment or criticism towards Jimmy Fallon or the show, rather it implies enjoyment and amusement, hence the positive sentiment classification.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example24 :
+Aspect: sarah palin
+@Sentence: '' anyone who helps keep sarah palin from high office merits at least one nobel peace prize , if not more . '' - sd , ttlg forums
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example25 :
+Aspect: obama
+@Sentence: '' i 'm presidential when i flow , yo it aint hard to tell that i ba-rock the show obama self '' - tablo
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example26 :
+Aspect: nicolas cage
+@Sentence: just watched '' raising arizona '' again - forgot how much i love that movie . back when nicolas cage made good movies ...
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards Nicolas Cage based on the provided context is **positive**. The sentiment is driven by admiration and fondness for his earlier film roles, aligning with the overall positive sentiment expressed towards the movie "Raising Arizona" and Nicolas Cage\'s contribution to it.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example27 :
+Aspect: google
+@Sentence: rt jaimemorelli : i would love to see a nuanced comparison of google television vs . hooking up my television to a mac mini and buying a wireless keyboard ...
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn based on the phrase "i would love to see a nuanced comparison of google television," which implies a desire for detailed information and suggests a positive sentiment towards Google\'s products or services in the context of television technology.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example28 :
+Aspect: psp
+@Sentence:  psp 1.5 ~ ~ news / / japan roundup : virtual $t$ eleven fest console go ! best of gamesetwatch : fr
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example29 :
+Aspect: britney spears
+@Sentence: just started liking two songs i hated when they first came out : radar - britney spears , sexy bitch - david guetta feat . akon .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example30 :
+Aspect: miley cyrus
+@Sentence: ✔ acting skills ✔ great voice ✔ nice hair ✔ hilarious ✔ adorable ✔ talented ✔ gorgeous = perfect and that must be miley cyrus ! < 3
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example31 :
+Aspect: jimmy fallon
+@Sentence: waiting for jimmy fallon james franco is but that video of the chick on jay keno was funny the gardners face was priceless
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example32 :
+Aspect: britney spears
+@Sentence: miley cyrus is another petulant girl like britney spears , i love dakota fanning is another type of person .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example33 :
+Aspect: nicolas cage
+@Sentence: twitter question : whose made more bad movies ... nicolas cage or jennifer aniston ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example34 :
+Aspect: britney
+@Sentence: i would kill for a 1 hour sit down interview with britney . ugh i wish she was allowed to speak .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Mixed sentiment'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example35 :
+Aspect: lakers
+@Sentence: iloveitwhen the lakers do they thang ... shoutout to all the laker haters
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example36 :
+Aspect: madonna
+@Sentence: i love cascada new song it remind me of something madonna would do
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example37 :
+Aspect: britney spears
+@Sentence: in the s&m remix with britney spears , she sounds like a nasal , congested 5 year old talking about sex . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **negative**.\n\nThis sentiment is derived from the negative descriptors used ("nasal," "congested," and the comparison to a young child) which imply a critical evaluation of Britney Spears\' vocal delivery in the remix context.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example38 :
+Aspect: nicki minaj
+@Sentence: listening to '' blazing -lrb- feat . kanye west -rrb- '' by nicki minaj and loving it ! see the video & lyrics : .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis analysis is based on the expressions of enjoyment and the positive language used in relation to Nicki Minaj\'s music. The sentence conveys enthusiasm and appreciation, indicating a favorable sentiment towards Nicki Minaj and her song "blazing".'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example39 :
+Aspect: ipod
+@Sentence: we were just regaling a student worker with horror stories about doing repetitive boring work in the pre - ipod era .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example40 :
+Aspect: lindsay lohan
+@Sentence: i wish it was always the weekend . i look like ass today , you would 've thought i was partying it lindsay lohan style this wknd .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example41 :
+Aspect: ashton kutcher
+@Sentence: ugh ! a girl in my form just made what i like to call and ' ashton kutcher face ' if you 're wondering . . its stupid . i hate his face . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards "ashton kutcher" is **negative**.\n\n---\n\nThis analysis shows how the sentiment can be inferred from the context and specific details provided in the sentence. If you have any more questions or need further analysis, feel free to ask!'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example42 :
+Aspect: gaga
+@Sentence: i used to have all the records gaga 's broken & set memorized , but now there 's too many to remember . lady $t$ fuck you , you 're too awesome !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards Lady Gaga is **positive**.\n\nThis conclusion is drawn from the overall context of the sentence where despite the initial overwhelm with the number of records, the final expression "you\'re too awesome!" conveys a positive sentiment towards Lady Gaga.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example43 :
+Aspect: ellen degeneres
+@Sentence: watch ' glee ' star darren criss and warblers sing for ellen degeneres : filed under : television news ' glee ' star darren criss led the warblers ...
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example44 :
+Aspect: hillary clinton
+@Sentence:  hillary clinton arrives to clinch northern ireland peace deal - telegraph
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example45 :
+Aspect: khloe kardashian
+@Sentence: kris jenner slams khloe kardashian for gaining weight : religion and the royals ! the archbishop of canterbury , wh ... .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example46 :
+Aspect: selena gomez
+@Sentence: love selena gomez !!!! she rock !!!!!!!!!!!!!!!! and she 's cool she 's my idol
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example47 :
+Aspect: ipad
+@Sentence: thehils heard great things about the ipad for speech/communication . educational discounts are problem best bet . maybe thanksgiving ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example48 :
+Aspect: barack obama
+@Sentence: jamie fox , eddie murphy , and barack obama because they all are exciting , cute , and inspirational to lots of people including me !!!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards Barack Obama in this sentence is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example49 :
+Aspect: britney spears
+@Sentence:  britney spears new song is about a threesome . but its 2 guys one girl ? i believe that 's called a gangbang . dirty britney .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example50 :
+Aspect: charlie sheen
+@Sentence: bret easton ellis : how charlie sheen is giving us what we want - the daily beast . -lrb- via instapaper -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example51 :
+Aspect: selena gomez
+@Sentence: justin love and if he 's happy , i think that we will be happy beliebers . whether or not with selena gomez .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example52 :
+Aspect: alicia keys
+@Sentence: prince brings out alicia keys for '' how come you do n't call me '' duet : if you did n't get anything good in your e ... .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example53 :
+Aspect: lindsay lohan
+@Sentence: labor pains is a complete trash , no wonder lindsay lohan had sunk nowhere .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example54 :
+Aspect: psp
+@Sentence: back in love with my psp ! thanks rockstar !!!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example55 :
+Aspect: nicolas cage
+@Sentence: virile heavenly host nicolas cage 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nThis analysis concludes that the sentiment towards Nicolas Cage in the given sentence is positive, likely admiring his strong and possibly divine qualities.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example56 :
+Aspect: barack obama
+@Sentence: mix barack obama furious at general stanley mcchrystal speech on afghanistan - telegraph : the relationship . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **negative**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example57 :
+Aspect: biden
+@Sentence: you tube admits to censoring view count on biden impeachment video : steve watson | youtube has admitted to freeze ... .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards "Biden" in this context is likely negative. The mention of censoring or freezing view counts on a video related to Biden\'s impeachment indicates a situation where negative sentiment or controversy surrounding Biden is being suppressed or managed. Therefore, the sentiment conveyed towards Biden in this sentence is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example58 :
+Aspect: charlie sheen
+@Sentence: whatever , ipad . look at this . charlie sheen quotes as new york cartoons . so genius i almost ca n't process it . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example59 :
+Aspect: wii
+@Sentence: a naughty mickey mouse makes appearance on disney epicmickey for wii 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example60 :
+Aspect: iphone
+@Sentence: interesting alternative iphone interface -lsb- thenextweb.com -rsb- -lsb- shared by 12 people -rsb- -lrb- so . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example61 :
+Aspect: britney spears
+@Sentence:  britney spears ' music has gotten progressively worse . she sings less and less and relies upon melodyne to make her boice sound like crap !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nThis analysis shows that the sentence conveys a strong negative sentiment towards Britney Spears, primarily focused on her music quality and vocal performance, citing perceived decline and technical intervention as reasons.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example62 :
+Aspect: psp
+@Sentence: i want a psp damn it !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example63 :
+Aspect: jimmy carter
+@Sentence: is obama trying to be just like jimmy carter ?? he 's doing a pretty good job so far ... icon | he has passed jimmy !!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example64 :
+Aspect: lenny kravitz
+@Sentence: a . valentin played a song come on get it by lenny kravitz on myspace .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example65 :
+Aspect: lindsay lohan
+@Sentence: click4 pictures & clips ! lindsay lohan sucks at fashion , employment : bad business decisions are . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example66 :
+Aspect: john legend
+@Sentence: * faints * john legend , ufunani manje ? selimathunziauditions
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example67 :
+Aspect: wii
+@Sentence: at eva 's house playing the wii resorts ha , i suck man . but i came first in wakeboarding ! : d
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Mixed'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example68 :
+Aspect: ipod
+@Sentence: my ipod is not letting me go 2 myspace now !!! ugh love myspace !!! talk 2 me in facebook or twitter
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards "ipod" is negative.\n\nTherefore, the analysis of sentiment polarity towards "ipod" in the given sentence is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example69 :
+Aspect: sarah palin
+@Sentence: yikes ! rt here 's that terrible sarah palin women ! omg ! sanctuary omg for sure sgu sanctuary
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example70 :
+Aspect: taylor swift
+@Sentence: although i wish it was , i do n't think think jelena is a publicity stunt . i want him to get with taylor swift . omg . would make my life . : -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nThe sentiment towards Taylor Swift in this sentence is positive. The speaker clearly expresses excitement and a positive emotional reaction at the prospect of "him" being with Taylor Swift, indicating a favorable sentiment towards her.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example71 :
+Aspect: ashton kutcher
+@Sentence:  ashton kutcher and demi moore on human trafficking : ' no young girl chooses to ... .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is likely positive. Given that Ashton Kutcher is frequently known for his activism against human trafficking and child exploitation through his organization Thorn (now called Solace), the mention of him in this context suggests advocacy and efforts to combat these issues. Therefore, the sentiment conveyed is positive, aligning with his humanitarian efforts in addressing such critical societal challenges.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example72 :
+Aspect: nicolas cage
+@Sentence: milkuk | hollywood star supports baby unit : movie actor nicolas cage visits bath ruh to . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example73 :
+Aspect: nicki minaj
+@Sentence:  nicki minaj : i look like yes and you look like no . < really ? do n't even get me vexed ! i will smash my laptop ! lol
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example74 :
+Aspect: wii
+@Sentence: im bored so im playing animal crossings city folk on the wii . i love this game lol .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example75 :
+Aspect: britney spears
+@Sentence: bored to death with britney spears 
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example76 :
+Aspect: steve jobs
+@Sentence: i love this ! steve jobs does n't know what the phone can do , says adobe | news | techradar uk
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example77 :
+Aspect: lakers
+@Sentence: right hereeee !!!! * waka flock voice * rt bigjamaal : lakers where y' all at ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**. \n\nThis analysis is based on the use of enthusiastic punctuation, references to popular culture, and the context of addressing a sports team, which collectively suggest a positive sentiment towards the Lakers.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example78 :
+Aspect: harry potter
+@Sentence: `` badd_liqhtskin : harry potter was onn point ; loved it -lsb- : ''
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example79 :
+Aspect: iphone
+@Sentence: ca n't get a motorola droid without paying full retail . will probably be much cheaper to cancel my verizon account and unlock an iphone .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example80 :
+Aspect: maradona
+@Sentence:  maradona set for more misery in montevideo : diego $t$ takes his beleaguered troops to the estadio centenar . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **negative**.\n\nThis conclusion is drawn from the negative connotations of "misery" and "beleaguered," which indicate a situation of hardship or distress. The sentiment expressed towards "maradona" in this sentence leans towards negativity due to these associations.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example81 :
+Aspect: sarah palin
+@Sentence: msm has not once mentioned bill maher 's repulsive characterization of sarah palin . now has been very quiet as sarah is not a democrat .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example82 :
+Aspect: xbox
+@Sentence: checking out the new xbox features . like this .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example83 :
+Aspect: kindle
+@Sentence: thank you ! wescky do you have the new kindle ? what do you think about it ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis analysis considers the expressions of gratitude and curiosity towards the "new kindle", suggesting a positive sentiment towards this aspect.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example84 :
+Aspect: xbox
+@Sentence: anyone have good advice on whether to purchase games for ps3 or xbox 360 when both are available ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example85 :
+Aspect: lakers
+@Sentence: scottygkfan so deron williams says '' hate '' about the lakers . where is the fallout and uproar over that ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example86 :
+Aspect: britney spears
+@Sentence: i love britney spears . twitterfession
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example87 :
+Aspect: harry potter
+@Sentence: what is the best harry potter movie for you ?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example88 :
+Aspect: britney spears
+@Sentence: 3 : britney spears britney fantasy midnight edp perfume spray
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example89 :
+Aspect: ipad
+@Sentence: rt enormego : how is there no '' do n't sync iphone-only apps '' option for ipad ? itunes insistence on syncing all of my phone apps is fuck ...
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example90 :
+Aspect: google
+@Sentence: hey google , thanks for all these great labs features on chromium , but how about '' create application shortcut '' ?! .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example91 :
+Aspect: obama
+@Sentence:  obama updates : cutting latin america trip short ; nobel peace prize under attack . nobel peace
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example92 :
+Aspect: windows 7
+@Sentence: help me a problem with windows 7 ultimate ? : i have an alfa wireless adepdter and its usb awush32h -lrb- something look . .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example93 :
+Aspect: britney spears
+@Sentence: songs of britney spears nowadays are stupid ... non sense things ... it 's all about sex !! geeezzz ...
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example94 :
+Aspect: taylor swift
+@Sentence:  taylor swift was awesome ! : d
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example95 :
+Aspect: lakers
+@Sentence: one thing i hate about being a sports fan is that it hurts every time you realize your team is done ... being a lakers fan is a buffer lol
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example96 :
+Aspect: maradona
+@Sentence: ardiles backs maradona for world cup glory
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example97 :
+Aspect: britney spears
+@Sentence: im about 2 snap ; like wtf , why does britney spears sucking a penis keeps following me ; like grrrr its like 5 = /
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example98 :
+Aspect: lady gaga
+@Sentence: littlemonsterx _ hey i 've had a lady gaga day listening to all her songs from my pod up full = amazing !
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example99 :
+Aspect: ipod
+@Sentence: bus driver just beeped at incredible idiot skateboarding down mlk blvd on the road with ipod headphones on .
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **negative**.\n\n---'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example100 :
+Aspect: micheal jackson
+@Sentence: . . '' if you wan na make world a better place take a look at yourself then make that change '' - micheal jackson . -lrb- misses him , real prodigy , great human -rrb-
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++

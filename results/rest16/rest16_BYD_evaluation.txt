@@ -1,0 +1,876 @@
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker highly recommends the place for those who want to try Indian food for the first time, indicating a positive sentiment towards Indian food.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. While the phrase "plenty of food" indicates a positive sentiment, the addition of "trust me" suggests that the speaker is trying to reassure or convince someone of the positive aspect of food. Therefore, based on the context and the emphasis on abundance and trust, we can conclude that the sentiment towards the food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Fresh ingredients and super tasty" indicates a positive sentiment towards the ingredients, as they are described as fresh and super tasty.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The lunch menu is an awesome deal" expresses a positive sentiment towards the lunch menu, indicating that it is considered to be of great value and desirable. Therefore, based on the context and wording of the sentence, we can conclude that the sentiment towards the lunch menu in this statement is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "Best food, phenomenal service" clearly indicates a positive sentiment towards the food, as it is described as the best. Additionally, the mention of phenomenal service also suggests a positive sentiment towards the overall dining experience. Therefore, based on the context and the descriptive words used, we can conclude that the sentiment towards the food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence describes the fish as the freshest and the service as superb, indicating a positive sentiment towards the aspect of fish.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement indicates a positive sentiment towards the selection, as it is described as innovative and has a nice balance of traditional sushi as well.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "The nicest waiters in town" indicates a positive sentiment towards the waiters. The use of the superlative "nicest" suggests that the speaker had a very positive experience with the waiters.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The use of the word "average" in the sentence indicates a neutral sentiment towards the brunch food. Additionally, the speaker mentions waiting in line for an hour, which suggests a level of dissatisfaction. Hence, we can infer that the sentiment towards the brunch food in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses a negative sentiment towards the regular menu at the establishment, noting that it is not worth the negative customer service attitude that accompanies it.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "unbelievably over-rated" indicates a strong negative sentiment towards the place. Therefore, the sentiment towards the place in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. This statement does not explicitly express a sentiment towards sushi, but rather lists the characteristics and components of what a sushi fan loves. Therefore, the sentiment towards sushi in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "has it all, plus a lot more" implies a positive sentiment towards the place being referred to. It suggests that the place is not only comprehensive in what it offers but also exceeds expectations, which generates a positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence does not explicitly express a sentiment towards BLUE RIBBON SUSHI. It only refers to the restaurant as the best sushi restaurant in the world, but does not provide a clear positive or negative sentiment. Therefore, based on the given sentence alone, the sentiment towards BLUE RIBBON SUSHI is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Hands down, the best tuna I have ever had" clearly conveys a positive sentiment towards the tuna. The use of "best" and "ever" emphasizes the high quality and enjoyment of the tuna, indicating a positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Blue Ribbon lives up to its fantastic reputation" indicates a positive sentiment towards Blue Ribbon. The use of the phrase "fantastic reputation" implies that the company or product has a strong, positive image. Therefore, we can conclude that the sentiment towards Blue Ribbon in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. In this sentence, the speaker praises the Chef's Choice for sushi, specifically highlighting the incredible smoked yellowtail and tasty rolls. This indicates a positive sentiment towards the dining experience.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "great value sushi with high quality & nice setting" indicates a positive sentiment towards the sushi. The use of terms like "high quality" and "nice setting" suggests a positive experience with the sushi.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Poor customer service/poor pizza." indicates a negative sentiment towards both the customer service and the quality of the pizza. By using the word "poor" to describe both aspects, it is clear that the sentiment is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a negative sentiment towards the service at Mioposto, stating that it was bad. Therefore, based on the context and the negative description of the service, we can determine that the sentiment towards the service in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. In this sentence, the speaker is expressing a negative sentiment towards Mioposto's pizza, stating that it lacks quality and good taste. Therefore, based on the context and the speaker's opinion, we can conclude that the sentiment towards the aspect of 'pizza' in this sentence is negative.",
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "to be honest, I\'ve had better frozen pizza" suggests that the speaker is not completely satisfied with the quality of the frozen pizza. This implies a neutral sentiment, as the speaker is not explicitly expressing strong positive or negative feelings towards the pizza.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates a neutral sentiment towards Mioposto, as it only mentions a positive aspect (the nice location) but does not express an overall positive or negative opinion of the restaurant as a whole.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "this place is fantastic; it has not let us down in any way" clearly indicates a positive sentiment towards the place being referred to. Additionally, the fact that the speaker has eaten there more than 10 times further suggests a positive sentiment. Therefore, based on the context and the speaker\'s experiences, we can conclude that the sentiment towards the place in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence presents the aspect of "wait" as the only potential problem, but it also suggests a solution to make the wait more bearable. It does not express a strong positive or negative sentiment towards the wait, thus indicating a neutral sentiment.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The food is fantastic" clearly expresses a positive sentiment towards the food. Additionally, the mention of the waiting staff being perfect every time further contributes to the positive sentiment. Therefore, based on the context and the positive descriptions of the food and service, we can conclude that the sentiment towards the food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. Since the phrase "Seafood Plus" does not provide any additional information about the sentiment towards seafood, we cannot infer any specific sentiment from this statement.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. We can see that the statement describes the appetizer as making a perfect entrée for the speaker\'s wife, indicating a positive sentiment towards the appetizer. Additionally, the use of the word "perfect" further emphasizes the positive sentiment. Therefore, based on the context and description, we can conclude that the sentiment towards the appetizer in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the speaker expresses a positive sentiment towards the Seabass on lobster risotto, stating that it was the best. This indicates that the speaker enjoyed the dish and found it to be excellent.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Caesar salad was superb" indicates a positive sentiment towards the Caesar salad. The use of the word \'superb\' suggests high praise and satisfaction with the dish, leading to a positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "Great bottle of wine" conveys a positive sentiment towards the bottle of wine. The word "Great" indicates satisfaction and approval, suggesting a positive experience with the wine.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this case, the statement "Leave room for dessert" suggests a positive sentiment towards dessert, as it implies anticipation and excitement for enjoying a sweet treat at the end of a meal.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence states that the food was "ok," indicating a neutral sentiment towards the food. However, it also mentions that the service was poor, resulting in the food being cold by the time it was served. This negative experience with the service could potentially affect the overall sentiment towards the food. However, since the sentiment towards the food is explicitly stated as "ok," we can infer that the sentiment towards the food in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence indicates that the owner's attitude was dismissive, which implies a negative sentiment towards the owner. The fact that the owner only offered a token 20% discount on the bill further supports the negative sentiment.",
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence describes a negative experience with the waitress, as the speaker had a difficult time getting her attention and had to escalate the issue to a manager. Therefore, the sentiment towards the waitress in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "AVOID THE PLACE" clearly indicates a negative sentiment towards the mentioned place. The use of the word "AVOID" suggests a strong recommendation against visiting or engaging with the place, highlighting a negative perception or experience.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence describes the atmosphere as cozy, which could be interpreted as positive. However, it also mentions that the service was horrible, which could influence the overall sentiment of the atmosphere. As a result, the sentiment towards the atmosphere in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this case, the statement indicates a negative sentiment towards the service provided. The speaker had to wait for a significant amount of time, ordered a drink, and was never served again, reflecting a frustrating and negative experience with the service.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates a negative sentiment towards the restaurant, as the speaker discovered a non-existent service and a deceptive link when trying to participate in a giveaway. This reflects poorly on the restaurant and creates a negative perception of their online services.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates a negative sentiment towards the bar keep, as they were slow and unresponsive in making drinks and attending to customers. This resulted in a negative experience for the speaker, as they had to wait for a long time without receiving proper service.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the speaker indicates a negative sentiment towards the service they received, as they left without ever receiving it. Therefore, based on the context of the statement, we can infer that the sentiment towards the service in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Best Crab Cakes in Town" indicates a positive sentiment towards crab cakes, suggesting that they are highly regarded and of superior quality relative to other options in town.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The speaker expresses a positive sentiment towards the cakes, as they indicate that the flavor and quality of the cakes improve with each attempt, despite the speaker's extensive experience in making them.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence doesn't provide a clear indication of the sentiment towards the place. It simply suggests a method of transportation and an activity to make it a whole evening, but it does not express whether the speaker has a positive, negative, or neutral sentiment towards the place.",
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The description "Great seasonal fish and seafood" suggests a positive sentiment towards the seasonal fish. This is further reinforced by the description of a "classy waterfront setting." Overall, the sentiment towards the seasonal fish in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "Great Pizza" indicates a positive sentiment towards the pizza, while "Poor Service" indicates a negative sentiment towards the service. However, since the focus is on the pizza aspect, we can infer that the sentiment towards pizza in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "love their pizza, especially the mushroom pizza" expresses a positive sentiment towards the pizza, specifically highlighting the mushroom pizza as a favorite. Therefore, based on this context, we can infer that the sentiment towards the pizza is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Also love their caeser salad" indicates a positive sentiment towards the caeser salad.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "because I don\'t like the servers, one young woman in particular" indicates a negative sentiment towards the servers, specifically mentioning a negative interaction with one of the servers. Therefore, the sentiment towards the servers in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a negative sentiment towards the management, as it suggests that they need to take notice and train their waitstaff, indicating a lack of proper manners. Therefore, based on the context and the implication of the statement, we can infer that the sentiment towards the management in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence mentions great pizza but also poor service, so it does not clearly express a specific sentiment towards the pizza itself. Therefore, the sentiment polarity towards the aspect "pizza" in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence contains both positive and negative aspects. The positive aspects include "great little place" and "tons of potential to be a neighborhood joint," while the negative aspects include "impersonal and corporate-like service." Considering both the positive and negative aspects, the overall sentiment towards the place can be considered neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this case, the phrase "Great Breakfast" indicates a positive sentiment towards the breakfast. The use of the word "Great" suggests that the speaker had a positive experience with their breakfast.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "– This place is famous for their breakfast" does not explicitly express any positive or negative sentiment towards the breakfast. It simply states that the place is known for its breakfast, which does not inherently imply a positive or negative sentiment. Therefore, based on the context, we can conclude that the sentiment towards the breakfast in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "The food is great" indicates a positive sentiment towards the food. Additionally, the statement "they make a mean bloody mary" further supports the positive sentiment. Therefore, based on the context and the positive descriptors used, we can conclude that the sentiment towards the food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "I love breakfast here" expresses a positive sentiment towards the breakfast at this particular place. Therefore, we can infer that the sentiment towards the breakfast in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The use of the word "addicting" indicates a positive sentiment towards the crab eggs benedict. The speaker is expressing that they find the dish irresistible and enjoyable, which implies a positive opinion.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "All their menu items are a hit" indicates a positive sentiment towards the menu items. Additionally, the fact that they serve mimosas further adds to the positive sentiment, as it implies that the overall dining experience has been enjoyable. Therefore, based on the context, we can infer that the sentiment towards the menu items in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "the ambiance of the restaurant was nice and good for fine dining" indicates a positive sentiment towards the ambiance. The use of words like "nice" and "good" suggests a positive and pleasant atmosphere, especially for fine dining.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The description "best chinese food I have tasted in a long time" indicates a positive sentiment towards Chinese food, expressing satisfaction and enjoyment. Therefore, based on the context and the description of the food, we can infer that the sentiment towards Chinese food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards the staff, describing them as nice, courteous, and obviously Chinese.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker describes the prawns as "fresh" and with a "slight crispiness about the batter," indicating a positive sentiment towards the prawns. Additionally, the speaker mentions that the prawns were "soooo good," further confirming the positive sentiment. Therefore, based on the description and the speaker\'s enthusiasm, we can conclude that the sentiment towards the prawns in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "the brocollis were so fresh and tasty" indicates a positive sentiment towards the broccoli. The use of words like "fresh" and "tasty" highlights the positive experience the speaker had with the broccoli.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "best honey walnut prawns that we have ever tasted" indicates a positive sentiment towards the dish, as the speaker is expressing their enjoyment and satisfaction with the dish. Therefore, based on the context and the statement made, we can conclude that the sentiment towards honey walnut prawns in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the speaker mentions that they would normally not finish the broccoli when ordering this type of food. However, for the first time, they found every piece to be as eventful as the first one. This indicates a positive sentiment towards the broccoli, as the speaker enjoyed it and found it to be a positive experience.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this statement, the speaker expresses a positive sentiment towards the mango ginger creme brulee by describing it as "yummy." Additionally, the use of "oh la la" further emphasizes the positive sentiment. Therefore, based on the context and the interjection used, we can conclude that the sentiment towards the mango ginger creme brulee in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The term "chintzy" is a negative adjective that describes something as being cheap, stingy, or of poor quality. When paired with the aspect of "portions," it indicates a negative sentiment towards the size or quality of the portions.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "we are for sure coming back to this restaurant" indicates a positive sentiment towards the restaurant. It implies that the speaker had a positive experience and is eager to return in the future. Therefore, based on the context of the sentence, we can conclude that the sentiment towards the restaurant is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the speaker expresses a neutral sentiment towards the sushi. The statement acknowledges that the sushi is "perfectly good," but also expresses a concern about the price and value. Therefore, based on this mixed evaluation, we can conclude that the sentiment towards the sushi in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "I\'m astonished that this restaurant is categorized as $$$ rather than $$$$" indicates a neutral sentiment towards the restaurant. The speaker is surprised or shocked at the restaurant\'s categorization, but does not express a specific positive or negative emotion. Therefore, based on the context, we can conclude that the sentiment towards the restaurant in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "terrible service" suggests a negative sentiment towards the aspect of service. Additionally, the lack of positive language or specific details about the service further supports the negative sentiment. Therefore, we can conclude that the sentiment towards the service in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence implies a negative sentiment towards the service of a company. It suggests that the company's prioritization of individuals is based on financial gain rather than their actual service. Therefore, the sentiment towards the service in this sentence is negative.",
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Food wise, its ok" indicates a neutral sentiment towards the food, neither positive nor negative. However, the statement "a bit pricey for what you get considering the restaurant isn\'t a fancy place" suggests a slightly negative sentiment towards the value of the food. Therefore, based on the overall sentiment expressed in the sentence, we can conclude that the sentiment towards the food in this context is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence does not explicitly express any sentiment towards the location to the beach or Golden Gate Park. It simply mentions them as potential options if the speaker needed to name some locations. Therefore, the sentiment towards the location is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "open feel" indicates a positive sentiment towards the atmosphere or ambiance of the restaurant. The use of the word "plus" also implies a positive aspect. Therefore, based on the context and the wording used, we can infer that the sentiment towards the "feel" of the restaurant is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards the Spanish Mackeral special appetizer, as it is described as amazing and flavorful.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "As usual the omikase didn\'t disappoint in freshness" indicates a positive sentiment towards the freshness of the omikase. However, the latter part of the sentence "although it scored low on creativity and selection" suggests a slightly negative sentiment towards the creativity and selection of the omikase. As a result, the sentiment towards the omikase in this sentence is neutral, with a mix of positive and negative sentiments.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker mentions that the specialty rolls are impressive, indicating a positive sentiment towards them. However, there is also a hint of forgetfulness, which suggests a slight neutral tone. Therefore, based on the overall context, we can conclude that the sentiment towards the specialty rolls in this sentence is primarily positive, with a slight hint of neutrality.',
+    sentiment='positive (with a slight hint of neutrality)'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Great selection of sakes" indicates a positive sentiment towards the variety and quality of the sakes available. Therefore, based on this sentence, we can infer that the sentiment towards the selection of sakes is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "gets better each time I have it" indicates a positive sentiment towards the green tea creme brulee. This suggests that the speaker enjoys the dessert and has a positive experience with it.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. Although the statement acknowledges that the sushi is not the cheapest, it also states that it has been worth it every time, indicating a positive sentiment towards the sushi. Therefore, we can conclude that the sentiment towards the sushi in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Very poor customer service" clearly indicates a negative sentiment towards the customer service. Therefore, based on this statement, we can infer that the sentiment towards the customer service in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentiment towards the location along the marina in Long Beach in this sentence is negative. The speaker expresses disappointment and dissatisfaction with the location, particularly highlighting the poor customer service, which indicates a negative sentiment.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The first part of the sentence indicates a positive sentiment toward the food, describing it as "reasonably good." However, the second part of the sentence expresses a negative sentiment towards the restaurant staff and service. Therefore, the overall sentiment towards the aspect of food in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the interaction with the waitress is negative as she responded with an abusive rant after a polite request. Therefore, the sentiment towards the waitress in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement indicates a negative sentiment towards the manager, describing the interaction as a disappointment and feeling as though they had been "blown off." Therefore, based on the context of the conversation, we can conclude that the sentiment towards the manager in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. In this sentence, the speaker expresses dissatisfaction with the manager's behavior, indicating a negative sentiment towards the manager. The manager's continual interruptions and lack of response to the speaker's expressions of disappointment contribute to this negative sentiment.",
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence states that the fish was fresh, which indicates a positive sentiment. However, it also mentions that it was cut very thin, which could be perceived as a negative aspect. Therefore, the sentiment towards the fish is neutral, as it includes both positive and negative elements.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. Based on the context, we can infer that the speaker is suggesting a place to satisfy the hot date\'s craving for sushi, indicating a positive sentiment towards sushi. Additionally, the mention of a "hot date" suggests a special occasion, further emphasizing the positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "great service" indicates a positive sentiment towards the service provided. Therefore, we can infer that the sentiment towards the service in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "good sake selection" clearly indicates a positive sentiment towards the sake selection. Therefore, based on this context, we can infer that the sentiment towards the sake selection is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Dungeness crabs here!" does not provide enough context or indication of the speaker\'s sentiment toward Dungeness crabs. Therefore, we cannot infer the sentiment of Dungeness crabs as positive, negative, or neutral based on this sentence alone.',
+    sentiment='cannot be determined'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Ray\'s is THE place to go for high quality seafood dinners" indicates a positive sentiment towards seafood dinners, as it highlights the high quality and positive dining experience at Ray\'s. Therefore, based on this statement, we can infer that the sentiment towards seafood dinners is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker\'s expression of being "so glad" that they picked Rays for dinner indicates a positive sentiment towards Rays.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The speaker clearly expresses their love for Dungeness crabs and the variety of ways they can be served at Ray's, indicating a positive sentiment towards Dungeness crabs.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses a positive sentiment towards the black cod in sake kasu, stating that they especially enjoyed it. This indicates a favorable opinion of the dish.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The use of the word "yummy" suggests a positive sentiment towards the dessert of a port and chocolate tasting. Additionally, the statement implies that the speaker found the dessert to be enjoyable and satisfying. Therefore, based on the context and language used, we can conclude that the sentiment towards the dessert of a port and chocolate tasting in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The use of words like "splendid" and "delight" indicates a positive sentiment towards the service. Therefore, based on the positive language used to describe the service, we can conclude that the sentiment towards the service in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "Great Breakfast" indicates a positive sentiment towards the breakfast. The word "great" implies a highly positive opinion. Therefore, based on the context and the positive description, we can infer that the sentiment towards breakfast in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "great drinks" indicates a positive sentiment towards the drinks. Additionally, the mention of various food items and a gluten-free menu suggests that the overall experience at the establishment is positive. Therefore, based on the context and the positive descriptors used, we can infer that the sentiment towards the drinks in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The service is fantastic" clearly indicates a positive sentiment towards the service provided at this fun place. Therefore, the sentiment towards the service in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement indicates that the place is great, as evidenced by the consistent line every day of the week. This suggests a positive sentiment towards the place.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Best Neighborhood Standby" does not clearly express any positive or negative sentiment towards the aspect \'Standby\'. It simply indicates that standby is a reliable or convenient option for the neighborhood, so the sentiment is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates that the speaker and their neighbors have a favorite spot in the Gramercy/Union Square/East Village area. Since the sentiment is not explicitly positive or negative, we can infer that the sentiment towards this spot is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards the music, describing it as great and contributing to a lighthearted atmosphere that lifts spirits.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Oh, and the cheese fries are awesome!" clearly expresses a positive sentiment towards the cheese fries. The use of the word "awesome" indicates a strong positive feeling. Therefore, we can infer that the sentiment towards the aspect of cheese fries in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence states that the food is good, which indicates a positive sentiment towards the aspect 'Food.' Additionally, the combination of good food with great service further supports the positive sentiment.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence indicates that the speaker's decision to eat at Stack was influenced by their price fixed pre-show dinner option, which does not express any positive or negative sentiment. Therefore, the sentiment towards the price fixed pre-show dinner in this sentence is neutral.",
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards the wood decor, as the speaker was taken aback by its incredible nature.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The use of the phrase "it was alright" suggests a neutral sentiment towards the shellfish and shrimp appetizer. The speaker did not express extreme positivity or negativity, indicating that their experience with the appetizer was average or satisfactory.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a mixed sentiment towards the music. On one hand, it describes the music as "very hip, 20-30 something pop music," which could be interpreted as positive or at least neutral. However, the annoyance caused by the subwoofer being located under the speaker\'s seat indicates a negative sentiment. Therefore, the overall sentiment towards the music in this sentence is mixed or neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "It wasn\'t the freshest seafood ever" indicates a slightly negative sentiment towards the freshness of the seafood. However, the phrase "the taste and presentation was OK" suggests a more neutral sentiment, as the overall experience was just okay. Therefore, based on the mixed sentiments expressed in the sentence, we can conclude that the sentiment towards the seafood in this statement is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards the asparagus, as it turned out to be incredible and perfectly prepared.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates that the 9 oz steak tasted great, at least initially, suggesting a positive sentiment towards the steak.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence expresses a positive sentiment towards the steak, as it was done to the speaker's exact liking (medium rare) and was described as nice and juicy.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates that the peppercorn sauce was indistinguishable in taste from the red wine reduction, which suggests a neutral sentiment as it does not express a clear positive or negative opinion about the peppercorn sauce.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence does not express a positive or negative sentiment towards the steak. It simply states a realization about the restaurant's cooking methods, indicating a neutral sentiment towards the steak.",
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates a positive sentiment towards the desert, as it was described as the perfect ending to an almost perfect dinner. Therefore, we can conclude that the sentiment towards the desert in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "extremely attentive and very friendly" indicates a positive sentiment towards the servers. Therefore, based on the context of the sentence, we can infer that the sentiment towards the servers is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses a positive sentiment towards the restaurant, as they would go back and eat there again. This indicates that they had a good experience overall.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "good sake, good food" implies a positive sentiment towards sake, as the speaker associates it with good food. Additionally, the speaker admits to not knowing much about Japanese food, indicating a general positive sentiment towards the experience. Therefore, based on the context and the association with good food, we can infer that the sentiment towards sake in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. We can see that the statement "server made several sake suggestions which were very good" indicates a positive sentiment towards the server. The fact that the suggestions were very good suggests that the server was knowledgeable and helpful, leading to a positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "the BEST was the lobster 3 ways" indicates a positive sentiment towards the lobster 3 ways dish. The use of "BEST" emphasizes the speaker\'s preference for this particular dish, confirming the positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The waiter was a bit unfriendly" indicates a negative sentiment towards the waiter. This is further reinforced by the description of the restaurant feeling crowded, which adds to the negative experience. Therefore, based on the context, we can infer that the sentiment towards the waiter in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates a negative sentiment towards the bathroom stall, as it suggests that having only one stall for big crowds is inadequate and inconvenient.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses excitement about the food after seeing the very creative menu, indicating a positive sentiment towards the menu.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "At best, the food was good" indicates a somewhat positive sentiment towards the food. However, the addition of "definitely overpriced" suggests a negative aspect related to the cost. Overall, the sentiment towards the food in this sentence is neutral, as it contains both positive and negative aspects.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses dissatisfaction with the prices in relation to the amount of food received, indicating a negative sentiment towards the aspect of food in this context.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. Since the speaker refers to this pizza joint as their favorite in Seattle, we can infer that the sentiment towards the pizza joint is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement indicates that the speaker has a positive sentiment towards the restaurant, as it is a favorite place to bring out of town guests, and they always enjoy and rave about it.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards the pizza, as it is described as delicious. Therefore, based on the context and the description of the pizza, we can infer that the sentiment towards the pizza in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "I\'ve always found the wait staff and, if you sit at the bar, the cooks very friendly" indicates a positive sentiment towards the wait staff. The speaker expresses that they have consistently found the wait staff to be friendly, which implies a positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses enjoyment towards the simplicity of the decor and the intimate feeling of a small restaurant, indicating a positive sentiment towards the decor.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. Without more specific information, it is unclear whether the sentiment towards Mioposto Cafe is positive, negative, or neutral. The statement only indicates that the speaker and their husband love eating at the cafe, but it does not provide any specific details about their experience or feelings towards the cafe itself.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "We\'re can\'t say enough about their delicious gourmet pizza\'s!" expresses a positive sentiment towards the aspect of gourmet pizza. The use of the word "delicious" indicates a positive sentiment, as the speaker cannot say enough good things about it.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The use of the word 'disappointed' in the sentence indicates that the menu is expected to be good and not disappointing, suggesting a positive sentiment towards the menu.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The description of thin crust and creative combinations and toppings indicates a positive sentiment towards the pizza's being discussed.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The pizza\'s are light and scrumptious" expresses a positive sentiment towards the pizza. The use of the words "light" and "scrumptious" both indicate a positive opinion about the pizza, thereby confirming the positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. We can\'t infer any specific sentiment from the given phrase "Try the Pizza Ensalata!" as it does not explicitly express any positive, negative, or neutral feelings towards the Pizza Ensalata.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement highlights the size of the pizzas and the thinness of the crust, which does not inherently convey a positive or negative sentiment. Therefore, the sentiment towards the aspect "pizza\'s" in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "sinful" typically has a negative connotation when used to describe food, as it implies indulgence or excessiveness. Therefore, the sentiment towards the food in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "The staff was really friendly" indicates a positive sentiment towards the staff. The use of the word "really" emphasizes the positivity of the sentiment. Therefore, based on the context, we can infer that the sentiment towards the staff in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The atmosphere was great" clearly indicates a positive sentiment towards the atmosphere. The adjective "great" signifies a positive experience or feeling related to the atmosphere, which is why we can infer that the sentiment towards the atmosphere in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "I\'ve been wowed every time" indicates a positive sentiment towards the pancakes. Additionally, the fact that the speaker has been back four times further confirms their positive attitude towards the pancakes. Therefore, based on the context and the speaker\'s repeated positive experiences, we can infer that the sentiment towards the pancakes in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Nothing on the menu is less than amazing" indicates a positive sentiment towards the menu, as it suggests that all options are amazing. Therefore, we can conclude that the sentiment towards the menu in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards breakfast, as it suggests an enjoyable breakfast experience with friends and a cup of coffee.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses confusion and disbelief about the idea of someone writing a great review about the place, indicating a negative sentiment towards the place.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Good eats" is an expression commonly used to indicate enjoyment of delicious food. Therefore, the sentiment towards "eats" in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker explicitly describes the place as "BAD" and emphasizes their negative sentiment by using all caps. Therefore, based on the language used, we can infer that the sentiment towards the place in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the speaker is expressing a neutral sentiment towards the fish. The use of the phrase "half-way decent" suggests that the quality of the fish is not exceptional, but also not terrible. Therefore, based on the context, we can conclude that the sentiment towards the fish in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a negative sentiment towards the exotic fish, as the speaker mentions that not a single piece was eatable, despite the high price and fancy presentation.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses disappointment in the chef special dinner, indicating a negative sentiment towards the aspect.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. We can see that the statement describes the atmosphere as great, indicating a positive sentiment. Additionally, the use of the word "great" further confirms the positive sentiment. Therefore, based on the context and language used, we can conclude that the sentiment towards the atmosphere in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The best dish are the honey walnut prawns- just outstanding" indicates a positive sentiment towards the honey walnut prawns. The use of the word "outstanding" further emphasizes the positive sentiment. Therefore, based on the context and the speaker\'s opinion, we can conclude that the sentiment towards honey walnut prawns in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards the service, with the use of words like "excellent" and "outstanding." Additionally, the comparison of the coffee to Starbucks standards further indicates a positive sentiment towards the quality of the service provided.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "The service is really attentive and charming" indicates a positive sentiment towards the service. The use of the adjectives "attentive" and "charming" suggests that the speaker had a positive experience with the service. Therefore, based on the context and the language used, we can conclude that the sentiment towards the service in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses the sentiment that the restaurant is delightful and they had a great evening, indicating a positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses multiple positive attributes of the food, such as fantastic, authentic, delicious, and very affordable. Therefore, the sentiment towards the food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The decor was beautiful and unique" clearly expresses a positive sentiment towards the decor. The use of the words "beautiful" and "unique" indicates a favorable opinion of the decor, leading to a positive sentiment.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence mentions good music, a positive atmosphere, and happy looking people, indicating a positive vibe about the place. Therefore, based on the context and the description of the environment, the sentiment towards the vibe in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Our server was very professional and friendly" indicates a positive sentiment towards the server, as the speaker is expressing satisfaction with the server\'s behavior and service.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses positive sentiment towards "Open Sesame" as the speaker praises the owners and indicates excitement to return to the restaurant.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence primarily provides information about the size and timing of the place, without expressing a clear positive or negative sentiment. Therefore, we cannot infer whether the sentiment towards the place is positive, negative, or neutral from this sentence alone.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "everything on the menu is delectable" indicates a positive sentiment towards the menu. The use of the word "everything" emphasizes that the speaker is very pleased with all the food and beverage options offered. Therefore, based on the context and the overall positive tone of the sentence, we can conclude that the sentiment towards the menu in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement indicates that the waiters are experienced and helpful in assisting with pairing drink choices to food tastes, which suggests a positive sentiment towards the waiters.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "as fresh as it comes" indicates a positive sentiment towards the freshness of the sushi. The comparison to the ocean being in their backyard further emphasizes the positive sentiment, as it suggests that the sushi is exceptionally fresh. Therefore, based on the context and the language used, we can infer that the sentiment towards the sushi in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence mentions "large portions" in a positive context, indicating that the speaker views the large portions positively. Therefore, the sentiment towards the aspect "portions" in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "big thick pepperoni" does not inherently express a positive or negative sentiment. Therefore, based on the lack of any specific sentiment expressed, we can determine that the sentiment towards pepperoni in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "cut real thick--Yum" expresses a positive sentiment towards the thick-cut pepperoni. Therefore, the sentiment towards the pepperoni in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement indicates a mixed sentiment towards the pizza, as it is not considered the best the speaker has ever had, but it is still pretty good. Therefore, the sentiment towards the pizza in this sentence is neutral, leaning slightly towards positive.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Sit in the Balcony" does not express any sentiment towards the balcony, it simply gives a directive to sit in that location. There is no indication of a positive or negative sentiment, so the sentiment towards the balcony in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Food was good and appetizing" clearly indicates a positive sentiment towards the food. The use of "good" and "appetizing" both imply a positive experience with the food, leading us to conclude that the sentiment towards the food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Portions was just enough for me" indicates a neutral sentiment towards the portion size. However, the phrase "may not be for a big eater" suggests that the portion size may not be sufficient for someone with a larger appetite. Overall, the sentiment towards the portion size in this sentence can be considered neutral as it is neither explicitly positive nor negative.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Fair menu selection" indicates a neutral sentiment towards the menu selection. The word "fair" suggests that it is neither overwhelmingly positive nor negative, but rather balanced and adequate.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. We can see that the appetizer is described as interesting, but the Creme Brulee is described as savory and delicious. Since the focus is on the Creme Brulee and not the appetizer, we can say that the sentiment towards the appetizer in this sentence is neutral, as it is not explicitly positive or negative.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "Indoor ambience was modern" indicates a positive sentiment towards the indoor ambience, as modern is typically associated with positive connotations such as sleek, stylish, and up-to-date.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence does not express a sentiment towards the balcony itself, but rather provides a practical suggestion for requesting a table in the balcony if the weather is nice outside. Therefore, the sentiment towards the balcony in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "It\'s a great place to people watch" expresses a positive sentiment towards the place, indicating that it is enjoyable and suitable for people-watching activities.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the speaker acknowledges that the service could be improved, indicating a slightly negative sentiment towards the service. Additionally, the mention of the money spent suggests that the speaker may have had high expectations for the service. Therefore, based on the context and wording of the sentence, we can conclude that the sentiment towards the service in this sentence is slightly negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence indicates that the server did not come by frequently, which suggests a neutral sentiment. While the statement doesn't express any outright negative or positive emotions towards the server, the lack of attention from the server leads to a neutral sentiment.",
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "late night dining with exceptional food" suggests a positive sentiment towards the food. The use of the word "exceptional" indicates that the food is of high quality and satisfies the speaker. Therefore, based on the context, we can infer that the sentiment towards the food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "the table was private and nice" indicates a positive sentiment towards the table. Additionally, the fact that the speaker was seated right away suggests a positive experience, further contributing to the positive sentiment towards the table.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates a positive sentiment towards the service, as it describes the service as exceptional and the waiters as friendly. Therefore, the sentiment towards the service in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "The food was very good" indicates a positive sentiment towards the food, and the specific mention of the filet mignon being the best further confirms the positive sentiment. Therefore, based on the context and the speaker\'s experience, we can conclude that the sentiment towards the food in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "the portions are big" implies a positive sentiment towards the size of the portions. However, the caution to not order too much may suggest a potential negative aspect related to the portions, as it could lead to overeating or wastage. Therefore, taking both aspects into account, we can conclude that the sentiment towards the portions in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The use of the word "groovy" to describe the music suggests a positive and enjoyable experience, as the term "groovy" is often associated with a cool and pleasing vibe. The statement also implies that the music contributed to a casual and relaxed atmosphere during the dinner. Therefore, based on the context and the language used, we can infer that the sentiment towards the music in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The description of the bathroom being small and only having one sink, as well as the mention of the girl hanging paper towels in the way, indicates a negative sentiment towards the bathroom.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The presence of a bathroom attendant in the restroom is considered odd by the speaker, but there is no strong indication of a positive or negative sentiment towards the restroom itself. Therefore, based on the context, we can conclude that the sentiment towards the restroom in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The exclamation "rocks" is commonly used to convey excitement or positivity, so we can interpret the statement "this place rocks" as having a positive sentiment towards the place.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "– Mercedes restaurant is so tasty" expresses a positive sentiment towards the restaurant, and the following statement "the service is undeniably awesome!" further reinforces the positive sentiment towards the service. Therefore, based on the context and the description of the service, we can conclude that the sentiment towards the service in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence expresses a positive sentiment towards the chips and salsa, as the speaker uses positive adjectives like "yummy" to describe them. Therefore, the sentiment towards the chips and salsa aspect in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The word "aspiring" generally conveys a positive and hopeful tone, which indicates a positive sentiment towards the atmosphere. Additionally, the description of the decor as "festive and amazing" also reflects a positive sentiment. Therefore, based on the overall description, we can conclude that the sentiment towards the atmosphere in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses a positive sentiment towards the catering, describing it as "out of this world." Additionally, they specifically mention Raoul\'s chicken vegetable soup as something that "rocks my world," further emphasizing their positive sentiment towards the catering. Therefore, based on the context and language used, we can conclude that the sentiment towards the catering in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "Drinks are superb" indicates a positive sentiment towards the drinks. However, the following statement "I feel like I am in a Third World country when I walk in the door" does not directly relate to the drinks, so it does not impact the sentiment towards the drinks. Therefore, based on the context and the first part of the sentence, we can conclude that the sentiment towards the drinks in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The phrase "Mediocre Service/Quality" indicates a negative sentiment towards the aspect of service. The use of the word "mediocre" suggests that the quality of the service is subpar or unsatisfactory, leading to a negative sentiment.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement starts with a positive sentiment, praising the presentation of Snooze as excellent. However, it then takes a negative turn, describing the place as overpriced and comparing it to IHOP with a high brow menu. Due to the mixed sentiments in the sentence, the overall sentiment towards Snooze is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence provides information about the cost and quantity of orange juice but does not express any sentiment towards it. Therefore, we cannot determine whether the sentiment towards orange juice in this sentence is positive, negative, or neutral.',
+    sentiment='Unable to determine'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentiment in this sentence is negative as it implies deception or trickery in the way the juice is served, suggesting that it is not worth the price.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The speaker expresses a positive sentiment towards the menu, as they found it unique and continued to stay because of it.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates a negative sentiment towards the pancakes, as the speaker feels that the price for the pancakes is excessive.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the speaker is expressing a suggestion for the pancakes to be larger in size in order to justify the expense. This implies that the current size of the pancakes is perceived as a negative aspect, as it does not sufficiently justify the cost. Therefore, based on this reasoning, we can conclude that the sentiment towards the aspect of "pancakes" in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the speaker expresses frustration and dissatisfaction with their meal experience. They had to send back their eggs for a simple request and eventually rejected the meal altogether. This indicates a negative sentiment towards the meal.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates a negative sentiment towards the dish, as the speaker was frustrated after attempting to fix the eggs and ended up breaking something else in the dish. Therefore, we can conclude that the sentiment towards the dish in this sentence is negative.',
+    sentiment='negative'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this case, the sentence does not express a specific sentiment towards the pancakes. It only mentions the price of the pancakes and other items ordered. Therefore, the sentiment toward the pancakes in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this particular sentence, there is no explicit sentiment towards the manager. The focus is on the fact that the dish was removed from the check, but there was no interaction with a manager. Therefore, we can conclude that the sentiment towards the manager in this sentence is neutral.',
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "much more than just a great view" implies that the speaker appreciates the view, indicating a positive sentiment towards the aspect.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The statement expresses the speaker's extremely positive feelings about their dining experience at Ray's Boathouse, indicating a positive sentiment towards the restaurant.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence indicates that the speaker was pleasantly surprised by the views at Ray's, suggesting a positive sentiment towards the views.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The statement indicates suspicion that the positive accolades for Ray's are more related to its gorgeous sound views rather than the food and service. This suggests a neutral sentiment towards the aspect of sound views. Therefore, based on the context of the sentence, we can conclude that the sentiment towards sound views in this case is neutral.",
+    sentiment='neutral'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this case, the use of the word "lovely" to describe Brooke indicates a positive sentiment towards her. Additionally, the fact that she was quickly on hand to take the speaker\'s drink order suggests a favorable impression. Therefore, based on the context, we can infer that the sentiment towards Brooke in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The description of the Shilshole Sampler in the sentence is positive, as it highlights the delightful assortment of seafood and tasty sauces. Therefore, based on the context and the positive description, we can infer that the sentiment towards the Shilshole Sampler is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The speaker expresses a positive sentiment towards the seared Alaskan sea scallops by stating that they completely enjoyed the dish. Therefore, the sentiment towards the aspect 'seared Alaskan sea scallops' in this sentence is positive.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "cooked in a black olive butter which really makes them unique" indicates a positive sentiment towards the scallops, and the parenthetical "not to mention tasty" reinforces this positive sentiment. Therefore, based on the context and the language used, we can conclude that the sentiment towards the scallops in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence indicates that the speaker\'s friend enjoyed the grilled Alaskan King Salmon, which implies a positive sentiment towards the dish. Additionally, the description of the accompaniments as "delectable" further supports the positive sentiment. Therefore, based on the context of the sentence, we can conclude that the sentiment towards the grilled Alaskan King Salmon is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. In this sentence, the aspect "plate" is mentioned in the context of holding and serving food. The sentiment expressed is positive, as the speaker describes the items on the plate as "superb". Therefore, based on the context and the description of the items on the plate, we can conclude that the sentiment towards the plate in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The main focus of the sentence is on the server being attentive throughout the night, which indicates a positive sentiment towards the server. There is no indication of a negative or neutral sentiment, so based on the context, we can conclude that the sentiment towards the server in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale="produce the sentiment. The sentence expresses a positive sentiment towards Ray's Boathouse, indicating that the speaker believes the establishment is deserving of its title as a Seattle institution. Therefore, the sentiment towards Ray's Boathouse in this sentence is positive.",
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The sentence "Oh yeah...the view was good, too" indicates a positive sentiment towards the view. It implies that the view was enjoyable, and the addition of "too" suggests that it was an added positive aspect to whatever was being discussed. Therefore, we can infer that the sentiment towards the view in this sentence is positive.',
+    sentiment='positive'
+)
+prediction: Prediction(
+    rationale='produce the sentiment. The statement "our wonderful server and food made the experience a very positive one" indicates a positive sentiment towards the server. While there may have been a negative aspect with the youth who shared the evening, the positive experience with the server outweighed it, leading to an overall positive sentiment.',
+    sentiment='positive'
+)

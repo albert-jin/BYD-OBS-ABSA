@@ -1,0 +1,800 @@
+example01 :
+Aspect: bread
+@Sentence: The bread is top notch as well.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore, the sentiment towards the aspect "bread" in the sentence "The bread is top notch as well" is positive. This indicates that the speaker views the bread favorably, considering it of high quality.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example02 :
+Aspect: delivery times
+@Sentence: I have to say they have one of the fastest delivery times in the city.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nReasoning: The sentence praises the delivery times of the subject, emphasizing that they are among the fastest in the city. The use of "one of the fastest" suggests a comparative superlative, indicating high efficiency and likely meeting or exceeding expectations. The phrase "I have to say" reinforces a subjective evaluation, indicating the speaker\'s positive sentiment towards the delivery times. Therefore, the overall sentiment polarity of the sentence regarding the aspect of delivery times is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example03 :
+Aspect: Food
+@Sentence: Food is always fresh and hot- ready to eat!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example04 :
+Aspect: coffee
+@Sentence: Did I mention that the coffee is OUTSTANDING?
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example05 :
+Aspect: place
+@Sentence: Certainly not the best sushi in New York, however, it is always fresh, and the place is very clean, sterile.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='**Positive**\n\nTherefore, despite the initial criticism about the sushi quality, the sentiment towards the aspect of "place" is positive due to the appreciation of its cleanliness and sterility.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example06 :
+Aspect: people
+@Sentence: I trust the people at Go Sushi, it never disappoints.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example07 :
+Aspect: Japanese food
+@Sentence: Straight-forward, no surprises, very decent Japanese food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example08 :
+Aspect: spicy tuna roll
+@Sentence: BEST spicy tuna roll, great asian salad.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the spicy tuna roll is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example09 :
+Aspect: rose roll
+@Sentence: Try the rose roll (not on menu).
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Neutral\n\nReasoning: The sentiment towards "rose roll" in this context is likely neutral. The phrase "try the rose roll" implies a suggestion or recommendation to try something unique or special. However, the mention that it\'s "not on menu" could imply that it\'s not easily accessible or may not be available at the moment, which could slightly disappoint or intrigue someone. Overall, without further context, the sentiment is likely neutral, leaning towards curiosity or interest in trying something different.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example10 :
+Aspect: drinks
+@Sentence: I love the drinks, esp lychee martini, and the food is also VERY good.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example11 :
+Aspect: Nicoise salad
+@Sentence: In fact, this was not a Nicoise salad and was barely eatable.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example12 :
+Aspect: menu
+@Sentence: While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the menu aspect is **neutral**. While the phrase "decent menu" leans towards a positive sentiment, the negative experience related to service time could balance this out, resulting in an overall neutral sentiment towards the menu itself.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example13 :
+Aspect: food
+@Sentence: Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.\n\nAspect: food\n\nReasoning: Let\'s analyze the sentiment polarity of the given sentence focusing on the aspect of "food."\n\n1. **Identify the Aspect:** The aspect we are focusing on is "food."\n\n2. **Locate Mentions of the Aspect:** The phrase "top-notch food" directly refers to the aspect of food in the sentence.\n\n3. **Determine the Sentiment Toward the Aspect:** \n   - The term "top-notch" is used to describe the food.\n   - "Top-notch" is a positive adjective indicating high quality or excellence.\n   - This suggests that the food was of exceptional quality.\n\n4. **Analyze the Context:** \n   - The sentence states that the top-notch food contributed to an unforgettable evening.\n   - This implies that the quality of the food was so impressive that it significantly enhanced the overall experience.\n\n5. **Overall Sentiment:** \n   - The phrase "top-notch food" and its contribution to an unforgettable evening suggest a positive sentiment towards the aspect of food.\n   - The use of "top-notch" clearly indicates a positive evaluation of the food quality, and its role in making the evening memorable reinforces this positive sentiment.\n\n**Sentiment:** Positive\n\nTo summarize, the sentiment polarity of the aspect "food" in the sentence is **positive** because "top-notch" suggests high quality, and the food significantly contributed to a great overall experience.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example14 :
+Aspect: waiter
+@Sentence: Our waiter was horrible; so rude and disinterested.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is negative.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example15 :
+Aspect: sangria
+@Sentence: The sangria's - watered down.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example16 :
+Aspect: menu
+@Sentence: menu - uneventful, small.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="Negative\n\nTherefore,\n\n---\n\nSentence: The sentence to analyze.\n\nAspect: menu\n\nReasoning: Let's think step by step in order to produce the sentiment. We"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example17 :
+Aspect: sushi
+@Sentence: Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example18 :
+Aspect: food
+@Sentence: Great food but the service was dreadful!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the aspect of food is **positive**.\n\nThis analysis focuses on the specific aspect mentioned in the sentence ("food") and evaluates the sentiment expressed towards it based on the words used.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example19 :
+Aspect: portions of the food
+@Sentence: The portions of the food that came out were mediocre.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example20 :
+Aspect: waitress's
+@Sentence: the two waitress's looked like they had been sucking on lemons.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example21 :
+Aspect: staff memebers
+@Sentence: From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis analysis indicates that the sentiment towards the staff members in the given sentence is positive, primarily because they were described as friendly and proactive in their role.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example22 :
+Aspect: desserts
+@Sentence: We enjoyed ourselves thoroughly and will be going back for the desserts ....
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive** towards desserts.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example23 :
+Aspect: Desserts
+@Sentence: Desserts are almost incredible: my personal favorite is their Tart of the Day.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example24 :
+Aspect: food
+@Sentence: The food was extremely tasty, creatively presented and the wine excellent.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example25 :
+Aspect: LASAGNA
+@Sentence: THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example26 :
+Aspect: array of sushi
+@Sentence: Harumi Sushi has the freshest and most delicious array of sushi in NYC.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nTo further elaborate, the sentence praises Harumi Sushi for having the "freshest" and "most delicious" array of sushi in NYC. The adjectives "freshest" and "most delicious" are strong indicators of positive sentiment, suggesting that the speaker had a very enjoyable and satisfying experience with the sushi selection at Harumi Sushi. Therefore, the sentiment polarity associated with the aspect "array of sushi" is unequivocally positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example27 :
+Aspect: cuisine
+@Sentence: I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the aspect of cuisine is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example28 :
+Aspect: indian food
+@Sentence: If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n--- \n\nThis analysis reflects the positive sentiment towards Indian food expressed in the sentence, focusing on its desirability and the enjoyable dining atmosphere.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example29 :
+Aspect: food
+@Sentence: I definitely enjoyed the food as well.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example30 :
+Aspect: service
+@Sentence: It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.\n\nAspect: service\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We will examine the words and phrases related to the aspect "service" in the given sentence.\n\n1. **Service mentioned:** The sentence explicitly mentions the aspect of service with the phrase "the service was delightful."\n2. **Descriptive words:** The adjective "delightful" is used to describe the service, indicating a positive sentiment towards it.\n3. **Overall tone:** The entire sentence conveys a positive tone, describing multiple aspects of an experience in positive terms such as "pleasantly uncrowded," "adorable garden," and "delectable food."\n\n**Sentiment: Positive**\n\nTherefore,\n\n**Sentence:** It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.\n\n**Aspect:** service\n\n**Reasoning:** The sentence clearly indicates a positive sentiment towards the service, as evidenced by the use of the adjective "delightful."\n\n**Sentiment:** Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example31 :
+Aspect: food
+@Sentence: The food is surprisingly good, and the decor is nice.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the food aspect is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example32 :
+Aspect: lunch
+@Sentence: How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example33 :
+Aspect: steaks
+@Sentence: Two wasted steaks -- what a crime!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\n---\n\nExplanation: The sentence "Two wasted steaks -- what a crime!" expresses a clear negative sentiment towards the fact that the steaks were wasted. The term "what a crime" emphasizes the speaker\'s strong disapproval or frustration, highlighting the negative aspect of the situation. This sentiment is driven by the perceived loss or waste of the steaks, which are valued items and the focus of disappointment in this context.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example34 :
+Aspect: staff
+@Sentence: The staff should be a bit more friendly.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **neutral**. While the sentence suggests room for improvement ("a bit more friendly"), it does not express strong negativity or criticism. It acknowledges the potential for improvement without strongly indicating dissatisfaction. Therefore, the sentiment towards the aspect of staff in this sentence can be interpreted as neutral, leaning slightly towards a positive expectation of improvement rather than a negative critique.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example35 :
+Aspect: meatball parm
+@Sentence: I think the meatball parm is good.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn this analysis, the sentiment expressed towards the "meatball parm" aspect of the sentence is positive, based on the phrase "is good."'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example36 :
+Aspect: latin food
+@Sentence: If you want good tasting, well seasoned latin food eat at Cabana and you can't go wrong.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn this analysis:\n- The sentence praises the taste and seasoning of Latin food at Cabana.\n- The aspect "Latin food" is associated with positive descriptors like "good tasting" and "well-seasoned".\n- The phrase "you can\'t go wrong" reinforces a positive sentiment, indicating confidence in the recommendation.\n\nTherefore, the overall sentiment polarity towards Latin food at Cabana in the given sentence is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example37 :
+Aspect: taglierini with truffles
+@Sentence: Definitely try the taglierini with truffles - it was incredible.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example38 :
+Aspect: staff
+@Sentence: Also, the staff is very attentive and really personable.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity for the aspect "staff" is **positive**. This conclusion is drawn based on the positive attributes associated with the staff being attentive and personable, which typically enhance customer or client satisfaction.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example39 :
+Aspect: gnocchi
+@Sentence: The gnocchi literally melts in your mouth!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis analysis considers the context of the sentence and the specific aspect ("gnocchi"), leading to the conclusion that the sentiment expressed is positive due to the highly favorable description of the gnocchi\'s texture and taste.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example40 :
+Aspect: staff
+@Sentence: Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn because the specific mention of the staff being pleasant contributes positively to the overall sentiment of the sentence. The customer had a great experience, which includes positive interactions with the staff, thus reflecting a positive sentiment towards them.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example41 :
+Aspect: Entrees
+@Sentence: Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.\n\nAspect: Entrees\n\nReasoning: Let\'s analyze the sentiment polarity of the given sentence with respect to the aspect "Entrees."\n\n1. **Identify the Aspect:** The aspect here is "Entrees," which refers to the main dishes offered.\n   \n2. **Evaluate the Content Related to the Aspect:** The sentence lists specific types of entrees: lasagna, fettuccine Alfredo, and chicken parmigiana. These are commonly enjoyed, well-known dishes.\n\n3. **Assess the Tone of the Description:** The sentence does not contain any negative language or criticisms. Instead, it provides information about what is included, focusing on well-regarded and popular dishes.\n\n4. **Determine the Implicit Sentiment:** The mention of "classics" and listing well-loved dishes suggests a positive connotation. The term "classics" implies that these dishes are traditional and likely well-regarded.\n\n5. **Sentiment Analysis:** Given that the sentence highlights popular and well-known entrees in a neutral factual manner without any negative remarks, the sentiment towards the aspect "Entrees" is positive.\n\n**Sentiment:** Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example42 :
+Aspect: food
+@Sentence: The food is good, the teriyaki I recommend.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity for the aspect of food in this sentence is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example43 :
+Aspect: Meal
+@Sentence: Meal was very expensive for what you get.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example44 :
+Aspect: Peanut Butter Sorbet
+@Sentence: Try the Peanut Butter Sorbet and the pizza with soy cheese!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nThis analysis is based on the context provided by the sentence, where the speaker is suggesting trying the Peanut Butter Sorbet, implying a favorable opinion or expectation towards its taste or quality.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example45 :
+Aspect: food
+@Sentence: Good food at the right price, what more can you ask for.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example46 :
+Aspect: food
+@Sentence: The food is top notch, the service is attentive, and the atmosphere is great.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The food is top notch, the service is attentive, and the atmosphere is great.\n\nAspect: service\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We will analyze the sentence focusing on the aspect of "service":\n\n1. **Identify the aspect**: The aspect we are focusing on is "service".\n2. **Breakdown of the sentence**: \n   - "The food is top notch": This part of the sentence praises the quality of food.\n   - "the service is attentive": This directly addresses the aspect of service, indicating attentive and possibly high-quality service.\n   - "the atmosphere is great": This refers to the ambiance, which indirectly contributes to the overall experience but is not directly related to service quality.\n\n3. **Contextual relevance**: While the sentence mentions food and atmosphere, the specific mention of service being "attentive" gives prominence to the service aspect in this analysis.\n\n4. **Sentiment analysis**: \n   - "The service is attentive" is a positive statement indicating good service quality, which typically leads to a positive experience.\n   - Although the sentence also mentions positive aspects about food and atmosphere, these do not affect the sentiment towards service directly.\n\n5. **Sentiment polarity**: \n   - Based on the analysis, the sentiment towards the aspect of "service" in the sentence is **positive**.\n\nTherefore,\n\nSentiment: Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example47 :
+Aspect: food
+@Sentence: Great food, great waitstaff, great atmosphere, and best of all GREAT beer!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis analysis concludes that the sentiment towards the aspect of food in the given sentence is positive, based on the explicit praise and enthusiastic tone conveyed.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example48 :
+Aspect: food
+@Sentence: this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Based on the analysis:\n\nSentence: "this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere."\n\nAspect: food\n\nReasoning: Let\'s think step by step in order to analyze the sentiment. We first identify the aspect of "food" in the sentence. The sentence mentions that "the food is inexpensive but very good" and highlights the specific dish, "kimono shrimp special was excellent."\n\n1. **Inexpensive but very good:** This phrase suggests a positive sentiment towards the quality of the food despite its affordability. The use of "very good" indicates a strong positive evaluation.\n   \n2. **Specific dish highlighted:** The mention of "kimono shrimp special was excellent" further reinforces a positive sentiment specifically towards this dish, implying that the overall food quality is commendable.\n\n3. **Overall atmosphere:** The sentence also praises the restaurant for having a "great atmosphere," which indirectly contributes to the positive sentiment towards the dining experience as a whole.\n\nSentiment: Based on the analysis, the predicted sentiment polarity towards the aspect of "food" is **positive**. The sentence overall expresses satisfaction with the quality and value of the food served at the restaurant.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example49 :
+Aspect: menu
+@Sentence: The menu is interesting and quite reasonably priced.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity for the aspect "menu" is **positive**. This conclusion is drawn based on the positive descriptors used in the sentence ("interesting" and "reasonably priced"), which collectively convey a favorable impression of the menu.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example50 :
+Aspect: food
+@Sentence: The food was delicious and clearly fresh ingredients were used.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn from the overall positive language used ("delicious", "fresh ingredients"), which collectively convey a positive sentiment towards the food described in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example51 :
+Aspect: food
+@Sentence: This made it obvious that the food wasn't cooked fresh; it was obviously made before hand and then reheated.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example52 :
+Aspect: Appetizer
+@Sentence: Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example53 :
+Aspect: spicy mussels
+@Sentence: The spicy mussels are a highlight.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The spicy mussels are a highlight.\n\nAspect: spicy mussels\n\nReasoning: Let\'s think step by step in order to analyze the sentiment. \n\n1. **Identification of Aspect**: The aspect here is "spicy mussels," which refers to a specific dish likely served in a restaurant or a food-related context.\n\n2. **Understanding Context**: The sentence "The spicy mussels are a highlight" suggests that the speaker finds the spicy mussels to be exceptional or outstanding compared to other options. The term "highlight" indicates that the dish stands out positively.\n\n3. **Analysis of Sentiment**: Considering the context provided:\n   - The adjective "spicy" typically has positive connotations in the context of food, indicating a flavorful and potentially enjoyable experience for those who appreciate spicy dishes.\n   - The phrase "are a highlight" reinforces a positive sentiment, implying that the spicy mussels are particularly good or enjoyable.\n\n4. **Conclusion**: Based on the analysis above:\n   - **Sentiment**: The sentiment polarity of the sentence "The spicy mussels are a highlight" is **positive**. The speaker expresses enthusiasm and satisfaction with the spicy mussels, indicating that they are enjoyable and exceptional compared to other dishes.\n\nIn summary, the aspect "spicy mussels" is evaluated as positive in sentiment due to the use of the adjective "spicy" and the expression "a highlight," which collectively convey a positive opinion about the dish.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example54 :
+Aspect: Onion Rings
+@Sentence: Also get the Onion Rings -- best we've ever had.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example55 :
+Aspect: food
+@Sentence: However, being foodies, we were utterly disappointed with the food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example56 :
+Aspect: portions
+@Sentence: Huge portions, great and attentive service, and pretty good prices.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nThis analysis identifies that the sentiment towards "portions" in the given sentence is positive due to the descriptor "huge", which conveys satisfaction with the size and value of the servings provided.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example57 :
+Aspect: service
+@Sentence: I was highly disappointed by their service and food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity (positive, neutral, or negative).\n\n---\n\nSentence: I was highly disappointed by their service and food.\n\nAspect: service\n\nReasoning: Let's think step by step in order to"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example58 :
+Aspect: waiter
+@Sentence: I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example59 :
+Aspect: food
+@Sentence: The food is great and the milkshakes are even better!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nNow, let\'s structure it according to the format:\n\n---\n\nSentence: The food is great and the milkshakes are even better!\n\nAspect: food\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We observe that the sentence praises both "food" and "milkshakes" with positive descriptors ("great" and "even better"). This indicates that the sentiment towards the aspect of "food" is positive, as it is described as "great". \n\nSentiment: The predicted sentiment polarity is positive.\n\n--- \n\nThis analysis clearly shows'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example60 :
+Aspect: mushroom barley soup
+@Sentence: the mushroom barley soup is amazing.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example61 :
+Aspect: food
+@Sentence: I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: I\'m glad I did as the food was very good and the staff was friendly, courteous and efficient.\n\nAspect: food\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We\'ll break down the sentence to identify the sentiment towards the aspect of "food."\n\n1. **Identify relevant portion**: "the food was very good"\n2. **Sentiment analysis**:\n   - The phrase "the food was very good" indicates a positive sentiment towards the aspect of food.\n   - The adjective "good" suggests satisfaction or enjoyment, implying a favorable opinion.\n3. **Aspect**: food\n   - The aspect we are analyzing here is "food."\n4. **Sentiment**: Positive\n5. **Reasoning**:\n   - The adjective "good" is a clear indicator of positive sentiment towards the food.\n   - The overall context of the sentence suggests satisfaction with the quality of the food, which contributes to a positive sentiment towards the aspect of food.\n6. **Conclusion**:\n   - **Sentiment**: Positive\n   - The sentiment polarity towards the aspect of food in the sentence "I\'m glad I did as the food was very good and the staff was friendly, courteous and efficient" is positive, based on the positive descriptor "good" used to describe the food.\n\nSentiment: Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example62 :
+Aspect: duck
+@Sentence: Their duck here is also absolutely delicious.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example63 :
+Aspect: drinks
+@Sentence: While it was large and a bit noisy, the drinks were fantastic, and the food was superb.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: While it was large and a bit noisy, the drinks were fantastic, and the food was superb.\n\nAspect: drinks\n\nReasoning: Let\'s think step by step in order to analyze the sentiment about the "drinks."\n\n1. **Identify the Subject**: The aspect we are focusing on is "drinks."\n   \n2. **Locate the Relevant Part**: The sentence mentions the "drinks" in the phrase "the drinks were fantastic."\n\n3. **Assess the Adjective Used**: The term "fantastic" is a strong positive adjective.\n\n4. **Evaluate Sentiment Impact**: The adjective "fantastic" expresses a high level of satisfaction and approval regarding the drinks.\n\n5. **Consider Context**: The sentence begins with "While it was large and a bit noisy," indicating some potential drawbacks about the place overall. However, this does not affect the sentiment towards the drinks directly.\n\n6. **Determine Sentiment**: The use of "fantastic" directly associated with "drinks" conveys a positive sentiment.\n\n**Sentiment:** Positive\n\nIn summary, despite the initial mention of the place being large and noisy, the specific aspect of "drinks" is described positively with the adjective "fantastic," indicating that the overall sentiment towards the drinks is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example64 :
+Aspect: curried casseroles
+@Sentence: One caveat: Some of the curried casseroles can be a trifle harsh.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: One caveat: Some of the curried casseroles can be a trifle harsh.\n\nAspect: curried casseroles\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We analyze the sentence to understand its implications and associations. \n\n1. **Context**: The sentence starts with "One caveat," indicating a cautionary note or a drawback.\n2. **Quantity**: "Some of the curried casseroles" suggests variability in quality or taste among the dishes.\n3. **Description**: "Can be a trifle harsh" implies that the curried casseroles might have a sharp or unpleasant taste for some people.\n\nCombining these elements:\n- The phrase "One caveat" introduces a negative context or a warning.\n- "Some" implies not all, but a portion of the curried casseroles have this negative characteristic.\n- "A trifle harsh" describes these curried casseroles as not entirely palatable or enjoyable, which leans towards a negative evaluation.\n\n**Sentiment:** Negative\n\nTherefore, based on the analysis of the sentence and its components, the sentiment polarity associated with the aspect "curried casseroles" is negative. The phrase "trifle harsh" specifically suggests a less favorable impression of the taste or quality of these dishes.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example65 :
+Aspect: food
+@Sentence: The food was almost always EXCELLENT.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The food was almost always EXCELLENT.\n\nAspect: food\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We begin by identifying the key aspect of the sentence, which is "food." The sentence structure implies that the food quality is being described, specifically focusing on its consistency or frequency of excellence.\n\n1. **Identify Keywords**: The adverb "almost always" modifies "EXCELLENT," indicating that the food quality is consistently very good, with perhaps rare exceptions.\n   \n2. **Contextual Understanding**: The use of "EXCELLENT" in all caps suggests a strong positive sentiment towards the food quality.\n   \n3. **Aspect Evaluation**: The aspect here is "food," and the statement suggests a commentary on the overall quality or experience related to food at a particular place or time.\n   \n4. **Sentiment Analysis**: Considering the adverbial phrase "almost always" preceding "EXCELLENT," it implies a sentiment that is very positive but allows for occasional deviations from perfection. The overall sentiment towards the food can be interpreted as highly positive.\n   \n5. **Sentiment Polarity**: Based on the analysis above, the predicted sentiment polarity for the aspect "food" in the given sentence is **positive**.\n\nTherefore:\n\n**Sentiment:** Positive\n\nThis analysis shows that the sentence conveys a strong positive sentiment towards the food quality, suggesting that while not perfect every single time, it is consistently excellent.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example66 :
+Aspect: taste
+@Sentence: I was pleasently surprised at the taste.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis analysis considers the phrase "pleasantly surprised" as a strong indicator of positive sentiment towards the taste aspect of the experience described in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example67 :
+Aspect: cuisine
+@Sentence: A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='**Sentence:** A nice space, as long as it doesn\'t get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.\n\n**Aspect:** cuisine\n\n**Reasoning:** Let\'s think step by step in order to produce the sentiment. \n\n1. **Identifying the Aspect:** \n   - The aspect we\'re focusing on is **cuisine**.\n\n2. **Extracting Relevant Information:** \n   - The sentence mentions **"a singleminded devotion to its chosen cuisine"**.\n   - This phrase suggests that Mare restaurant is highly dedicated to a specific type of cuisine, which is seafood.\n\n3. **Understanding Sentiment Towards Cuisine:** \n   - The phrase **"a singleminded devotion to its chosen cuisine"** indicates a strong commitment and passion towards seafood.\n   - It implies that Mare restaurant specializes in seafood, catering specifically to seafood lovers.\n   - The term **"make Mare a great choice for seafood lovers"** reinforces that this focus on seafood is a positive aspect of the restaurant.\n\n4. **Evaluating the Overall Sentiment:** \n   - The sentiment expressed towards the cuisine aspect is positive.\n   - There is a clear admiration for Mare\'s dedication to seafood, which enhances its appeal for those who enjoy seafood.\n\n5. **Considering the General Tone:** \n   - The tone of the sentence is positive and complimentary towards Mare restaurant.\n   - It highlights the restaurant\'s specialization in seafood as a significant advantage for seafood enthusiasts.\n\n**Sentiment:** Positive\n\n---\n\n**Summary of Sentiment Analysis:**\n- **Sentence:** A nice space, as long as it doesn\'t get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.\n- **Aspect:** cuisine\n- **Reasoning:** The sentence praises Mare restaurant for its strong commitment to seafood, which is presented as a positive attribute that enhances its appeal to seafood lovers.\n- **Sentiment:** Positive\n\nThis analysis concludes that the sentiment towards the aspect of "cuisine" in this sentence is positive, emphasizing Mare\'s dedication to seafood as a favorable quality for its target audience.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example68 :
+Aspect: orange donut
+@Sentence: I never had an orange donut before so I gave it a shot.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis sentiment is inferred from the overall tone of curiosity and openness expressed in trying the orange donut for the first time. The phrase "gave it a shot" typically conveys a positive attitude towards trying something new, indicating a neutral to positive sentiment towards the aspect of "orange donut".'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example69 :
+Aspect: atmosphere
+@Sentence: they really provide a relaxing, laid-back atmosphere.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example70 :
+Aspect: meats
+@Sentence: This particular location certainly uses substandard meats.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example71 :
+Aspect: Management
+@Sentence: The Management was less than accomodating.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example72 :
+Aspect: ambience
+@Sentence: The ambience is also more laid-back and relaxed.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nIn summary, the sentence "The ambience is also more laid-back and relaxed" portrays a positive sentiment towards the aspect of ambience, suggesting a welcoming and comfortable environment.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example73 :
+Aspect: teas
+@Sentence: the teas are great and all the sweets are homemade.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='**Positive**\n\nGiven the sentence structure and the positive language used ("great" and "homemade"), the sentiment towards the teas is clearly positive. The aspect of "teas" is highlighted positively in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example74 :
+Aspect: mojitos
+@Sentence: mojitos and the service are the best part in there
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore:\n\nSentence: mojitos and the service are the best part in there\n\nAspect: mojitos\n\nReasoning: Let\'s think step by step in order to determine the sentiment towards "mojitos". The sentence states that "mojitos and the service are the best part in there", implying that mojitos are a significant aspect being praised. Mojitos are described as "the best part", indicating a highly positive sentiment.\n\nSentiment: The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example75 :
+Aspect: Sandwiches
+@Sentence: Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn from the overall positive evaluation conveyed by the phrase "classic successes," implying that sandwiches are perceived favorably in this context.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example76 :
+Aspect: design
+@Sentence: The design is very intimate and romantic.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example77 :
+Aspect: food
+@Sentence: The food was wonderful and imaginative.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment="The predicted sentiment polarity is **positive**.\n\n---\n\nIf you have any more sentences you'd like to analyze or further questions about sentiment analysis, feel free to ask!"
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example78 :
+Aspect: staff
+@Sentence: The staff is very sharp and they look good too.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example79 :
+Aspect: taste
+@Sentence: The worst though was the taste.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example80 :
+Aspect: fajita
+@Sentence: The fajita we tried was tasteless and burned and the mole sauce was way too sweet.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nBased on the descriptors "tasteless and burned", the sentiment towards the fajita can be categorized as negative. These adjectives clearly express dissatisfaction with the quality and preparation of the fajita.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example81 :
+Aspect: roasted chickens
+@Sentence: Stay with the roasted chickens and you'll be fine.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn because the sentence encourages sticking with something ("roasted chickens"), which typically conveys a positive sentiment of satisfaction or contentment. The phrase "you\'ll be fine" further supports this interpretation by implying that staying with roasted chickens is a good or beneficial choice. Therefore, the overall sentiment towards "roasted chickens" in this sentence is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example82 :
+Aspect: atmosphere
+@Sentence: The atmosphere is warm, comfortable, artsy and sexy.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example83 :
+Aspect: food
+@Sentence: The food is great (big selection, reasonable prices) and the drinks are really good.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the aspect "food" is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example84 :
+Aspect: steak
+@Sentence: The steak melted in my mouth.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore,\n\nSentiment: Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example85 :
+Aspect: food
+@Sentence: The food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The food did take a few extra minutes to come, but the cute waiters\' jokes and friendliness made up for it.\n\nAspect: food\n\nReasoning: Let\'s think step by step in order to produce the sentiment. We first identify the aspects mentioned in the sentence: "food" and "waiters\' jokes and friendliness." The primary aspect we are interested in analyzing is "food." Now, let\'s analyze the sentiment polarity step by step:\n\n1. **Contextual Understanding**: The sentence mentions a delay in receiving the food.\n   \n2. **Aspect Identification**: The aspect here is "food," specifically focusing on the delay in its delivery.\n\n3. **Sentiment Analysis**: \n   - The delay in receiving the food might typically evoke a negative sentiment because it implies inconvenience or dissatisfaction with service efficiency.\n   \n4. **Counterbalancing Aspect**: \n   - The sentence also mentions a positive experience with the waiters\' jokes and friendliness.\n   \n5. **Overall Sentiment Integration**: \n   - Despite the delay in food, the positive interaction with the waiters serves to mitigate the negative sentiment associated with the delayed food.\n   \n6. **Sentiment Polarity**: \n   - The delayed food might initially suggest a slightly negative sentiment (mild dissatisfaction or inconvenience).\n   - However, the positive interaction with the waiters significantly balances this out, potentially leading to an overall neutral sentiment or even a slightly positive sentiment.\n\n**Sentiment**: Therefore, the predicted sentiment polarity for the aspect "food" in this sentence is **neutral to slightly positive**. The positive experience with the waiters\' friendliness effectively counteracts the negative sentiment that could arise from the delayed food delivery.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example86 :
+Aspect: priced
+@Sentence: Most importantly, it is reasonably priced.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\nTherefore, the overall sentiment of the sentence "Most importantly, it is reasonably priced" is positive, as it reflects satisfaction or approval with the cost or pricing of whatever is being discussed.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example87 :
+Aspect: selection of food
+@Sentence: The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example88 :
+Aspect: dessert
+@Sentence: Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the dessert aspect is **negative**. This conclusion is drawn from the negative expressions used to describe both the price ("overpriced") and the taste ("fell short on taste") aspects of the dessert in the sentence.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example89 :
+Aspect: Food
+@Sentence: Food was decent, but not great.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Sentence: The food was delicious, especially the dessert.\n\nAspect: Food\n\nReasoning: Let\'s analyze the sentence "The food was delicious, especially the dessert" to determine its sentiment polarity towards the aspect of "Food".\n\n1. **Delicious:** The word "delicious" has a strongly positive connotation, indicating that the speaker thoroughly enjoyed the food. It suggests high satisfaction and enjoyment.\n\n2. **Especially the dessert:** The phrase "especially the dessert" further emphasizes the positive sentiment towards the food. Dessert is singled out as particularly enjoyable, enhancing the overall positive sentiment towards the meal.\n\n**Sentiment: Positive** The sentence "The food was delicious, especially the dessert" expresses a positive sentiment towards the aspect of "Food". The use of "delicious" and the emphasis on the dessert indicate that the speaker had a highly satisfying culinary experience.\n\nIn conclusion, the sentiment polarity towards the aspect of "Food" in the sentence "The food was delicious, especially the dessert" is positive. The speaker\'s assessment of the food quality is glowing, highlighting a delightful dining experience.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example90 :
+Aspect: hot dog
+@Sentence: i dont know what some people who rave about this hot dog are talking about.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The sentiment polarity is negative. The speaker expresses confusion or disbelief towards the positive opinions others have about the hot dog, suggesting a negative sentiment towards it.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example91 :
+Aspect: bar
+@Sentence: it is a hidden delight complete with a quaint bar and good food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example92 :
+Aspect: waiters
+@Sentence: The waiters ALWAYS look angry and even ignore their high-tipping regulars.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Negative\n\nTherefore,\n\nSentiment: Negative'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example93 :
+Aspect: atmosphere
+@Sentence: the atmosphere is very nice, and a welcome escape from the rest of the SI mall.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nThis conclusion is drawn based on the positive descriptors used ("very nice" and "welcome escape"), which indicate a favorable opinion of the atmosphere being discussed.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example94 :
+Aspect: food
+@Sentence: Yes, they're a bit more expensive then typical, but then again, so is their food.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is **positive**.\n\nReasoning: The sentiment towards the food aspect is likely positive because the speaker acknowledges the higher price but justifies it by implying that the quality or uniqueness of the food makes it worth the extra cost. The use of "but then again" indicates a counterpoint that leans towards a positive justification rather than a negative complaint. Thus, despite the higher cost, the sentiment conveyed towards the food aspect remains positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example95 :
+Aspect: wraps
+@Sentence: I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example96 :
+Aspect: prices
+@Sentence: Anywhere else, the prices would be 3x as high!
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Certainly! Let\'s analyze the sentiment polarity of the given sentence and its aspect.\n\n---\n\n**Sentence:** Anywhere else, the prices would be 3x as high!\n\n**Aspect:** prices\n\n**Reasoning:** Let\'s think step by step in order to determine the sentiment. The sentence implies a comparison of prices in different locations. The phrase "3x as high" suggests a significant increase in prices elsewhere compared to the current location. This comparison sets an expectation that the current prices are relatively lower.\n\n**Sentiment:** The sentiment polarity can be inferred as **positive**. Despite the implied high prices elsewhere, the sentence suggests satisfaction or relief that prices in the current location are comparatively lower. Therefore, the sentiment towards "prices" in this context is positive.\n\n--- \n\nIn summary, the sentiment towards "prices" in the sentence "Anywhere else, the prices would be 3x as high!" is positive.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example97 :
+Aspect: service
+@Sentence: The service we experienced was friendly and good.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity is positive.\n\n---\n\nIn summary, the analysis shows that the sentiment expressed towards the service in the given sentence is positive, based on the descriptors "friendly" and "good".'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example98 :
+Aspect: waiter
+@Sentence: Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='The predicted sentiment polarity towards the waiter aspect is **mixed**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example99 :
+Aspect: folding chair
+@Sentence: The folding chair I was seated at was uncomfortable.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='**Sentence:** The folding chair I was seated at was uncomfortable.\n\n**Aspect:** folding chair\n\n**Reasoning:** Let\'s think step by step in order to analyze the sentiment polarity towards the aspect "folding chair".\n\n1. **Identification of Aspect:** The aspect in focus is the "folding chair", which is explicitly mentioned in the sentence.\n\n2. **Contextual Analysis:** The sentence states that the folding chair was "uncomfortable". This adjective "uncomfortable" directly describes the experience of sitting in the folding chair, implying a negative quality related to its comfort.\n\n3. **Sentiment Analysis:** The term "uncomfortable" carries a clear negative sentiment. It suggests that the folding chair did not provide a pleasant or satisfactory experience in terms of comfort.\n\n4. **Overall Sentiment Polarity:** Given that "uncomfortable" is a negative descriptor, the sentiment polarity towards the aspect "folding chair" is **negative**.\n\n**Sentiment:** Negative\n\nIn summary, the sentence "The folding chair I was seated at was uncomfortable" expresses a negative sentiment towards the folding chair, indicating dissatisfaction with its comfort level during use.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+example100 :
+Aspect: Service
+@Sentence: Service was among the best I have ever had in NYC.
+----------------------------------------------------
+@@Pred_Sentiment: Prediction(
+    sentiment='Positive\n\nTherefore,\n\nSentiment: The predicted sentiment polarity is **positive**.'
+)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
